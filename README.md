@@ -4,6 +4,8 @@ Cache generated and used by [Ws Card Database Builder](https://gitlab.com/GroupA
 ## Quick Start
 1. Push these files into `Cache` directory.
 2. Run [Ws Card Database Builder](https://gitlab.com/GroupAvalon/WsCardDatabaseBuilder) in the same level directory of `Cache`.
+
+
 ```
 WSCDB -s -c
 ```
