@@ -1,0 +1,19 @@
+{
+  "Name": "澄原 サトカ",
+  "Serial": "SGS/S37-002SP",
+  "Rarity": "SP",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "探偵",
+  "Text": "【永】 あなたのキャラすべてが《ストライカー》なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お腹すく前に 終わらすです」があるなら、あなたは自分の山札を見て《ストライカー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

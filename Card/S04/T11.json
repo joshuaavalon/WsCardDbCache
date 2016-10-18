@@ -1,0 +1,19 @@
+{
+  "Name": "ゼナス＆ジラ",
+  "Serial": "SE/S04-T11",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。",
+  "Flavor": "ジラ「アタシが守護している聖剣を抜いたのがシリルなのよ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_t11.gif"
+}

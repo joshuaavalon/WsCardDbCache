@@ -1,0 +1,19 @@
+{
+  "Name": "ゲーマーの意地",
+  "Serial": "LH/SP02-08",
+  "Rarity": "PS",
+  "Expansion": "パワーアップセット　ログ・ホライズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n(【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "俺たちはエルダーテイルで過ごした…長い長い間過ごした…\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_sp02_08.gif"
+}

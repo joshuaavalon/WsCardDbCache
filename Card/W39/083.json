@@ -1,0 +1,19 @@
+{
+  "Name": "バケモノとの対峙 翼",
+  "Serial": "SG/W39-083",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 絆／「強さを求めるマリア」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「強さを求めるマリア」を1枚選び、手札に戻す）",
+  "Flavor": "この程度では下に叩き落としたに過ぎない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_083.gif"
+}

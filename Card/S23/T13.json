@@ -1,0 +1,19 @@
+{
+  "Name": "宇宙から来た少年",
+  "Serial": "GG/S23-T13",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "レド「チェインバー！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_t13.gif"
+}

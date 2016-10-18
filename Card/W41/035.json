@@ -1,0 +1,19 @@
+{
+  "Name": "エナジードリンク",
+  "Serial": "IMC/W41-035",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 4,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、前列の中央の枠にこのカードがいるなら、あなたはこのカードを【スタンド】してよい。』",
+  "Flavor": "ちひろ「頑張ってね?」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_035.gif"
+}

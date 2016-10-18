@@ -1,0 +1,19 @@
+{
+  "Name": "引きが強い？ ゆり",
+  "Serial": "AB/W31-T23",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "武器",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《死》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル×500に等しい。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "きゃーっ１番よ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_t23.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "最高のチーム みく",
+  "Serial": "IMC/W43-055",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ネコキャラ",
+  "Text": "【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。\n【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+  "Flavor": "もう止まらない 熱くきらめく想い\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_055.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "おやすみ インデックス",
+  "Serial": "ID/W13-118",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_118.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "決意を受けて 美波",
+  "Serial": "IMC/W43-113",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「この空の下」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "ただ……急でびっくりしちゃって……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_113.gif"
+}

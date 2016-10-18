@@ -1,0 +1,19 @@
+{
+  "Name": "カンタムロボ",
+  "Serial": "CS/S28-018",
+  "Rarity": "C",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "ヒーロー",
+  "Text": "【永】 あなたのターン中、あなたの手札が4枚以下なら、このカードのパワーを＋2000。",
+  "Flavor": "しんのすけ「いけ！カンタム！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_018.gif"
+}

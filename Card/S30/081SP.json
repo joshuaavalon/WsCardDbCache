@@ -1,0 +1,19 @@
+{
+  "Name": "“今を大切に”真",
+  "Serial": "IM/S30-081SP",
+  "Rarity": "SP",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたの『応援』を持つキャラ1枚につき、このカードのパワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

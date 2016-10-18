@@ -1,0 +1,19 @@
+{
+  "Name": "水着の美鶴",
+  "Serial": "P3/S01-076",
+  "Rarity": "RR",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "水着",
+  "SecondChara": "生徒会",
+  "Text": "【永】 応援 このカードの前の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。\n【自】［(1) このカードを【レスト】する］ 他の《生徒会》のあなたのキャラがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "風花「うわー、桐条先輩、キレイ…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_076.gif"
+}

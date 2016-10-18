@@ -1,0 +1,19 @@
+{
+  "Name": "魔性の女 千石撫子",
+  "Serial": "MG/S39-088",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_088.gif"
+}

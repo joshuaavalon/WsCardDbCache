@@ -1,0 +1,19 @@
+{
+  "Name": "バゼット・フラガ・マクレミッツ",
+  "Serial": "FH/SE03-018SP",
+  "Rarity": "C",
+  "Expansion": "Fate/hollow ataraxia",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "男装",
+  "Text": "【永】 あなたの控え室のカードが6枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "サーヴァントなら、私が倒します\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_017sp.gif"
+}

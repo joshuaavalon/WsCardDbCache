@@ -1,0 +1,19 @@
+{
+  "Name": "絆を求めて 春香",
+  "Serial": "IM/S21-083",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お菓子",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "みんな、ただいま！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_083.gif"
+}

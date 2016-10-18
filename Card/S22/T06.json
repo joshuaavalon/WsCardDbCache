@@ -1,0 +1,19 @@
+{
+  "Name": "メランコリック",
+  "Serial": "PD/S22-T06",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "それはきみとゆう名のメランコリンニスト。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_t06.gif"
+}

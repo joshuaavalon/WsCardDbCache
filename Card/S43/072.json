@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘中 ウタイ",
+  "Serial": "AW/S43-072",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "動物",
+  "Text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、控え室に置く。\n【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "きりが無いのです\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_072.gif"
+}

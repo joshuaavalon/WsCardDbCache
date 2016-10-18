@@ -1,0 +1,19 @@
+{
+  "Name": "八神家の朝",
+  "Serial": "N2/W25-079",
+  "Rarity": "CR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "はやて「おはよ、ヴィータ」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_079.gif"
+}

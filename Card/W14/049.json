@@ -1,0 +1,19 @@
+{
+  "Name": "マージョリー＆マルコシアス",
+  "Serial": "SS/W14-049",
+  "Rarity": "U",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "本",
+  "Text": "【永】 経験 あなたのレベル置場の《炎》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［手札を1枚控え室に置き、あなたの【スタンド】しているキャラを2枚【レスト】する］ このカードがアタックした時、クライマックス置場に「掴んだ手掛かり」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "それじゃ………いくわよ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_049.gif"
+}

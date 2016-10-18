@@ -1,0 +1,19 @@
+{
+  "Name": "パレットスーツ装着！ ひまわり",
+  "Serial": "VR/W22-014",
+  "Rarity": "C",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "盾",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "遅れてすみません\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_014.gif"
+}

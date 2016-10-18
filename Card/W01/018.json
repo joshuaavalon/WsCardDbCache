@@ -1,0 +1,19 @@
+{
+  "Name": "記憶消去",
+  "Serial": "DC/W01-018",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "相手は自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "え？あ、あやや……その、ちょっとごめんなさい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_018.gif"
+}

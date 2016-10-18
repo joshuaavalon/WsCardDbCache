@@ -1,0 +1,19 @@
+{
+  "Name": "マヤン島のアルト",
+  "Serial": "MF/S13-064",
+  "Rarity": "C",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "何か気になる事があるから呼び出したんじゃないのか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_064.gif"
+}

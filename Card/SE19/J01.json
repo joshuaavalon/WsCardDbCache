@@ -1,0 +1,19 @@
+{
+  "Name": "取り調べ うーさー",
+  "Serial": "Woo/SE19-J01",
+  "Rarity": "WR",
+  "Expansion": "【スペシャルセット】うーさーのその日暮らし",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "警察",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたは相手に手札のクライマックスの枚数を聞く。相手の答えた枚数が嘘だと思ったなら、あなたはコストを払ってよい。そうしたら、相手の手札を公開し、それが嘘だったなら、あなたは相手の山札の上から1枚を、レベル置場に置く。\n※このカードは公式・公認大会では使用できません。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_j01.gif"
+}

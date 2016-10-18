@@ -1,0 +1,19 @@
+{
+  "Name": "振袖 玉井麗巳",
+  "Serial": "GF/W38-101",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "和服",
+  "Text": "【永】 他のあなたの《ガール》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "新年のお参りって、これでいいのかな？\n…大丈夫そう？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_101.gif"
+}

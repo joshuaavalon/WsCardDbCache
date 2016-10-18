@@ -1,0 +1,19 @@
+{
+  "Name": "作られた存在 エルフナイン",
+  "Serial": "SG/W39-081",
+  "Rarity": "R",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "錬金術",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、あなたの手札が5枚以上なら、このカードのパワーを＋4000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「PROJECT IGNITE」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "その答えを知りたくて、僕はキャロルから世界を守ると決めて…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_081.gif"
+}

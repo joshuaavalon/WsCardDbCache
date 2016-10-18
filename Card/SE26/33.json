@@ -1,0 +1,19 @@
+{
+  "Name": "目前に迫る“死” キリト＆シノン",
+  "Serial": "SAO/SE26-33",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインⅡ Vol.2",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "キリト「決して君を撃たせやしない」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se26_33.gif"
+}

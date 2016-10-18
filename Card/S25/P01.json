@@ -1,0 +1,19 @@
+{
+  "Name": "白露型駆逐艦1番艦 白露改",
+  "Serial": "KC/S25-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分のストックの上から1枚を、控え室に置く。そうしたら、このカードをストック置場に置く。",
+  "Flavor": "いっちばーん！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_p01.gif"
+}

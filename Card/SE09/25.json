@@ -1,0 +1,19 @@
+{
+  "Name": "私がやりました",
+  "Serial": "MK/SE09-25",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "その姿はまるで、そうね…ジャンヌダルク！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_25.gif"
+}

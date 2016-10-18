@@ -1,0 +1,19 @@
+{
+  "Name": "着替え中のリズベット",
+  "Serial": "SAO/S20-052",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "わぁっ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_052.gif"
+}

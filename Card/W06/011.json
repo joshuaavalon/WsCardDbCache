@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服の唯湖",
+  "Serial": "LB/W06-011",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メイド",
+  "Text": "-",
+  "Flavor": "ここでこうして出会ったのも何かの縁だ。\nお茶でも飲んでいくがいい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_011.gif"
+}

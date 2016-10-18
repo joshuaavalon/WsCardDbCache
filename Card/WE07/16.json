@@ -1,0 +1,19 @@
+{
+  "Name": "パジャマの智代",
+  "Serial": "CL/WE07-16",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［このカードを【レスト】する］ あなたは自分の《不良》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "お前、けっこういいやつだったんだな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_16.gif"
+}

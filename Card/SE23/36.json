@@ -1,0 +1,19 @@
+{
+  "Name": "小さな一歩",
+  "Serial": "SAO/SE23-36",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインII",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "瑞恵「ママとみずえを、たすけてくれて、ありがとう」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_36.gif"
+}

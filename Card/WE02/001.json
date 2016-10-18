@@ -1,0 +1,19 @@
+{
+  "Name": "サンタのアイシア",
+  "Serial": "DC/WE02-001",
+  "Rarity": "R",
+  "Expansion": "D.C.II P.C.",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "オモチャ",
+  "Text": "【自】［手札のレベル1以上のキャラを3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「我がままなアイシア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の【リバース】しているキャラを1枚選び、【スタンド】する。",
+  "Flavor": "せっかくもうすぐクリスマスだって言うのに……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we02_001.gif"
+}

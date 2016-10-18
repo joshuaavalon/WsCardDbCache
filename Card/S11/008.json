@@ -1,0 +1,19 @@
+{
+  "Name": "調理長 石流さん",
+  "Serial": "MK/S11-008",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "コック",
+  "Text": "【起】［(1) あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋1500し、ソウルを＋1。",
+  "Flavor": "この、パン泥棒が…！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_008.gif"
+}

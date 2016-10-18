@@ -1,0 +1,19 @@
+{
+  "Name": "幻想世界の少女",
+  "Serial": "CL/WE01-24",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.01",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "人形",
+  "SecondChara": "",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあり、あなたのキャラが1枚なら、あなたのキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を見てキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。』",
+  "Flavor": "そこは・・・どんな場所だった？\nここよりも、もっと素敵な場所だった？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we01_24.gif"
+}

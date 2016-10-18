@@ -1,0 +1,19 @@
+{
+  "Name": "“死神”エリゴール",
+  "Serial": "FT/S09-016",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【起】［(2)］ そのターン中、このカードのパワーを＋3000し、ソウルを＋1。",
+  "Flavor": "死神の粛清だ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_016.gif"
+}

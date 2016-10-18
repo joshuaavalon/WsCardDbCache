@@ -1,0 +1,19 @@
+{
+  "Name": "お人好し妄想ガール ほたる",
+  "Serial": "SGS/S37-110",
+  "Rarity": "R",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "漫画",
+  "Text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "Flavor": "そう……異世界からやってきたカワイイ小動物と契約して\nあたしは運命に立ち向かう魔法少女に……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_110.gif"
+}

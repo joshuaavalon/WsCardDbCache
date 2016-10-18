@@ -1,0 +1,19 @@
+{
+  "Name": "《プネウマの花》",
+  "Serial": "SAO/S20-070",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「シリカ」を含むキャラがいないなら、手札からプレイできない。あなたは自分の山札を見てカード名に「ピナ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "シリカ「これでピナが生き返るんですね……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_070.gif"
+}

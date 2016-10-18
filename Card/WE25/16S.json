@@ -1,0 +1,19 @@
+{
+  "Name": "“炊き立てご飯です♪”花陽",
+  "Serial": "LL/WE25-16S",
+  "Rarity": "SR",
+  "Expansion": "ラブライブ！ feat. スクールアイドルフェスティバル バラエティセット",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "こ、こんな可愛いお洋服……私に似合うのかな……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we25_16s.gif"
+}

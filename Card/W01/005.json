@@ -1,0 +1,19 @@
+{
+  "Name": "鷺澤 頼子",
+  "Serial": "DC/W01-005",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "メイド",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、ソウルを＋1。\n【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "いっぱい……食べて下さいね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_005.gif"
+}

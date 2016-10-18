@@ -1,0 +1,19 @@
+{
+  "Name": "キルバラ対決！ フラウ",
+  "Serial": "RN/W16-054S",
+  "Rarity": "SR",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "オタク",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

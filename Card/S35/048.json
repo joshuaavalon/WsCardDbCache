@@ -1,0 +1,19 @@
+{
+  "Name": "“調査兵団分隊長”ハンジ",
+  "Serial": "AOT/S35-048",
+  "Rarity": "C",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【起】［手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋2500。",
+  "Flavor": "こんにちは！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_048.gif"
+}

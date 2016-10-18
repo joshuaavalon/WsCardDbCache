@@ -1,0 +1,19 @@
+{
+  "Name": "“英霊”ライダー",
+  "Serial": "FS/S34-036R",
+  "Rarity": "RRR",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「放課後に踊る」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+  "Flavor": "あなた始めから、私に捕らわれているのですから\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

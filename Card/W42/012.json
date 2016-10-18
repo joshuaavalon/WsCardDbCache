@@ -1,0 +1,19 @@
+{
+  "Name": "“大切な妹”ヤミ",
+  "Serial": "TL/W42-012",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "たいやき",
+  "Text": "【自】 あなたのドローフェイズの始めに、あなたは他の自分の前列のレベル1以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "私の妹です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_012.gif"
+}

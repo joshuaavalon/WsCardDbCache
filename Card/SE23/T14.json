@@ -1,0 +1,19 @@
+{
+  "Name": "“銃世界の剣士”キリト",
+  "Serial": "SAO/SE23-T14",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「《光剣》の使い手」があるなら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "弾の軌道は予測線がきっちり教えてくれる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_t14.gif"
+}

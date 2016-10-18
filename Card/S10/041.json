@@ -1,0 +1,19 @@
+{
+  "Name": "リーズバイフェ・ストリンドヴァリ",
+  "Serial": "MB/S10-041",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "盾",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "……これ、治るかなぁ……できれば欲しいなぁ、一台……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_041.gif"
+}

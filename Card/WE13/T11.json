@@ -1,0 +1,19 @@
+{
+  "Name": "秘密兵器 イルククゥ",
+  "Serial": "ZM/WE13-T11",
+  "Rarity": "C",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "竜",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "キュルケ「秘密兵器を用意したわ。入って！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_t11.gif"
+}

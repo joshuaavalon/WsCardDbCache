@@ -1,0 +1,19 @@
+{
+  "Name": "寂しさを抱えた少女 園崎",
+  "Serial": "KI/S44-080",
+  "Rarity": "R",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "謎",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「幸せな日々」があるなら、あなたは1枚引いてよい。",
+  "Flavor": "漆原「よかったね、のりちゃん……あの子達とね、繋がることができるんだよ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_080.gif"
+}

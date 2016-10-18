@@ -1,0 +1,19 @@
+{
+  "Name": "暗殺者 アカツキ",
+  "Serial": "LH/SE20-02",
+  "Rarity": "RR",
+  "Expansion": "ログ・ホライズン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "忍",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "かたじけない、主君！……これなら……あと一撃で……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_02.gif"
+}

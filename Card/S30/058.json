@@ -1,0 +1,19 @@
+{
+  "Name": "合宿スタート！ 春香",
+  "Serial": "IM/S30-058",
+  "Rarity": "U",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お菓子",
+  "Text": "【自】 他のあなたの《お菓子》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "力を合わせて最高のライブにしよう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-058.gif"
+}

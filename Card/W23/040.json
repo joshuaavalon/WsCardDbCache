@@ -1,0 +1,19 @@
+{
+  "Name": "胸のドキドキ みっくん",
+  "Serial": "DC/W23-040",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《音楽》のキャラすべてに、レベルを＋1。\n【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "――これなら、きっと練習すれば\nどうにかなりそうな気がする\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_040.gif"
+}

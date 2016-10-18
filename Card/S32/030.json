@@ -1,0 +1,19 @@
+{
+  "Name": "“気さくな青年”マルコス",
+  "Serial": "TF/S32-030",
+  "Rarity": "R",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《改造》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "Flavor": "マルコスです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_030.gif"
+}

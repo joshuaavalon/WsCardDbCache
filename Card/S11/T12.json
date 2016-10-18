@@ -1,0 +1,19 @@
+{
+  "Name": "怪盗 アルセーヌ",
+  "Serial": "MK/S11-T12",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "仮面",
+  "Text": "-",
+  "Flavor": "次はわたくしが…\nこのアルセーヌが参りましょう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t12_2.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "奇跡と温もりの中で",
+  "Serial": "RW/W20-038",
+  "Rarity": "U",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋6000。このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたのカード名に「瑚太朗」を含むキャラすべてのカード名は、「“ルチアの毒に打ち克つ力”瑚太朗」としても扱う。",
+  "Flavor": "ルチア「ずっと……、一緒にいてくれるかッ！？」\n瑚太朗「ああッ！！　ずっと！　俺が一緒にいてやるッ！！\nこの天王寺瑚太朗がッ、ずっと一緒にいてやるッ！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_038.gif"
+}

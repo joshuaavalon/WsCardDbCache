@@ -1,0 +1,19 @@
+{
+  "Name": "“軍神”上杉 謙信",
+  "Serial": "SB/S06-083",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "薔薇",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "Flavor": "そなたをやすらかにねむらせてあげましょう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_083.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ＫＡＩＴＯ“オリジネイター”",
+  "Serial": "PD/S29-098",
+  "Rarity": "U",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "時間",
+  "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「erase or zero」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_098.gif"
+}

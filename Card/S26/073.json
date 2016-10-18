@@ -1,0 +1,19 @@
+{
+  "Name": "《フラワーガーデン》のキリト",
+  "Serial": "SAO/S26-073",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《アバター》か《ネット》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "Flavor": "……俺が慰められちゃったな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_073.gif"
+}

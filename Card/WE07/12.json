@@ -1,0 +1,19 @@
+{
+  "Name": "“恋人同士”渚＆朋也",
+  "Serial": "CL/WE07-12",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "演劇",
+  "SecondChara": "不良",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「家族の絆」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、パワーを＋2500し、ソウルを＋1。",
+  "Flavor": "渚「どこでもいいです、その……朋也君と一緒なら」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_12.gif"
+}

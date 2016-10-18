@@ -1,0 +1,19 @@
+{
+  "Name": "美袋 命",
+  "Serial": "MH/WE05-14",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "エレメント",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、相手は1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたは自分の山札の上からＸ枚までを、ストック置場に置く。Ｘは相手の宣言した数×2に等しい。（そうでないなら元に戻す）",
+  "Flavor": "これは命のだぞ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mh_we05_14.gif"
+}

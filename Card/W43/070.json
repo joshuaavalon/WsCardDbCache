@@ -1,0 +1,19 @@
+{
+  "Name": "ＫＢＹＤ散歩 幸子",
+  "Serial": "IMC/W43-070",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カワイイ",
+  "Text": "【永】 あなたの赤のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「Heart Voice」があるなら、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "カワイイボクが来るなんて、この街の人は幸運ですね！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_070.gif"
+}

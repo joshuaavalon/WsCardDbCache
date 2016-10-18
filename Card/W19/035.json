@@ -1,0 +1,19 @@
+{
+  "Name": "圧倒的な戦闘力 クリス",
+  "Serial": "SG/W19-035",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "ネフシュタンの力だなんて思わないでくれよな！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_035.gif"
+}

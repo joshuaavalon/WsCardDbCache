@@ -1,0 +1,19 @@
+{
+  "Name": "制服の小鳥",
+  "Serial": "RW/W15-T01",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "オカルト",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "それはいいねぇ。じゃあ一緒にお昼しよー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_t01.gif"
+}

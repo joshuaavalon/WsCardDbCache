@@ -1,0 +1,19 @@
+{
+  "Name": "末光 望美",
+  "Serial": "P3/S01-063",
+  "Rarity": "C",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "グルメ",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "ボクが頼んであげるよカモン、マイ牛丼ハウス！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_063.gif"
+}

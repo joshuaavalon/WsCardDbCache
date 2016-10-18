@@ -1,0 +1,19 @@
+{
+  "Name": "雲龍型正規空母3番艦 葛城改",
+  "Serial": "KC/S42-023",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "正規空母",
+  "Text": "【永】 あなたの《艦娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。",
+  "Flavor": "航空母艦、葛城、艦載機隊も万全です！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_023.gif"
+}

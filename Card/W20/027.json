@@ -1,0 +1,19 @@
+{
+  "Name": "“親愛なる探求者”ルチア",
+  "Serial": "RW/W20-027",
+  "Rarity": "RR",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "オカルト",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《オカルト》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "私の手を取ってくれたのは、瑚太朗…お前だ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_027.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“夕焼けサマーガール”星空 凛",
+  "Serial": "LL/W36-T17",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "おいでおいで～っ！　どっちが速く泳げるか～、本気で競走だよっ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_t17.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "感謝の言葉 戦場ヶ原ひたぎ",
+  "Serial": "MG/S39-026",
+  "Rarity": "RR",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "愛",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "ありがとう。感謝するわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_026.gif"
+}

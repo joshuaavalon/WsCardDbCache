@@ -1,0 +1,19 @@
+{
+  "Name": "“二十七祖”ワラキアの夜",
+  "Serial": "MB/S10-039",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "血",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《血》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "ループループループループループループループループ……！\n登レ登レ数多ノ嘆キ、救エ掬エヌ華ノ生命！ゴ笑覧アレ虚構ノ現実、周リ廻ッテ行キ着ク先ハ、真ッ逆様ニ落チル結末！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_039.gif"
+}

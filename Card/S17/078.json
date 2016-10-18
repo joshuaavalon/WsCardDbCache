@@ -1,0 +1,19 @@
+{
+  "Name": "運命から逃げた男 雁夜",
+  "Serial": "FZ/S17-078",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "虫",
+  "Text": "-",
+  "Flavor": "俺は貴様らを許さない……\n薄汚い魔術師どもめ……ッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_078.gif"
+}

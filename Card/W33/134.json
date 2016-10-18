@@ -1,0 +1,19 @@
+{
+  "Name": "照れサンタ 夏目真尋",
+  "Serial": "GF/W33-134",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "コスプレ",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、そのターン中、このカードのソウルを＋4。",
+  "Flavor": "こんな格好までさせたんだから、その…後でいろいろお返しはあるんでしょうね？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_134.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "シャドウワーカー隊長 美鶴",
+  "Serial": "P4/SE15-34",
+  "Rarity": "C",
+  "Expansion": "Ｐ４Ｕ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "さあ、断罪の時間だ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_34.gif"
+}

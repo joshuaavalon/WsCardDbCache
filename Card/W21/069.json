@@ -1,0 +1,19 @@
+{
+  "Name": "“ふたつのお願いごと”小毬",
+  "Serial": "LB/W21-069",
+  "Rarity": "U",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "童話",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "あ、そっか。ふたつあるんだから、\nお願い、ふたつあっていいんだよね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_069.gif"
+}

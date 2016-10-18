@@ -1,0 +1,19 @@
+{
+  "Name": "ミノリ",
+  "Serial": "LH/SE20-40",
+  "Rarity": "U",
+  "Expansion": "ログ・ホライズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "双子",
+  "Text": "【永】 他のあなたの、「武士 トウヤ」と「トウヤ」すべてに、パワーを＋1000。【永】 相手のターン中、他のあなたの、《武器》か《魔法》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "私も足手まといになるかも知れませんけど……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_40.gif"
+}

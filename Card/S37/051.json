@@ -1,0 +1,19 @@
+{
+  "Name": "伝説のカレーパン",
+  "Serial": "SGS/S37-051",
+  "Rarity": "CC",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "おお あれこそ 伝説のカレーパン…！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_051.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "対峙",
+  "Serial": "RW/W15-067",
+  "Rarity": "C",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手の前列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "ぎる「クリボイログ…鉄鉱石、同サイズ最強の捕食者、\nそれに巨大生物の混合体…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_067.gif"
+}

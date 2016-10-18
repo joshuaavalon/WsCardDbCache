@@ -1,0 +1,19 @@
+{
+  "Name": "セイバー召喚",
+  "Serial": "FS/S03-T08",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の手札の自分のレベル＋1以下のレベルのカード名に「セイバー」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "Flavor": "―――問おう。貴方が、私のマスターか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_t08.gif"
+}

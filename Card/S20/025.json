@@ -1,0 +1,19 @@
+{
+  "Name": "闘技場でのデュエル",
+  "Serial": "SAO/S20-025",
+  "Rarity": "CC",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "Flavor": "素晴らしい反応速度だな\n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_025.gif"
+}

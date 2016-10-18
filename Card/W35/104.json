@@ -1,0 +1,19 @@
+{
+  "Name": "SDほむら",
+  "Serial": "MM/W35-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "時間",
+  "Text": "【永】 他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋1000。",
+  "Flavor": "ここからは私一人に任せて\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_104.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“部下を守る姿”小町 小吉",
+  "Serial": "TF/S32-080",
+  "Rarity": "R",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_080.gif"
+}

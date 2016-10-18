@@ -1,0 +1,19 @@
+{
+  "Name": "面倒くさがりな美希",
+  "Serial": "IM/S07-026",
+  "Rarity": "RR",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「ふるふるフューチャー☆」があるなら、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加える。その山札をシャッフルする。",
+  "Flavor": "みんな～！ミキの『ふるふるフュー……』\nうわあっ！？やっぱり、ちょっと待ってなの！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_026.gif"
+}

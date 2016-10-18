@@ -1,0 +1,19 @@
+{
+  "Name": "恭介＆鈴",
+  "Serial": "LB/W02-016",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【起】［(4)］ 相手は自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_016.gif"
+}

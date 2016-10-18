@@ -1,0 +1,19 @@
+{
+  "Name": "セミ採り合戦 みくる",
+  "Serial": "SY/WE09-11",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "時間",
+  "SecondChara": "SOS団",
+  "Text": "【永】 他のあなたの、《時間》か《SOS団》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "ハルヒ「そう、これはSOS団内のセミ採り合戦なのよ！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_11.gif"
+}

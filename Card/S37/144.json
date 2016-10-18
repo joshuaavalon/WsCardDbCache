@@ -1,0 +1,19 @@
+{
+  "Name": "頬を染めた夏 あおい",
+  "Serial": "SGS/S37-144",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "剣術",
+  "Text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの青のキャラの枚数×500に等しい。",
+  "Flavor": "ちょ ちょっと待て！\n……わっ バカッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_144.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ユウ",
+  "Serial": "BR/SE06-05",
+  "Rarity": "C",
+  "Expansion": "ブラック★ロックシューター",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "マネージャー",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "あたしの事はユウでヨロシク\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/br_se06_05.gif"
+}

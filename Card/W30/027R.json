@@ -1,0 +1,19 @@
+{
+  "Name": "放課後デート 小咲",
+  "Serial": "NK/W30-027R",
+  "Rarity": "RRR",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《鍵》のキャラを1枚選び、【レスト】する。\n【自】 このカードがアタックした時、クライマックス置場に「あなただけのジュリエット」があるなら、あなたは自分の山札を見て《鍵》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

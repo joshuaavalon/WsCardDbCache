@@ -1,0 +1,19 @@
+{
+  "Name": "ちびセイバー",
+  "Serial": "FS/S03-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【永】他のあなたのカード名に「士郎」を含むキャラがいるなら、このカードのパワーを+2000。",
+  "Flavor": "私のやるべき事はシロウを守る事です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_104.gif"
+}

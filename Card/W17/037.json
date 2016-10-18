@@ -1,0 +1,19 @@
+{
+  "Name": "鹿目 まどか",
+  "Serial": "MM/W17-037",
+  "Rarity": "U",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "それを邪魔するルールなんて、壊してみせる、変えてみせる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_037.gif"
+}

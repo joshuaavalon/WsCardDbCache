@@ -1,0 +1,19 @@
+{
+  "Name": "星明かりの下で 葵",
+  "Serial": "DC3/W18-083",
+  "Rarity": "U",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "ウェイトレス",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "Flavor": "えいえいえい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_083.gif"
+}

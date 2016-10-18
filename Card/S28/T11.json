@@ -1,0 +1,19 @@
+{
+  "Name": "家族はやっぱりいいもんだゾ",
+  "Serial": "CS/S28-T11",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "ひろし「俺たちは同じ夢を同じ時間に見るくらい、\n一心同体だってこと」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_t11.gif"
+}

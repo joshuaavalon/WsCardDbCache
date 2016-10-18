@@ -1,0 +1,19 @@
+{
+  "Name": "“虹の翼”メリヒム",
+  "Serial": "SS/W14-086",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "愛",
+  "Text": "【起】［このカードと、あなたのキャラを1枚【レスト】する］ あなたは自分のキャラを１枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "さあ、すぐに終わらせようか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_086.gif"
+}

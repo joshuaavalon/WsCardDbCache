@@ -1,0 +1,19 @@
+{
+  "Name": "恋する乙女 立夏",
+  "Serial": "DC3/W18-103",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+  "Flavor": "――空から天使が降ってきた\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_103.gif"
+}

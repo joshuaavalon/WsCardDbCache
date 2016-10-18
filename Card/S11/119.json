@@ -1,0 +1,19 @@
+{
+  "Name": "探偵学院のコーデリア",
+  "Serial": "MK/S11-119",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【永】あなたの手札が相手の手札より多いなら、このカードのパワーを+1000。",
+  "Flavor": "さあ、みんな！ 行くわよ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_119.gif"
+}

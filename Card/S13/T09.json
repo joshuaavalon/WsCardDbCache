@@ -1,0 +1,19 @@
+{
+  "Name": "スターライト納豆 ランカ",
+  "Serial": "MF/S13-T09",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "あたしはベクタープロのエルモさんがお兄ちゃんを説得してくれて、念願かなって歌手デビュー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_t09.gif"
+}

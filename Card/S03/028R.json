@@ -1,0 +1,19 @@
+{
+  "Name": "間桐 桜",
+  "Serial": "FS/S03-028R",
+  "Rarity": "RRR",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［(2)］ あなたは自分のクロック置場の「臨戦態勢ライダー」を1枚選び、舞台の好きな枠に置く。あなたは自分の手札を1枚選び、クロック置場に置く。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

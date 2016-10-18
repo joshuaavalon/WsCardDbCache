@@ -1,0 +1,19 @@
+{
+  "Name": "“月高組”順平",
+  "Serial": "PQ/SE21-18",
+  "Rarity": "R",
+  "Expansion": "ペルソナQ シャドウ オブ ザ ラビリンス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 記憶 あなたがこのカードの『助太刀』を使った時、相手の思い出置場にカードがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "くっそ、キリがねーな！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_18.gif"
+}

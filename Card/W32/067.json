@@ -1,0 +1,19 @@
+{
+  "Name": "伝えたい真実 なのは",
+  "Serial": "N2/W32-067",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "わかってもらえるなら…悪魔でもいい！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_067.gif"
+}

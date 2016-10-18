@@ -1,0 +1,19 @@
+{
+  "Name": "ゲンキ＆ロゼッタ",
+  "Serial": "RN/W16-072",
+  "Rarity": "U",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "以下の効果のうちあなたが選んだ1つを行う。\n『あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手のレベル0以下のキャラを1枚選び、山札の上に置く。』\n『あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋5500。』",
+  "Flavor": "ゲンキ「笑顔でいれば、元気は自然と出てくるぜ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_072.gif"
+}

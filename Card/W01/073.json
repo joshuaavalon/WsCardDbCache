@@ -1,0 +1,19 @@
+{
+  "Name": "迷子の夢",
+  "Serial": "DC/W01-073",
+  "Rarity": "CR",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "-\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_073.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“星の化身”篝",
+  "Serial": "RW/W15-117",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "時間",
+  "Text": "【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "止める方法はただひとつ。良い記憶を\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_117.gif"
+}

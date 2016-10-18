@@ -1,0 +1,19 @@
+{
+  "Name": "“スイーツ男子”トド松",
+  "Serial": "OMS/S41-068",
+  "Rarity": "R",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "スマホ",
+  "Text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「松」を含むキャラを1枚選び、手札に戻す。",
+  "Flavor": "なにこれうんまー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_068.gif"
+}

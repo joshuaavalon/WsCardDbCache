@@ -1,0 +1,19 @@
+{
+  "Name": "会心のチョップ",
+  "Serial": "MK/S11-071",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\nあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』",
+  "Flavor": "てやぁぁぁぁぁーっ！！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_071.gif"
+}

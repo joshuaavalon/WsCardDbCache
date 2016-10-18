@@ -1,0 +1,19 @@
+{
+  "Name": "もう一つの神衣の持ち主 皐月",
+  "Serial": "KLK/S27-T17",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "やっと面白くなった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t17.gif"
+}

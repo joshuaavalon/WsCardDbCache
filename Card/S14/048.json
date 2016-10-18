@@ -1,0 +1,19 @@
+{
+  "Name": "魔法をかけて！",
+  "Serial": "IM/S14-048",
+  "Rarity": "CR",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "机の中　書きかけのラブレター\nまだ見ぬ貴方に、思いを馳せる\n",
+  "Trigger": "Gold",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_048.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "本好きなエリー",
+  "Serial": "MK/S11-026S",
+  "Rarity": "SR",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ハロウィンナイト エリー」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "平穏な日常 有希",
+  "Serial": "SY/W08-114",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "メガネ",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "覚えてる？　図書館のこと\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_114.gif"
+}

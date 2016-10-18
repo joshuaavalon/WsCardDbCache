@@ -1,0 +1,19 @@
+{
+  "Name": "才色兼備の生徒会長 音姫",
+  "Serial": "DC/W01-115",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "-",
+  "Flavor": "さーて、次は抜き打ちで各教室を回って違法品の没収を行います\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_115.gif"
+}

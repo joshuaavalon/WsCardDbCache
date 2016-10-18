@@ -1,0 +1,19 @@
+{
+  "Name": "“征天魔王”織田 信長",
+  "Serial": "SB/S06-003R",
+  "Rarity": "RRR",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのソウルを＋1。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

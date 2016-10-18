@@ -1,0 +1,19 @@
+{
+  "Name": "福寿草の香り 氷室",
+  "Serial": "KW/W11-084",
+  "Rarity": "U",
+  "Expansion": "Angel Beats! ＆ クドわふたー",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "科学",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "毒の草でもあるから。不意に近づかないようにね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_084.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "食通夫婦",
+  "Serial": "SB/S06-046",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500し、《愛》を与える。",
+  "Flavor": "利家「われら二人を邪魔するものは！」\nまつ「馬に蹴られて地獄に落ちる！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_046.gif"
+}

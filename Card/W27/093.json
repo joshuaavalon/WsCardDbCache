@@ -1,0 +1,19 @@
+{
+  "Name": "緒川 慎次",
+  "Serial": "SG/W27-093",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "メガネ",
+  "Text": "【永】 このカードの正面のキャラは他の枠に動かせない。",
+  "Flavor": "状況はわかりました\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_093.gif"
+}

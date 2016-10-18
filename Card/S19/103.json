@@ -1,0 +1,19 @@
+{
+  "Name": "新たな指揮官 姫百合",
+  "Serial": "MK2/S19-103",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "警察",
+  "Text": "【永】 他のあなたの、《探偵》か《警察》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "私が…指揮官？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_103.gif"
+}

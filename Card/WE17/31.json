@@ -1,0 +1,19 @@
+{
+  "Name": "ウェーブライダー",
+  "Serial": "DD/WE17-31",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "ナナミ「氷結、リンク生成！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_31.gif"
+}

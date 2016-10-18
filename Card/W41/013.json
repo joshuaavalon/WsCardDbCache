@@ -1,0 +1,19 @@
+{
+  "Name": "星 輝子",
+  "Serial": "IMC/W41-013",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "キノコ",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。\n【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "Flavor": "シメジも一緒に行っていい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_013.gif"
+}

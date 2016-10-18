@@ -1,0 +1,19 @@
+{
+  "Name": "バトルマニア シグナム",
+  "Serial": "NA/W12-G19",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "Flavor": "強さを求めるのはいい事だ――\nだが、お前を必要としている者の声も聞いてくれ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_g19.gif"
+}

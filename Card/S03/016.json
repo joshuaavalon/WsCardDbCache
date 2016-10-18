@@ -1,0 +1,19 @@
+{
+  "Name": "イリヤ＆士郎",
+  "Serial": "FS/S03-016",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、ソウルを＋1。\n【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "わたしはお姉ちゃんだもん。\nなら、弟を守らなくちゃ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_016.gif"
+}

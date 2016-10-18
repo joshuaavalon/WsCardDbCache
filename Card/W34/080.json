@@ -1,0 +1,19 @@
+{
+  "Name": "みんなの力 凛",
+  "Serial": "LL/W34-080",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時、他のあなたのカード名に「凛」を含むキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_080.gif"
+}

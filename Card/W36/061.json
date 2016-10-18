@@ -1,0 +1,19 @@
+{
+  "Name": "ハッピーニューイヤー☆",
+  "Serial": "LL/W36-061",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「穂乃果」を含むキャラがいないなら、手札からプレイできない。あなたは自分の控え室のカード名に「穂乃果」を含むキャラを1枚選び、手札に戻す。",
+  "Flavor": "今年の抱負？　えっと……あんまり転ばないこと、かな？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_061.gif"
+}

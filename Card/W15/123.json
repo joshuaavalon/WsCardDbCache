@@ -1,0 +1,19 @@
+{
+  "Name": "“風祭学院高校”小鳥",
+  "Serial": "RW/W15-123",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "オカルト",
+  "Text": "【自】このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+  "Flavor": "おや、瑚太朗君、お帰りぃ。\n無事に誤解は解けたかね…？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_123.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "クリスマスパーティー アリサ＆すずか",
+  "Serial": "N2/W25-030",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "本",
+  "Text": "-",
+  "Flavor": "アリサ「あ、これ、お見舞いの花と」\nすずか「クリスマスプレゼント♪」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_030.gif"
+}

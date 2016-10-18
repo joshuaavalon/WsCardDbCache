@@ -1,0 +1,19 @@
+{
+  "Name": "はかせ",
+  "Serial": "NJ/WE11-24",
+  "Rarity": "R",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "お菓子",
+  "Text": "【自】［(2)  手札を1枚控え室に置く］ あなたのクライマックス置場に「東雲研究所の日常」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「東雲 なの」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+  "Flavor": "ねーねー。なにして遊ぶ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_24.gif"
+}

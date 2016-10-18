@@ -1,0 +1,19 @@
+{
+  "Name": "明るくて元気 チユリ",
+  "Serial": "AW/S18-046",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "ネット",
+  "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "ハル、おーっす\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_046.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "エイミーのお供 グレイス",
+  "Serial": "GG/S23-065",
+  "Rarity": "C",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】［このカードを控え室に置く］ 他のあなたの《手紙》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "キ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_065.gif"
+}

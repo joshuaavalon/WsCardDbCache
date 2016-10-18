@@ -1,0 +1,19 @@
+{
+  "Name": "“歩み寄る想い”ヤミ",
+  "Serial": "TL/W42-025",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "たいやき",
+  "Text": "【永】 他のあなたの、《変身》か《家事》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "ちこく…しました…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_025.gif"
+}

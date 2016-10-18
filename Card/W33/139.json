@@ -1,0 +1,19 @@
+{
+  "Name": "猫コス 夏目真尋",
+  "Serial": "GF/W33-139",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "コスプレ",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「つぐみ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "いらっしゃいませ、こちらへどうぞにゃん！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_139.gif"
+}

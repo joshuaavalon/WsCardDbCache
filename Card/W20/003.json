@@ -1,0 +1,19 @@
+{
+  "Name": "“公認カップル”ちはや",
+  "Serial": "RW/W20-003",
+  "Rarity": "R",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "オカルト",
+  "Text": "【自】［(1)] このカードがアタックした時、クライマックス置場に「みんなで水遊び」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+  "Flavor": "だーめーでーすー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_003.gif"
+}

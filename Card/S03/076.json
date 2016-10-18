@@ -1,0 +1,19 @@
+{
+  "Name": "ゲームマスター綺礼",
+  "Serial": "FS/S03-076",
+  "Rarity": "RR",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "神",
+  "Text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［(5) このカードを【レスト】する］ あなたは自分の手札のレベル2以下のキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "Flavor": "―――命をかけろ。\n或いは、この身に届くかもしれん―――！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_076.gif"
+}

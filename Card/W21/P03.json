@@ -1,0 +1,19 @@
+{
+  "Name": "“猫とのふれあい”鈴",
+  "Serial": "LB/W21-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "よーしよーし、ニャーニャー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_p03.gif"
+}

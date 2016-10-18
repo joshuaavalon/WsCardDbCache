@@ -1,0 +1,19 @@
+{
+  "Name": "最後の刻 アイシア",
+  "Serial": "DC/W23-006S",
+  "Rarity": "SR",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "オモチャ",
+  "Text": "【永】 他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのコスト×500に等しい。\n【自】 あなたのクライマックス置場に「抑えられない想い」が置かれた時、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "はらぺこシスター インデックス",
+  "Serial": "ID/W10-092",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 応援 このカードの前のレベル2以上のキャラすべてに、パワーを＋1000。\n【自】［手札のクライマックスを1枚控え室に置く］ あなたのクライマックス置場に「インデックスの得意技」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "おなかすいたっていってるんだよ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_092.gif"
+}

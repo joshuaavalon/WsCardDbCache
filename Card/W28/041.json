@@ -1,0 +1,19 @@
+{
+  "Name": "レッスン着の絵里",
+  "Serial": "LL/W28-041",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "生徒会",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+  "Flavor": "まだまだここから。ビシバシ行くわよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_041.gif"
+}

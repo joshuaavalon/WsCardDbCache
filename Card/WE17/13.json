@@ -1,0 +1,19 @@
+{
+  "Name": "術士タイプ クーベル",
+  "Serial": "DD/WE17-13",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "王族",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(1)  手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「クーベル・エッシェンバッハ・パスティヤージュ」を1枚とこのカードを選び、入れ替える。",
+  "Flavor": "でもってウチは、その子をいただきに来たのじゃ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_13.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "《加速》の適正 ハルユキ",
+  "Serial": "AW/S43-022",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "ゲーム",
+  "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "黒雪姫「来たな、少年」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_022.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "占い師 永瀧の母＆華夢＆リムロ",
+  "Serial": "GT/W29-060",
+  "Rarity": "U",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "占い",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《タロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "リムロ「まったく商売あがったりだよ」\n華夢「ホントホント。ま、実際良く当たるから\n仕方ないんだけど」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_060.gif"
+}

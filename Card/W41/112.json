@@ -1,0 +1,19 @@
+{
+  "Name": "みんなのリーダー",
+  "Serial": "IMC/W41-112",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "みんなが頑張ってるのに、寝てられないもの！\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_112.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "鎧海賊団船長 校倉 必",
+  "Serial": "KG/SE07-05",
+  "Rarity": "C",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+  "Flavor": "開始後すぐに降参すれば……、虚刀流、おまえは無傷でこの闘技場から出ることができるぜ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_05.gif"
+}

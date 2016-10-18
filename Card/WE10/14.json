@@ -1,0 +1,19 @@
+{
+  "Name": "いつでも元気 ユイ",
+  "Serial": "AB/WE10-14",
+  "Rarity": "C",
+  "Expansion": "Angel Beats!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "音楽",
+  "Text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "お、また新しいアホが増えましたねっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_we10_14.gif"
+}

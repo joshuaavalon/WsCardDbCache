@@ -1,0 +1,19 @@
+{
+  "Name": "ゾンビハンター 甘利燈",
+  "Serial": "GF/W33-006S",
+  "Rarity": "SR",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\n【起】［(1)］ あなたは自分の黄のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "あー…絶景ですよね！爽快ですよねっ！ふふっ、こんなのがまだまだ続きますよー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

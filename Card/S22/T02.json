@@ -1,0 +1,19 @@
+{
+  "Name": "鏡音レン“トリッカー”",
+  "Serial": "PD/S22-T02",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_t02.gif"
+}

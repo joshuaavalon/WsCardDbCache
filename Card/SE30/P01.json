@@ -1,0 +1,19 @@
+{
+  "Name": "“黒猫族”六文",
+  "Serial": "KR/SE30-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "契約黒猫",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+  "Flavor": "ほら！おかかごはんゲットしてきました！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_p01.gif"
+}

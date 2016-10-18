@@ -1,0 +1,19 @@
+{
+  "Name": "令呪",
+  "Serial": "FZ/S17-050",
+  "Rarity": "U",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "Flavor": "令呪をもって命じる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_050.gif"
+}

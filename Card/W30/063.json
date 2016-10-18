@@ -1,0 +1,19 @@
+{
+  "Name": "浴衣の万里花",
+  "Serial": "NK/W30-063",
+  "Rarity": "C",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "鍵",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《鍵》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "さぁいよいよ、本番ですわね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_063.gif"
+}

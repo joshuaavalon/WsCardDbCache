@@ -1,0 +1,19 @@
+{
+  "Name": "“命よりお金”ボルネ",
+  "Serial": "SE/S04-088",
+  "Rarity": "C",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "商人",
+  "Text": "【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。",
+  "Flavor": "ギルナ、ヒカネよく覚えておくんだぞ。１度つかまえたカモは、絶対に逃がしちゃいかん……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_088.gif"
+}

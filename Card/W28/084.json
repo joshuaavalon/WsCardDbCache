@@ -1,0 +1,19 @@
+{
+  "Name": "“スクールアイドルフェスティバル”希",
+  "Serial": "LL/W28-084",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "手伝いついでに運勢も占ったげようか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_084.gif"
+}

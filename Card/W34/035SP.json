@@ -1,0 +1,19 @@
+{
+  "Name": "“Happy maker!”南 ことり",
+  "Serial": "LL/W34-035SP",
+  "Rarity": "SP",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\n【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

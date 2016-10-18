@@ -1,0 +1,19 @@
+{
+  "Name": "“一等賞”小毬＆鈴",
+  "Serial": "LB/W06-105",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "スポーツ",
+  "Text": "【永】相手のレベルがあなたのレベル以上なら、このカードのパワーを-1500。",
+  "Flavor": "小毬「やったね、鈴ちゃん」\n鈴「これも小毬ちゃんのおかげだ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_105.gif"
+}

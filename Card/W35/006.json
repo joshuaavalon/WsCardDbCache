@@ -1,0 +1,19 @@
+{
+  "Name": "真実を知る者 なぎさ",
+  "Serial": "MM/W35-006",
+  "Rarity": "R",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "チーズ",
+  "Text": "【永】 他のあなたのカード名に「マミ」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "Flavor": "それは私の口から説明するのです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_006.gif"
+}

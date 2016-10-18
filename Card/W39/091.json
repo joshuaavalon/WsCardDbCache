@@ -1,0 +1,19 @@
+{
+  "Name": "形式番号XMH_020 ガリィ・トゥーマーン",
+  "Serial": "SG/W39-091",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "錬金術",
+  "SecondChara": "人形",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "Flavor": "頭でも冷やしゃあああああ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_091.gif"
+}

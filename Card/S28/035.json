@@ -1,0 +1,19 @@
+{
+  "Name": "憧れの女子大生 ななこ",
+  "Serial": "CS/S28-035",
+  "Rarity": "U",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "おねいさん",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "まぁ、しんちゃんったら\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_035.gif"
+}

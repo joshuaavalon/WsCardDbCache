@@ -1,0 +1,19 @@
+{
+  "Name": "お姉さん 楓",
+  "Serial": "SGS/S37-075",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "癒し",
+  "Text": "【永】 他のあなたの赤のキャラすべてに、パワーを＋1000。\n【自】 経験 他のあなたのバトル中のキャラが【リバース】した時、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "私でお力になれることがあれば\n遠慮なく言ってくださいね ふふっ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_075.gif"
+}

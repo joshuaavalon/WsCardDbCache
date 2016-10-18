@@ -1,0 +1,19 @@
+{
+  "Name": "狼形態アルフ",
+  "Serial": "N1/W32-003",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋1000。\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_003.gif"
+}

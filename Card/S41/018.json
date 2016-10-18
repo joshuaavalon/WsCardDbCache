@@ -1,0 +1,19 @@
+{
+  "Name": "“クリスマスの奇跡”トト子",
+  "Serial": "OMS/S41-018",
+  "Rarity": "U",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "魚",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの黄のキャラが3枚以上で、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_018.gif"
+}

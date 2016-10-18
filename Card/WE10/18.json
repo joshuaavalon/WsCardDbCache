@@ -1,0 +1,19 @@
+{
+  "Name": "普通の女の子 かなで",
+  "Serial": "AB/WE10-18",
+  "Rarity": "C",
+  "Expansion": "Angel Beats!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「別れの言葉 かなで」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "音無「天使？ …普通の女の子じゃないか」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_we10_18.gif"
+}

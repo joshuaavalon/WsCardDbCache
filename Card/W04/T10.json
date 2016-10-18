@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘教官ヴィータ",
+  "Serial": "NS/W04-T10",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "防御ごと潰す打撃は、あたしの専門分野だからな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_t10.gif"
+}

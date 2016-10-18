@@ -1,0 +1,19 @@
+{
+  "Name": "“ミスターフラッグ”ハタ坊",
+  "Serial": "OMS/S41-014",
+  "Rarity": "U",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "旗",
+  "SecondChara": "",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の黄のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "これで友達だジョー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_014.gif"
+}

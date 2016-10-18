@@ -1,0 +1,19 @@
+{
+  "Name": "ちびるり",
+  "Serial": "NK/W30-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "スポーツ",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "なんであんたまでついて来るの、舞子君\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_106.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“ふっかつのじゅもん”麻衣",
+  "Serial": "NJ/WE11-08",
+  "Rarity": "C",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "仏像",
+  "Text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "ち…よ…た…に・け・と・ら・は、と、ほ・ら・す・て、\nの・は・て・き、ら・と・な・り・は・し・て…と…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_08.gif"
+}

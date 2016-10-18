@@ -1,0 +1,19 @@
+{
+  "Name": "キング",
+  "Serial": "KF/S05-001",
+  "Rarity": "RR",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "男装",
+  "SecondChara": "薔薇",
+  "Text": "【永】 あなたのレベル置場のカード1枚につき、このカードのパワーを＋1500。",
+  "Flavor": "カモンベイビー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_001.gif"
+}

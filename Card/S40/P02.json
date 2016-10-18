@@ -1,0 +1,19 @@
+{
+  "Name": "“二人は仲良し★”美遊＆イリヤ",
+  "Serial": "PI/S40-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "イリヤ「楽しいね」美遊「…うん」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_p02.gif"
+}

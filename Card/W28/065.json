@@ -1,0 +1,19 @@
+{
+  "Name": "レッスン着の海未",
+  "Serial": "LL/W28-065",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 9000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "まだまだ頑張れますよね？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_065.gif"
+}

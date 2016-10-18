@@ -1,0 +1,19 @@
+{
+  "Name": "マイペースことみ",
+  "Serial": "CL/WE04-16",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.02",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "音楽",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "待ってほしいのー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we04_16.gif"
+}

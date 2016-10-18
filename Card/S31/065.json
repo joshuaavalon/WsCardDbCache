@@ -1,0 +1,19 @@
+{
+  "Name": "姉妹艦想いの軽巡 龍田",
+  "Serial": "KC/S31-065",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "軽巡洋艦",
+  "Text": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "ありがと。天龍ちゃんには内緒にしてね？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-065.gif"
+}

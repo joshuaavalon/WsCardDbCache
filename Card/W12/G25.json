@@ -1,0 +1,19 @@
+{
+  "Name": "雷刃の襲撃者",
+  "Serial": "NA/W12-G25",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードの正面のキャラのソウルを＋1。",
+  "Flavor": "王様もシュテるんも、\nボクが守ってあげるんだ――\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_g25.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "待望の稼働テスト あき穂",
+  "Serial": "RN/W16-102",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "カウントー！　さーん、にー、いーち！\nガンつく１、起動！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_102.gif"
+}

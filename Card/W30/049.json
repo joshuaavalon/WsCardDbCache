@@ -1,0 +1,19 @@
+{
+  "Name": "“密室空間”",
+  "Serial": "NK/W30-049",
+  "Rarity": "CC",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "楽「もったいねぇな、せっかくかわいいのに」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_049.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ビースト・マリ",
+  "Serial": "EV/S12-027",
+  "Rarity": "RR",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "メガネ",
+  "Text": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "がぁぁぁ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_027.gif"
+}

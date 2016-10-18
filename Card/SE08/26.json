@@ -1,0 +1,19 @@
+{
+  "Name": "悪の美学 ヴァルバトーゼ",
+  "Serial": "DG/SE08-26",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "血",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "何度言えば、わかるのだ！？　誇り高き悪魔であるこの俺が約束を破ることなど、ありえんと！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_26.gif"
+}

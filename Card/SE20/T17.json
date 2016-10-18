@@ -1,0 +1,19 @@
+{
+  "Name": "付与術師 シロエ",
+  "Serial": "LH/SE20-T17",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "メガネ",
+  "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "エンチャンターの攻撃力は弱い。\nだが、敵の攻撃を阻害、味方の力を増幅することが出来る\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_t17.gif"
+}

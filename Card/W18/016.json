@@ -1,0 +1,19 @@
+{
+  "Name": "風見鶏の学園長 エリザベス",
+  "Serial": "DC3/W18-016",
+  "Rarity": "C",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "王族",
+  "Text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1500。",
+  "Flavor": "ええ。ここだけの秘密だから、みんなには内緒ね？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_016.gif"
+}

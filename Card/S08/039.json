@@ -1,0 +1,19 @@
+{
+  "Name": "癒しの波動りせ",
+  "Serial": "P4/S08-039",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メガネ",
+  "Text": "【起】［あなたの《メガネ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "今度は、私が助けてあげる！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_039.gif"
+}

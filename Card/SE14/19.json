@@ -1,0 +1,19 @@
+{
+  "Name": "薔薇の花束 狡噛",
+  "Serial": "PP/SE14-19",
+  "Rarity": "C",
+  "Expansion": "PSYCHO-PASS サイコパス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "サイコパス",
+  "SecondChara": "公安",
+  "Text": "【永】 他のあなたのカード名に「朱」を含むキャラがいないなら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』",
+  "Flavor": "……これは、俺とあいつだけの問題なんだ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pp_se14_19.gif"
+}

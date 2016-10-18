@@ -1,0 +1,19 @@
+{
+  "Name": "アクセルモード なのは",
+  "Serial": "N2/W32-057",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのレベルを＋1し、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_057.gif"
+}

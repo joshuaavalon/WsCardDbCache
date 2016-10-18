@@ -1,0 +1,19 @@
+{
+  "Name": "魔の血族",
+  "Serial": "SB/S06-021",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見てカード名に「魔王」を含むキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を2枚選び、控え室に置く。",
+  "Flavor": "人間五十年…　下天の内をくらぶれば…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_021.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "初めてのデート 千棘",
+  "Serial": "NK/W30-T03",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "令嬢",
+  "SecondChara": "鍵",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "なっ…！何よ、偉そーに……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_t03.gif"
+}

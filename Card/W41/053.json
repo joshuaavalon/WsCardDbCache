@@ -1,0 +1,19 @@
+{
+  "Name": "小日向 美穂",
+  "Serial": "IMC/W41-053",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】［他のあなたの【スタンド】している《音楽》のキャラを1枚と、このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "Flavor": "あはは♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_053.gif"
+}

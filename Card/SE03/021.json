@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘態勢バゼット",
+  "Serial": "FH/SE03-021",
+  "Rarity": "C",
+  "Expansion": "Fate/hollow ataraxia",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "男装",
+  "Text": "【自】 あなたのクライマックス置場に「斬り抉る戦神の剣」が置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\n【自】［(3) このカードの下のマーカーを1枚控え室に置く］ 相手のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、控え室に置く。",
+  "Flavor": "―――敵の実力を計ります。貴方はサーヴァントの相手を\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_020.gif"
+}

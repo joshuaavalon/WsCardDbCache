@@ -1,0 +1,19 @@
+{
+  "Name": "アトラス院所属 シオン",
+  "Serial": "MB/S10-042",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "錬金術",
+  "SecondChara": "武器",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "リーズバイフェ、どうしてそうさつきを甘やかすのです！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_042.gif"
+}

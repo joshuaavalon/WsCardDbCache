@@ -1,0 +1,19 @@
+{
+  "Name": "“秘密の手料理”西木野 真姫",
+  "Serial": "LL/W36-090",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に青のクライマックスがあるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "私、料理ってそんなに興味ないのよねー……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_090.gif"
+}

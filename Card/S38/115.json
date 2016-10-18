@@ -1,0 +1,19 @@
+{
+  "Name": "おじゃまぷよ",
+  "Serial": "PY/S38-115",
+  "Rarity": "U",
+  "Expansion": "ぷよぷよ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の手札の「あおぷよ」を4枚選び、控え室に置いてよい。そうしたら、あなたは相手の山札の上から2枚までを、控え室に置き、相手の控え室のカードを8枚まで選び、山札に戻し、相手はその山札をシャッフルする。",
+  "Flavor": "うわぁ～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_115.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "エクレール・マルティノッジ",
+  "Serial": "DD/WE12-21",
+  "Rarity": "R",
+  "Expansion": "DOG DAYS",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《動物》のキャラの枚数×500に等しい。",
+  "Flavor": "正面突破ぁーッッ！うおおーッッ！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_21.gif"
+}

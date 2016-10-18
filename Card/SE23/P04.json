@@ -1,0 +1,19 @@
+{
+  "Name": "制服の和人&明日奈",
+  "Serial": "SAO/SE23-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "和人「感触だけで、本物の手とアバターの手を判別できるかな？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ws_se23_p04.gif"
+}

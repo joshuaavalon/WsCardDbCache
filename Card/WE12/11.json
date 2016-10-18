@@ -1,0 +1,19 @@
+{
+  "Name": "お側役 ビオレ",
+  "Serial": "DD/WE12-11",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋2000。\n【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "Flavor": "フランボワーズ「レオンミシェリ姫のお側役、\nビオレさんに来ていただいております」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_11.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“サバクトビバッタ”ティン",
+  "Serial": "TF/S32-T07",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《改造》か《虫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "― その虫が持つのは昆虫の中でもトップクラスの脚力 ―\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_t07.gif"
+}

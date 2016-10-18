@@ -1,0 +1,19 @@
+{
+  "Name": "温泉のハルヒ",
+  "Serial": "SY/W08-054",
+  "Rarity": "R",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "団長",
+  "SecondChara": "SOS団",
+  "Text": "【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "アンタがそれでいいなら、まあいいわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_054.gif"
+}

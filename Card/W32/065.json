@@ -1,0 +1,19 @@
+{
+  "Name": "アクセルシューター なのは",
+  "Serial": "N2/W32-065",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "ホントに、お話聞かせてもらいたいだけなの\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_065.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ラズベリル＆サファイア",
+  "Serial": "DG/S02-076S",
+  "Rarity": "SR",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "王族",
+  "Text": "【永】相手のパワー500以下のキャラがいるなら、このカードのパワーを＋1500",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

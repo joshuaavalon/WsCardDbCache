@@ -1,0 +1,19 @@
+{
+  "Name": "アイドル大好き 花陽",
+  "Serial": "LL/W24-077",
+  "Rarity": "RR",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【自】［(2)］ あなたのクライマックス置場に「入部宣言」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト0以下の《音楽》のキャラか、「アルパカ」を3枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
+  "Flavor": "伝説のアイドル伝説DVD全巻ボックス！\n持ってる人に初めて会いました！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_077.gif"
+}

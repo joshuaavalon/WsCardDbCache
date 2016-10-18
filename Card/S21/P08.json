@@ -1,0 +1,19 @@
+{
+  "Name": "リードギター 美希",
+  "Serial": "IM/S21-P08",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "みんなー！乗ってるー？\nミキたちに遅れず、ついてくるのー！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_p08.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "結弦の心臓 かなで",
+  "Serial": "AB/W31-012R",
+  "Rarity": "RRR",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

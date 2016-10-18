@@ -1,0 +1,19 @@
+{
+  "Name": "背負った重み クリス",
+  "Serial": "SG/W27-059",
+  "Rarity": "R",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "あたしの十字架を、他の誰かに負わすわけにはいかねぇだろッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_059.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "シルバー・クロウ",
+  "Serial": "AW/S18-104",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを－1。\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "……戦います。バーストリンカーとして……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_104.gif"
+}

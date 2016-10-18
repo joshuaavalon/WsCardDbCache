@@ -1,0 +1,19 @@
+{
+  "Name": "ふたつの世界 アスナ",
+  "Serial": "SAO/S20-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【起】［(1) ］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "ううん、信じてた。\nきっと――助けに来てくれるって…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_p04.gif"
+}

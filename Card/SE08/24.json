@@ -1,0 +1,19 @@
+{
+  "Name": "プリニーの世話係 フェンリッヒ",
+  "Serial": "DG/SE08-24",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "動物",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《プリニー》のキャラを1枚選び、手札に戻す。\n【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《血》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "……ここは先手を打っておきますか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_24.gif"
+}

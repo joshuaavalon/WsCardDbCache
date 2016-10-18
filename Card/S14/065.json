@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス 響",
+  "Serial": "IM/S14-065",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "-",
+  "Flavor": "自分、今日はとっても調子がいいぞー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_065.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ジョーヌ＆ベール",
+  "Serial": "DD/WE17-26",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《動物》か《勇者》のキャラを1枚を選び、入れ替えてよい。",
+  "Flavor": "ベール「ナナミちゃん？」\nジョーヌ「いいアイデアって？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_26.gif"
+}

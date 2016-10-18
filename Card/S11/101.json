@@ -1,0 +1,19 @@
+{
+  "Name": "“ミルキィホームズ”シャロ",
+  "Serial": "MK/S11-101",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "カメラ",
+  "Text": "【永】 あなたのキャラすべてが《探偵》なら、このカードのパワーを＋1000。",
+  "Flavor": "怪盗を捕まえるのが探偵の役目！ 絶対逃がしません！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_101_2.gif"
+}

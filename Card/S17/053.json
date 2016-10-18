@@ -1,0 +1,19 @@
+{
+  "Name": "王と臣下を結ぶ絆",
+  "Serial": "FZ/S17-053",
+  "Rarity": "CC",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "ライダーよ、必ずや世界を掴め。失敗なんて許さない\n",
+  "Trigger": "Bag",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_053.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "流浪の女子高生 流子",
+  "Serial": "KLK/S27-T16",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "面白い。この学校なら手がかりが掴めそうだ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t16.gif"
+}

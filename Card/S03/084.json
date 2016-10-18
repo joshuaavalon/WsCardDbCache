@@ -1,0 +1,19 @@
+{
+  "Name": "ハサン・サッバーハ",
+  "Serial": "FS/S03-084",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "仮面",
+  "Text": "【自】 このカードが舞台に置かれた時、あなたはこのカードか自分の「佐々木 小次郎」を1枚選び、控え室に置く。",
+  "Flavor": "おまえの心臓は、私が貰う\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_084.gif"
+}

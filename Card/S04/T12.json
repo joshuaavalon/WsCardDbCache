@@ -1,0 +1,19 @@
+{
+  "Name": "照れ怒りシリル",
+  "Serial": "SE/S04-T12",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "-",
+  "Flavor": "とにかく！あやまったからね、トウマ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_t12.gif"
+}

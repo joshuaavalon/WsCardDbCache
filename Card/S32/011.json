@@ -1,0 +1,19 @@
+{
+  "Name": "“アネックス1号の乗組員”イワン",
+  "Serial": "TF/S32-011",
+  "Rarity": "U",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "植物",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［手札の「“アネックス1号の乗組員”エレナ」を1枚控え室に置き、このカードを【レスト】する］ あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "ただのアホだって姉ちゃんにもよく言われるんすよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_011.gif"
+}

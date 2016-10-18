@@ -1,0 +1,19 @@
+{
+  "Name": "借り物競走",
+  "Serial": "ID/W13-025",
+  "Rarity": "CC",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "Flavor": "おっしゃーっ！つっかまえたわよ私の勝利条件！ \n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_025.gif"
+}

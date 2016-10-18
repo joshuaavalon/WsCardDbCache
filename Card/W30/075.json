@@ -1,0 +1,19 @@
+{
+  "Name": "恋するジュリエット",
+  "Serial": "NK/W30-075",
+  "Rarity": "CC",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "千棘「そう……こいつに恋をしているんだと……」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_075.gif"
+}

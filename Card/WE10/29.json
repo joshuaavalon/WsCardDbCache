@@ -1,0 +1,19 @@
+{
+  "Name": "ハンドルネーム・竹山",
+  "Serial": "AB/WE10-29",
+  "Rarity": "C",
+  "Expansion": "Angel Beats!",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "メガネ",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「クライスト」としても扱う。",
+  "Flavor": "…3.1415926535 8979323846 2643383279\n5028841971 6939937510 5820974944\n5923078164 0628620899 8628034825…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_we10_29.gif"
+}

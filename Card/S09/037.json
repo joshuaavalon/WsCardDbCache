@@ -1,0 +1,19 @@
+{
+  "Name": "星霊魔導士 ルーシィ",
+  "Serial": "FT/S09-037",
+  "Rarity": "U",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "鍵",
+  "Text": "【永】 このカードの正面のキャラのソウルを-1。\n【永】 記憶 あなたの思い出が4枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 あなたのクライマックス置場に「強制閉門」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋3000。",
+  "Flavor": "ここは妖精の尻尾一の星霊魔導士、ルーシィ様にまかせて！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_037.gif"
+}

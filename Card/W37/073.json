@@ -1,0 +1,19 @@
+{
+  "Name": "“信頼の絆”ララ",
+  "Serial": "TL/W37-073",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "科学",
+  "Text": "【自】 共鳴 ［手札の「“お座り”ララ」を1枚公開する］ このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手を【リバース】する。",
+  "Flavor": "でもリトが行ってくれるなら大丈夫だね、きっと\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_073.gif"
+}

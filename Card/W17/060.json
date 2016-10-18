@@ -1,0 +1,19 @@
+{
+  "Name": "夢に出てきた少女",
+  "Serial": "MM/W17-060",
+  "Rarity": "CC",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "ほむら「鹿目まどか、\nあなたは自分の人生が貴いと思う？」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_060.gif"
+}

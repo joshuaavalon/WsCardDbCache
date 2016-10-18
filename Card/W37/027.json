@@ -1,0 +1,19 @@
+{
+  "Name": "ダークネス計画",
+  "Serial": "TL/W37-027",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "“ダークネス”は危うい力だ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_027.gif"
+}

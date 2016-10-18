@@ -1,0 +1,19 @@
+{
+  "Name": "好きな人の好きな人へ",
+  "Serial": "KI/S44-075",
+  "Rarity": "CC",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "天河「千鳥、落ち着け！　自分の傷広げなくていいから！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_075.gif"
+}

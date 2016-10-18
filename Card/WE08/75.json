@@ -1,0 +1,19 @@
+{
+  "Name": "甘味な時間 由夢",
+  "Serial": "DC/WE08-75",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "駄目です。今日は兄さん、わたしの言うことを\n何でも聞くって約束ですからね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_75.gif"
+}

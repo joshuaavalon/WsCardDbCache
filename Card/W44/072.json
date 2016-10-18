@@ -1,0 +1,19 @@
+{
+  "Name": "“応援”チノ",
+  "Serial": "GU/W44-072",
+  "Rarity": "R",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「チノ」か「マヤ」か「メグ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "…頑張ってください\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_072.gif"
+}

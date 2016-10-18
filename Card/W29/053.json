@@ -1,0 +1,19 @@
+{
+  "Name": "天道三姉妹 いつき",
+  "Serial": "GT/W29-053",
+  "Rarity": "R",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ホムンクルス",
+  "SecondChara": "タロット",
+  "Text": "【自】 このカードがアタックした時、あなたの舞台のキャラの持つ色の合計が3色以上なら、あなたのキャラすべてに、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "ムッ、バカにしてるでしゅ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_053.gif"
+}

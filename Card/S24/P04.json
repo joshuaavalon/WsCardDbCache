@@ -1,0 +1,19 @@
+{
+  "Name": "自慢の妹 阿良々木火憐",
+  "Serial": "NM/S24-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［あなたの《怪異》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "兄ちゃん。あとは、任せた\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_p04.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "藤林 杏",
+  "Serial": "CL/WE04-11",
+  "Rarity": "R",
+  "Expansion": "CLANNAD Vol.02",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "委員長",
+  "Text": "【永】 相手のパワー500以下のキャラがいるなら、このカードのパワーを＋1500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "ねえ智也。この間の約束、忘れてないでしょうね？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we04_11.gif"
+}

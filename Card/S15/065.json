@@ -1,0 +1,19 @@
+{
+  "Name": "人見知り 八九寺真宵",
+  "Serial": "BM/S15-065",
+  "Rarity": "C",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "霊",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_065.gif"
+}

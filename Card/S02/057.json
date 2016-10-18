@@ -1,0 +1,19 @@
+{
+  "Name": "ニセラハール",
+  "Serial": "DG/S02-057",
+  "Rarity": "U",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "プリニー",
+  "SecondChara": "",
+  "Text": "【永】あなたの控え室に「魔界のプリンス ラハール」があるなら、このカードのパワーを＋2000。",
+  "Flavor": "エトナ「完璧ね！　今日からアンタがラハール殿下よ！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_057.gif"
+}

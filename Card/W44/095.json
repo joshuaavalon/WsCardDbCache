@@ -1,0 +1,19 @@
+{
+  "Name": "カメラにハマったチノ",
+  "Serial": "GU/W44-095",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "-",
+  "Flavor": "皆さんをじっくり撮らせてもらえませんか\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_095.gif"
+}

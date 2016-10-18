@@ -1,0 +1,19 @@
+{
+  "Name": "“刺し穿つ死棘の槍”ランサー",
+  "Serial": "FS/S36-034",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "Flavor": "この程度でくたばれるんなら、オレは英雄になんぞなっていねえ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_034.gif"
+}

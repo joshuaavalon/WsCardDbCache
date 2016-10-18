@@ -1,0 +1,19 @@
+{
+  "Name": "《世界の種子》",
+  "Serial": "SAO/S26-078",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "茅場「もし君が、\nあの世界に憎しみ以外の感情を残しているのなら……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_078.gif"
+}

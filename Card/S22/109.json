@@ -1,0 +1,19 @@
+{
+  "Name": "ネトゲ廃人シュプレヒコール",
+  "Serial": "PD/S22-109",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "ネットゲーム世界は今日も\n隔離 哀れ 蔓延る効率厨、々\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_109.gif"
+}

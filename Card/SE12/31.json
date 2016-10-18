@@ -1,0 +1,19 @@
+{
+  "Name": "ミスコンは無理！？ 直斗",
+  "Serial": "P4/SE12-31",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「ペルソナ４」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "",
+  "Text": "【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "むむ、無理ですよ、やっぱり……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se12_31.gif"
+}

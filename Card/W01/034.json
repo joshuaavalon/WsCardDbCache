@@ -1,0 +1,19 @@
+{
+  "Name": "スキーウェアのななか",
+  "Serial": "DC/W01-034",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】［(1)］ このカードとバトルしているキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【起】［(2)］ そのターン中、このカードのパワーを＋5000。",
+  "Flavor": "最初は皆、初心者コースで滑ろうだって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_034.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ボヨヨンの女 アンリエット",
+  "Serial": "MK/SE09-22",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "生徒会",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【永】 このカードの正面のキャラのソウルを＋1。\n【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "これは…シャーロックの…？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_22.gif"
+}

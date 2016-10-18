@@ -1,0 +1,19 @@
+{
+  "Name": "ナツ＆ルーシィ＆ハッピー",
+  "Serial": "FT/S09-110",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "ナツ「Come and get me!!!」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_110.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "テニス部部長 函館",
+  "Serial": "KLK/S27-035",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "スポーツ",
+  "Text": "－",
+  "Flavor": "このテニス部主将、函館臣子とテニスの試合をやるというのか！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_035.gif"
+}

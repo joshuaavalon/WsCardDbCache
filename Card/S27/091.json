@@ -1,0 +1,19 @@
+{
+  "Name": "生徒会四天王 猿投山",
+  "Serial": "KLK/S27-091",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "よし、男の意地見せてみろ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_091.gif"
+}

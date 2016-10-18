@@ -1,0 +1,19 @@
+{
+  "Name": "手料理の披露 アスナ",
+  "Serial": "SAO/S26-004",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "Flavor": "一年の修行と研鑚の成果よ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_004.gif"
+}

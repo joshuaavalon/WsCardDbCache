@@ -1,0 +1,19 @@
+{
+  "Name": "姫様の休息 ミルヒ",
+  "Serial": "DD/WE23-29",
+  "Rarity": "R",
+  "Expansion": "DOG DAYS\"",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "音楽",
+  "Text": "【永】 他のあなたの「ビスコッティの勇者 シンク」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(1)］ あなたのクライマックス置場に「癒しの歌」が置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに赤のカードと青のカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "Flavor": "シンクー！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_29.gif"
+}

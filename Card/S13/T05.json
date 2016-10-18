@@ -1,0 +1,19 @@
+{
+  "Name": "銀河の妖精 シェリル・ノーム",
+  "Serial": "MF/S13-T05",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「オベリスク」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1000し、ソウルを＋1。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "行くわよランカちゃん！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_t05.gif"
+}

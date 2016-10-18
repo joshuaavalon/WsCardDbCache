@@ -1,0 +1,19 @@
+{
+  "Name": "ボーカル しよ子",
+  "Serial": "CGS/WS01-T13",
+  "Rarity": "TD",
+  "Expansion": "カードゲームしよ子",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "カードゲーム",
+  "SecondChara": "音楽",
+  "Text": "【永】 他のあなたの《カードゲーム》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "いっしょにバンドしよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_t13.gif"
+}

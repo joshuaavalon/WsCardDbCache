@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス 雪歩",
+  "Serial": "IM/S14-020",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お茶",
+  "Text": "-",
+  "Flavor": "ステージの上なら、私でも輝けるんだ…！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_020.gif"
+}

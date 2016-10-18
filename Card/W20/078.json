@@ -1,0 +1,19 @@
+{
+  "Name": "篝火を掲げし者",
+  "Serial": "RW/W20-078",
+  "Rarity": "C",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "――ですが忘れないでください。\nその道は、名もなきひとりの兵士によって\n切り開かれたものであることを――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_078.gif"
+}

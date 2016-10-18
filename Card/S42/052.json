@@ -1,0 +1,19 @@
+{
+  "Name": "古鷹型重巡2番艦 加古改二",
+  "Serial": "KC/S42-052",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "重巡洋艦",
+  "Text": "【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）",
+  "Flavor": "ふっふーん、いいでしょう！あたしの出番ってワケね。いっくぞー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_052.gif"
+}

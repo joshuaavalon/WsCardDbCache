@@ -1,0 +1,19 @@
+{
+  "Name": "新入部員歓迎会 昴",
+  "Serial": "RN/W16-066",
+  "Rarity": "C",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メガネ",
+  "Text": "【自】 他のあなたの《科学》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "おごってもらって感謝はしていますが。\nこれを飲んだら先に帰らせてもらいます\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_066.gif"
+}

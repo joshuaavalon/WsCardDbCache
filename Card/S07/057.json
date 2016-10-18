@@ -1,0 +1,19 @@
+{
+  "Name": "やる気たっぷり真",
+  "Serial": "IM/S07-057",
+  "Rarity": "R",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 あなたの思い出置場に「プレゼント」があるなら、このカードのパワーを＋1500。\n【自】［(4)］ このカードがサイドアタックした時、クライマックス置場に「迷走Mind」があるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "皆さん！ボクの渾身の１曲、聞いて下さい！\n曲のタイトルは……『迷走Ｍind』！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_057.gif"
+}

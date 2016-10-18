@@ -1,0 +1,19 @@
+{
+  "Name": "応援する美波",
+  "Serial": "IMC/W43-108",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "ええ。私は大賛成よ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_108.gif"
+}

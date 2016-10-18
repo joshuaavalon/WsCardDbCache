@@ -1,0 +1,19 @@
+{
+  "Name": "ステージへの決意 真美",
+  "Serial": "IM/S30-013",
+  "Rarity": "C",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-013.gif"
+}

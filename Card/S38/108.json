@@ -1,0 +1,19 @@
+{
+  "Name": "スケルトンT",
+  "Serial": "PY/S38-108",
+  "Rarity": "Ｃ",
+  "Expansion": "ぷよぷよ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ぷよ",
+  "SecondChara": "お茶",
+  "Text": "【永】 このカードはサイドアタックできない。",
+  "Flavor": "最強のお茶はどこにあるのぢゃー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_108.gif"
+}

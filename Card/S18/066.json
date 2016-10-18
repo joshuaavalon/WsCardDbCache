@@ -1,0 +1,19 @@
+{
+  "Name": "心の闇 シルバー・クロウ",
+  "Serial": "AW/S18-066",
+  "Rarity": "U",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「黒い波動」があるなら、そのターン中、このカードのパワーを＋5500し、アンコールステップの始めに、このカードを控え室に置く。",
+  "Flavor": "ナラバ、壊セ。壊シテ喰ラエ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_066.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ぷち唯",
+  "Serial": "TL/W37-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風紀委員",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
+  "Flavor": "変わらないのね…昔から…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_104.gif"
+}

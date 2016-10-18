@@ -1,0 +1,19 @@
+{
+  "Name": "契約",
+  "Serial": "ZM/W03-023",
+  "Rarity": "CR",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "ルイズ「五つの力を司るペンタゴン。\nこの者に祝福を与え 我の使い魔となせ！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_023.gif"
+}

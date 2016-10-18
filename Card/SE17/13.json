@@ -1,0 +1,19 @@
+{
+  "Name": "２Pキャラ エトナ",
+  "Serial": "DG/SE17-13",
+  "Rarity": "C",
+  "Expansion": "ディスガイア D2",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの、《悪魔》か《プリニー》のキャラすべてに、パワーを＋500。",
+  "Flavor": "ちょっ、どーゆーことよ！？\n格ゲーの２Ｐキャラみたいになってんじゃん！？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se17_13.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "アルミン・アルレルト",
+  "Serial": "AOT/S35-T01",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「エレン」か「ミカサ」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "死んでも足手まといにはならない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_t01_td.gif"
+}

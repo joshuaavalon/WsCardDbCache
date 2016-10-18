@@ -1,0 +1,19 @@
+{
+  "Name": "次女 カトレア",
+  "Serial": "ZM/W03-029",
+  "Rarity": "R",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《虚無》のキャラを１枚選び、【スタンド】する。",
+  "Flavor": "カトレア「…お帰りなさい　小さなルイズ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_029.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“S”灰島 華賀利",
+  "Serial": "SGS/S37-056",
+  "Rarity": "R",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "オッドアイ",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "華賀利の脚に ミシミシと伝わってくる\nあなたの命の鼓動が……たまりませんの?\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_056.gif"
+}

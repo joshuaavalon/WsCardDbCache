@@ -1,0 +1,19 @@
+{
+  "Name": "打倒！魔王神！",
+  "Serial": "DG/S02-019",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻す。その山札をシャッフルする。5枚戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000し、ソウルを＋2。",
+  "Flavor": "アデル「オレの目的はゼノンを倒すことだ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_019.gif"
+}

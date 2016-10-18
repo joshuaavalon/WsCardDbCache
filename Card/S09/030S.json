@@ -1,0 +1,19 @@
+{
+  "Name": "まだまだ新人 ルーシィ",
+  "Serial": "FT/S09-030S",
+  "Rarity": "SR",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "鍵",
+  "Text": "【自】 チェンジ ［手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「星霊魔導士 ルーシィ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

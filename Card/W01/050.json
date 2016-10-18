@@ -1,0 +1,19 @@
+{
+  "Name": "わたくしの大切な人のために……",
+  "Serial": "DC/W01-050",
+  "Rarity": "CC",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "この舞は……私にとって、とてもとても大切な意味を持つ舞ですから……\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_050.gif"
+}

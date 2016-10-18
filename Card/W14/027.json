@@ -1,0 +1,19 @@
+{
+  "Name": "清秋祭始まる",
+  "Serial": "SS/W14-027",
+  "Rarity": "U",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "Flavor": "シャナ「……これは多分、楽しい」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_027.gif"
+}

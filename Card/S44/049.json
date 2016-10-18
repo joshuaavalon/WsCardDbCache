@@ -1,0 +1,19 @@
+{
+  "Name": "キズナイーバーでいいじゃない",
+  "Serial": "KI/S44-049",
+  "Rarity": "CC",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "ぷっ\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_049.gif"
+}

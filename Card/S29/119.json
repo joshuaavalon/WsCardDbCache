@@ -1,0 +1,19 @@
+{
+  "Name": "こちら、幸福安心委員会です。",
+  "Serial": "PD/S29-119",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "Flavor": "水辺の公園で　みんなが耳を澄ませて \nわくわくするね　ねぇ、オンディーヌ？\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_119.gif"
+}

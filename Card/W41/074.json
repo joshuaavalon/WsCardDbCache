@@ -1,0 +1,19 @@
+{
+  "Name": "Star!!",
+  "Serial": "IMC/W41-074",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "SAY☆いっぱい輝く　輝くSUPER ST@Rに\n",
+  "Trigger": "Door",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_074.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ぷちナナ",
+  "Serial": "TL/W37-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《宇宙人》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "そか？ならいいけど\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_106.gif"
+}

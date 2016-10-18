@@ -1,0 +1,19 @@
+{
+  "Name": "隊長!?",
+  "Serial": "SGS/S37-044",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上から4枚まで見て、《ストライカー》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_044.gif"
+}

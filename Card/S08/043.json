@@ -1,0 +1,19 @@
+{
+  "Name": "大切な友達 千枝＆雪子",
+  "Serial": "P4/S08-043",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "扇子",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル1以上のキャラなら、そのターン中、このカードのパワーを＋2500。",
+  "Flavor": "雪子「いけいけー!」\n千枝「雪子やるー」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_043.gif"
+}

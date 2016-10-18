@@ -1,0 +1,19 @@
+{
+  "Name": "お料理成功！ μさん",
+  "Serial": "DC/W09-057",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "メイド",
+  "Text": "【自】 このカードが控え室から舞台に置かれた時、このカードを思い出にする。",
+  "Flavor": "じゃじゃーん！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_057.gif"
+}

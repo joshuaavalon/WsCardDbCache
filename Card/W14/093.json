@@ -1,0 +1,19 @@
+{
+  "Name": "“三柱臣” シュドナイ",
+  "Serial": "SS/W14-093",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "タバコ",
+  "Text": "【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“千変”シュドナイ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "オレのヘカテーに妙なマネをしてくれるなよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_093.gif"
+}

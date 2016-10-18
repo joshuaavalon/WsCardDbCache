@@ -1,0 +1,19 @@
+{
+  "Name": "つっぱしる女こなた",
+  "Serial": "LS/W05-077",
+  "Rarity": "RR",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "オタク",
+  "SecondChara": "ネトゲ",
+  "Text": "【永】 他のあなたの《オタク》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「貧乳はステータスだ希少価値だ」があるなら、あなたは自分の山札を見て《オタク》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "……部活に入ると　ゴールデンタイムのアニメが見られないじゃない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_077.gif"
+}

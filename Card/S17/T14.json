@@ -1,0 +1,19 @@
+{
+  "Name": "神威の車輪",
+  "Serial": "FZ/S17-T14",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "いざ駆けろ、神威の車輪！　\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_t14.gif"
+}

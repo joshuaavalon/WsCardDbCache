@@ -1,0 +1,19 @@
+{
+  "Name": "姫乃の覚悟",
+  "Serial": "DC3/W23-048",
+  "Rarity": "U",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の手札のカード名に「姫乃」を含むキャラを1枚まで選び、舞台の好きな枠に置く。",
+  "Flavor": "……ありがとう、兄さん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w23_048.gif"
+}

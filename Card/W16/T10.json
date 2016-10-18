@@ -1,0 +1,19 @@
+{
+  "Name": "不遜な態度 昴",
+  "Serial": "RN/W16-T10",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メガネ",
+  "Text": "【起】［(1)］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "三流ロボ部に入るつもりなんてありません\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_t10.gif"
+}

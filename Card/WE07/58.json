@@ -1,0 +1,19 @@
+{
+  "Name": "前向きな朋也",
+  "Serial": "CL/WE07-58",
+  "Rarity": "RE",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "不良",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。",
+  "Flavor": "これからもこんな生活が続けば…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_58.gif"
+}

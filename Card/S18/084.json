@@ -1,0 +1,19 @@
+{
+  "Name": "シアン・パイル",
+  "Serial": "AW/S18-084",
+  "Rarity": "R",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "僕の読みが正しければ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_084.gif"
+}

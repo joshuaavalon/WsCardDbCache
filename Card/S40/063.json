@@ -1,0 +1,19 @@
+{
+  "Name": "“浴衣と花火”イリヤ",
+  "Serial": "PI/S40-063",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "Flavor": "はじまったー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_063.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘オタク アデル",
+  "Serial": "DG/S02-017",
+  "Rarity": "C",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "勇者",
+  "SecondChara": "",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "バカ言え！　仲間を見捨てるのはオレの流儀に反する！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_017.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "転校生 シンジ",
+  "Serial": "EV/S12-105",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "ミサト「あらためてよろしくね。碇シンジ君」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_105.gif"
+}

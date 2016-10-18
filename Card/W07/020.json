@@ -1,0 +1,19 @@
+{
+  "Name": "コルト＝パイソン",
+  "Serial": "PT/W07-020",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置く。",
+  "Flavor": "アイン「ここが照門、ここが照星。照門の谷間から照星を見るようにして狙うの」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_020.gif"
+}

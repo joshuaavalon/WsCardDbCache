@@ -1,0 +1,19 @@
+{
+  "Name": "着地失敗",
+  "Serial": "NS/W04-022",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。あなたは自分の《竜》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "ありがとうございました……助かりました……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_022.gif"
+}

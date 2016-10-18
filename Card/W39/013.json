@@ -1,0 +1,19 @@
+{
+  "Name": "父との再会 響",
+  "Serial": "SG/W39-013",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。",
+  "Flavor": "…やり直す…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_013.gif"
+}

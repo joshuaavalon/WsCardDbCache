@@ -1,0 +1,19 @@
+{
+  "Name": "黒衣の桜",
+  "Serial": "FS/S03-051S",
+  "Rarity": "SR",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "虫",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「桜」を含むキャラを1枚選び、控え室に置く。\n【起】［(4) このカードを【レスト】する］ あなたは自分の控え室のレベル2以下の《武器》のキャラを1枚選び、舞台の好きな枠に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

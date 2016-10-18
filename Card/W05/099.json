@@ -1,0 +1,19 @@
+{
+  "Name": "ひより始まる",
+  "Serial": "LS/W05-099",
+  "Rarity": "CC",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "……私はもうダメかもしれない――！！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_099.gif"
+}

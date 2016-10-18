@@ -1,0 +1,19 @@
+{
+  "Name": "兄の誇り 阿良々木暦",
+  "Serial": "NM/S24-036",
+  "Rarity": "C",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【永】 他のあなたのカード名に「火憐」か「月火」を含むキャラすべてに、パワーを＋500。",
+  "Flavor": "その考え方は、危ないよ。正義とは随分程遠い\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_036.gif"
+}

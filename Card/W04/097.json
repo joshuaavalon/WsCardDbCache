@@ -1,0 +1,19 @@
+{
+  "Name": "預言者の著書",
+  "Serial": "NS/W04-097",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは1枚引き、自分のクロックを1枚選び、控え室に置く。このカードを思い出にする。",
+  "Flavor": "私の能力……プロフェーティン・シュリフテン\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_097.gif"
+}

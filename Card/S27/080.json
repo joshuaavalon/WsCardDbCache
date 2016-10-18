@@ -1,0 +1,19 @@
+{
+  "Name": "風紀を取り締まる蟇郡",
+  "Serial": "KLK/S27-080",
+  "Rarity": "U",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "風紀委員",
+  "Text": "【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。",
+  "Flavor": "いいかげんにしろお前達。皐月様の御前であるぞ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_080.gif"
+}

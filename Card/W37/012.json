@@ -1,0 +1,19 @@
+{
+  "Name": "“ドキドキバスタイム”芽亜",
+  "Serial": "TL/W37-012",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "お菓子",
+  "Text": "【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "Flavor": "だから……仲良くしよ(記号：ハート)って事\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_012.gif"
+}

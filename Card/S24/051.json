@@ -1,0 +1,19 @@
+{
+  "Name": "栂の木二中の有名人 阿良々木月火",
+  "Serial": "NM/S24-051",
+  "Rarity": "R",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "和服",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "お兄ちゃんはさ。何か、後悔してることってある？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_051.gif"
+}

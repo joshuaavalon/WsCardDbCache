@@ -1,0 +1,19 @@
+{
+  "Name": "これで お別れ",
+  "Serial": "SGS/S37-103",
+  "Rarity": "CC",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "後悔させてあげる\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_103.gif"
+}

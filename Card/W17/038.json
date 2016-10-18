@@ -1,0 +1,19 @@
+{
+  "Name": "暁美 ほむら",
+  "Serial": "MM/W17-038",
+  "Rarity": "U",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "時間",
+  "Text": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。\n【永】 このカードの正面のキャラのソウルを－1。",
+  "Flavor": "愚か者が相手なら、私は手段を選ばない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_038.gif"
+}

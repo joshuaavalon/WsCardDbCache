@@ -1,0 +1,19 @@
+{
+  "Name": "のばされた時間",
+  "Serial": "CS/S28-098",
+  "Rarity": "CR",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "又兵衛「お前の言う通り、最後にそれを使わないでよかった。きっと姫様も同じことを……」\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_098.gif"
+}

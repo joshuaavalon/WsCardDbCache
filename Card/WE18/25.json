@@ -1,0 +1,19 @@
+{
+  "Name": "“守るべきもの”謙吾",
+  "Serial": "LB/WE18-25",
+  "Rarity": "C",
+  "Expansion": "アニメ「リトルバスターズ～Refrain～」",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+  "Flavor": "茶番だぁぁぁっ！　恭介ぇぇぇーーっ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_we18_25.gif"
+}

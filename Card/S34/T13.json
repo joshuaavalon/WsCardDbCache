@@ -1,0 +1,19 @@
+{
+  "Name": "召喚の儀 凛",
+  "Serial": "FS/S34-T13",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "宝石",
+  "Text": "【永】  他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "四方の門は閉じ、王冠より出で、王国に至る三叉路は循環せよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_t13.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ベレッタM92FS",
+  "Serial": "PT/W07-046",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを-3000。",
+  "Flavor": "玲二「薬室に１発、弾倉に１５発。ここにいる全員を殺して釣りがくる計算だ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_046.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "マリア・カデンツァヴナ・イヴ",
+  "Serial": "SG/W27-056",
+  "Rarity": "R",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたは自分のクロックフェイズに、手札のクライマックスをクロック置場に置いてカードを引くことができない。",
+  "Flavor": "これが私のガングニール。\n何物をも貫き徹す無双の一振り！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_056.gif"
+}

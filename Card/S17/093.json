@@ -1,0 +1,19 @@
+{
+  "Name": "群にして個 アサシン",
+  "Serial": "FZ/S17-093",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "仮面",
+  "Text": "【起】［あなたの《マスター》のキャラを2枚【レスト】する］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "Flavor": "我ら影の英霊は今度こそ、…本物の影になる―\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_093.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“今を大切に”千早",
+  "Serial": "IM/S30-082",
+  "Rarity": "R",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カメラ",
+  "Text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「千早のカメラ」を1枚選び、手札に戻す。",
+  "Flavor": "プロデューサーは、海に入らないんですか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-082.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "魅惑のビーチ 祭",
+  "Serial": "GC/S16-026S",
+  "Rarity": "SR",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "水着",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

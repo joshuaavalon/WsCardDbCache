@@ -1,0 +1,19 @@
+{
+  "Name": "陽炎型駆逐艦7番艦 初風",
+  "Serial": "KC/S42-105",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500。\n【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

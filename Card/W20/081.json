@@ -1,0 +1,19 @@
+{
+  "Name": "収穫を祝うちびもす",
+  "Serial": "RW/W20-081",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "使い魔",
+  "Text": "-",
+  "Flavor": "もすっ、もすっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_081.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "近く咲く花 上条るい",
+  "Serial": "GF/W33-124",
+  "Rarity": "R",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "いつも通り過ぎるから意識してなかったけど、ここの桜ってこんなに綺麗だったのね……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_124.gif"
+}

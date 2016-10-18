@@ -1,0 +1,19 @@
+{
+  "Name": "お昼寝 さら",
+  "Serial": "DC3/W18-P12",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［このカードを【レスト】する］ あなたは自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "ｚｚｚ…………\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_p12.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "森の民メーベル",
+  "Serial": "SE/S04-032",
+  "Rarity": "R",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "魔法",
+  "Text": "【永】 このカードのバトル中、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、クライマックス置場に「エルフ族の戦士」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを-1500。",
+  "Flavor": "なにか悩みがあるなら、相談して。私たち、もうお友だちでしょ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_032.gif"
+}

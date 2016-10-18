@@ -1,0 +1,19 @@
+{
+  "Name": "メロンパン大好き シャナ",
+  "Serial": "SS/W14-T01",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "メロンパン",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "ここのメロンパン、皮の部分がいい感じに固くて美味しい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_t01.gif"
+}

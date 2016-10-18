@@ -1,0 +1,19 @@
+{
+  "Name": "もふもふ みなみ",
+  "Serial": "LS/W05-058",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "保健室",
+  "SecondChara": "動物",
+  "Text": "【永】 相手の《動物》のキャラがいるなら、このカードはアタックできない。",
+  "Flavor": "おとなしくてイイコイイコ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_058.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "お礼を一つ 九重忍",
+  "Serial": "GF/W33-038",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたの黄のキャラすべてに、レベルを＋1し、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "Flavor": "待っててくれたお礼ね。これ買ってて更に待たせたかも？　あはは\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_038.gif"
+}

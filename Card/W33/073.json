@@ -1,0 +1,19 @@
+{
+  "Name": "手を引いて 小日向いちご",
+  "Serial": "GF/W33-073",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードが赤のカードなら、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "…えっと、このままでいいんですか？ずっと手を持ってもらっているのも…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_073.gif"
+}

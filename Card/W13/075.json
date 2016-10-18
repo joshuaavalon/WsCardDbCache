@@ -1,0 +1,19 @@
+{
+  "Name": "まさかの共闘",
+  "Serial": "RG/W13-075",
+  "Rarity": "CC",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "黒子「まさか、あなたとコンビを組むなんて、思ってもみませんでしたわ」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w13_075.gif"
+}

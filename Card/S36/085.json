@@ -1,0 +1,19 @@
+{
+  "Name": "“燕返し”アサシン",
+  "Serial": "FS/S36-085",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 あなたのクライマックス置場に「燕返し」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはこのカードの正面のレベル1以下のキャラを1枚選び、山札の下に置いてよい。",
+  "Flavor": "その信念、力ずくでこじ開けようか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_085.gif"
+}

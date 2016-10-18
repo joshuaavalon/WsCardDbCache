@@ -1,0 +1,19 @@
+{
+  "Name": "“ゆかいな仲間たち”友利 奈緒",
+  "Serial": "CHA/W40-101",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "能力者",
+  "SecondChara": "生徒会",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "そこが狙いなんすよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_101.gif"
+}

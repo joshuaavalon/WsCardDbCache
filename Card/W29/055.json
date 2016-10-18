@@ -1,0 +1,19 @@
+{
+  "Name": "太陽 ひなた",
+  "Serial": "GT/W29-055",
+  "Rarity": "R",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "占い",
+  "Text": "【永】 他のあなたのカード名に「あかり」を含むキャラすべてに、パワーを＋500。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "大丈夫よ…あかり…大丈夫…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_055.gif"
+}

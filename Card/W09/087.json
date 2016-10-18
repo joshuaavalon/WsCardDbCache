@@ -1,0 +1,19 @@
+{
+  "Name": "勝気で快活 眞子",
+  "Serial": "DC/W09-087",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "鍋",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。\n【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "あたしが女以外の何に見えるの！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_087.gif"
+}

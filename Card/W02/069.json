@@ -1,0 +1,19 @@
+{
+  "Name": "朝焼けに眠る",
+  "Serial": "LB/W02-069",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手の前列のキャラを1枚選び、控え室に置く。",
+  "Flavor": "…これからは…楽しいことがたくさん待ってんのかな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_069.gif"
+}

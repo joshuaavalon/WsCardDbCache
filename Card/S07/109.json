@@ -1,0 +1,19 @@
+{
+  "Name": "庶民派アイドルやよい",
+  "Serial": "IM/S07-109",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【永】 他のあなたの《カエル》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "（やよいチャン。最近、紙のオカネを食べさせてモラッテないよ？また、食べさせてネ！）\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_109.gif"
+}

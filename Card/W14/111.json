@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服のシャナ",
+  "Serial": "SS/W14-111",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "メイド",
+  "Text": "【起】[(1)]あなたは自分の《炎》のキャラを１枚選び、そのターン中、パワーを+500。",
+  "Flavor": "いいったらいいの！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_111.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ダリル・ヤン",
+  "Serial": "GC/S16-T11",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "軍隊",
+  "SecondChara": "オペレーター",
+  "Text": "-",
+  "Flavor": "いい？ 僕は自分の好きにやる。\nもしジャマしたら、パパに言いつけるからね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_t11.gif"
+}

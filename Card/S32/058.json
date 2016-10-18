@@ -1,0 +1,19 @@
+{
+  "Name": "“U-NASA火星探索チーム副隊長”ミッシェル",
+  "Serial": "TF/S32-058",
+  "Rarity": "U",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《改造》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "副長ミッシェル・Ｋ・デイヴス\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_058.gif"
+}

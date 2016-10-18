@@ -1,0 +1,19 @@
+{
+  "Name": "“緑を増やそう委員会”小鳥",
+  "Serial": "RW/W15-017",
+  "Rarity": "C",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "オカルト",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "お家族やご友達を誘って、是非ご参加ください\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_017.gif"
+}

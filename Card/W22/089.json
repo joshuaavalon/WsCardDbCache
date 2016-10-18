@@ -1,0 +1,19 @@
+{
+  "Name": "屋上でお弁当 あおい",
+  "Serial": "VR/W22-089",
+  "Rarity": "U",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "令嬢",
+  "Text": "【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。",
+  "Flavor": "それとね、その勉強会って、もう一人誘っていいかな？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_089.gif"
+}

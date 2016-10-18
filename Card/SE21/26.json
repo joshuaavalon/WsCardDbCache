@@ -1,0 +1,19 @@
+{
+  "Name": "“ベルベットルームの住人”テオドア",
+  "Serial": "PQ/SE21-26",
+  "Rarity": "C",
+  "Expansion": "ペルソナQ シャドウ オブ ザ ラビリンス",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "鍛冶",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分の山札を見てそのキャラと同じ特徴を1つ以上持つキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "テオドアと申します。\nいつも姉エリザベスがお世話になっております\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_26.gif"
+}

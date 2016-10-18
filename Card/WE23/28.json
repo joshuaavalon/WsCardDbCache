@@ -1,0 +1,19 @@
+{
+  "Name": "双剣の使い手 エクレ",
+  "Serial": "DD/WE23-28",
+  "Rarity": "R",
+  "Expansion": "DOG DAYS\"",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "次ぃ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_28.gif"
+}

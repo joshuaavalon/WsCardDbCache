@@ -1,0 +1,19 @@
+{
+  "Name": "“騎士道”ガドフォール",
+  "Serial": "SE/S04-009",
+  "Rarity": "U",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "ワシは、騎士の信念を貫き、正義を世に示すための力がほしい……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_009.gif"
+}

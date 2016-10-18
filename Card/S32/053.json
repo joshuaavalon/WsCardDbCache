@@ -1,0 +1,19 @@
+{
+  "Name": "“火星への旅立ち”膝丸 燈",
+  "Serial": "TF/S32-053",
+  "Rarity": "R",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】してよい。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "生物としてその匂いに引き寄せられてしまうのはいけないことでしょぉーか！？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_053.gif"
+}

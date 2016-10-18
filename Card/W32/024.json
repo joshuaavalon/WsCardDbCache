@@ -1,0 +1,19 @@
+{
+  "Name": "魔法の資質なのは",
+  "Serial": "N1/W32-024",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 チェンジ ［手札を1枚控え室に置き、このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「信じた思い なのは」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "わたしに教えて……魔法の、上手な使い方！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_024.gif"
+}

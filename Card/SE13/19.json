@@ -1,0 +1,19 @@
+{
+  "Name": "必滅の黄薔薇",
+  "Serial": "FZ/SE13-19",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "その不覚を衝かせてもらう\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_19.gif"
+}

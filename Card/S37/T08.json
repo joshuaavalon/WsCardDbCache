@@ -1,0 +1,19 @@
+{
+  "Name": "“アルタイル・トルテ”美山 椿芽",
+  "Serial": "SGS/S37-T08",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "謎",
+  "Text": "【自】[(1) あなたの《ストライカー》のキャラを2枚【レスト】する］ あなたのクライマックス置場に「臨戦態勢」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《ストライカー》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+  "Flavor": "咲き 舞い 討つは 飛燕の翼！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_t08.gif"
+}

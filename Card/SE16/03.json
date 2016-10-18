@@ -1,0 +1,19 @@
+{
+  "Name": "活発な少女 アイリ",
+  "Serial": "DS2/SE16-03",
+  "Rarity": "R",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サマナー",
+  "SecondChara": "音楽",
+  "Text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《サマナー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "美味しい……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_03.gif"
+}

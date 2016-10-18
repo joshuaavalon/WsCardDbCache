@@ -1,0 +1,19 @@
+{
+  "Name": "陰陽師 影縫余弦",
+  "Serial": "NM/S24-078",
+  "Rarity": "C",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "オカルト",
+  "Text": "【起】［(2)］ 次の相手のターンの終わりまで、このカードのパワーを＋2500。",
+  "Flavor": "ちゅーか、許さんゆうて、\n今のおどれに何ができるっちゅーねん\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_078.gif"
+}

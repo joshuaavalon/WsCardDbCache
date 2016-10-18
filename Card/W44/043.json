@@ -1,0 +1,19 @@
+{
+  "Name": "“お誘い”リゼ",
+  "Serial": "GU/W44-043",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたの《ラビットハウス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "\nせっかく来たんだし、遊んでいかないか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_043.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "水着の美春",
+  "Serial": "DC/W01-E12",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "バナナ",
+  "SecondChara": "水着",
+  "Text": "【起】［このカードを【レスト】する］ あなたは自分の控え室の《人形》のキャラを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "バナナの世界にようこそ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_e12.gif"
+}

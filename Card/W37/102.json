@@ -1,0 +1,19 @@
+{
+  "Name": "ぷちヤミ",
+  "Serial": "TL/W37-102",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "たいやき",
+  "Text": "【永】 あなたのターン中、あなたのキャラすべてが、《変身》か《家事》なら、このカードのパワーを＋2000。",
+  "Flavor": "私も非常に不快です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_102.gif"
+}

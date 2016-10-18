@@ -1,0 +1,19 @@
+{
+  "Name": "文房具選び チノ",
+  "Serial": "GU/W44-082",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの青のキャラの枚数×500に等しい。",
+  "Flavor": "リゼさんはもっと中学生の目線になるべきですね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_082.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "怪盗を追う二人 シャロ＆小衣",
+  "Serial": "MK2/S19-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "警察",
+  "Text": "【自】 あなたのキャラのトリガーチェックで「怪盗を追う二人 シャロ＆小衣」がでた時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたはこのカードのバトル相手を【リバース】してよい。』",
+  "Flavor": "シャロ「必ず捕まえてみせます！」\n小衣「覚悟よ、アルセーヌ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_p03.gif"
+}

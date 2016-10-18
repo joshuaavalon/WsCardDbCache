@@ -1,0 +1,19 @@
+{
+  "Name": "真剣勝負 にこ",
+  "Serial": "LL/W34-010",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“Happy maker!”矢澤 にこ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "…！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_010.gif"
+}

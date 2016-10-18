@@ -1,0 +1,19 @@
+{
+  "Name": "チャイナドレス 玉井麗巳",
+  "Serial": "GF/W33-022",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "ドレス",
+  "Text": "【永】 あなたのターン中、他のあなたの黄のキャラすべてに、パワーを＋2000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て黄のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "…ふむふむ。これって、そういう道具かぁ。国が違えば、いろいろ様式があるもんね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_022.gif"
+}

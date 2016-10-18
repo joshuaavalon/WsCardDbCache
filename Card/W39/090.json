@@ -1,0 +1,19 @@
+{
+  "Name": "エージェント 緒川",
+  "Serial": "SG/W39-090",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "",
+  "Text": "【永】 このカードの正面のキャラは他の枠に動かせない。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_090.gif"
+}

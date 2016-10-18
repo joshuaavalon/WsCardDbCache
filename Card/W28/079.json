@@ -1,0 +1,19 @@
+{
+  "Name": "レッスン着の花陽",
+  "Serial": "LL/W28-079",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "一生懸命がんばります！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_079.gif"
+}

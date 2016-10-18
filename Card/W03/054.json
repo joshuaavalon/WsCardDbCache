@@ -1,0 +1,19 @@
+{
+  "Name": "サイト＆デルフリンガー",
+  "Serial": "ZM/W03-054",
+  "Rarity": "R",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの「ウェディングドレスのルイズ」すべてに、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "デルフリンガー「そうだ！　戦うのは俺じゃねえ！\nお前の心の震えが俺を振るんだ！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_054.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "セカンドインパクト",
+  "Serial": "EV/S12-022",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 7,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたはすべてのプレイヤーのレベル3以下のキャラすべてを、ストック置場に好きな順番で置く。",
+  "Flavor": "加持「......セカンドインパクト」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_022.gif"
+}

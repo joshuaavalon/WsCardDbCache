@@ -1,0 +1,19 @@
+{
+  "Name": "感謝の形 神楽坂砂夜",
+  "Serial": "GF/W38-080S",
+  "Rarity": "SR",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋1500。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "赫たる猛攻 クリス",
+  "Serial": "SG/W39-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】  他のあなたの《音楽》のキャラが3枚以上なら、このカードのレベルを＋1し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_p04.gif"
+}

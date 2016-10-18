@@ -1,0 +1,19 @@
+{
+  "Name": "おちゃめな一面 楓",
+  "Serial": "IMC/W43-114",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "神秘",
+  "Text": "【起】［(2) 手札の「こいかぜ」を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「高垣 楓」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "みなさ～ん、ちゃんと並ばないと危ないですよ～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_114.gif"
+}

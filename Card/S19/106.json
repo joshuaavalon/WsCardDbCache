@@ -1,0 +1,19 @@
+{
+  "Name": "ちび姫百合",
+  "Serial": "MK2/S19-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "警察",
+  "Text": "-",
+  "Flavor": "それでは、早速捜査開始です！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_106.gif"
+}

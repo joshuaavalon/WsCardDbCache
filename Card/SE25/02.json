@@ -1,0 +1,19 @@
+{
+  "Name": "ユーマ・イルバーン",
+  "Serial": "SR/SE25-02",
+  "Rarity": "R",
+  "Expansion": "シャイニング・レゾナンス",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "竜",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "僕でよければ……僕にできることがあるのなら……\n僕も、あなたたちといっしょに戦います！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sr_se25_02.gif"
+}

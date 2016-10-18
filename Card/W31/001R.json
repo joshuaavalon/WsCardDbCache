@@ -1,0 +1,19 @@
+{
+  "Name": "皆を見送る役目 かなで",
+  "Serial": "AB/W31-001R",
+  "Rarity": "RRR",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【永】 他のあなたの《死》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

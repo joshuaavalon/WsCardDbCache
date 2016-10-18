@@ -1,0 +1,19 @@
+{
+  "Name": "位置特定",
+  "Serial": "RG/W26-T05",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "はいはい、後ちょっと…\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_t05.gif"
+}

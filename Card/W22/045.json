@@ -1,0 +1,19 @@
+{
+  "Name": "天真爛漫 あかね",
+  "Serial": "VR/W22-045",
+  "Rarity": "R",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "マヨネーズ",
+  "Text": "【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "えへへ。れいちゃんって呼んでいい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_045.gif"
+}

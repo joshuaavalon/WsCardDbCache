@@ -1,0 +1,19 @@
+{
+  "Name": "“With You”ちび美琴",
+  "Serial": "DC3/W46-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "愛",
+  "Text": "【永】他のあなたの、《新聞》か《愛》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "すももとあたしの仲に割って入ろうだなんて百万年早いわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3-w46-p04.gif"
+}

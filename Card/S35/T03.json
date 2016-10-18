@@ -1,0 +1,19 @@
+{
+  "Name": "“連鎖する悲劇”アルミン",
+  "Serial": "AOT/S35-T03",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【自】[(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《兵団》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "この街はもう……無数の巨人に占領される！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_t03_td.gif"
+}

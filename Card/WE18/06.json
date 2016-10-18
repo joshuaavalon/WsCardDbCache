@@ -1,0 +1,19 @@
+{
+  "Name": "“帰ってきたリーダー”恭介",
+  "Serial": "LB/WE18-06",
+  "Rarity": "U",
+  "Expansion": "アニメ「リトルバスターズ～Refrain～」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のレベル1以下のキャラを1枚選び、そのターン中、レベルを＋1。\n【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "いいかみんな、俺たちでもう一度修学旅行に行っくぞーっ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_we18_06.gif"
+}

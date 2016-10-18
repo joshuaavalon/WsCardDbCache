@@ -1,0 +1,19 @@
+{
+  "Name": "運命に挑むほむら",
+  "Serial": "MM/W17-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "時間",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "それが、魔法少女になった者の、逃れられない運命\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_p02.gif"
+}

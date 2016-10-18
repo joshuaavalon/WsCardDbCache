@@ -1,0 +1,19 @@
+{
+  "Name": "水着の桜",
+  "Serial": "KR/SE30-07",
+  "Rarity": "R",
+  "Expansion": "境界のRINNE",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "水着",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "どうしたの？翼くん？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_07.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“今を大切に”やよい",
+  "Serial": "IM/S30-003",
+  "Rarity": "R",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【永】 あなたのターン中、他のあなたの《カエル》のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《カエル》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "うっうー！　楽しいですー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-003.gif"
+}

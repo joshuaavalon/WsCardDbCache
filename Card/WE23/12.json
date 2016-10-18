@@ -1,0 +1,19 @@
+{
+  "Name": "勇者と姫の物語",
+  "Serial": "DD/WE23-12",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS\"",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "フィー「私はパスティヤージュ王国の当主クラリフィエと申します」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_12.gif"
+}

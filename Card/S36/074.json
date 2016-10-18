@@ -1,0 +1,19 @@
+{
+  "Name": "“神代の魔術師”キャスター",
+  "Serial": "FS/S36-074",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "マスター",
+  "Text": "【自】［(1) このカードを控え室に置く］ 他のあなたの《マスター》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "Flavor": "ええ。的確な判断ですわ、マスター\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_074.gif"
+}

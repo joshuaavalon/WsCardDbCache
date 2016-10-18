@@ -1,0 +1,19 @@
+{
+  "Name": "SDチョロ松",
+  "Serial": "OMS/S41-103",
+  "Rarity": "PR",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "オタク",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "ツッコミには定評あり。あとＭＣと裏回しもいけまーす\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_103.gif"
+}

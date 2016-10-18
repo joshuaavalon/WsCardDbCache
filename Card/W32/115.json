@@ -1,0 +1,19 @@
+{
+  "Name": "“守護騎士”シャマル",
+  "Serial": "N2/W32-115",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
+  "Flavor": "はやてちゃんが闇の書の主として\n『まことの覚醒』を得れば\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_115.gif"
+}

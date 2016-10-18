@@ -1,0 +1,19 @@
+{
+  "Name": "“龍の気”拳崇",
+  "Serial": "KF/S05-094",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "竜",
+  "Text": "-",
+  "Flavor": "体の奥からあふれてくるこの力……\nこれが“龍の気”の力かいな……！？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_094.gif"
+}

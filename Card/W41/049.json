@@ -1,0 +1,19 @@
+{
+  "Name": "輿水 幸子",
+  "Serial": "IMC/W41-049",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カワイイ",
+  "Text": "【永】 このカードのレベルを＋1。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
+  "Flavor": "これもボクがカワイイからですかね～？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_049.gif"
+}

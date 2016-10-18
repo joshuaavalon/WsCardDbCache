@@ -1,0 +1,19 @@
+{
+  "Name": "水着のアリス",
+  "Serial": "DC/WE08-43",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "人形",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚を公開する。そのカードが自分のレベル以下のレベルのキャラなら、舞台の好きな枠に置いてよい。（そうしないなら元に戻す）",
+  "Flavor": "子供っぽいですか……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_43.gif"
+}

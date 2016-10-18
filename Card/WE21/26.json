@@ -1,0 +1,19 @@
+{
+  "Name": "炎の熱血鬼コーチ 恭介",
+  "Serial": "LB/WE21-26",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "Flavor": "特訓だ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LB_WE21_26.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "エティア・ヴィスコンティ",
+  "Serial": "GT/W29-034",
+  "Rarity": "U",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "日傘",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】［(1) このカードを【レスト】する］ あなたは他の自分の《タロット》のキャラを1枚選び、【スタンド】する。",
+  "Flavor": "どうもありがとう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_034.gif"
+}

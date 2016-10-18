@@ -1,0 +1,19 @@
+{
+  "Name": "水着の二人 穂乃果＆海未",
+  "Serial": "LL/WE19-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "穂乃果「とりあえず……海だ！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we19_p02.gif"
+}

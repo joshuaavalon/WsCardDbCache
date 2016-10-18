@@ -1,0 +1,19 @@
+{
+  "Name": "餓狼伝説チーム",
+  "Serial": "KF/S05-071",
+  "Rarity": "U",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「テリー」か「アンディ」か「ジョー」を含むキャラがいないなら、手札からプレイできない。\nあなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "テリー「一応、大会では常連なんでね。このくらいの活躍は当然さ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_071.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "白露型駆逐艦1番艦 白露",
+  "Serial": "KC/S25-142",
+  "Rarity": "U",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+  "Flavor": "え？慌ててタンカーと衝突しないようにって？大丈夫！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_142.gif"
+}

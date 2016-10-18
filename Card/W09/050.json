@@ -1,0 +1,19 @@
+{
+  "Name": "伝えるということ",
+  "Serial": "DC/W09-050",
+  "Rarity": "CC",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "ななか「わたしも……小恋と同じくらい真剣に義之くんのこと、好きだから！」\n",
+  "Trigger": "Bag",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_050.gif"
+}

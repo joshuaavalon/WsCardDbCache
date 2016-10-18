@@ -1,0 +1,19 @@
+{
+  "Name": "主人公＆タナトス",
+  "Serial": "P3/S01-11T",
+  "Rarity": "C",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "神",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_11t.gif"
+}

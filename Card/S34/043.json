@@ -1,0 +1,19 @@
+{
+  "Name": "自意識過剰 慎二",
+  "Serial": "FS/S34-043",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "スポーツ",
+  "Text": "【自】[(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。",
+  "Flavor": "なんだよ遠坂、弓道に興味はなかったのか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_043.gif"
+}

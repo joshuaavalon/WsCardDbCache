@@ -1,0 +1,19 @@
+{
+  "Name": "魔戦斧グランヴェール",
+  "Serial": "DD/WE12-13",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "Flavor": "レオ「ガレットの宝剣、魔戦斧グランヴェールと、\n神剣エクスマキナ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_13.gif"
+}

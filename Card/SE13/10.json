@@ -1,0 +1,19 @@
+{
+  "Name": "二本の魔槍 ランサー",
+  "Serial": "FZ/SE13-10",
+  "Rarity": "R",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のカード名に「ランサー」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "Flavor": "ここに至って汗一つかかんとは、\n女だてらに見上げた奴だ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_10.gif"
+}

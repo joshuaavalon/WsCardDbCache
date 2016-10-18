@@ -1,0 +1,19 @@
+{
+  "Name": "守るべきもの シャナ",
+  "Serial": "SS/W14-056",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "武器",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「想いの力」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "誰だろうと関係ない、悠二を返してもらう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_056.gif"
+}

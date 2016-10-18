@@ -1,0 +1,19 @@
+{
+  "Name": "“Happy maker!”西木野 真姫",
+  "Serial": "LL/W34-070",
+  "Rarity": "RR",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_070.gif"
+}

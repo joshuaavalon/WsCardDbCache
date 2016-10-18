@@ -1,0 +1,19 @@
+{
+  "Name": "予想通りの展開 戦場ヶ原ひたぎ",
+  "Serial": "MG/S39-069",
+  "Rarity": "C",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "",
+  "Text": "【永】 あなたの、緑のキャラと赤のキャラがそれぞれ2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+  "Flavor": "火憐「翼さんの寝床はある……そして正義もある！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_069.gif"
+}

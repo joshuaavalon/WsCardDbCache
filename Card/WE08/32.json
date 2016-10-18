@@ -1,0 +1,19 @@
+{
+  "Name": "水着のななか",
+  "Serial": "DC/WE08-32",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）",
+  "Flavor": "せっかくだから、ふたりっきりで遊ぼ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_32.gif"
+}

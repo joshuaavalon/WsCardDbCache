@@ -1,0 +1,19 @@
+{
+  "Name": "スカロン",
+  "Serial": "ZM/W03-028",
+  "Rarity": "R",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "オカマ",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋500。",
+  "Flavor": "スカロン「遂にわたしの美しさが世間に認められたのよ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_028.gif"
+}

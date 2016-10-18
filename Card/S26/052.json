@@ -1,0 +1,19 @@
+{
+  "Name": "制服の珪子",
+  "Serial": "SAO/S26-052",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "趣味悪いですよ、覗きなんて\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_052.gif"
+}

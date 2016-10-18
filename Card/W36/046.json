@@ -1,0 +1,19 @@
+{
+  "Name": "“夕涼みガール”南 ことり",
+  "Serial": "LL/W36-046",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“夏祭りデート”南 ことり」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "今日はμ'sの練習、お休みなんだ。一緒に遊びに行く～？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_046.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "まどろみの図書館",
+  "Serial": "MK/S33-048",
+  "Rarity": "CR",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "-\n",
+  "Trigger": "Gold",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_048.gif"
+}

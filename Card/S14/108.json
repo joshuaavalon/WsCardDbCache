@@ -1,0 +1,19 @@
+{
+  "Name": "新たなる挑戦！765プロ",
+  "Serial": "IM/S14-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "テレビ",
+  "Text": "【起】 [(2) このカードを【レスト】する] あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "律子「アニメの方も、しっかりチェックしてくださいね！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_108.gif"
+}

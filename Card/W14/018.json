@@ -1,0 +1,19 @@
+{
+  "Name": "坂井 千草",
+  "Serial": "SS/W14-018",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "愛",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《炎》のキャラすべてに、パワーを＋500。",
+  "Flavor": "簡単なようで難しい質問ね、シャナちゃん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_018.gif"
+}

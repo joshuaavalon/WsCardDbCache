@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘態勢 戦場ヶ原ひたぎ",
+  "Serial": "BM/S15-061",
+  "Rarity": "U",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "文房具",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "ああ、違うわ――『動いてもいいけれど、とても危険よ』というのが、正しかったのね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_061.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ジュピターとの対決！",
+  "Serial": "IM/S14-097",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のクロックの上から1枚を、控え室に置いてよい。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。",
+  "Flavor": "千早「プロデューサー、見ていてください。\n私達は負けません、この絆がある限り！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_097.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "追いかけるクリス",
+  "Serial": "SG/W27-068",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "お、おい！ケツをまくんのか！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_068.gif"
+}

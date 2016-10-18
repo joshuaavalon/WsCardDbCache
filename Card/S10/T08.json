@@ -1,0 +1,19 @@
+{
+  "Name": "リーズバイフェ・ストリンドヴァリ",
+  "Serial": "MB/S10-T08",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "盾",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "私はリーズバイフェ・ストリンドヴァリ。主の為に祈る、小さきものたちを守護する盾の騎士\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_t08.gif"
+}

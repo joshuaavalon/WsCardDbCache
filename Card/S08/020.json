@@ -1,0 +1,19 @@
+{
+  "Name": "マヨナカテレビ",
+  "Serial": "P4/S08-020",
+  "Rarity": "U",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】し、相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置く。",
+  "Flavor": "我は汝…、汝は我…\n汝、扉を…開く者よ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_020.gif"
+}

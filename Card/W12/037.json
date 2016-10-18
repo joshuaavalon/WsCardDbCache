@@ -1,0 +1,19 @@
+{
+  "Name": "未来を変える力 クロノ",
+  "Serial": "NA/W12-037",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを-2000。\n【自】 このカードがアタックした時、クライマックス置場に「エターナルコフィン」があるなら、あなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。",
+  "Flavor": "無くしてしまった過去を変えることはできない……\nだから……今を戦って、未来を変えます\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_037.gif"
+}

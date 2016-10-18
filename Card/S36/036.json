@@ -1,0 +1,19 @@
+{
+  "Name": "“必殺必中の一撃”ランサー",
+  "Serial": "FS/S36-036",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】［手札の《武器》のキャラを1枚控え室に置き、他のあなたの【スタンド】している緑のキャラを1枚【レスト】する］ このカードがアタックした時、クライマックス置場に「“刺し穿つ死棘の槍”」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－3000。",
+  "Flavor": "その心臓、貰い受ける―！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_036.gif"
+}

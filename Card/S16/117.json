@@ -1,0 +1,19 @@
+{
+  "Name": "ちみいのり",
+  "Serial": "GC/S16-117",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "-",
+  "Flavor": "く～きゅるるる…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_117.gif"
+}

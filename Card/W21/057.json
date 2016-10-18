@@ -1,0 +1,19 @@
+{
+  "Name": "教室まで飛ばせ！",
+  "Serial": "LB/W21-057",
+  "Rarity": "U",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたの舞台のキャラの持つ色の合計が3色以上なら、あなたは自分の控え室のキャラを3枚まで選び、手札に戻し、自分の手札を2枚選び、控え室に置く。",
+  "Flavor": "恭介「鈴を３階へ投げ入れるんだ。\n真人と謙吾が協力すれば簡単なことだ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_057.gif"
+}

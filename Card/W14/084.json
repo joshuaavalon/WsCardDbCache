@@ -1,0 +1,19 @@
+{
+  "Name": "フリアグネ&マリアンヌ",
+  "Serial": "SS/W14-084",
+  "Rarity": "U",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "人形",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』",
+  "Flavor": "ああ、私のかわいいマリアンヌ、優しいのは君の方だよ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_084.gif"
+}

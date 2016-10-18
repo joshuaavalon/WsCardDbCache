@@ -1,0 +1,19 @@
+{
+  "Name": "“無限六爪流”伊達 政宗",
+  "Serial": "SB/S06-085",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "眼帯",
+  "Text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋4000し、このカードの正面のキャラのソウルを＋1。\n【自】 あなたのクライマックス置場に「キング・オブ・伊達男」が置かれた時、このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
+  "Flavor": "Ha！…覚悟はいいか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_085.gif"
+}

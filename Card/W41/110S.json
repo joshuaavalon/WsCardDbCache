@@ -1,0 +1,19 @@
+{
+  "Name": "-LEGNE- 仇なす剣 光の旋律",
+  "Serial": "IMC/W41-110S",
+  "Rarity": "SR",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "目覚める夜に　今咆（ウタ）おう　雷の刃に　羽根を焦がしても\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

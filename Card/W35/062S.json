@@ -1,0 +1,19 @@
+{
+  "Name": "直感的なタイプ 杏子",
+  "Serial": "MM/W35-062S",
+  "Rarity": "SR",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】[(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "わけわかんねー事に巻き込みやがって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

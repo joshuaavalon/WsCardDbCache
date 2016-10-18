@@ -1,0 +1,19 @@
+{
+  "Name": "東京万博 あき穂",
+  "Serial": "RN/W16-001",
+  "Rarity": "RR",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「ロボットが世界を救う！」があるなら、あなたは自分の控え室の「スーパーガンつく１」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "おじゃりもうせ～！\n種子島ロボ部、これより始動します！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_001.gif"
+}

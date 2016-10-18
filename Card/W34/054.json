@@ -1,0 +1,19 @@
+{
+  "Name": "学校への招待 あんじゅ",
+  "Serial": "LL/W34-054",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列の、「学校への招待 ツバサ」と「学校への招待 英玲奈」がいるなら、このカードのレベルを＋1し、パワーを＋2000。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_054.gif"
+}

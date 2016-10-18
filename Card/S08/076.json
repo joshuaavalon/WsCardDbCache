@@ -1,0 +1,19 @@
+{
+  "Name": "浴衣のクマ",
+  "Serial": "P4/S08-076",
+  "Rarity": "RR",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "影",
+  "SecondChara": "和服",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 この能力は1ターンにつき3回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "夏祭りの夜、寄り添って歩くふたり…慣れない浴衣が着崩れて…夏\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_076.gif"
+}

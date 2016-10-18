@@ -1,0 +1,19 @@
+{
+  "Name": "中学三年生のアリサ＆すずか",
+  "Serial": "NA/W12-039",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《動物》のキャラの枚数×500に等しい。",
+  "Flavor": "はいはい、頑張ってコピーしやすいノート取るわよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_039.gif"
+}

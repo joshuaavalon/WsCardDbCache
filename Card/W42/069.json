@@ -1,0 +1,19 @@
+{
+  "Name": "“高エネルギー体接近”ララ",
+  "Serial": "TL/W42-069",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "科学",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "どうしたの？ペケ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_069.gif"
+}

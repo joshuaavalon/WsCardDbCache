@@ -1,0 +1,19 @@
+{
+  "Name": "ΦωΦver!! -Heart Beat Version-",
+  "Serial": "IMC/W43-121",
+  "Rarity": "CR",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "君と 君と 君と さあ進もう\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_121.gif"
+}

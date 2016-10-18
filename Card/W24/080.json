@@ -1,0 +1,19 @@
+{
+  "Name": "花陽の幼馴染 凛",
+  "Serial": "LL/W24-080",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らのLIVE 君とのLIFE”星空 凛」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_080.gif"
+}

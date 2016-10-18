@@ -1,0 +1,19 @@
+{
+  "Name": "“優柔不断”姫百合",
+  "Serial": "MK2/S19-038",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "警察",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "ちょっと待ってください、シャーロックさん！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_038.gif"
+}

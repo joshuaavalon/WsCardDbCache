@@ -1,0 +1,19 @@
+{
+  "Name": "真夏のビーチ シェリル＆ランカ",
+  "Serial": "MF/S13-009",
+  "Rarity": "U",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
+  "Flavor": "シェリル「捕まえられるもんなら、捕まえてごらんなさい」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_009.gif"
+}

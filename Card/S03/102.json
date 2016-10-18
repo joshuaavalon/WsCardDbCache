@@ -1,0 +1,19 @@
+{
+  "Name": "水着のセイバー＆桜",
+  "Serial": "FS/S03-102",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "水着",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "桜「先輩も一緒にどうですか？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_102.gif"
+}

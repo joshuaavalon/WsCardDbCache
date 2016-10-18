@@ -1,0 +1,19 @@
+{
+  "Name": "陽炎型駆逐艦7番艦 初風",
+  "Serial": "KC/S25-006",
+  "Rarity": "R",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500。\n【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。",
+  "Flavor": "出るわ！足手まといは置いてくわよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_006.gif"
+}

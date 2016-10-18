@@ -1,0 +1,19 @@
+{
+  "Name": "新しい朝 杏子",
+  "Serial": "MM/W35-075",
+  "Rarity": "C",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「新しい日常」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_075.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "窓辺の綾波",
+  "Serial": "EV/S12-102",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "眼帯",
+  "Text": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_102.gif"
+}

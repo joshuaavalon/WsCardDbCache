@@ -1,0 +1,19 @@
+{
+  "Name": "命の代償 雁夜",
+  "Serial": "FZ/S17-068",
+  "Rarity": "U",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "虫",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］ このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。』",
+  "Flavor": "待ってろよ…桜…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_068.gif"
+}

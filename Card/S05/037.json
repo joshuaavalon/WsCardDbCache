@@ -1,0 +1,19 @@
+{
+  "Name": "大門 五郎",
+  "Serial": "KF/S05-037",
+  "Rarity": "U",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "鉢巻",
+  "SecondChara": "",
+  "Text": "【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "受身がなっとらん\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_037.gif"
+}

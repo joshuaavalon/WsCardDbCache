@@ -1,0 +1,19 @@
+{
+  "Name": "吉永和花那",
+  "Serial": "GF/W38-025",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "私は吉永和花那。　演劇部の部長ね。\n君をスカウトに来たんだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_025.gif"
+}

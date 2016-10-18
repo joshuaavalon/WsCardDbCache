@@ -1,0 +1,19 @@
+{
+  "Name": "相棒《HecateⅡ》",
+  "Serial": "SAO/SE23-T20",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "距離１５００…？そんなの、丸めた紙を屑篭になげこむようなものだ\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_t20.gif"
+}

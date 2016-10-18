@@ -1,0 +1,19 @@
+{
+  "Name": "ダングルテールの虐殺",
+  "Serial": "ZM/W03-072",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたは相手にＸダメージを与える。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）（ダメージキャンセルは発生する）",
+  "Flavor": "アニエス「私の生まれた村は軍によって焼き払われた…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_072.gif"
+}

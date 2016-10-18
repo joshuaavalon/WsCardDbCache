@@ -1,0 +1,19 @@
+{
+  "Name": "真夜中デート 葵",
+  "Serial": "DC3/W18-075",
+  "Rarity": "R",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "ウェイトレス",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 このカードがアタックした時、あなたは自分の控え室のキャラを1枚選び、山札の下に置く。",
+  "Flavor": "うわ～、これが風見鶏に支給される\nボートの乗り心地なんですね！　すごいです！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_075.gif"
+}

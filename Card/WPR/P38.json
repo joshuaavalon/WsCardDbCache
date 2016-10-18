@@ -1,0 +1,19 @@
+{
+  "Name": "“着ぐるみ幻想”鈴田美夜子",
+  "Serial": "VA/WPR-P38",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビジュアルアーツ",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "わふー、みんな酸素をありがとうー\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p38.gif"
+}

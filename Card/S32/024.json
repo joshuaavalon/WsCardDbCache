@@ -1,0 +1,19 @@
+{
+  "Name": "DER ZITTERAAL 電撃生物",
+  "Serial": "TF/S32-024",
+  "Rarity": "CC",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "― 電気…この科学技術を生まれつき操る生物がいる ―\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_024.gif"
+}

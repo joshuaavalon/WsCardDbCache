@@ -1,0 +1,19 @@
+{
+  "Name": "いつものしんのすけ",
+  "Serial": "CS/S28-004",
+  "Rarity": "R",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "幼稚園",
+  "Text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《家族》か《幼稚園》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "ひろし「しんのすけ！」\nみさえ「元に戻ったのね！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_004.gif"
+}

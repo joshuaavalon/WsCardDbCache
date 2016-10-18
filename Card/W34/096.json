@@ -1,0 +1,19 @@
+{
+  "Name": "黄金米の誘惑",
+  "Serial": "LL/W34-096",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上から1枚見て、山札の上か下に置く。あなたは自分のカード名に「花陽」を含むキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1し、パワーを＋4000。",
+  "Flavor": "ハッハッ!!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_096.gif"
+}

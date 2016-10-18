@@ -1,0 +1,19 @@
+{
+  "Name": "そして、伝説へ……",
+  "Serial": "DG/S02-025",
+  "Rarity": "CC",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。",
+  "Flavor": "――ラズベリルの偉業は子々孫々へと永遠に語り継がれた――\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_025.gif"
+}

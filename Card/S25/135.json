@@ -1,0 +1,19 @@
+{
+  "Name": "蒼龍型正規空母 蒼龍",
+  "Serial": "KC/S25-135",
+  "Rarity": "R",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "正規空母",
+  "Text": "【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "対空見張りも厳として。よろしくねっ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_135.gif"
+}

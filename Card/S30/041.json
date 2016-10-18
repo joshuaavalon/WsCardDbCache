@@ -1,0 +1,19 @@
+{
+  "Name": "ステージへの決意 亜美",
+  "Serial": "IM/S30-041",
+  "Rarity": "C",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【永】 他のあなたの《双子》のキャラすべてに、パワーを＋500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-041.gif"
+}

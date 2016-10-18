@@ -1,0 +1,19 @@
+{
+  "Name": "お姉さん あずさ",
+  "Serial": "IM/S07-081",
+  "Rarity": "R",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【自】［(3)］ このカードがアタックした時、クライマックス置場に「隣に･･･」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
+  "Flavor": "私の思いが、皆さんに届きますように。\n『隣に…』聞いて下さい！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_081.gif"
+}

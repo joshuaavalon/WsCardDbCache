@@ -1,0 +1,19 @@
+{
+  "Name": "ステイル＝マグヌス",
+  "Serial": "ID/W10-093",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "タバコ",
+  "Text": "【自】 記憶 このカードとバトル中のキャラが【リバース】した時、あなたの思い出置場に「修道女 インデックス」があるなら、あなたはそのバトル中のキャラを山札の下に置いてよい。",
+  "Flavor": "重要なのは魔法名を名乗り上げた事でね\n僕達の間では、むしろ『殺し名』かな\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_093.gif"
+}

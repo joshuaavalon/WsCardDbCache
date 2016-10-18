@@ -1,0 +1,19 @@
+{
+  "Name": "汐の担任 杏",
+  "Serial": "CL/WE07-20",
+  "Rarity": "R",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "先生",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《双子》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "いい加減な事教えないでくれる！？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_20.gif"
+}

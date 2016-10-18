@@ -1,0 +1,19 @@
+{
+  "Name": "“守りの包帯”ちはや",
+  "Serial": "RW/W15-008",
+  "Rarity": "R",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "マスター",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "Flavor": "大丈夫、炎なら少しは防げます！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_008.gif"
+}

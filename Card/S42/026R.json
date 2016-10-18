@@ -1,0 +1,19 @@
+{
+  "Name": "第一機動部隊、出撃！",
+  "Serial": "KC/S42-026R",
+  "Rarity": "RRR",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "SECRET\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

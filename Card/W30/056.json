@@ -1,0 +1,19 @@
+{
+  "Name": "修羅場な万里花",
+  "Serial": "NK/W30-056",
+  "Rarity": "R",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「10年間の想い」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "……まあ、どちらが楽様に相応しいかを考えれば当然かと\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_056.gif"
+}

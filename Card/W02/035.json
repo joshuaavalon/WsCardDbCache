@@ -1,0 +1,19 @@
+{
+  "Name": "真人＆謙吾",
+  "Serial": "LB/W02-035",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "筋肉",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "鈴「馬鹿が二体か…困った幼なじみどもだな…」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_035.gif"
+}

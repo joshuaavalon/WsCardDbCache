@@ -1,0 +1,19 @@
+{
+  "Name": "最終形態 軽巡棲鬼",
+  "Serial": "KC/SE28-27SP",
+  "Rarity": "SP",
+  "Expansion": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "深海棲艦",
+  "SecondChara": "鬼",
+  "Text": "【永】 他のあなたの《深海棲艦》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

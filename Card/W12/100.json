@@ -1,0 +1,19 @@
+{
+  "Name": "愛する者の為に",
+  "Serial": "NA/W12-100",
+  "Rarity": "CC",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "祝福の風、リインフォース……\n私の魂は、きっとその子に宿ります\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_100.gif"
+}

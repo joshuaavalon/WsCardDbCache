@@ -1,0 +1,19 @@
+{
+  "Name": "あらたなる旅立ち 美夏",
+  "Serial": "DC/W23-053",
+  "Rarity": "R",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "バナナ",
+  "Text": "【永】 記憶 あなたの思い出置場に、「ワン・オブ・サウザンド」か「バナナパフェ」があるなら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたはこのカードのバトル相手を【リバース】してよい。』",
+  "Flavor": "じゃ、そういうことだ。\n悪いが義之も一緒に来てくれ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_053.gif"
+}

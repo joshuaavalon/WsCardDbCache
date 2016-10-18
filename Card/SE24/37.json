@@ -1,0 +1,19 @@
+{
+  "Name": "魔法のステッキ サファイア",
+  "Serial": "PI/SE24-37",
+  "Rarity": "U",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_37.gif"
+}

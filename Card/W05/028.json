@@ -1,0 +1,19 @@
+{
+  "Name": "おめかしつかさ",
+  "Serial": "LS/W05-028",
+  "Rarity": "R",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "お菓子",
+  "Text": "【自】 絆／「柊 かがみ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「柊 かがみ」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分の《双子》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "かがみ「このコ前から出かけたり遊ぶ時についてきて\n真似ばかりしてたのよねっ　ヒヨコみたいで可愛いんだけど」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_028.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“炎の心”穂乃果",
+  "Serial": "LL/W28-018",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "消防士",
+  "Text": "【自】 このカードがアタックした時、他のあなたの前列の中央の枠のキャラに、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "Flavor": "穂乃果隊員！出動です！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_018.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "魅惑のポーズ",
+  "Serial": "TL/W37-084",
+  "Rarity": "CC",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "こんなのとか？\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_084.gif"
+}

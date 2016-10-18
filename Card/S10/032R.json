@@ -1,0 +1,19 @@
+{
+  "Name": "霊子ハッカー シオン",
+  "Serial": "MB/S10-032R",
+  "Rarity": "RRR",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "錬金術",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［あなたのストックすべてを控え室に置く］ このカードがアタックした時、クライマックス置場に「友達のために」があり、あなたのストックが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを2枚まで選び、そのターン中、パワーを－Ｘ。Ｘはこの能力のコストで控え室に置かれたストックの枚数×1000に等しい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

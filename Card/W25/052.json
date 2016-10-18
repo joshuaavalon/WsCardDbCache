@@ -1,0 +1,19 @@
+{
+  "Name": "誰も傷つけないように",
+  "Serial": "N2/W25-052",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "フェイト「強くなろう…」\nなのは「悲しい事を、見過ごさずに済むように！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_052.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "歴戦の手練れ 翼",
+  "Serial": "SG/W27-083",
+  "Rarity": "R",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのレベルを＋1し、パワーを＋1500。",
+  "Flavor": "貴様みたいのはそうやって…\n見下ろしてばかりだから勝機を見落すッ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_083.gif"
+}

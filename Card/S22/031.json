@@ -1,0 +1,19 @@
+{
+  "Name": "“キミとふたりで”初音ミク",
+  "Serial": "PD/S22-031",
+  "Rarity": "R",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ 他のあなたの《音楽》のキャラすべてに、そのターン中、パワーを＋500。",
+  "Flavor": "キミとふたりで、奏でよう――\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_031.gif"
+}

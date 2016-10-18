@@ -1,0 +1,19 @@
+{
+  "Name": "幼い頃のあかね",
+  "Serial": "VR/W22-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マヨネーズ",
+  "SecondChara": "ランドセル",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "おか～さ～ん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_p04.gif"
+}

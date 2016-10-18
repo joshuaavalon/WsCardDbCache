@@ -1,0 +1,19 @@
+{
+  "Name": "新川 昌一",
+  "Serial": "SAO/SE23-08",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンラインII",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【永】 相手の前列のキャラすべてに、《標的》を与える。",
+  "Flavor": "菊岡「恭二にとって、兄は英雄に見えていたそうだ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_08.gif"
+}

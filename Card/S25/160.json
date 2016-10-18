@@ -1,0 +1,19 @@
+{
+  "Name": "給糧艦 間宮",
+  "Serial": "KC/S25-160",
+  "Rarity": "C",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。\nあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。",
+  "Flavor": "間宮のアイス、冷えてますよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_160.gif"
+}

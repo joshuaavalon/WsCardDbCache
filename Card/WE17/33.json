@@ -1,0 +1,19 @@
+{
+  "Name": "封印洞窟戦！ ユキカゼ",
+  "Serial": "DD/WE17-33",
+  "Rarity": "R",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "神",
+  "Text": "【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "服と靴は、拙者が忍術でなんとかしたでござる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_33.gif"
+}

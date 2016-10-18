@@ -1,0 +1,19 @@
+{
+  "Name": "指揮官フィリップ",
+  "Serial": "SE/S04-089",
+  "Rarity": "C",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(3)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト1以下の《筋肉》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。そのターン中、そのキャラのパワーを＋2000。",
+  "Flavor": "ついに、おいつめたぞ。うす汚い魔族どもめ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_089.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "いつもの長門",
+  "Serial": "SY/W08-102",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "本",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《宇宙人》のキャラの枚数×500に等しい。",
+  "Flavor": " わりと \n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_102.gif"
+}

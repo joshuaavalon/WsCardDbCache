@@ -1,0 +1,19 @@
+{
+  "Name": "綾瀬機シュタイナー",
+  "Serial": "GC/S16-096",
+  "Rarity": "U",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "綾瀬「次のターゲットは？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_096.gif"
+}

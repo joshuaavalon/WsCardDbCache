@@ -1,0 +1,19 @@
+{
+  "Name": "傲慢な態度 ダリル",
+  "Serial": "GC/S16-061",
+  "Rarity": "U",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "軍隊",
+  "SecondChara": "オペレーター",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは赤以外の自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "……冗談はやめてよ。\n僕にその脂身に触れって言うの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_061.gif"
+}

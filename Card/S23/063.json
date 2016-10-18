@@ -1,0 +1,19 @@
+{
+  "Name": "のんびり サーヤ",
+  "Serial": "GG/S23-063",
+  "Rarity": "U",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "手紙",
+  "SecondChara": "",
+  "Text": "【起】［あなたの《手紙》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "男の子に人質にされたんでしょう？　年は？　顔は？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_063.gif"
+}

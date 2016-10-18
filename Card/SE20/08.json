@@ -1,0 +1,19 @@
+{
+  "Name": "セララ",
+  "Serial": "LH/SE20-08",
+  "Rarity": "R",
+  "Expansion": "ログ・ホライズン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "まだ駆け出しの『森呪遣い』で、レベル19のひよっこです\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_08.gif"
+}

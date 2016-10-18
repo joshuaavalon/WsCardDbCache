@@ -1,0 +1,19 @@
+{
+  "Name": "小悪魔的微笑み 凛",
+  "Serial": "FS/S34-054",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "宝石",
+  "Text": "【永】 他のあなたのカード名に「凛」か「アーチャー」を含むキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
+  "Flavor": "心の贅肉ね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_054.gif"
+}

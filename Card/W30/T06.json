@@ -1,0 +1,19 @@
+{
+  "Name": "三角関係？ 千棘",
+  "Serial": "NK/W30-T06",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "令嬢",
+  "SecondChara": "鍵",
+  "Text": "【永】 他のあなたの、《鍵》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "そっ！そうよ、誰がこんな……！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_t06.gif"
+}

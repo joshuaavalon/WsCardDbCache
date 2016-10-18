@@ -1,0 +1,19 @@
+{
+  "Name": "桜 ミミ子",
+  "Serial": "CS/S28-042",
+  "Rarity": "C",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "助手",
+  "SecondChara": "科学",
+  "Text": "【自】［(3) あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アクション仮面」を1枚選び、舞台のキャラのいない枠に【レスト】して置き、このカードをそのカードの下にマーカーとして裏向きに置く。",
+  "Flavor": "ステキ！アクション仮面！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_042.gif"
+}

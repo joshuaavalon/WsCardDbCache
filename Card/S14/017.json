@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス やよい",
+  "Serial": "IM/S14-017",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「LUCKY RABBIT」があるなら、そのターン中、このカードのパワーを＋2500。",
+  "Flavor": "うわ～っ！この衣装、ピカピカで\nキラキラで、きれいかもーっ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_017.gif"
+}

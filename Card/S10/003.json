@@ -1,0 +1,19 @@
+{
+  "Name": "とある日のレン",
+  "Serial": "MB/S10-003",
+  "Rarity": "R",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に｢志貴｣を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "…………\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_003.gif"
+}

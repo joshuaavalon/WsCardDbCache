@@ -1,0 +1,19 @@
+{
+  "Name": "睦月型駆逐艦8番艦 長月改",
+  "Serial": "KC/S42-102",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "新しい仲間か、楽しみだな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_102.gif"
+}

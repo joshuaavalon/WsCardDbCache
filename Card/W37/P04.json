@@ -1,0 +1,19 @@
+{
+  "Name": "“プリンセスドレス”美柑＆ララ",
+  "Serial": "TL/W37-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "家事",
+  "Text": "【起】［あなたの、カード名に「ララ」を含むキャラとカード名に「美柑」を含むキャラを1枚ずつ【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_p04.gif"
+}

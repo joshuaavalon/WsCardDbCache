@@ -1,0 +1,19 @@
+{
+  "Name": "不甲斐無い思い 翼",
+  "Serial": "SG/W27-088",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "愉快でいられる道理がない！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_088.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "戦いに身を置く翼",
+  "Serial": "SG/W19-102",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
+  "Flavor": "…剣に、そんな感情など備わっていません…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_102.gif"
+}

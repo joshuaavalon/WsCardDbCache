@@ -1,0 +1,19 @@
+{
+  "Name": "マオ＆ラズベリル",
+  "Serial": "DG/S02-012",
+  "Rarity": "C",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "不良",
+  "Text": "-",
+  "Flavor": "ラズベリル「アタイとマオは宿敵と書いて「とも」と呼ぶ仲！ \n赤の他人じゃないよ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_012.gif"
+}

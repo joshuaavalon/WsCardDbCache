@@ -1,0 +1,19 @@
+{
+  "Name": "ぷちシロエ",
+  "Serial": "LH/SE20-45",
+  "Rarity": "C",
+  "Expansion": "ログ・ホライズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "メガネ",
+  "Text": "-",
+  "Flavor": "気づくと……ボクはそこに居た\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_45.gif"
+}

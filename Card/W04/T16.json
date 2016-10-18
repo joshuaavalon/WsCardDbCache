@@ -1,0 +1,19 @@
+{
+  "Name": "ゼスト・グランガイツ",
+  "Serial": "NS/W04-T16",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "ユニゾン",
+  "Text": "-",
+  "Flavor": "若いな……だがいい騎士だ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_t16.gif"
+}

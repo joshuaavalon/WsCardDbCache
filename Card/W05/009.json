@@ -1,0 +1,19 @@
+{
+  "Name": "みゆき＆みなみ",
+  "Serial": "LS/W05-009",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "動物",
+  "Text": "【起】［あなたの《メガネ》のキャラを1枚【レスト】する］ あなたは自分の《メガネ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "みなみ「ほめてくれるのはわかるけど―――\n何か素直に喜べない」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_009.gif"
+}

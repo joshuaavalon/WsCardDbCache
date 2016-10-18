@@ -1,0 +1,19 @@
+{
+  "Name": "初音ミク“壱ノ桜・桜花”",
+  "Serial": "PD/S22-030R",
+  "Rarity": "RRR",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「千本桜」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×3000に等しい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

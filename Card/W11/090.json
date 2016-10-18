@@ -1,0 +1,19 @@
+{
+  "Name": "クドの味方 あーちゃん先輩",
+  "Serial": "KW/W11-090",
+  "Rarity": "C",
+  "Expansion": "Angel Beats! ＆ クドわふたー",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「クド」を含むキャラすべてに、パワーを＋500。",
+  "Flavor": "今も自分にできることを一途に頑張っている最中です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_090.gif"
+}

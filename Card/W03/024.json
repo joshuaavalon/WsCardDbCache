@@ -1,0 +1,19 @@
+{
+  "Name": "タバサの秘密",
+  "Serial": "ZM/W03-024",
+  "Rarity": "CC",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "ペルスラン「王家は、困難な生還不可能と言われるような仕事を言いつけるようになったのです」\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_024.gif"
+}

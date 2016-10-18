@@ -1,0 +1,19 @@
+{
+  "Name": "ポジティブ！",
+  "Serial": "IM/S14-050",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "１、２、３！　行けばわかるのさ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_050.gif"
+}

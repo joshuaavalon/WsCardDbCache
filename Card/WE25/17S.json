@@ -1,0 +1,19 @@
+{
+  "Name": "“エリーの懺悔室”絵里",
+  "Serial": "LL/WE25-17S",
+  "Rarity": "SR",
+  "Expansion": "ラブライブ！ feat. スクールアイドルフェスティバル バラエティセット",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "シスター",
+  "Text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "あなたの懺悔……聞いてあげるわよ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we25_17s.gif"
+}

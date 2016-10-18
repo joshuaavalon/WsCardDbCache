@@ -1,0 +1,19 @@
+{
+  "Name": "天真爛漫 マト",
+  "Serial": "BR/SE06-21",
+  "Rarity": "R",
+  "Expansion": "ブラック★ロックシューター",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《スポーツ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "今日どっか寄ってく？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/br_se06_21.gif"
+}

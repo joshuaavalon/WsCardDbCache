@@ -1,0 +1,19 @@
+{
+  "Name": "ストイックなせいら",
+  "Serial": "GT/W29-T09",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "あかり「え、一日200回も腹筋してるの！？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_t09.gif"
+}

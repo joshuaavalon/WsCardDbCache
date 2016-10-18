@@ -1,0 +1,19 @@
+{
+  "Name": "別れの時間 はやて",
+  "Serial": "N2/W32-087",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。",
+  "Flavor": "……なんでや…これからやっと始まるのに……\nこれからうんと、幸せにしたげなあかんのに…！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_087.gif"
+}

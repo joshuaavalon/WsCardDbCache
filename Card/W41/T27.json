@@ -1,0 +1,19 @@
+{
+  "Name": "特訓中！？ かな子",
+  "Serial": "IMC/W41-T27",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お菓子",
+  "Text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "なんでやねん！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_t27.gif"
+}

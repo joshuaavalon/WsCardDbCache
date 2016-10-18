@@ -1,0 +1,19 @@
+{
+  "Name": "鎧の少女 クリス",
+  "Serial": "SG/W19-041",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "ふんッ、まるで、できそこない！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_041.gif"
+}

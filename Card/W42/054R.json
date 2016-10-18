@@ -1,0 +1,19 @@
+{
+  "Name": "“興味津々な目”ララ",
+  "Serial": "TL/W42-054R",
+  "Rarity": "RRR",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "科学",
+  "Text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが、《宇宙人》か《科学》なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "そういえばリトのハダカってあんまりちゃんと見た事ないなーって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

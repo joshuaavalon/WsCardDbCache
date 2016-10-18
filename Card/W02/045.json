@@ -1,0 +1,19 @@
+{
+  "Name": "お掃除大すき♪",
+  "Serial": "LB/W02-045",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを2枚まで選び、【スタンド】する。",
+  "Flavor": "そうじっ、おそうじっ、おおそうじ～っ♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_045.gif"
+}

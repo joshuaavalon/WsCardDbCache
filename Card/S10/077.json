@@ -1,0 +1,19 @@
+{
+  "Name": "正義の吸血鬼 さつき",
+  "Serial": "MB/S10-077",
+  "Rarity": "RR",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "血",
+  "SecondChara": "",
+  "Text": "【自】 あなたのクライマックス置場に「固有結界・枯渇庭園」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のレベル1以下の《血》のキャラを1枚選び、前列のキャラのいない枠に置いてよい。",
+  "Flavor": "ダメ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_077.gif"
+}

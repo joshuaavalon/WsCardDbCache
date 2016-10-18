@@ -1,0 +1,19 @@
+{
+  "Name": "優しい横顔 小咲",
+  "Serial": "NK/W30-T10",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "なんかまたケガ増えたね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_t10.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "闇咲 逢魔",
+  "Serial": "ID/W13-095",
+  "Rarity": "C",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "…討魔の弦\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_095.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“SUNNY DAY SONG”矢澤 にこ",
+  "Serial": "LL/WE24-10",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！The School Idol Movie",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we24_10.gif"
+}

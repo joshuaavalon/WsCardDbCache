@@ -1,0 +1,19 @@
+{
+  "Name": "お姉ちゃん同士 美嘉",
+  "Serial": "IMC/W43-010",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ギャル",
+  "Text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "これからお姉ちゃん同士、協力していこ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_010.gif"
+}

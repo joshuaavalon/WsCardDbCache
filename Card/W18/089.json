@@ -1,0 +1,19 @@
+{
+  "Name": "天性のトラブルメイカー 杉並",
+  "Serial": "DC3/W18-089",
+  "Rarity": "C",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "新聞",
+  "Text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "その俺が断言するのだ。それを信じろ。\n貴様なら、この危機的状況を切り抜けられる！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_089.gif"
+}

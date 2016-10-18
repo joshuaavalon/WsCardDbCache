@@ -1,0 +1,19 @@
+{
+  "Name": "食欲の夏 サトカ",
+  "Serial": "SGS/S37-015",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "探偵",
+  "Text": "【永】 他のあなたのカード名に「悠水」を含むキャラがいるなら、このカードのパワーを＋3000し、このカードは次の能力を得る。『【永】 他のあなたのカード名に「悠水」を含むキャラすべてに、《神》を与える。』",
+  "Flavor": "暑い……これすなわち人生とは\n流しそうめんのごとく……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_015.gif"
+}

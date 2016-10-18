@@ -1,0 +1,19 @@
+{
+  "Name": "空を見上げる集",
+  "Serial": "GC/S16-031",
+  "Rarity": "R",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "葬儀社",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは自分のストックの上から1枚を、控え室に置く。\n【自】 このカードがアタックした時、クライマックス置場に｢王の素質｣があるなら、あなたは自分のストックの上から1枚を、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "その人と心を通わせれば、\n僕の力も変わっていくんだろうか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_031.gif"
+}

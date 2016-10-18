@@ -1,0 +1,19 @@
+{
+  "Name": "中学三年生のフェイト",
+  "Serial": "NA/W12-009",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "クローン",
+  "Text": "【自】 絆／「祝福するなのは」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「祝福するなのは」を1枚選び、手札に戻す）",
+  "Flavor": "ありがとうございます……母さん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_009.gif"
+}

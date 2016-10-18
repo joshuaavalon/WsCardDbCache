@@ -1,0 +1,19 @@
+{
+  "Name": "見事なカウンター",
+  "Serial": "DC/W01-070",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手に5ダメージを与える。",
+  "Flavor": "……痛い\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_070.gif"
+}

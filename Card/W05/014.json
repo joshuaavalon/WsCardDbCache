@@ -1,0 +1,19 @@
+{
+  "Name": "夢見る乙女つかさ",
+  "Serial": "LS/W05-014",
+  "Rarity": "C",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "お菓子",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《お菓子》のキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。』",
+  "Flavor": "こういう誰もが特別って思える日に告白されたりしたりして\n想いが通じ合ったらすごく素敵だなって思うもん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_014.gif"
+}

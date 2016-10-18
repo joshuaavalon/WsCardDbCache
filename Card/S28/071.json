@@ -1,0 +1,19 @@
+{
+  "Name": "ひろしの靴",
+  "Serial": "CS/S28-071",
+  "Rarity": "U",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、パワーを＋4500。",
+  "Flavor": "とーちゃんはとーちゃんなんだよ！この匂いわかるでしょ！？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_071.gif"
+}

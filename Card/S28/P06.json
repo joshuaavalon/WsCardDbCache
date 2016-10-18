@@ -1,0 +1,19 @@
+{
+  "Name": "“ちょー便利なロボとーちゃん” ひろし",
+  "Serial": "CS/S28-P06",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "メカ",
+  "Text": "【起】［あなたの『応援』を持つキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "オレのコンピュータは。\n他のコンピュータと同調して操作できるんだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_p06.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "悩める乙女 リーファ",
+  "Serial": "SAO/S26-030",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "う～ん……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_030.gif"
+}

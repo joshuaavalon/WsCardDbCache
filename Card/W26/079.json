@@ -1,0 +1,19 @@
+{
+  "Name": "超電磁砲",
+  "Serial": "RG/W26-079",
+  "Rarity": "CC",
+  "Expansion": "とある科学の超電磁砲S",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "ゼッタイテキなチカラ？　ムテキ？\nそんな…そんなことでアンタはっ…！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_079.gif"
+}

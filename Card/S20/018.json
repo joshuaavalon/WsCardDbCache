@@ -1,0 +1,19 @@
+{
+  "Name": "ラフィン・コフィン",
+  "Serial": "SAO/S20-018",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【起】［(1) あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋1500し、ソウルを＋1。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_018.gif"
+}

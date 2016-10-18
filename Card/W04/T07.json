@@ -1,0 +1,19 @@
+{
+  "Name": "烈火の将シグナム",
+  "Serial": "NS/W04-T07",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "ユニゾン",
+  "Text": "【永】 他のあなたの、「金の閃光 フェイト」と「エリオ＆キャロ」がいるなら、あなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\n【自】［(2)］ このカードがアタックした時、クライマックス置場に「火龍・一閃！！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを１枚選び、ストック置場に置く。",
+  "Flavor": "おまえとの融合は……不思議と心が温かい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_t07.gif"
+}

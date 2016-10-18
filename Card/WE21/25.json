@@ -1,0 +1,19 @@
+{
+  "Name": "破顔十笑 謙吾",
+  "Serial": "LB/WE21-25",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの、《スポーツ》か《筋肉》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［手札を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "ハッハッハ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LB_WE21_25.gif"
+}

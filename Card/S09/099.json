@@ -1,0 +1,19 @@
+{
+  "Name": "氷雪砲",
+  "Serial": "FT/S09-099",
+  "Rarity": "CC",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "-\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_099.gif"
+}

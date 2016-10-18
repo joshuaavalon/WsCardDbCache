@@ -1,0 +1,19 @@
+{
+  "Name": "八九寺真宵",
+  "Serial": "BM/S15-002",
+  "Rarity": "RR",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "霊",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋1。\n【自】 経験 このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "見かけたら、話しかけてくださいね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_002.gif"
+}

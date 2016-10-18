@@ -1,0 +1,19 @@
+{
+  "Name": "“ライジングシコースキー”チョロ松",
+  "Serial": "OMS/S41-035",
+  "Rarity": "R",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "オタク",
+  "Text": "【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「チョロ松ライジング」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。",
+  "Flavor": "無理だよ、帰ろうよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_035.gif"
+}

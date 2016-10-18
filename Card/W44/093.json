@@ -1,0 +1,19 @@
+{
+  "Name": "“ラビットハウスの日常”チノ",
+  "Serial": "GU/W44-093",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「ラビットハウスへようこそ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの《ラビットハウス》のキャラの枚数×500に等しい。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_093.gif"
+}

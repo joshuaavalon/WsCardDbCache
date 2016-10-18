@@ -1,0 +1,19 @@
+{
+  "Name": "支配する生徒会長 皐月",
+  "Serial": "KLK/S27-T20",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは1枚引く。",
+  "Flavor": "答えが知りたければ腕で聞け\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t20.gif"
+}

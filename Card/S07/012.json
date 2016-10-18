@@ -1,0 +1,19 @@
+{
+  "Name": "いたずら好きな亜美＆真美",
+  "Serial": "IM/S07-012",
+  "Rarity": "U",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［このカードを思い出にする］ あなたは自分の控え室の「双海 亜美」を1枚までと「双海 真美」を1枚まで選び、舞台の別々の枠に置く。そのターン中、それらのキャラのパワーを＋3000し、ソウルを＋1。",
+  "Flavor": "ねぇねぇ、兄ちゃん！亜美と真美、どっちが好き～？\nあ、どっちも好きだよね！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_012.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“令呪による召喚”士郎",
+  "Serial": "FS/S36-004S",
+  "Rarity": "SR",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "頼む…来てくれ…セイバー!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "幻影魔術",
+  "Serial": "FS/S34-096",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "Flavor": "セイバー「ライダーのサーヴァント！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_096.gif"
+}

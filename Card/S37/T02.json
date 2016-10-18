@@ -1,0 +1,19 @@
+{
+  "Name": "“私服でお出かけ”伊緒",
+  "Serial": "SGS/S37-T02",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 このカードがアタックした時、あなたは自分の《ストライカー》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "今日はお部屋でのんびり。昨日買った雑誌を読もうかな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_t02.gif"
+}

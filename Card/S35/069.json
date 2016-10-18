@@ -1,0 +1,19 @@
+{
+  "Name": "“大胆な犯行”サシャ",
+  "Serial": "AOT/S35-069",
+  "Rarity": "U",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。\n【永】 舞台にこのカードがいるなら、このカードは《芋》を得る。\n【自】 このカードがアタックした時、クライマックス置場に「同期」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "それは『何ゆえ人は芋を食べるのか』という話でしょうか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_069.gif"
+}

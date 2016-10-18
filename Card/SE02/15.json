@@ -1,0 +1,19 @@
+{
+  "Name": "心に咲いた花ハッコー",
+  "Serial": "CN/SE02-15",
+  "Rarity": "R",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "病気",
+  "SecondChara": "動物",
+  "Text": "【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを-1。",
+  "Flavor": "サンタナ「いや……お前は、俺の心に咲いた花だよ。ハッコー」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_15.gif"
+}

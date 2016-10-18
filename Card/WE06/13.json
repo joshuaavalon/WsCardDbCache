@@ -1,0 +1,19 @@
+{
+  "Name": "月村 すずか",
+  "Serial": "N1/WE06-13",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、レベルを＋1。",
+  "Flavor": "……なのはちゃん、今日もだめなんだよね？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_we06_13.gif"
+}

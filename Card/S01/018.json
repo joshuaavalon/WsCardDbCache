@@ -1,0 +1,19 @@
+{
+  "Name": "タルタロス",
+  "Serial": "P3/S01-018",
+  "Rarity": "R",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のキャラを1枚選び、そのターン中、レベルを-1。",
+  "Flavor": "これが”タルタロス”…影時間の中だけに現れる”迷宮”だ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_018.gif"
+}

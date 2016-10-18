@@ -1,0 +1,19 @@
+{
+  "Name": "“稽古中”園田 海未",
+  "Serial": "LL/W36-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "『ここは私に任せておけ！　君は逃げるんだ。さあ、早く！』……なーんて。似合っていますか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_p02.gif"
+}

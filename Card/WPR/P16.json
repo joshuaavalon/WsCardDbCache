@@ -1,0 +1,19 @@
+{
+  "Name": "“シャレオツ業界人（）”どんまる",
+  "Serial": "VA/WPR-P16",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビジュアルアーツ",
+  "SecondChara": "仏像",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "犬（ハルちゃん）をもふもふしたい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p16.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "藤師しょー",
+  "Serial": "FS/S03-017",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "マーヴェラス！　ベラボー！　おおベラボー！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_017.gif"
+}

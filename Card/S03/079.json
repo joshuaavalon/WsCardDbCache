@@ -1,0 +1,19 @@
+{
+  "Name": "三枝 由紀香",
+  "Serial": "FS/S03-079",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "マネージャー",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、レベルを＋1。",
+  "Flavor": "よ、良かったら\nお昼ごはん一緒に食べませんか……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_079.gif"
+}

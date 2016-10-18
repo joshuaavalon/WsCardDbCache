@@ -1,0 +1,19 @@
+{
+  "Name": "七夜 志貴",
+  "Serial": "MB/S10-020",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "マスター",
+  "Text": "-",
+  "Flavor": "夏の雪に千切れて消えるのが、お互いに幸福なんだろうさ――――\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_020.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "合同レッスン絵理",
+  "Serial": "IM/S21-118",
+  "Rarity": "RE",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ネット",
+  "Text": "【起】 [他のあなたのキャラを2枚【レスト】する] あなたは自分のカード名に「愛」を含むキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのパワーを＋1000。",
+  "Flavor": "愛ちゃん、やさしく大きな声、出してみて？\nボリュームは大きく、ニュアンスはやわらかく\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_118.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "サムデイ イン ザ レイン",
+  "Serial": "SY/W08-075",
+  "Rarity": "CC",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "-\n",
+  "Trigger": "Door",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_075.gif"
+}

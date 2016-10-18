@@ -1,0 +1,19 @@
+{
+  "Name": "種の激変",
+  "Serial": "TF/S32-T04",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】している《虫》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て「“害虫の王”テラフォーマー」を3枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
+  "Flavor": "― 周囲には無数の屈強なゴキブリ。その手には恐らくバグズ１号に残された近代兵器 ―\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_t04.gif"
+}

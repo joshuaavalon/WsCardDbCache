@@ -1,0 +1,19 @@
+{
+  "Name": "伝説の舞台",
+  "Serial": "SB/S06-045",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、【スタンド】する。あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "身のほどをわきまえぬ下賤の者共、今川のいくさぶり、とくとみてたも！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_045.gif"
+}

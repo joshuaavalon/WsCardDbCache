@@ -1,0 +1,19 @@
+{
+  "Name": "納得いかないアスカ",
+  "Serial": "EV/S12-056",
+  "Rarity": "R",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "軍隊",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+  "Flavor": "私以外、誰も乗れないのに……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_056.gif"
+}

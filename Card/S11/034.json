@@ -1,0 +1,19 @@
+{
+  "Name": "そうじ好きなコーデリア",
+  "Serial": "MK/S11-034",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「メリーゴーランド」があるなら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "教官もそうは思いませんか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_034.gif"
+}

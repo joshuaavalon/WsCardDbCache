@@ -1,0 +1,19 @@
+{
+  "Name": "水泳大会 望月エレナ",
+  "Serial": "GF/W33-072",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
+  "Flavor": "今日は、ドキッ、水着だらけの水泳大会よ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_072.gif"
+}

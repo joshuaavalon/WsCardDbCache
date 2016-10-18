@@ -1,0 +1,19 @@
+{
+  "Name": "大人の都合と自分の目的",
+  "Serial": "EV/S12-050",
+  "Rarity": "CC",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "さよなら、エヴァ５号機。御役目御苦労さん\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_050.gif"
+}

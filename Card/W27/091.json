@@ -1,0 +1,19 @@
+{
+  "Name": "藤尭 朔也",
+  "Serial": "SG/W27-091",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "オペレーター",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "F.I.S.なんて事を……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_091.gif"
+}

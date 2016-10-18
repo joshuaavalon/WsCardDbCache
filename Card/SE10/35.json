@@ -1,0 +1,19 @@
+{
+  "Name": "ウェンディ・マーベル",
+  "Serial": "FT/SE10-35",
+  "Rarity": "R",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「天竜の咆哮」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、山札の下に置き、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "これは私がやらなきゃいけない事なんだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_35.gif"
+}

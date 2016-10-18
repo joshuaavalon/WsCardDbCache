@@ -1,0 +1,19 @@
+{
+  "Name": "エリーのアルバイト",
+  "Serial": "MK2/S19-048",
+  "Rarity": "CR",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "チェリー「いいモデルだ、エルくん！ 」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_048.gif"
+}

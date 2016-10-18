@@ -1,0 +1,19 @@
+{
+  "Name": "“みんなをひとつに”理樹",
+  "Serial": "LB/W21-P12",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て、《お菓子》か《動物》か《音楽》か《ビー玉》か《本》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "思い出してたんだ、むかしのこと\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_p12.gif"
+}

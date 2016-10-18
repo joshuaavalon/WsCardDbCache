@@ -1,0 +1,19 @@
+{
+  "Name": "決意の告白 リズベット",
+  "Serial": "SAO/S20-053",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "あたしをキリトの専属スミスにしてほしい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_053.gif"
+}

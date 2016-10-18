@@ -1,0 +1,19 @@
+{
+  "Name": "ドキドキプレゼント!? 美琴",
+  "Serial": "ID/W13-111",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "カエル",
+  "Text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "Flavor": "ヤバ…なんか胸がドキドキしてきた…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_111.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“39ゲット！”初音ミク",
+  "Serial": "PD/S22-039",
+  "Rarity": "U",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「ミク」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「ミク」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "キミと奏でたい、ずっと――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_039.gif"
+}

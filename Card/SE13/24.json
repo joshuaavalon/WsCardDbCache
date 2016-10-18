@@ -1,0 +1,19 @@
+{
+  "Name": "“妄想幻像”アサシン",
+  "Serial": "FZ/SE13-24",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "仮面",
+  "Text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【永】 他のあなたの「“妄想幻像”アサシン」すべてに、パワーを＋500。",
+  "Flavor": "綺礼「…お前ならばあの遠坂邸の\n要塞のような魔術結界も恐るるに足りぬだろう」　\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_24.gif"
+}

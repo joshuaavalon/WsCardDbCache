@@ -1,0 +1,19 @@
+{
+  "Name": "朝食の支度 はやて",
+  "Serial": "N2/W25-059S",
+  "Rarity": "SR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「八神家の朝」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋500。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

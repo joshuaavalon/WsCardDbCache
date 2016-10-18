@@ -1,0 +1,19 @@
+{
+  "Name": "マロン",
+  "Serial": "TL/W42-082",
+  "Rarity": "R",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《動物》か《霊》のキャラなら、あなたは相手のコスト0以下のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。（公開したカードは元に戻す）",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_082.gif"
+}

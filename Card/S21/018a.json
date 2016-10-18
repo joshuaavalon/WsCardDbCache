@@ -1,0 +1,19 @@
+{
+  "Name": "衣装変更",
+  "Serial": "IM/S21-018a",
+  "Rarity": "U",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の《音楽》のキャラを1枚選び、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3000。このカードを思い出にする。",
+  "Flavor": "Ｐ「よし、一緒に考えてみるか」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_018a.gif"
+}

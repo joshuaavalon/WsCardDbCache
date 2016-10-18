@@ -1,0 +1,19 @@
+{
+  "Name": "ちょっぴり甘えん坊 さら",
+  "Serial": "DC3/W18-088",
+  "Rarity": "C",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "はい、すごく楽しいです。\n最初はどうなるんだろうって緊張してましたけど\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_088.gif"
+}

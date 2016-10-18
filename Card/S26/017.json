@@ -1,0 +1,19 @@
+{
+  "Name": "《ケットシー》の領主 アリシャ・ルー",
+  "Serial": "SAO/S26-017",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "魔法",
+  "Text": "-",
+  "Flavor": "うそつきくんにしてはキミ、ずいぶん強いネ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_017.gif"
+}

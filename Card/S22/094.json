@@ -1,0 +1,19 @@
+{
+  "Name": "初音ミク“紫揚羽”",
+  "Serial": "PD/S22-094",
+  "Rarity": "C",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "植物",
+  "Text": "-",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_094.gif"
+}

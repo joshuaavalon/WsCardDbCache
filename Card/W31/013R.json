@@ -1,0 +1,19 @@
+{
+  "Name": "別れの言葉 かなで",
+  "Serial": "AB/W31-013R",
+  "Rarity": "RRR",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ あなたのクライマックス置場に「いつかどこかで」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

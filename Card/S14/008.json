@@ -1,0 +1,19 @@
+{
+  "Name": "私服の真美",
+  "Serial": "IM/S14-008",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【自】 絆／「竜宮小町 亜美」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「竜宮小町 亜美」を1枚選び、手札に戻す）\n【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "ねえねえ、亜美～！\n亜美もグラウンド整備手伝ってよー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_008.gif"
+}

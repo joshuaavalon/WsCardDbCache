@@ -1,0 +1,19 @@
+{
+  "Name": "姉妹の“イノチ” 香澄",
+  "Serial": "DC/W23-093",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "霊",
+  "SecondChara": "",
+  "Text": "【自】［(1) このカードを思い出にする］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
+  "Flavor": "だから、あたしも幽霊を探しに来たって言ってんの\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_093.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ボランティア巫女 麻耶",
+  "Serial": "DC/WE08-60",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "巫女",
+  "Text": "【自】 あなたのクライマックス置場に「委員長の巫女姿」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラならストック置場に置く。（そうでないなら元に戻す）\n【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "Flavor": "は、恥ずかしいから、あんまり見ないで……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_60.gif"
+}

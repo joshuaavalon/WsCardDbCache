@@ -1,0 +1,19 @@
+{
+  "Name": "鏡音リン“SW しましまビキニ”",
+  "Serial": "PD/S22-004S",
+  "Rarity": "SR",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたのカード名に「リン」か「レン」を含むキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

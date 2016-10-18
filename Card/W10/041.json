@@ -1,0 +1,19 @@
+{
+  "Name": "水泳部 泡浮",
+  "Serial": "RG/W10-041",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "よくお似合いですよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w10_041.gif"
+}

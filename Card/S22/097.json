@@ -1,0 +1,19 @@
+{
+  "Name": "FREELY TOMORROW",
+  "Serial": "PD/S22-097",
+  "Rarity": "CR",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "心ごと　体ごと　全部記憶の中の幻\n本当の　愛情が　指先から流れ出した\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_097.gif"
+}

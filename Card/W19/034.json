@@ -1,0 +1,19 @@
+{
+  "Name": "イチイバルを纏う戦士 クリス",
+  "Serial": "SG/W19-034",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "教えてやる！\nあたしは歌が大ッ嫌いだ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_034.gif"
+}

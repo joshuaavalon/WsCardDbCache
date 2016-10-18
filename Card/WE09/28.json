@@ -1,0 +1,19 @@
+{
+  "Name": "文芸部の有希",
+  "Serial": "SY/WE09-28",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "本",
+  "Text": "【永】相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_28.gif"
+}

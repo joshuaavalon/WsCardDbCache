@@ -1,0 +1,19 @@
+{
+  "Name": "解き放たれた天空船",
+  "Serial": "SE/S04-070",
+  "Rarity": "U",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "メーベル「贄神の船……すべての災厄の元凶……って、聞いたことがあるわ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_070.gif"
+}

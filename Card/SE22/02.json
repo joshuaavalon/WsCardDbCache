@@ -1,0 +1,19 @@
+{
+  "Name": "勝気な少女 ミル子",
+  "Serial": "GST/SE22-02",
+  "Rarity": "R",
+  "Expansion": "超爆裂異次元メンコバトル ギガントシューター つかさ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ギガント",
+  "SecondChara": "メロメロ",
+  "Text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ギガント》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "いいからいくわよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/GST_SE22_02.gif"
+}

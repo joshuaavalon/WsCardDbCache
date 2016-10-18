@@ -1,0 +1,19 @@
+{
+  "Name": "入浴中のアスナ",
+  "Serial": "SAO/S20-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードは相手の効果に選ばれない。\n【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+  "Flavor": "～♪\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_p02.gif"
+}

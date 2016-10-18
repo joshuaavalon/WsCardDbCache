@@ -1,0 +1,19 @@
+{
+  "Name": "“最後の夜天の主”はやて",
+  "Serial": "NS/W04-081",
+  "Rarity": "R",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたの、「守護騎士シャマル＆守護獣ザフィーラ」と「カリム・グラシア」がいるなら、このカードのパワーを＋2000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「フレースヴェルグ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "Flavor": "空の掃除は、私がやるよ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_081.gif"
+}

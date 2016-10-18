@@ -1,0 +1,19 @@
+{
+  "Name": "お茶の間デビュー 小衣",
+  "Serial": "MK2/S19-060",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "仮面",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《警察》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "応援しないと逮捕よ！た・い・ほ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_060.gif"
+}

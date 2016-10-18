@@ -1,0 +1,19 @@
+{
+  "Name": "西脇 結子",
+  "Serial": "P3/S01-040",
+  "Rarity": "C",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "マネージャー",
+  "Text": "【自】［このカードを【レスト】する］ 他の《スポーツ》のあなたのキャラがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "Flavor": "ぜ、全然心配なんてしなかったよ！　皆、がんばってたからね！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_040.gif"
+}

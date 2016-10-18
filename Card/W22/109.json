@@ -1,0 +1,19 @@
+{
+  "Name": "新大島中学2年生 れい",
+  "Serial": "VR/W22-109",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "謎",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "……何の用？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_109.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "素直な疑問 さやか",
+  "Serial": "MM/W35-095",
+  "Rarity": "C",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "愛",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "ねえ、これってそんなに悪い事なの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_095.gif"
+}

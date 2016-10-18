@@ -1,0 +1,19 @@
+{
+  "Name": "“高い知性”女型の巨人",
+  "Serial": "AOT/S35-088",
+  "Rarity": "R",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "巨人",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《巨人》のキャラすべてに、パワーを＋1000。\n【自】［(3) 手札を2枚控え室に置く］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）\n【起】［このカードを【レスト】する］ あなたは自分の《巨人》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_088.gif"
+}

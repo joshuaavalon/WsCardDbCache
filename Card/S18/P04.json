@@ -1,0 +1,19 @@
+{
+  "Name": "放課後デート 黒雪姫",
+  "Serial": "AW/S18-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "ネット",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "ではごきげんよう。友達クン\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_p04.gif"
+}

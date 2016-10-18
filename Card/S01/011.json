@@ -1,0 +1,19 @@
+{
+  "Name": "神郷 慎",
+  "Serial": "P3/S01-011",
+  "Rarity": "U",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "キミ、俺と会ったことない？　前にどっかで\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_011.gif"
+}

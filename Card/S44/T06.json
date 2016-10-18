@@ -1,0 +1,19 @@
+{
+  "Name": "お灸をすえる天河",
+  "Serial": "KI/S44-T06",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「現金な味方」があり、他のあなたの《キズナ》のキャラが2枚以上なら、あなたは相手のレベル1以下のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。",
+  "Flavor": "ぜーんぶ話は聞いたったかんな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_t06.gif"
+}

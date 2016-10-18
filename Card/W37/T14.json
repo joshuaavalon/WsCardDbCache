@@ -1,0 +1,19 @@
+{
+  "Name": "“真夏のプールサイド”春菜",
+  "Serial": "TL/W37-T14",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "私ももっと積極的にならなきゃ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_t14.gif"
+}

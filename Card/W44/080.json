@@ -1,0 +1,19 @@
+{
+  "Name": "“絵の練習”メグ",
+  "Serial": "GU/W44-080",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "バレエ",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【自】 絆／「“ホントの気持ち”マヤ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ホントの気持ち”マヤ」を1枚選び、手札に戻す）",
+  "Flavor": "そっか 普通ってすごいんだね！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_080.gif"
+}

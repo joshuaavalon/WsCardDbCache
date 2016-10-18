@@ -1,0 +1,19 @@
+{
+  "Name": "キャロ＆フリードリヒ",
+  "Serial": "NS/W04-005",
+  "Rarity": "R",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "Flavor": "フリード……！ブラストレイッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_005.gif"
+}

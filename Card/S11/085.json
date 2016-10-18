@@ -1,0 +1,19 @@
+{
+  "Name": "完璧な執事 舘",
+  "Serial": "MK/S11-085",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "執事",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "お嬢様がお呼びでございます\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_085.gif"
+}

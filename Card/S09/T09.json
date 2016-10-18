@@ -1,0 +1,19 @@
+{
+  "Name": "ナツ・ドラグニル",
+  "Serial": "FT/S09-T09",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "-",
+  "Flavor": "おしっ！　燃えてきたあ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_t09.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "騎士道の守護者　セイバー",
+  "Serial": "FZ/S17-P07",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのストックが4枚以上なら、このカードのパワーを＋1500。",
+  "Flavor": "我が眼前で騎士道を穢すか、外道ッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_p07.gif"
+}

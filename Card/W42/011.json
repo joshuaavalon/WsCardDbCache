@@ -1,0 +1,19 @@
+{
+  "Name": "“ダークネスの真相”ネメシス",
+  "Serial": "TL/W42-011",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "だんご",
+  "Text": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "Flavor": "ああ ダークネスとは何か…だったか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_011.gif"
+}

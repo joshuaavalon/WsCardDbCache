@@ -1,0 +1,19 @@
+{
+  "Name": "“F６”十四松",
+  "Serial": "OMS/S41-071",
+  "Rarity": "R",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+  "Flavor": "やふーい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_071.gif"
+}

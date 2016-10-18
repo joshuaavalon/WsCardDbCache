@@ -1,0 +1,19 @@
+{
+  "Name": "ポーカーフェイス マリ",
+  "Serial": "SGS/S37-017",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "クール",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開し、相手はあなたの山札の上から1枚を、山札の下に置いてよい。（そうしないなら元に戻す）",
+  "Flavor": "周りと馴れ合う気はないよ。\nひとりでいた方が気がラクなんでね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_017.gif"
+}

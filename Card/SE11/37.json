@@ -1,0 +1,19 @@
+{
+  "Name": "夕焼け空と小衣",
+  "Serial": "MK/SE11-37",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "仮面",
+  "Text": "【永】 他のあなたのカード名に「平乃」を含むキャラがいるなら、このカードのパワーを＋1000。\n【永】 他のあなたのカード名に「咲」を含むキャラがいるなら、このカードのパワーを＋1000。\n【永】 他のあなたのカード名に「次子」を含むキャラがいるなら、このカードのパワーを＋1000。",
+  "Flavor": "もう、心配させんじゃないわよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_37.gif"
+}

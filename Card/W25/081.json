@@ -1,0 +1,19 @@
+{
+  "Name": "休息の時 フェイト",
+  "Serial": "N2/W25-081",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "クローン",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「みんなでメンテナンス」があり、他のあなたの《魔法》のキャラが2枚以上なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_081.gif"
+}

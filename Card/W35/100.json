@@ -1,0 +1,19 @@
+{
+  "Name": "真実の夢",
+  "Serial": "MM/W35-100",
+  "Rarity": "CC",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "杏子「胸糞悪くなる夢を見たんだ。あんたが死んじまう夢を」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_100.gif"
+}

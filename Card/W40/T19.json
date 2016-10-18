@@ -1,0 +1,19 @@
+{
+  "Name": "特殊能力",
+  "Serial": "CHA/W40-T19",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "クラスで頭のいい奴らに乗りうつりまくって、解答を暗記して、戻って回答欄を埋めるを繰り返す\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_t19.gif"
+}

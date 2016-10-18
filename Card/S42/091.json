@@ -1,0 +1,19 @@
+{
+  "Name": "朝潮型駆逐艦5番艦 朝雲改",
+  "Serial": "KC/S42-091",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 他のあなたの「朝潮型駆逐艦6番艦 山雲改」1枚につき、このカードのパワーを＋1000し、ソウルを＋1。",
+  "Flavor": "第九駆逐隊、出撃します！　山雲、いつも…一緒だからね！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_091.gif"
+}

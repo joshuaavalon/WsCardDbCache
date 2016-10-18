@@ -1,0 +1,19 @@
+{
+  "Name": "“アホの子”葉留佳",
+  "Serial": "LB/W02-E07",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!EX",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビー玉",
+  "SecondChara": "双子",
+  "Text": "【起】［あなたの《委員長》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「佳奈多」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "はるちんアタック!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_e07.gif"
+}

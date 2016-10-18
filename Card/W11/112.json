@@ -1,0 +1,19 @@
+{
+  "Name": "衣装変更！？ クド",
+  "Serial": "KW/W11-112",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "科学",
+  "Text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。",
+  "Flavor": "やっぱり、こうしていると気分が変わりますね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_112.gif"
+}

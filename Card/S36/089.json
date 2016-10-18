@@ -1,0 +1,19 @@
+{
+  "Name": "“架空の英霊”アサシン",
+  "Serial": "FS/S36-089",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《マスター》か《サーヴァント》のキャラが4枚以上なら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+  "Flavor": "無名のまま死んでいった私にもし望みがあったとしたら…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_089.gif"
+}

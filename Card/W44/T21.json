@@ -1,0 +1,19 @@
+{
+  "Name": "珈琲職人の魔法",
+  "Serial": "GU/W44-T21",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "これがバリスタのチカラ\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_t21.gif"
+}

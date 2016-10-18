@@ -1,0 +1,19 @@
+{
+  "Name": "“Puella Magi Holy Quintet”ほむら",
+  "Serial": "MM/W35-036",
+  "Rarity": "U",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "時間",
+  "Text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\n【起】[(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_036.gif"
+}

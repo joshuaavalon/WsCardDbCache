@@ -1,0 +1,19 @@
+{
+  "Name": "虎柄の髪 羽川翼",
+  "Serial": "MG/S39-034",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたの「予想通りの展開 戦場ヶ原ひたぎ」すべてに、パワーを＋1000。\n【自】 絆／「予想通りの展開 戦場ヶ原ひたぎ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「予想通りの展開 戦場ヶ原ひたぎ」を1枚選び、手札に戻す）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_034.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“正解を導く力”アルミン",
+  "Serial": "AOT/S35-009",
+  "Rarity": "U",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "Flavor": "この程度の火力でも同時に視覚を奪うことは不可能じゃない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_009.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "私服の小鳥",
+  "Serial": "RW/W15-T08",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "オカルト",
+  "Text": "【自】［(1)］このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "ちびもす、けっこうがんばる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_t08.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ゆかり＆イシス",
+  "Serial": "P3/S01-081",
+  "Rarity": "R",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "神",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。\n【起】［(4)］ あなたは自分のクロックを1枚選び、手札に戻す。",
+  "Flavor": "私…影時間を無くす為に戦いたい。お父さんの遺志を…継ぎたいから\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_081.gif"
+}

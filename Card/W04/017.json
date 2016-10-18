@@ -1,0 +1,19 @@
+{
+  "Name": "シグナム＆リイン",
+  "Serial": "NS/W04-017",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "ユニゾン",
+  "Text": "-",
+  "Flavor": "シグナム「……行きます」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_017.gif"
+}

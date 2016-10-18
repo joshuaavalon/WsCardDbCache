@@ -1,0 +1,19 @@
+{
+  "Name": "ビューティフルガール貴音",
+  "Serial": "IM/SE04-11",
+  "Rarity": "C",
+  "Expansion": "THE IDOLM@STER Dearly Stars",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "王族",
+  "Text": "【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "突き刺さるように青い月の光……。 月は、私の心をいつも、ざわつかせるのです……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_se04_11.gif"
+}

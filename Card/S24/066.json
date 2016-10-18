@@ -1,0 +1,19 @@
+{
+  "Name": "お約束",
+  "Serial": "NM/S24-066",
+  "Rarity": "U",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、《和服》か《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "Flavor": "いやああああ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_066.gif"
+}

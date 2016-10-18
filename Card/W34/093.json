@@ -1,0 +1,19 @@
+{
+  "Name": "ライブへの想い 花陽",
+  "Serial": "LL/W34-093",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "雪",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(1)］ あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "Flavor": "…頑張ろうね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_093.gif"
+}

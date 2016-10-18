@@ -1,0 +1,19 @@
+{
+  "Name": "“絶望の中の希望”アルミン",
+  "Serial": "AOT/S35-T06",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "気にしても仕方ないよ。明日できるようになればいいんだから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_t06_td.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "体操着のミキ",
+  "Serial": "DC/W09-028",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "委員長",
+  "Text": "【自】 絆／「体操着のまひる」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「体操着のまひる」を1枚選び、手札に戻す）\n【起】［(1)］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "何人たりとも私の前を走らせないぞーっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_028.gif"
+}

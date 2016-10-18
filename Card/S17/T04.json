@@ -1,0 +1,19 @@
+{
+  "Name": "“騎乗”のスキル セイバー",
+  "Serial": "FZ/S17-T04",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "王族",
+  "Text": "-",
+  "Flavor": "私の騎乗というスキルは\n“乗り物”という概念すべてに適用される能力ですから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_t04.gif"
+}

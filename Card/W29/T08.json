@@ -1,0 +1,19 @@
+{
+  "Name": "クールガール せいら",
+  "Serial": "GT/W29-T08",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［(1)］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000し、このカードのパワーを＋1000。",
+  "Flavor": "赤点とると外出禁止\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_t08.gif"
+}

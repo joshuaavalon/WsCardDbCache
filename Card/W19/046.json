@@ -1,0 +1,19 @@
+{
+  "Name": "イチイバル",
+  "Serial": "SG/W19-046",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、バトル中以外のレベル2以上のカード名に「クリス」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「雪音 クリス」を1枚選び、舞台のキャラのいない枠に置く。",
+  "Flavor": "見せてやる。イチイバルの力だ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_046.gif"
+}

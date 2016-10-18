@@ -1,0 +1,19 @@
+{
+  "Name": "意地っ張りアリサ",
+  "Serial": "N1/W32-011",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「なのは」を含むキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "謝るくらいなら、事情くらい聞かせて欲しいわよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_011.gif"
+}

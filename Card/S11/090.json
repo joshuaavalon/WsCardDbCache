@@ -1,0 +1,19 @@
+{
+  "Name": "コーデリア・グラウカ",
+  "Serial": "MK/S11-090",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "こんな所にいたのね。ほら、早く行きましょう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_090.gif"
+}

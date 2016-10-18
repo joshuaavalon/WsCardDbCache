@@ -1,0 +1,19 @@
+{
+  "Name": "バジュラ（小）",
+  "Serial": "MF/S13-040",
+  "Rarity": "C",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "バジュラ",
+  "SecondChara": "",
+  "Text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の《バジュラ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_040.gif"
+}

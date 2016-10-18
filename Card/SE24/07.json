@@ -1,0 +1,19 @@
+{
+  "Name": "私服のルヴィア",
+  "Serial": "PI/SE24-07",
+  "Rarity": "U",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宝石",
+  "SecondChara": "令嬢",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［(1)］ あなたは自分の《宝石》のキャラを1枚選び、そのターン中、パワーを＋1500し、《メイド》を与える。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_07.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "渚 カヲル",
+  "Serial": "EV/S12-009",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《謎》のキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《謎》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "はじめまして。お父さん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_009.gif"
+}

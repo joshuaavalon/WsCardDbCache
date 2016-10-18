@@ -1,0 +1,19 @@
+{
+  "Name": "陽炎型駆逐艦12番艦 磯風改",
+  "Serial": "KC/S31-004",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《艦娘》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "第十七駆逐隊磯風、推参。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-004.gif"
+}

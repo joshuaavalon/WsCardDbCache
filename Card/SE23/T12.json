@@ -1,0 +1,19 @@
+{
+  "Name": "親切な案内役 シノン",
+  "Serial": "SAO/SE23-T12",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "ほら、またプール額を増やす人がいるよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_t12.gif"
+}

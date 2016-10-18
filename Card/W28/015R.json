@@ -1,0 +1,19 @@
+{
+  "Name": "“たべちゃうぞ？”穂乃果",
+  "Serial": "LL/W28-015R",
+  "Rarity": "RRR",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

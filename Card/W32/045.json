@@ -1,0 +1,19 @@
+{
+  "Name": "管理局員 シグナム",
+  "Serial": "N2/W32-045",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《魔法》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_045.gif"
+}

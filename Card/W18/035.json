@@ -1,0 +1,19 @@
+{
+  "Name": "通じあった心 清隆＆姫乃",
+  "Serial": "DC3/W18-035",
+  "Rarity": "C",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】しているカード名に「姫乃」を含むキャラを1枚選び、【スタンド】してよい。",
+  "Flavor": "清隆「帰ろう、姫乃。俺たちの住む、あの愛すべき学び舎に」\n姫乃「はい！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_035.gif"
+}

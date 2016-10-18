@@ -1,0 +1,19 @@
+{
+  "Name": "闇の書覚醒",
+  "Serial": "N2/W32-098",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「はやて」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の控え室の「将の宣言 シグナム」を1枚までと「屋上の邂逅 ヴィータ」を1枚までと「サポート役 シャマル」を1枚までと「突貫 ザフィーラ」を1枚まで選び、舞台の別々の枠に置く。",
+  "Flavor": "闇の書「Ich l?se die Versiegelung auf.」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_098.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "未来の名探偵？ミルキィホームズ",
+  "Serial": "MK/S11-112",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "",
+  "Text": "【永】他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "ミルキィホームズ、捜査開始します！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_112.gif"
+}

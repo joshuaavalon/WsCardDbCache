@@ -1,0 +1,19 @@
+{
+  "Name": "水着のシエスタ",
+  "Serial": "ZM/W03-030S",
+  "Rarity": "SR",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メイド",
+  "SecondChara": "水着",
+  "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

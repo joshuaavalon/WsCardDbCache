@@ -1,0 +1,19 @@
+{
+  "Name": "ベアトリス・イルマ",
+  "Serial": "SR/SE25-35",
+  "Rarity": "C",
+  "Expansion": "シャイニング・レゾナンス",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "忍",
+  "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+  "Flavor": "もしもの時はこのあたしが、\n命に代えてもエクセラ様をお護りいたします\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sr_se25_35.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "守本 叶鳴",
+  "Serial": "P3/S01-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "人形",
+  "SecondChara": "",
+  "Text": "【自】[このカードを控え室に置く] 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。 そうしたら、そのカードをそのカードがいた枠に【レスト】して置く。",
+  "Flavor": "神郷君の目に私は、どんな風に映っていますか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_108.gif"
+}

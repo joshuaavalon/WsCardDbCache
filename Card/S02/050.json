@@ -1,0 +1,19 @@
+{
+  "Name": "天界からの刺客",
+  "Serial": "DG/S02-050",
+  "Rarity": "CC",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "はじめまして、あんさつしゃです～\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_050.gif"
+}

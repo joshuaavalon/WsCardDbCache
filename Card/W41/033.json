@@ -1,0 +1,19 @@
+{
+  "Name": "及川 雫",
+  "Serial": "IMC/W41-033",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。",
+  "Flavor": "横断歩道は右見て左見て、もう一度右見て、渡って下さ～い♪\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_033.gif"
+}

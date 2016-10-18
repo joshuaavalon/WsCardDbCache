@@ -1,0 +1,19 @@
+{
+  "Name": "お寝坊さん シャマル",
+  "Serial": "N2/W25-063",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》かカード名に「はやて」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "すみません～！　寝坊しました～！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_063.gif"
+}

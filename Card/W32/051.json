@@ -1,0 +1,19 @@
+{
+  "Name": "“極大凍結魔法”クロノ",
+  "Serial": "N2/W32-051",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのカード名に「リンディ」を含むキャラがいるなら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "凍てつけッッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_051.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "大いなる野望",
+  "Serial": "GU/W44-031",
+  "Rarity": "CC",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "甘兎庵 大手チェーンへの第一歩！\n",
+  "Trigger": "Bag",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_031.gif"
+}

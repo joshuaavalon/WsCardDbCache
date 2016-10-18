@@ -1,0 +1,19 @@
+{
+  "Name": "凛のクラスメイト 蒔寺 楓",
+  "Serial": "FS/S34-092",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール [(3)］』も使えない）",
+  "Flavor": "だから言ったでしょ。遠坂は弁当持ってこないって\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_092.gif"
+}

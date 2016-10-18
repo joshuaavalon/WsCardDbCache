@@ -1,0 +1,19 @@
+{
+  "Name": "“白スク”ネメシス",
+  "Serial": "TL/W42-007S",
+  "Rarity": "SR",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "だんご",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《お菓子》か《だんご》のキャラの枚数×500に等しい。\n【起】【カウンター】 助太刀500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋500）",
+  "Flavor": "よろしく！ね(記号：ハート)\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

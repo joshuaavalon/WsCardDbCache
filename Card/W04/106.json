@@ -1,0 +1,19 @@
+{
+  "Name": "フェイト・T・ハラオウン執務官",
+  "Serial": "NS/W04-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "ドレス",
+  "Text": "【起】[(2)] あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウルを+1。",
+  "Flavor": "私にとっては……いろんなことの、はじまりのきっかけでもあったから……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_106.gif"
+}

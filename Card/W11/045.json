@@ -1,0 +1,19 @@
+{
+  "Name": "相部屋のひととき",
+  "Serial": "KW/W11-045",
+  "Rarity": "U",
+  "Expansion": "Angel Beats! ＆ クドわふたー",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のクロック置場の《動物》のキャラを2枚まで選び、手札に加える。あなたの山札の上から2枚を、クロック置場に置く。",
+  "Flavor": "クド「お疲れ様なのです、リキ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_045.gif"
+}

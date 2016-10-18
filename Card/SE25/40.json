@@ -1,0 +1,19 @@
+{
+  "Name": "魂の共鳴",
+  "Serial": "SR/SE25-40",
+  "Rarity": "C",
+  "Expansion": "シャイニング・レゾナンス",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "キリカ『ユーマ……どうか、聞いてください。私の声を』\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sr_se25_40.gif"
+}

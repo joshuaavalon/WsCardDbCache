@@ -1,0 +1,19 @@
+{
+  "Name": "執念",
+  "Serial": "RG/W13-072",
+  "Rarity": "U",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の上に置く。",
+  "Flavor": "テレスティーナ「この…クソガキどもが…！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w13_072.gif"
+}

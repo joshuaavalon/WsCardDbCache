@@ -1,0 +1,19 @@
+{
+  "Name": "“月高組”美鶴",
+  "Serial": "PQ/SE21-27",
+  "Rarity": "C",
+  "Expansion": "ペルソナQ シャドウ オブ ザ ラビリンス",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたの手札が6枚以上なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "Flavor": "君たちは休め。\nここは我々が引き受けよう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_27.gif"
+}

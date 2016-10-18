@@ -1,0 +1,19 @@
+{
+  "Name": "“理想の宮沢様”佐々美",
+  "Serial": "LB/W21-002",
+  "Rarity": "R",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "うっ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_002.gif"
+}

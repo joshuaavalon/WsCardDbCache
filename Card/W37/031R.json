@@ -1,0 +1,19 @@
+{
+  "Name": "“お座り”美柑",
+  "Serial": "TL/W37-031R",
+  "Rarity": "RRR",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家事",
+  "SecondChara": "ランドセル",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\n【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。",
+  "Flavor": "そんなに心配だったの～？私の事\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

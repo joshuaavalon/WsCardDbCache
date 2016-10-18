@@ -1,0 +1,19 @@
+{
+  "Name": "逆さ喋りの白鷺",
+  "Serial": "KG/SE07-17",
+  "Rarity": "R",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ 相手のアタックフェイズの始めに、相手のクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは相手の手札を見てクライマックスを1枚まで選び、相手のクライマックス置場に置く。",
+  "Flavor": "などけだんーつっ『鷺白のり喋さ逆』称通\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_17.gif"
+}

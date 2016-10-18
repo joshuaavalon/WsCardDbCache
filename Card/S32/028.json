@@ -1,0 +1,19 @@
+{
+  "Name": "“太陽のような明るさ”シーラ",
+  "Serial": "TF/S32-028",
+  "Rarity": "R",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "",
+  "Text": "【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《改造》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "あたしの話題？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_028.gif"
+}

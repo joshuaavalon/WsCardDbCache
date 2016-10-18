@@ -1,0 +1,19 @@
+{
+  "Name": "部屋着の佐天",
+  "Serial": "RG/W26-044",
+  "Rarity": "U",
+  "Expansion": "とある科学の超電磁砲S",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「うわさ話 佐天」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "まあでもたまには私服姿も見てみたいけどねー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_044.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "苦い記憶 アスナ",
+  "Serial": "SAO/SE23-02",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインII",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「キリト」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "《ラフィン・コフィン》……。\nまさか、あの男はリーダーだった包丁使いなの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_02.gif"
+}

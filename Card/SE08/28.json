@@ -1,0 +1,19 @@
+{
+  "Name": "ヴァル様の参謀 フェンリッヒ",
+  "Serial": "DG/SE08-28",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "動物",
+  "Text": "【自】 他のあなたのバトル中の《悪魔》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "その悪魔らしからぬ『仲間を信じる心』もまた我が主、ヴァルバトーゼ様の恐るべき特殊能力……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_28.gif"
+}

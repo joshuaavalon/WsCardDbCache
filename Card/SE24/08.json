@@ -1,0 +1,19 @@
+{
+  "Name": "体操着のクロ",
+  "Serial": "PI/SE24-08",
+  "Rarity": "U",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 バトル中のこのカードが【リバース】した時、相手は自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_08.gif"
+}

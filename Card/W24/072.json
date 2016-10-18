@@ -1,0 +1,19 @@
+{
+  "Name": "格好悪いステップ",
+  "Serial": "LL/W24-072",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "そうですか…。あのステップ…私が考えたのですが…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_072.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "想いを貫く意志なのは",
+  "Serial": "N1/WE06-30",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "風は空に……星は天に……、不屈の魂はこの胸に！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_we06_30.gif"
+}

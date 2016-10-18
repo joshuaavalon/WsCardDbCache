@@ -1,0 +1,19 @@
+{
+  "Name": "刃舞う爆撃手チンク",
+  "Serial": "NS/W04-033",
+  "Rarity": "U",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "眼帯",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。",
+  "Flavor": "あれは姉が抑える……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_033.gif"
+}

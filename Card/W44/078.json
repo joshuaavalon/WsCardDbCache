@@ -1,0 +1,19 @@
+{
+  "Name": "ラビットハウスに転職!? 青山ブルーマウンテン",
+  "Serial": "GU/W44-078",
+  "Rarity": "R",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "小説",
+  "SecondChara": "",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+  "Flavor": "でもこの前お声を聴きましたよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_078.gif"
+}

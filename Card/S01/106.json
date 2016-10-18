@@ -1,0 +1,19 @@
+{
+  "Name": "慎＆真田",
+  "Serial": "P3/S01-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "手袋",
+  "SecondChara": "",
+  "Text": "【起】[(3)] あなたは相手のレベル1以下の前列のキャラを1枚選び、手札に戻す。",
+  "Flavor": "慎「兄貴…そこをどいてくれっ！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_106.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ミハエル・ブラン",
+  "Serial": "MF/S13-083",
+  "Rarity": "U",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "メガネ",
+  "Text": "【永】 他のあなたの「悲しみに暮れるクラン」すべてに、パワーを＋1000。\n【自】 絆／「悲しみに暮れるクラン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「悲しみに暮れるクラン」を1枚選び、手札に戻す）",
+  "Flavor": "フ、言われなくたって\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_083.gif"
+}

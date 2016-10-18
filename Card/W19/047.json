@@ -1,0 +1,19 @@
+{
+  "Name": "ソロモンの杖",
+  "Serial": "SG/W19-047",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「クリス」か「フィーネ」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を見て「ノイズ（第4話）」を3枚まで選び、舞台の別々の枠に置く。その後、その山札をシャッフルし、そのターン中、それらのキャラのパワーを＋1000。",
+  "Flavor": "フィーネ「あなたは知り過ぎてしまったわ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_047.gif"
+}

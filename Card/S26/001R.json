@@ -1,0 +1,19 @@
+{
+  "Name": "前向きな気持ち アスナ",
+  "Serial": "SAO/S26-001R",
+  "Rarity": "RRR",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「“奥さん”の正体」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

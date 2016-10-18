@@ -1,0 +1,19 @@
+{
+  "Name": "“上杉軍”かすが",
+  "Serial": "SB/SE05-41",
+  "Rarity": "C",
+  "Expansion": "ＴＶアニメ 戦国BASARA弐",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "愛",
+  "Text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "てっきり、吹いたらお前が現れるものと――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_41.gif"
+}

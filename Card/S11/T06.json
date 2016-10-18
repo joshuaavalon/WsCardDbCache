@@ -1,0 +1,19 @@
+{
+  "Name": "とても食いしん坊 ネロ",
+  "Serial": "MK/S11-T06",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "お菓子",
+  "Text": "-",
+  "Flavor": "うわ～い！いっただきぃ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t06_2.gif"
+}

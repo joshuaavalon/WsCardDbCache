@@ -1,0 +1,19 @@
+{
+  "Name": "“うずうず”クド",
+  "Serial": "LB/W06-043",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "あぁぁ、でもやってみたいです、是非っ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_043.gif"
+}

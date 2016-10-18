@@ -1,0 +1,19 @@
+{
+  "Name": "“可愛い浴衣姿”凛",
+  "Serial": "PI/S40-008",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宝石",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
+  "Flavor": "別に気にしないで\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_008.gif"
+}

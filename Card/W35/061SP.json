@@ -1,0 +1,19 @@
+{
+  "Name": "世界への疑念 杏子",
+  "Serial": "MM/W35-061SP",
+  "Rarity": "SP",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“今を大切に”あずさ",
+  "Serial": "IM/S30-030SP",
+  "Rarity": "SR",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 他のあなたの《愛》のキャラ1枚につき、このカードのパワーを＋500。\n【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

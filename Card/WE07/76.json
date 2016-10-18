@@ -1,0 +1,19 @@
+{
+  "Name": "まじめな女の子 智代",
+  "Serial": "CL/WE07-76",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「生徒会長 智代」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたはキャラを1枚選び、そのターン中、《スポーツ》を与える。",
+  "Flavor": "いや、お前といるのが楽しい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_76.gif"
+}

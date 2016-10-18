@@ -1,0 +1,19 @@
+{
+  "Name": "我他人を思う",
+  "Serial": "CHA/W40-T20",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の青のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "有宇「その晩、夢を見た。きっと歩未の突拍子もない発言のせいだろう…」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_t20.gif"
+}

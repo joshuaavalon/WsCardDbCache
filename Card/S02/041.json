@@ -1,0 +1,19 @@
+{
+  "Name": "極めて優秀な侍",
+  "Serial": "DG/S02-041",
+  "Rarity": "C",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "拙者、剣を極めんと道をゆく者\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_041.gif"
+}

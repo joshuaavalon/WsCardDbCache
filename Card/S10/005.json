@@ -1,0 +1,19 @@
+{
+  "Name": "堕ちた真祖 暴走アルクェイド",
+  "Serial": "MB/S10-005",
+  "Rarity": "R",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "王族",
+  "SecondChara": "血",
+  "Text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "あはははははは！\nやっぱり吸血鬼はこうでなくっちゃ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_005.gif"
+}

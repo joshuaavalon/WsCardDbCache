@@ -1,0 +1,19 @@
+{
+  "Name": "北方棲姫",
+  "Serial": "KC/SE28-02SP",
+  "Rarity": "SP",
+  "Expansion": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "深海棲艦",
+  "SecondChara": "姫",
+  "Text": "【自】 あなたのクライマックス置場に「シズンデェ！」が置かれた時、前列にこのカードがいるなら、あなたは相手のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

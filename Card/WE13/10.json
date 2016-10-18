@@ -1,0 +1,19 @@
+{
+  "Name": "トリステインの騎士 サイト",
+  "Serial": "ZM/WE13-10",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "武器",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "テファに乱暴するなッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_10.gif"
+}

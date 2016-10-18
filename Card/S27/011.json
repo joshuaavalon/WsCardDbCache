@@ -1,0 +1,19 @@
+{
+  "Name": "“超”マイペースお母さん 好代",
+  "Serial": "KLK/S27-011",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "コロッケ",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《服》か《家族》のキャラを1枚選び、そのターン中、ソウルを＋1し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "たいしたものはないけど、どんどん食べてちょーだい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_011.gif"
+}

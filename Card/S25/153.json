@@ -1,0 +1,19 @@
+{
+  "Name": "白露型駆逐艦6番艦 五月雨",
+  "Serial": "KC/S25-153",
+  "Rarity": "C",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "はい！私、頑張っちゃいますから！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_153.gif"
+}

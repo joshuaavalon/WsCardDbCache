@@ -1,0 +1,19 @@
+{
+  "Name": "水着のメルティ",
+  "Serial": "GG/S23-069",
+  "Rarity": "C",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "手紙",
+  "SecondChara": "水着",
+  "Text": "-",
+  "Flavor": "甘いなぁキミは。そこ勘違いすると、痛い目見るよ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_069.gif"
+}

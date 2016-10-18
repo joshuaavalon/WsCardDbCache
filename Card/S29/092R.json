@@ -1,0 +1,19 @@
+{
+  "Name": "ＫＡＩＴＯ“オリジナル”（F 2nd）",
+  "Serial": "PD/S29-092R",
+  "Rarity": "RRR",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「ＫＡＩＴＯ＆ＭＥＩＫＯ“オリジナル”」か「ＫＡＩＴＯ“V3”」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

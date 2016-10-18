@@ -1,0 +1,19 @@
+{
+  "Name": "旧友と高木社長",
+  "Serial": "IM/S30-069",
+  "Rarity": "C",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メガネ",
+  "Text": "【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。",
+  "Flavor": "これまで多くの困難を乗り越え、成長してきた彼女たちだ。きっと受け入れてくれるはずさ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-069.gif"
+}

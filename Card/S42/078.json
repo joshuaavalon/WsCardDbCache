@@ -1,0 +1,19 @@
+{
+  "Name": "Maestrale級駆逐艦3番艦 Libeccio",
+  "Serial": "KC/S42-078",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【永】 舞台のこのカードのレベルを－1。\n【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "さぁ、イタリア駆逐艦の魅力、教えてあげるね。\nリベッチオ、出撃です！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_078.gif"
+}

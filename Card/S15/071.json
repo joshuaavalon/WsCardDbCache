@@ -1,0 +1,19 @@
+{
+  "Name": "目覚めの儀式",
+  "Serial": "BM/S15-071",
+  "Rarity": "U",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_071.gif"
+}

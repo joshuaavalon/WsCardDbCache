@@ -1,0 +1,19 @@
+{
+  "Name": "普通の女の子 卯月",
+  "Serial": "IMC/W43-045",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_045.gif"
+}

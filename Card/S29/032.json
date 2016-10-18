@@ -1,0 +1,19 @@
+{
+  "Name": "初音ミク“オレンジブロッサム”",
+  "Serial": "PD/S29-032",
+  "Rarity": "R",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「DECORATOR」があるなら、あなたはコストを払ってよい。そうしたら、あなたの《音楽》のキャラすべてに、そのターン中、パワーを＋2500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_032.gif"
+}

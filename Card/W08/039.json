@@ -1,0 +1,19 @@
+{
+  "Name": "SOS団のマスコットみくる",
+  "Serial": "SY/W08-039",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "時間",
+  "SecondChara": "メイド",
+  "Text": "【自】 他のあなたの《SOS団》のキャラが手札か思い出置場から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お茶》を与える。",
+  "Flavor": "お茶です、どーぞ♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_039.gif"
+}

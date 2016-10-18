@@ -1,0 +1,19 @@
+{
+  "Name": "小早川 紗枝",
+  "Serial": "IMC/W41-046",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "ふふっ、少女趣味どすなぁ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_046.gif"
+}

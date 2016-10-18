@@ -1,0 +1,19 @@
+{
+  "Name": "アイシクル・ドール クーラ",
+  "Serial": "KF/S05-091",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "人形",
+  "Text": "-",
+  "Flavor": "クーラいい子だもんっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_091.gif"
+}

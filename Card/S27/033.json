@@ -1,0 +1,19 @@
+{
+  "Name": "風紀部トラップ開発員 大暮",
+  "Serial": "KLK/S27-033",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "風紀委員",
+  "Text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "Flavor": "ありがとう、纏さん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_033.gif"
+}

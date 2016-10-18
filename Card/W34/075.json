@@ -1,0 +1,19 @@
+{
+  "Name": "“なわとび”小泉 花陽",
+  "Serial": "LL/W34-075",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(2)］ あなたのクライマックス置場に「☆新部長就任☆」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_075.gif"
+}

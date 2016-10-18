@@ -1,0 +1,19 @@
+{
+  "Name": "“悪魔使い”イオ",
+  "Serial": "DS2/SE16-01",
+  "Rarity": "R",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サマナー",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《サマナー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "私達が戦った7日間、無駄じゃなかったよね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_01.gif"
+}

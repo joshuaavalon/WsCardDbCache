@@ -1,0 +1,19 @@
+{
+  "Name": "リーダーの帰還",
+  "Serial": "LB/W02-024",
+  "Rarity": "CC",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "みんな、揃ってるな\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_024.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ランニング",
+  "Serial": "KW/W11-046",
+  "Rarity": "U",
+  "Expansion": "Angel Beats! ＆ クドわふたー",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードを思い出にする。\n記憶 思い出置場にこのカードがあるなら、あなたのカード名に「クド」を含むキャラすべてに、パワーを＋500。",
+  "Flavor": "では五千の半分、二千五百からはじめましょう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_046.gif"
+}

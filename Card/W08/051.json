@@ -1,0 +1,19 @@
+{
+  "Name": "Xmasパーティ ハルヒ＆キョン",
+  "Serial": "SY/W08-051",
+  "Rarity": "RR",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "団長",
+  "SecondChara": "SOS団",
+  "Text": "【永】 他のあなたの《団長》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "キョン！　なんか出た！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_051.gif"
+}

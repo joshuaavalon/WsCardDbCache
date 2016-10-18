@@ -1,0 +1,19 @@
+{
+  "Name": "チームのまとめ役 コーデリア",
+  "Serial": "MK/S11-077",
+  "Rarity": "RR",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「頼れるお姉さん コーデリア」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "あなたたち、もう少し行儀よく食べなさいよ…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_077.gif"
+}

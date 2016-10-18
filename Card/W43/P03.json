@@ -1,0 +1,19 @@
+{
+  "Name": "ステージ脇で 小梅＆飛鳥",
+  "Serial": "IMC/W43-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "オカルト",
+  "Text": "【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_p03.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ビーチバレー ハルヒ",
+  "Serial": "SY/W08-057",
+  "Rarity": "R",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 5000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "団長",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 あなたのキャラすべての持つ異なる特徴１つにつき、このカードのパワーを＋500。",
+  "Flavor": "しまっていこー！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_057.gif"
+}

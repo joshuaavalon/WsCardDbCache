@@ -1,0 +1,19 @@
+{
+  "Name": "“悲劇の魔術師”キャスター",
+  "Serial": "FS/S36-075",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "マスター",
+  "Text": "【自】 他のあなたの、《マスター》か《サーヴァント》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(3) 手札の「叶っていた望み」を1枚控え室に置く］ 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているレベル3以下のキャラを1枚選び、【レスト】し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）",
+  "Flavor": "むしろ誇りなさい。貴女はこの私に魔術戦をさせたのだから\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_075.gif"
+}

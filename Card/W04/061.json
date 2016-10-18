@@ -1,0 +1,19 @@
+{
+  "Name": "聖王ヴィヴィオ",
+  "Serial": "NS/W04-061",
+  "Rarity": "U",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "王族",
+  "Text": "【永】 このカードの正面のキャラのソウルを-1。\n【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "あんたなんか……ママじゃない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_061.gif"
+}

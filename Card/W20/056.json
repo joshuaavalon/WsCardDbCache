@@ -1,0 +1,19 @@
+{
+  "Name": "“魔法の第三惑精”クリーミィ☆かがりん",
+  "Serial": "RW/W20-056",
+  "Rarity": "RR",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "時間",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "Ｅムードディメンジョン！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_056.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“操り人形”アイン",
+  "Serial": "PT/W07-103",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "人形",
+  "Text": "-",
+  "Flavor": "今この瞬間を生き残る……それだけ、殺し屋は過ぎたことも先のことも、何もない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_103.gif"
+}

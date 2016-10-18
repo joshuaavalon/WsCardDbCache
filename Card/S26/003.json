@@ -1,0 +1,19 @@
+{
+  "Name": "大切な時間 アスナ",
+  "Serial": "SAO/S26-003",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《アバター》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "わたしにとっては大事な二年間なの。今ならそう思える\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_003.gif"
+}

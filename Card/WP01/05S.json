@@ -1,0 +1,19 @@
+{
+  "Name": "やりたい演劇 渚",
+  "Serial": "CL/WP01-05S",
+  "Rarity": "SR",
+  "Expansion": "パワーアップセット CLANNAD",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "演劇",
+  "SecondChara": "だんご",
+  "Text": "【永】 他のあなたのカード名に「汐」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「家族の絆」があるなら、あなたは自分の山札を見て黄のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

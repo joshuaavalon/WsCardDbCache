@@ -1,0 +1,19 @@
+{
+  "Name": "気張らないお喋り 恭二",
+  "Serial": "SAO/SE23-T01",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたはキャラを2枚まで選び、そのターン中、《標的》を与える。",
+  "Flavor": "問題ありません、教官どの\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_t01.gif"
+}

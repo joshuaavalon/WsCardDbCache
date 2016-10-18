@@ -1,0 +1,19 @@
+{
+  "Name": "“天然ほわほわガール”小毬",
+  "Serial": "LB/W02-105",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "童話",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、《お菓子》を与える。",
+  "Flavor": "お菓子を食べると、ちょっと幸せになります\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_105.gif"
+}

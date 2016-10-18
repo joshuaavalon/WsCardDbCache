@@ -1,0 +1,19 @@
+{
+  "Name": "決意の鈴",
+  "Serial": "LB/W06-015",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《動物》のキャラすべてに、次の能力を与える。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』\n【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "そのお願い事、叶えてみせる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_015.gif"
+}

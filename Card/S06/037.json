@@ -1,0 +1,19 @@
+{
+  "Name": "“戦国最強”本多 忠勝",
+  "Serial": "SB/S06-037",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "ドリル",
+  "Text": "【永】 他のあなたの後列の「“東照権現”徳川 家康」がいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "家康「忠勝は、更に強くなってよみがえる」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_037.gif"
+}

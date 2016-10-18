@@ -1,0 +1,19 @@
+{
+  "Name": "『教訓』",
+  "Serial": "AOT/S35-052",
+  "Rarity": "U",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の《兵団》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。このカードをストック置場に置く。",
+  "Flavor": "……これは持論だが……躾に一番聞くのは痛みだと思う\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_052.gif"
+}

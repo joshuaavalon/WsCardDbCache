@@ -1,0 +1,19 @@
+{
+  "Name": "洗脳と催眠サイス",
+  "Serial": "PT/W07-092",
+  "Rarity": "C",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "マスター",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "……ようこそ、私の舞台へ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_092.gif"
+}

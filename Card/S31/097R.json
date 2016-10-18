@@ -1,0 +1,19 @@
+{
+  "Name": "第五戦隊、羽黒。出撃します！",
+  "Serial": "KC/S31-097R",
+  "Rarity": "RRR",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "SECRET\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

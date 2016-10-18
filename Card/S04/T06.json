@@ -1,0 +1,19 @@
+{
+  "Name": "仲良し シリル＆ジラ",
+  "Serial": "SE/S04-T06",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを2枚選び、【レスト】する。",
+  "Flavor": "ジラ「おあいにくさま！シリルとアタシは仲良しだもん！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_t06.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "解呪の儀式 千石撫子",
+  "Serial": "BM/S15-T10",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_t10.gif"
+}

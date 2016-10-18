@@ -1,0 +1,19 @@
+{
+  "Name": "クルーク",
+  "Serial": "PY/S38-079",
+  "Rarity": "C",
+  "Expansion": "ぷよぷよ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ぷよ",
+  "SecondChara": "本",
+  "Text": "―",
+  "Flavor": "相手になってやるさ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_079.gif"
+}

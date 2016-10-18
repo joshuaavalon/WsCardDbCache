@@ -1,0 +1,19 @@
+{
+  "Name": "さらなる高みへ まゆき",
+  "Serial": "DC/W23-096",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "スポーツ",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "ほんじゃ、跳んできます！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_096.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "大鯨型潜水母艦 大鯨",
+  "Serial": "KC/S31-090",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "潜水母艦",
+  "Text": "【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「龍鳳型軽空母 龍鳳」を1枚選び、このカードがいた枠に置く。』\n【起】［このカードを【レスト】する］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "潜水艦と編成ですか？　お任せください！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-090.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "お友達の招待",
+  "Serial": "LL/W34-095",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札の上から1枚をクロック置場に置く。そのカードがカード名に「真姫」を含むキャラなら、あなたは3枚まで引き、自分の手札を1枚選び、控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "…友達なんだから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_095.gif"
+}

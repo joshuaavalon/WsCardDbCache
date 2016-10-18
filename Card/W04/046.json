@@ -1,0 +1,19 @@
+{
+  "Name": "ウィングロード",
+  "Serial": "NS/W04-046",
+  "Rarity": "U",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい』",
+  "Flavor": "決めたんだ……！あの人みたいに強くなるって……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_046.gif"
+}

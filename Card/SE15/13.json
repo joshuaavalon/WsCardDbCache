@@ -1,0 +1,19 @@
+{
+  "Name": "Ｐ－１グランプリ専属実況 りせ",
+  "Serial": "P4/SE15-13",
+  "Rarity": "C",
+  "Expansion": "Ｐ４Ｕ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "テレビ",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "戦う覚悟はアーユーオッケー！？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_13.gif"
+}

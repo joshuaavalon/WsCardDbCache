@@ -1,0 +1,19 @@
+{
+  "Name": "改竄される世界",
+  "Serial": "MM/W35-076",
+  "Rarity": "U",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "Flavor": "世界が書き換えられていく。この宇宙に新しい概念が誕生したというのか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_076.gif"
+}

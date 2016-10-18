@@ -1,0 +1,19 @@
+{
+  "Name": "乱世再び！",
+  "Serial": "SB/SE05-20",
+  "Rarity": "C",
+  "Expansion": "ＴＶアニメ 戦国BASARA弐",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "我の前に屈し、我の下でひとつとなれ。 強き兵として、この国を富めんがために！\n",
+  "Trigger": "Gold",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_20.gif"
+}

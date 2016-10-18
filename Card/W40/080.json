@@ -1,0 +1,19 @@
+{
+  "Name": "“夏制服”乙坂 有宇",
+  "Serial": "CHA/W40-080",
+  "Rarity": "R",
+  "Expansion": "Charlotte",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "能力者",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "Flavor": "世の中はスピリチュアルなことだらけなんだぞ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_080.gif"
+}

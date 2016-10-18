@@ -1,0 +1,19 @@
+{
+  "Name": "炎剣一閃 シャナ",
+  "Serial": "SS/W14-040",
+  "Rarity": "R",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "武器",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "お前なんかに絶対、負けないっ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_040.gif"
+}

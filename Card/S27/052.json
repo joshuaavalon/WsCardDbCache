@@ -1,0 +1,19 @@
+{
+  "Name": "ヌーディスト・ビーチの一員 黄長瀬",
+  "Serial": "KLK/S27-052",
+  "Rarity": "U",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "モヒカン",
+  "Text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "Flavor": "やっぱりお前も服に呑み込まれちまったな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_052.gif"
+}

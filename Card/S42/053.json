@@ -1,0 +1,19 @@
+{
+  "Name": "Graf Zeppelin級正規空母1番艦 Graf Zeppelin",
+  "Serial": "KC/S42-053",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "正規空母",
+  "Text": "【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。",
+  "Flavor": "私が出るのか、いいだろう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_053.gif"
+}

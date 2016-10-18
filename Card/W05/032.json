@@ -1,0 +1,19 @@
+{
+  "Name": "柊 かがみ",
+  "Serial": "LS/W05-032",
+  "Rarity": "R",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "そんなもんだって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_032.gif"
+}

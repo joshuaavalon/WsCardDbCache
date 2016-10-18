@@ -1,0 +1,19 @@
+{
+  "Name": "井ノ原 真人",
+  "Serial": "LB/W02-013",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "筋肉",
+  "SecondChara": "",
+  "Text": "【自】 このカードがプレイされて舞台に置かれた時、あなたは【スタンド】している自分のキャラを1枚選び、【レスト】する。",
+  "Flavor": "今！！　オレの怒りが…有頂天に達したぁッ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_013.gif"
+}

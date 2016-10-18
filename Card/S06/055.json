@@ -1,0 +1,19 @@
+{
+  "Name": "“戦神覇王”武田 信玄",
+  "Serial": "SB/S06-055",
+  "Rarity": "R",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたの「“天覇絶槍”真田 幸村」がいるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』\n【永】 応援 このカードの前のあなたのコスト1以上のキャラすべてに、パワーを＋1000。",
+  "Flavor": "幸村！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_055.gif"
+}

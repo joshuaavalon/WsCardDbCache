@@ -1,0 +1,19 @@
+{
+  "Name": "手加減なし！ なのは",
+  "Serial": "NA/W12-069",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】［手札のクライマックスを1枚控え室に置く］ あなたのクライマックス置場に「エクセリオンバスター」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のレベル2以下のキャラを1枚選び、山札の上に置く。",
+  "Flavor": "さっすがユーノ君、わっかりやすい!!!\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_069.gif"
+}

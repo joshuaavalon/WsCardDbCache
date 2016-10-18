@@ -1,0 +1,19 @@
+{
+  "Name": "バグズ手術",
+  "Serial": "TF/S32-046",
+  "Rarity": "U",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】しているカード名に「小吉」を含むキャラを1枚選び【レスト】する。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_046.gif"
+}

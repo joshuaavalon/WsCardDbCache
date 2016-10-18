@@ -1,0 +1,19 @@
+{
+  "Name": "宣告・貫通による死",
+  "Serial": "AW/S18-029",
+  "Rarity": "CC",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "デス・バイ・ピアーシング!!\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_029.gif"
+}

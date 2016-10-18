@@ -1,0 +1,19 @@
+{
+  "Name": "エプロン姿の唯湖",
+  "Serial": "LB/W21-054",
+  "Rarity": "C",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "おねえさんもにわかにやる気が出てきたぞ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_054.gif"
+}

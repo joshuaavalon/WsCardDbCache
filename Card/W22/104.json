@@ -1,0 +1,19 @@
+{
+  "Name": "一つになった二人 ビビッドブルー",
+  "Serial": "VR/W22-104",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "武器",
+  "Text": "【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「初めてのドッキング あかね」の【起】の効果で舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《鍵》のキャラの枚数に等しい。",
+  "Flavor": "……私たち、一つになってる！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_104.gif"
+}

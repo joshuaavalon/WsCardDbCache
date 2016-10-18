@@ -1,0 +1,19 @@
+{
+  "Name": "姉妹の絆",
+  "Serial": "MB/S10-075",
+  "Rarity": "CC",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "琥珀「志貴さんが協力してくださるなら、永久凍土なみに頑なな秋葉さまも一撃です！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_075.gif"
+}

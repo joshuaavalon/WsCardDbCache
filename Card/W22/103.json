@@ -1,0 +1,19 @@
+{
+  "Name": "初めてのドッキング あかね",
+  "Serial": "VR/W22-103",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "武器",
+  "Text": "【起】［(2) あなたの舞台の「守るための力 あおい」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一つになった二人 ビビッドブルー」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "なんか、ビビってきたの！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_103.gif"
+}

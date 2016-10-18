@@ -1,0 +1,19 @@
+{
+  "Name": "獅子堂 ナミ",
+  "Serial": "SK/WE05-25",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "コロニー",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
+  "Flavor": "なんなのよ……これ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_25.gif"
+}

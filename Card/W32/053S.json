@@ -1,0 +1,19 @@
+{
+  "Name": "決意の眼差し なのは",
+  "Serial": "N2/W32-053S",
+  "Rarity": "SR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "夏祭り フーコ",
+  "Serial": "AW/S43-082",
+  "Rarity": "R",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「夏の宵のまどろみ」があり、他のあなたの、《アバター》か《ネット》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_082.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "アースラの切り札クロノ",
+  "Serial": "N1/W32-017",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードとバトル中のレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "時空管理局執務官、クロノ・ハラオウンだ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_017.gif"
+}

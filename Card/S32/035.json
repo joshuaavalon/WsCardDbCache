@@ -1,0 +1,19 @@
+{
+  "Name": "“アネックス1号の乗組員”三条 加奈子",
+  "Serial": "TF/S32-035",
+  "Rarity": "U",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "動物",
+  "Text": "【起】［手札の《改造》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが《改造》のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（公開したカードは元に戻す）",
+  "Flavor": "了解！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_035.gif"
+}

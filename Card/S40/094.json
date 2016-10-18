@@ -1,0 +1,19 @@
+{
+  "Name": "感謝の気持ち",
+  "Serial": "PI/S40-094",
+  "Rarity": "C",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《魔法》のキャラの枚数に等しい。",
+  "Flavor": "その全てに…感謝します\nありがとう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_094.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "聖夜のマーガレット＆エリザベス",
+  "Serial": "P4/S08-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "神",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「最強なる者」があるなら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "エリザベス「メリークリスマスでございます」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_104.gif"
+}

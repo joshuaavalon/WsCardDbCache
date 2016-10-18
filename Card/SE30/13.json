@@ -1,0 +1,19 @@
+{
+  "Name": "“桜の友だち”リカ",
+  "Serial": "KR/SE30-13",
+  "Rarity": "C",
+  "Expansion": "境界のRINNE",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 絆／「幼い頃の桜」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「幼い頃の桜」を1枚選び、手札に戻す）\n【起】［このカードを【レスト】する］ あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "桜「リカちゃん！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_13.gif"
+}

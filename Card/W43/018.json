@@ -1,0 +1,19 @@
+{
+  "Name": "仲直り 莉嘉",
+  "Serial": "IMC/W43-018",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ギャル",
+  "Text": "【永】 他のあなたの前列の「しっぽもふもふ みりあ」1枚につき、このカードのパワーを＋2000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「私色ギフト」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "やっぱお姉ちゃんっていったらコレだよね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_018.gif"
+}

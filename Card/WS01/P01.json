@@ -1,0 +1,19 @@
+{
+  "Name": "気になるタイトル続々参戦！",
+  "Serial": "CGS/WS01-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の、山札と控え室のカードすべてを、ゲームから除外し、その山札と異なるスリーブの新しいデッキを山札にし、ゲームを続行する。そのゲーム中、古いデッキのカードが控え室に置かれる時、かわりにゲームから除外する。\n※このカードは公式・公認大会では使用できません。",
+  "Flavor": "ねえ、君もヴァイスシュヴァルツしよ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_p01.gif"
+}

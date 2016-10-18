@@ -1,0 +1,19 @@
+{
+  "Name": "マインドショック",
+  "Serial": "LH/SE20-48",
+  "Rarity": "C",
+  "Expansion": "ログ・ホライズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、《武器》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "Flavor": "ちょっとリスキーだけど仕方ない。……排除しよう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_48.gif"
+}

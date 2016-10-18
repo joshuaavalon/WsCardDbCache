@@ -1,0 +1,19 @@
+{
+  "Name": "独りぼっちのれい",
+  "Serial": "VR/W22-052",
+  "Rarity": "U",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "謎",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
+  "Flavor": "これ以上、私に優しくしないで\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_052.gif"
+}

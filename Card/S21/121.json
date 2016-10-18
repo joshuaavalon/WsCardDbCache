@@ -1,0 +1,19 @@
+{
+  "Name": "夢を想う あずさ",
+  "Serial": "IM/S21-121",
+  "Rarity": "RE",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+  "Flavor": "夢、か……。ふふ、私の夢は、小さいけれど、\nでも、なににも変えられない、大切なものなの\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_121.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "魔法の札 カナ",
+  "Serial": "FT/S09-093",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "占い",
+  "Text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+  "Flavor": "ギルドは何としても守るんだよ!!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_093.gif"
+}

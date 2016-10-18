@@ -1,0 +1,19 @@
+{
+  "Name": "クラスメイト さやか",
+  "Serial": "MM/W17-087",
+  "Rarity": "U",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "愛",
+  "Text": "【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "Flavor": "いやー、相変わらず、まどかのママはかっこいいなぁ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_087.gif"
+}

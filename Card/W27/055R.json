@@ -1,0 +1,19 @@
+{
+  "Name": "自分の役目 クリス",
+  "Serial": "SG/W27-055R",
+  "Rarity": "RRR",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《音楽》のキャラが3枚以上なら、あなたは自分の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

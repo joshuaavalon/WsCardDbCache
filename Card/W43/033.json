@@ -1,0 +1,19 @@
+{
+  "Name": "自分らしく 美嘉",
+  "Serial": "IMC/W43-033",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ギャル",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】［あなたのクライマックス置場の「私色ギフト」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを山札に戻し、その山札をシャッフルし、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "アタシも負けらんないなって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_033.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ダイレクトハック",
+  "Serial": "MK/SE29-14",
+  "Rarity": "C",
+  "Expansion": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "Flavor": "たあっ！\n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_14.gif"
+}

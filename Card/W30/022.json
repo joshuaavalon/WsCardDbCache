@@ -1,0 +1,19 @@
+{
+  "Name": "約束のペンダント",
+  "Serial": "NK/W30-022",
+  "Rarity": "U",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《鍵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。",
+  "Flavor": "……鍵……？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_022.gif"
+}

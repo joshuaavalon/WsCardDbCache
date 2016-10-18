@@ -1,0 +1,19 @@
+{
+  "Name": "猫カフェ 螺子川来夢",
+  "Serial": "GF/W33-039",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "動物",
+  "Text": "-",
+  "Flavor": "ふうむ…。私の知ってるネコカフェは、こういうものではなかったと思うけど…この猫耳？　脳波で動くというあれだよー尻尾とあわせて、作ってみたのだー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_039.gif"
+}

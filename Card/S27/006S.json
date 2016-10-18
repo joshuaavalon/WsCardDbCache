@@ -1,0 +1,19 @@
+{
+  "Name": "2年甲組 流子",
+  "Serial": "KLK/S27-006S",
+  "Rarity": "SR",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

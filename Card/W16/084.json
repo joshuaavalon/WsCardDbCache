@@ -1,0 +1,19 @@
+{
+  "Name": "呪縛からの解放 みさ希",
+  "Serial": "RN/W16-084",
+  "Rarity": "U",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「かけがえのない思い出」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "Flavor": "カイ……ありがとう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_084.gif"
+}

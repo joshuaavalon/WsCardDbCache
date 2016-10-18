@@ -1,0 +1,19 @@
+{
+  "Name": "初めての気持ち シャナ",
+  "Serial": "SS/W14-008",
+  "Rarity": "R",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "メロンパン",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。\n【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大いなる器 シャナ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "通じあいたい、悠二と\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_008.gif"
+}

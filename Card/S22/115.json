@@ -1,0 +1,19 @@
+{
+  "Name": "ネガポジ＊コンティニューズ",
+  "Serial": "PD/S22-115",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "ウタウ　マワル　テラス　オドル　ヒカル　ハシル　コノ\nビビビビィト　コンティニューズ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_115.gif"
+}

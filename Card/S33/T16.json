@@ -1,0 +1,19 @@
+{
+  "Name": "執務中のアンリエット",
+  "Serial": "MK/S33-T16",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "生徒会",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_t16.gif"
+}

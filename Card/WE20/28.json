@@ -1,0 +1,19 @@
+{
+  "Name": "可愛い部長 陽子",
+  "Serial": "DC3/WE20-28",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～サクラサクパック",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたの《スポーツ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】している《スポーツ》のキャラを1枚選び、【スタンド】してよい。",
+  "Flavor": "あるのは努力を続ける才能。これも立派な才能だからね。しかも、何をするにも役に立つ最強の才能\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/DC3_WE20_28.gif"
+}

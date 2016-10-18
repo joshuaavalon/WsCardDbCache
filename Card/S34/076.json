@@ -1,0 +1,19 @@
+{
+  "Name": "“英霊”キャスター",
+  "Serial": "FS/S34-076",
+  "Rarity": "RR",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "マスター",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《マスター》か《サーヴァント》のキャラの枚数に等しい。\n【自】[(4) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+  "Flavor": "逃げ切れると思って？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_076.gif"
+}

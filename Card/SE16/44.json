@@ -1,0 +1,19 @@
+{
+  "Name": "悪魔合体",
+  "Serial": "DS2/SE16-44",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "ヤマト「サタン！！」\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_44.gif"
+}

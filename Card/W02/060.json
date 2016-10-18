@@ -1,0 +1,19 @@
+{
+  "Name": "西園 美鳥",
+  "Serial": "LB/W02-060",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "影",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "うーん、できれば美魚って呼んでほしいんだけどなあ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_060.gif"
+}

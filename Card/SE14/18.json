@@ -1,0 +1,19 @@
+{
+  "Name": "深淵を見つめる狡噛",
+  "Serial": "PP/SE14-18",
+  "Rarity": "C",
+  "Expansion": "PSYCHO-PASS サイコパス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サイコパス",
+  "SecondChara": "公安",
+  "Text": "【自】 他のあなたの《公安》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "そもそもこの世界における犯罪とはなんだ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pp_se14_18.gif"
+}

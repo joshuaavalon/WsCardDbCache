@@ -1,0 +1,19 @@
+{
+  "Name": "熱視線 ハヅキ",
+  "Serial": "SGS/S37-032",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "セクシー",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+  "Flavor": "あたしが気になるかい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_032.gif"
+}

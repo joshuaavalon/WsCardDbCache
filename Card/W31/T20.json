@@ -1,0 +1,19 @@
+{
+  "Name": "姉妹のような二人 かなで＆ゆり",
+  "Serial": "AB/W31-T20",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。",
+  "Flavor": "ゆり「…でも、なんとなく嬉しいな…ゆりって呼んでくれて」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_t20.gif"
+}

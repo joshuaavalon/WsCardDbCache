@@ -1,0 +1,19 @@
+{
+  "Name": "ちびアーチャー",
+  "Serial": "FZ/S17-110",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "王族",
+  "Text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "剣を棄て、我が妻となれ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_110.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“ココア風呂”リゼ",
+  "Serial": "GU/W44-048",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの「“姉オーラ？”ココア」すべてに、パワーを＋1000。\n【自】 絆／「“姉オーラ？”ココア」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“姉オーラ？”ココア」を1枚選び、手札に戻す）",
+  "Flavor": "悔しいが悪くない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_048.gif"
+}

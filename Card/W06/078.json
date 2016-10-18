@@ -1,0 +1,19 @@
+{
+  "Name": "“帰国子女”クド",
+  "Serial": "LB/W06-078",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《動物》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "Flavor": "マグカップとか持つとつい、こうしちゃうのです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_078.gif"
+}

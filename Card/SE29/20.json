@@ -1,0 +1,19 @@
+{
+  "Name": "“可憐にドレスアップ！”エリー",
+  "Serial": "MK/SE29-20",
+  "Rarity": "U",
+  "Expansion": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "恥ずかしいけど、観て・・・ください\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_20.gif"
+}

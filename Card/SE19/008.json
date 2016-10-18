@@ -1,0 +1,19 @@
+{
+  "Name": "氷の島のうーさー",
+  "Serial": "Woo/SE19-008",
+  "Rarity": "TD",
+  "Expansion": "【スペシャルセット】うーさーのその日暮らし",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "氷",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「クリスマス中止のお知らせ」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラなら手札に加える。（そうでないなら元に戻す）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_008.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "盟主 リジット",
+  "Serial": "GG/S23-018",
+  "Rarity": "C",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "",
+  "Text": "【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "私には、この船に集った全ての同胞を守る義務がある\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_018.gif"
+}

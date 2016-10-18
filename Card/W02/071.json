@@ -1,0 +1,19 @@
+{
+  "Name": "クリムゾンレッドの腕章",
+  "Serial": "LB/W02-071",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたはレベル1以下の相手の前列のキャラを1枚選び、控え室に置く。このカードをストック置場に置く。",
+  "Flavor": "つまらないことをしているのは、あなたでしょう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_071.gif"
+}

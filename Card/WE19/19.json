@@ -1,0 +1,19 @@
+{
+  "Name": "生徒会長 穂乃果",
+  "Serial": "LL/WE19-19",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お菓子",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "Flavor": "ふえ～、生徒会長って大変なんだね～！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we19_19.gif"
+}

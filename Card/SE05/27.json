@@ -1,0 +1,19 @@
+{
+  "Name": "“純朴な人柄”真田 幸村",
+  "Serial": "SB/SE05-27",
+  "Rarity": "C",
+  "Expansion": "ＴＶアニメ 戦国BASARA弐",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "鉢巻",
+  "Text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "幸村「うああッ!!」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_27.gif"
+}

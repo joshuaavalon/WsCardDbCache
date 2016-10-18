@@ -1,0 +1,19 @@
+{
+  "Name": "竜使い タバサ",
+  "Serial": "ZM/W03-011",
+  "Rarity": "U",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【永】 アラーム このカードがクロックの１番上にあり、あなたのレベルが2以上なら、あなたの黄のキャラすべてに、ソウルを＋1。\n【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。",
+  "Flavor": "知らない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_011.gif"
+}

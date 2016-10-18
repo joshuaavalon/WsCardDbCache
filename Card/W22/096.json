@@ -1,0 +1,19 @@
+{
+  "Name": "パレットスーツ装着！ あおい",
+  "Serial": "VR/W22-096",
+  "Rarity": "C",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "あれは！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_096.gif"
+}

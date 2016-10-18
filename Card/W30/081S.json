@@ -1,0 +1,19 @@
+{
+  "Name": "白衣の天使 小咲",
+  "Serial": "NK/W30-081S",
+  "Rarity": "SR",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは1枚まで引く。\n【起】［あなたの《鍵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

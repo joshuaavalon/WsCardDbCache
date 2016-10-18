@@ -1,0 +1,19 @@
+{
+  "Name": "対立の終わり かなで",
+  "Serial": "AB/W31-006",
+  "Rarity": "R",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "もう、ゆりの抱えてた葛藤は解けてる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_006.gif"
+}

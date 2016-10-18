@@ -1,0 +1,19 @@
+{
+  "Name": "“クドのおかあさん”チルーシャ",
+  "Serial": "LB/W21-072",
+  "Rarity": "C",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「クド」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "クーニャ、おっきくなったねー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_072.gif"
+}

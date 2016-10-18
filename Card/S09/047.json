@@ -1,0 +1,19 @@
+{
+  "Name": "チェンジリング",
+  "Serial": "FT/S09-047",
+  "Rarity": "U",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。このカードを思い出にする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_047.gif"
+}

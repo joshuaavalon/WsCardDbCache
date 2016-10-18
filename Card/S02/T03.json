@@ -1,0 +1,19 @@
+{
+  "Name": "平凡な僧侶",
+  "Serial": "DG/S02-T03",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "神",
+  "SecondChara": "魔法",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "私はいつもあなた方のそばに……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_t03.gif"
+}

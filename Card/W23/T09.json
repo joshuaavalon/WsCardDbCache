@@ -1,0 +1,19 @@
+{
+  "Name": "熱弁をふるう巴",
+  "Serial": "DC3/W23-T09",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "まったく、大和男子のくせに\n何にも知らないんだな。清隆は\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w23_t09.gif"
+}

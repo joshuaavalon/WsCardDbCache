@@ -1,0 +1,19 @@
+{
+  "Name": "操縦席のレド",
+  "Serial": "GG/S23-T10",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "軍隊",
+  "Text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを思い出にする。（公開したカードは元に戻す）",
+  "Flavor": "こいつら何者だ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_t10.gif"
+}

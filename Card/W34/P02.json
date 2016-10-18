@@ -1,0 +1,19 @@
+{
+  "Name": "皆で勉強会 海未＆穂乃果＆真姫",
+  "Serial": "LL/W34-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "穂乃果「ぎゃあ～!!」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_P02.gif"
+}

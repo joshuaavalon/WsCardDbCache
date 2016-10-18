@@ -1,0 +1,19 @@
+{
+  "Name": "必勝への策謀 時臣",
+  "Serial": "FZ/S17-076",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "宝石",
+  "Text": "【起】［あなたの《マスター》のキャラを2枚【レスト】する］ そのターン中、このカードのレベルを＋1し、パワーを＋2000。",
+  "Flavor": "根源への到達。我ら遠坂の悲願はその一点において他はない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_076.gif"
+}

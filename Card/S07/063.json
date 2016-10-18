@@ -1,0 +1,19 @@
+{
+  "Name": "明るい笑顔やよい",
+  "Serial": "IM/S07-063",
+  "Rarity": "C",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたのバトルしているキャラが【リバース】した時、あなたは自分の「水瀬 伊織」を1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "えへへ……。あの、頑張って下さい♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_063.gif"
+}

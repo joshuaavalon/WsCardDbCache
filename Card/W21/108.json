@@ -1,0 +1,19 @@
+{
+  "Name": "“マウンド上の精密機械”鈴",
+  "Serial": "LB/W21-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "あ、あたしの球はへぼいぞ、打たれるぞ。\nそれでもいいか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_108.gif"
+}

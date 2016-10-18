@@ -1,0 +1,19 @@
+{
+  "Name": "色褪せた世界",
+  "Serial": "SY/W08-071",
+  "Rarity": "U",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のレベル1以上のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル0以下の《団長》のキャラを1枚まで選び、舞台の好きな枠に置き、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "Flavor": "みんながみんなやってる普通の日常なんだと思うと、途端になにもかもがつまらなくなった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_071.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "変身するたび変態 蟇郡",
+  "Serial": "KLK/S27-090",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "風紀委員",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「本能字四天王、極戦装束！」があるなら、あなたは他の自分の、《服》かカード名に「マコ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。",
+  "Flavor": "死縛の装の本当のおそろしさ、見せてやろう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_090.gif"
+}

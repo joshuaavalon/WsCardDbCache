@@ -1,0 +1,19 @@
+{
+  "Name": "“フレンドリー”小毬",
+  "Serial": "LB/W06-103",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "",
+  "Text": "【起】［あなたのカード名に「理樹」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000し、《スポーツ》を得る。",
+  "Flavor": "うん、運動とか苦手だけど、がんばってなんかでカバーするよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_103.gif"
+}

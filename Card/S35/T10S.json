@@ -1,0 +1,19 @@
+{
+  "Name": "エレン・イェーガー",
+  "Serial": "AOT/S35-T10S",
+  "Rarity": "SR",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの《兵団》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを－1。\n【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+  "Flavor": "やる！オレはやる！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

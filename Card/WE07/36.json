@@ -1,0 +1,19 @@
+{
+  "Name": "家庭的な智代",
+  "Serial": "CL/WE07-36",
+  "Rarity": "RE",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の後列のレベル1以下のキャラを1枚選び、【スタンド】してよい。",
+  "Flavor": "岡崎、朝だぞ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_36.gif"
+}

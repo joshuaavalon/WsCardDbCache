@@ -1,0 +1,19 @@
+{
+  "Name": "可愛い担い手 ルイズ",
+  "Serial": "ZM/WE13-31",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "虚無",
+  "Text": "【永】 他のあなたの『集中』を持つキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "ねえ、これどう？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_31.gif"
+}

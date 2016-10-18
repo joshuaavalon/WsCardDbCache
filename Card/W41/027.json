@@ -1,0 +1,19 @@
+{
+  "Name": "日野 茜",
+  "Serial": "IMC/W41-027",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "熱血",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】 あなたのアンコールステップの始めに、このカードを控え室に置く。",
+  "Flavor": "今日のライブ、全力で熱く燃えましょう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_027.gif"
+}

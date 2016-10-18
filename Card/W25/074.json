@@ -1,0 +1,19 @@
+{
+  "Name": "悪い子にはお仕置き はやて",
+  "Serial": "N2/W25-074",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "こーらヴィータ！\nお見舞いに来てくれたみんなにどーゆー対応や\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_074.gif"
+}

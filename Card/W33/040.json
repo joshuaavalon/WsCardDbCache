@@ -1,0 +1,19 @@
+{
+  "Name": "新歓 姫島木乃子",
+  "Serial": "GF/W33-040",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋1000。",
+  "Flavor": "この勧誘に紛れてだね、帰宅部募集?…なんてしてたら、どうなんだろうかね？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_040.gif"
+}

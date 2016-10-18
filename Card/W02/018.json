@@ -1,0 +1,19 @@
+{
+  "Name": "猫使いの秘密兵器",
+  "Serial": "LB/W02-018",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたはレベル0以下の相手の前列のキャラを1枚選び、手札に戻す。このカードをストック置場に置く。",
+  "Flavor": "この道六十五年の匠がこりこりにこだわった猫じゃらしだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_018.gif"
+}

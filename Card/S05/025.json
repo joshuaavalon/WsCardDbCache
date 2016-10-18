@@ -1,0 +1,19 @@
+{
+  "Name": "完全勝利",
+  "Serial": "KF/S05-025",
+  "Rarity": "CC",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "パーフェクト！\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_025.gif"
+}

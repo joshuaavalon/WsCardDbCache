@@ -1,0 +1,19 @@
+{
+  "Name": "マギーのタロット占い",
+  "Serial": "P4/S08-096",
+  "Rarity": "U",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 相手はあなたのキャラを1枚選び、手札に戻してよい。あなたは相手のキャラを1枚選び、【レスト】する。",
+  "Flavor": "あい「占い無制限一本勝負を申し込むわ！！　　アタシが勝ったら、この小屋、潰すわよ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_096.gif"
+}

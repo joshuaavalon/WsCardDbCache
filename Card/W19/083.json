@@ -1,0 +1,19 @@
+{
+  "Name": "仲間への信頼 翼",
+  "Serial": "SG/W19-083",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。",
+  "Flavor": "立花には驚かされっぱなしだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_083.gif"
+}

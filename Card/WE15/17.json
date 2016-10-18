@@ -1,0 +1,19 @@
+{
+  "Name": "『輝爍の撒き手』レベッカ・リード",
+  "Serial": "SS/WE15-17",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナIII-FINAL-",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "神器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "レベッカ「美味しいところ取ってくようで悪いけどよ」\nバラル「そこは適材適所ってことでご勘弁願いたいね」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_we15_17.gif"
+}

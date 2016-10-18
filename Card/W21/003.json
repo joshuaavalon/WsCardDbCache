@@ -1,0 +1,19 @@
+{
+  "Name": "“リトルバスターズ”小毬",
+  "Serial": "LB/W21-003",
+  "Rarity": "R",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "童話",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のレベル1以下のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。",
+  "Flavor": "辛いことや悲しいことから逃さないこと。\nみんなと一緒なら笑っていられること\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_003.gif"
+}

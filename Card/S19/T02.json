@@ -1,0 +1,19 @@
+{
+  "Name": "メガネっ娘 咲",
+  "Serial": "MK2/S19-T02",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "メガネ",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "罰ゲーム執行～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_t02.gif"
+}

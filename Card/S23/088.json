@@ -1,0 +1,19 @@
+{
+  "Name": "強い眼差し レド",
+  "Serial": "GG/S23-088",
+  "Rarity": "U",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "軍隊",
+  "Text": "【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "戦えと、強いるのか。機械のお前が、人間の俺に\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_088.gif"
+}

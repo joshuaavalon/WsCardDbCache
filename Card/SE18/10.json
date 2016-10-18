@@ -1,0 +1,19 @@
+{
+  "Name": "カレイドの魔法少女 イリヤ",
+  "Serial": "PI/SE18-10",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
+  "Flavor": "なんか魔法少女っぽくなってきたかも！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_se18_010.gif"
+}

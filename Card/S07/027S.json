@@ -1,0 +1,19 @@
+{
+  "Name": "音無 小鳥",
+  "Serial": "IM/S07-027S",
+  "Rarity": "SR",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

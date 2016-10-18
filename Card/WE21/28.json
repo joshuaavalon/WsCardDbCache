@@ -1,0 +1,19 @@
+{
+  "Name": "エーススナイパー沙耶",
+  "Serial": "LB/WE21-28",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のターン中、他のあなたの《武器》のキャラ1枚につき、このカードのパワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "お遊びはここまでよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LB_WE21_28.gif"
+}

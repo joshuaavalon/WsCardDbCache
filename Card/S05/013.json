@@ -1,0 +1,19 @@
+{
+  "Name": "矢吹 真吾",
+  "Serial": "KF/S05-013",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パン",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《神器》か《パン》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "アレレ？　元気がないですよ！\nハッスルハッスル！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_013.gif"
+}

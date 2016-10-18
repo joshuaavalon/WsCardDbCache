@@ -1,0 +1,19 @@
+{
+  "Name": "“学園都市”佐天",
+  "Serial": "RG/W26-036S",
+  "Rarity": "SR",
+  "Expansion": "とある科学の超電磁砲S",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「路地裏の脱出」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

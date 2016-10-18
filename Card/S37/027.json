@@ -1,0 +1,19 @@
+{
+  "Name": "“ココナッツ・ベガ”高嶺 アコ",
+  "Serial": "SGS/S37-027",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "新聞",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【永】 他のあなたの黄のキャラすべてに、パワーを＋500。』",
+  "Flavor": "どんどんいくのだー！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_027.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "空を駆けるレベッカ",
+  "Serial": "DD/WE17-06",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "勇者",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。",
+  "Flavor": "クーベル「すごいぞレベッカ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_06.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“ミルキィホームズ”コーデリア",
+  "Serial": "MK/S11-102",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "聴きなさい、コーデリア・グラウカ…\n物にはすべて音がある…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_102_2.gif"
+}

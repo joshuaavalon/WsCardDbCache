@@ -1,0 +1,19 @@
+{
+  "Name": "遅参する アーチャー",
+  "Serial": "FS/S34-057",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのキャラすべてが、《マスター》か《サーヴァント》なら、このカードのパワーを＋1000。\n【自】[(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「狙い穿つ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "主の異状を察知して駆けつけた。\nもっとも、遅すぎたようだがね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_057.gif"
+}

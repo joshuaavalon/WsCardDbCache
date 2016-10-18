@@ -1,0 +1,19 @@
+{
+  "Name": "“新探偵服”佐々木未来",
+  "Serial": "MK/S33-030",
+  "Rarity": "R",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_030.gif"
+}

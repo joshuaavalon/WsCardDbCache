@@ -1,0 +1,19 @@
+{
+  "Name": "水着の朱音",
+  "Serial": "RW/W20-017",
+  "Rarity": "C",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "オカルト",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "この空気…水着回の定番えろ少年オーラ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_017.gif"
+}

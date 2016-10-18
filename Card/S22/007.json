@@ -1,0 +1,19 @@
+{
+  "Name": "鏡音リン“オリジナル”",
+  "Serial": "PD/S22-007",
+  "Rarity": "R",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_007.gif"
+}

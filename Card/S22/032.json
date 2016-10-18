@@ -1,0 +1,19 @@
+{
+  "Name": "“歌声をキミに”初音ミク",
+  "Serial": "PD/S22-032",
+  "Rarity": "R",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "この歌声、キミに届きますように――\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_032.gif"
+}

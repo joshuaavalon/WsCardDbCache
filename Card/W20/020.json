@@ -1,0 +1,19 @@
+{
+  "Name": "“一番の理由”小鳥",
+  "Serial": "RW/W20-020",
+  "Rarity": "C",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "",
+  "Text": "【永】 あなたのストックが5枚以上なら、このカードのレベルを＋1し、パワーを＋1000。",
+  "Flavor": "…ほ、本気？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_020.gif"
+}

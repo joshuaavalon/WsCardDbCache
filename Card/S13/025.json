@@ -1,0 +1,19 @@
+{
+  "Name": "オベリスク",
+  "Serial": "MF/S13-025",
+  "Rarity": "CC",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "私だって…私の歌だって、少しはバジュラに！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_025.gif"
+}

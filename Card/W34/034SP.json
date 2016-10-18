@@ -1,0 +1,19 @@
+{
+  "Name": "“Happy maker!”高坂 穂乃果",
+  "Serial": "LL/W34-034SP",
+  "Rarity": "SP",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「桜の木の向こうの青空」があるなら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置いてよい。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

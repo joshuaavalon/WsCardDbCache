@@ -1,0 +1,19 @@
+{
+  "Name": "“来客の訪れ”イリヤ",
+  "Serial": "FS/S36-092",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "ホムンクルス",
+  "Text": "【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+  "Flavor": "士郎が来る…お母様がいたこの城に\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_092.gif"
+}

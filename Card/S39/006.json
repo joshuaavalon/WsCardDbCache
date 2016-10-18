@@ -1,0 +1,19 @@
+{
+  "Name": "昔話 忍野忍",
+  "Serial": "MG/S39-006",
+  "Rarity": "R",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋2500し、このカードは相手の効果に選ばれない。\n【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "儂が次に日本に来るのは－－半年前のことになる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_006.gif"
+}

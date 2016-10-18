@@ -1,0 +1,19 @@
+{
+  "Name": "志貴の先輩 シエル",
+  "Serial": "MB/S10-083",
+  "Rarity": "U",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "カレー",
+  "SecondChara": "武器",
+  "Text": "【自】 絆／「“直死の魔眼”志貴」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“直死の魔眼”志貴」を1枚選び、手札に戻す）\n【起】［(3)］ あなたは相手のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "Flavor": "後は私に任せて、遠野君は先に帰っていて下さい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_083.gif"
+}

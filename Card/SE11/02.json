@@ -1,0 +1,19 @@
+{
+  "Name": "目ざといネロ",
+  "Serial": "MK/SE11-02",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ Genius4の反撃",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "間違いない、ここだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_02.gif"
+}

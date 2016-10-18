@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス 真",
+  "Serial": "IM/S14-088",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のターン中、前列の中央の枠にこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。",
+  "Flavor": "ボクがセンターなんですか！？\nよーし、やる気出てきた～っ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_088.gif"
+}

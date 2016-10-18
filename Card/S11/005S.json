@@ -1,0 +1,19 @@
+{
+  "Name": "譲崎 ネロ",
+  "Serial": "MK/S11-005S",
+  "Rarity": "SR",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "お菓子",
+  "Text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「ふたりっきりのデート」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを2枚まで選び、手札に戻す。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

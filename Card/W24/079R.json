@@ -1,0 +1,19 @@
+{
+  "Name": "歌が上手 真姫",
+  "Serial": "LL/W24-079R",
+  "Rarity": "RRR",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "令嬢",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋1000。\n【永】 あなたが自分のキャラの『チェンジ』のコストを払う時、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

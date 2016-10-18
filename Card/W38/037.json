@@ -1,0 +1,19 @@
+{
+  "Name": "夏準備",
+  "Serial": "GF/W38-037",
+  "Rarity": "CC",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の黄のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "着替えてこないと～\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_037.gif"
+}

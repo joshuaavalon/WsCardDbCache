@@ -1,0 +1,19 @@
+{
+  "Name": "禁則事項です",
+  "Serial": "SY/W08-049",
+  "Rarity": "CC",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "禁則事項です♪\n",
+  "Trigger": "Bag",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_049.gif"
+}

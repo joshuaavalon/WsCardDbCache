@@ -1,0 +1,19 @@
+{
+  "Name": "“戦国の魔王”織田 信長",
+  "Serial": "SB/SE05-02",
+  "Rarity": "R",
+  "Expansion": "ＴＶアニメ 戦国BASARA弐",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「天下布武の大号令」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+  "Flavor": "余が直々に比良坂へ送ってくれようぞ…!!\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_02.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "山頂アタック 海未",
+  "Serial": "LL/WE19-21",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 あなたのクライマックス置場に「ユメノトビラ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "山頂アタックです！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we19_21.gif"
+}

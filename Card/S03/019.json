@@ -1,0 +1,19 @@
+{
+  "Name": "王の財宝",
+  "Serial": "FS/S03-019",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《武器》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "運が良ければ手足を串刺す程度であろう―――！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_019.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス 貴音",
+  "Serial": "IM/S14-084",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "王族",
+  "Text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《王族》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "あなた様が私と共に歩んで\nくれること、大変心強く思います\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_084.gif"
+}

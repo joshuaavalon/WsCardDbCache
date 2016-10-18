@@ -1,0 +1,19 @@
+{
+  "Name": "通信士 アルト＆ルキノ",
+  "Serial": "NS/W04-083",
+  "Rarity": "U",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(1) 手札の《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "ルキノ「給湯室でお茶入れて、一段落しよっか」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_083.gif"
+}

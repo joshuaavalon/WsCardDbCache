@@ -1,0 +1,19 @@
+{
+  "Name": "あいのマホウ 立夏",
+  "Serial": "DC3/WE20-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【永】 他のあなたのカード名に「立夏」か「リッカ」を含むキャラすべてに、パワーを＋500。",
+  "Flavor": "ほら！　やっぱり魔法は実在するのよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_we20_p03.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "略奪",
+  "Serial": "FS/S34-097",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】している《マスター》のキャラを1枚選び【レスト】する。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の下に置く。",
+  "Flavor": "セイバーは今や私の傀儡\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_097.gif"
+}

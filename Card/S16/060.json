@@ -1,0 +1,19 @@
+{
+  "Name": "嘘界＝ヴァルツ・誠",
+  "Serial": "GC/S16-060",
+  "Rarity": "U",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "軍隊",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。",
+  "Flavor": "初めまして。桜満集君。\nあなたを逮捕します\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_060.gif"
+}

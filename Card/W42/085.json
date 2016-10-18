@@ -1,0 +1,19 @@
+{
+  "Name": "“ネコネコハプニング”春菜",
+  "Serial": "TL/W42-085",
+  "Rarity": "R",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "動物",
+  "Text": "【永】 あなたのクロック置場に「“料理を作ると吉”春菜」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 あなたのクライマックス置場に「予期せぬ事態」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは2枚まで引き、次の相手のターンの終わりまで、このカードのパワーを＋2500。",
+  "Flavor": "ゆ…結城くん…？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_085.gif"
+}

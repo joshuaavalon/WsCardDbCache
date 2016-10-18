@@ -1,0 +1,19 @@
+{
+  "Name": "ホワイト・クリスマス・イヴ",
+  "Serial": "RN/W16-099",
+  "Rarity": "CC",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "おでこにしますか？ ほっぺ？\nそれとも、くちびる？\nアイリの第一希望は、おでこです\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_099.gif"
+}

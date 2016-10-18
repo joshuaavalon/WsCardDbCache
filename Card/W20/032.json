@@ -1,0 +1,19 @@
+{
+  "Name": "水着のルチア",
+  "Serial": "RW/W20-032",
+  "Rarity": "U",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "オカルト",
+  "Text": "-",
+  "Flavor": "待て待て。準備運動をしてからじゃないと危ないぞ。\n溺れたらどうする\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_032.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "薄紅色の景色 シャルル",
+  "Serial": "DC3/WPR-P25",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《生徒会》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "あたしたちのお願いを叶えるために\nまた咲いてくれたのかもしれないね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_wpr_p25.gif"
+}

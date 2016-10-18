@@ -1,0 +1,19 @@
+{
+  "Name": "クリムゾン・キングボルト",
+  "Serial": "AW/S18-068",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "メカ",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "いーさいーさ。どーせ俺様ちゃんはタダのネジなのさ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_068.gif"
+}

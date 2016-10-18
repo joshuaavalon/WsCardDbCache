@@ -1,0 +1,19 @@
+{
+  "Name": "夜の終わりに　イリヤ",
+  "Serial": "PI/SE18-15",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「クラスカード アーチャー」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。』",
+  "Flavor": "…な、何？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_se18_015.gif"
+}

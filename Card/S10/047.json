@@ -1,0 +1,19 @@
+{
+  "Name": "あなたの手で…",
+  "Serial": "MB/S10-047",
+  "Rarity": "U",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを－4000。",
+  "Flavor": "リーズ｢……さあ、眠りなさいシオン。今度こそ、悪い夢に捕まらないように｣\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_047.gif"
+}

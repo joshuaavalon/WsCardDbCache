@@ -1,0 +1,19 @@
+{
+  "Name": "芸能人りせ",
+  "Serial": "P4/S08-029S",
+  "Rarity": "SR",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "テレビ",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「王様ゲーム」を1枚選び、手札に戻す。\n【起】［あなたのキャラを1枚【レスト】する］ あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "式波・アスカ・ラングレー",
+  "Serial": "EV/S12-051R",
+  "Rarity": "RRR",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "軍隊",
+  "Text": "【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

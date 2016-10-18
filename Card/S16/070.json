@@ -1,0 +1,19 @@
+{
+  "Name": "純粋な気持ち いのり",
+  "Serial": "GC/S16-070",
+  "Rarity": "C",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "……ずっと側に居ても、いい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_070.gif"
+}

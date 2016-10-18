@@ -1,0 +1,19 @@
+{
+  "Name": "ネコミミ 静流",
+  "Serial": "RW/W15-119",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風紀委員",
+  "SecondChara": "オカルト",
+  "Text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "…どうした、コタロー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_119.gif"
+}

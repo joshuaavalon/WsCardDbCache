@@ -1,0 +1,19 @@
+{
+  "Name": "二人の誓い なのは＆フェイト",
+  "Serial": "N2/W32-069",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 絆／「今いるべき場所 フェイト」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「今いるべき場所 フェイト」を1枚選び、手札に戻す）",
+  "Flavor": "なのは「わたしの事、助けに来てくれたんだよね？\n…ごめんね、ありがとう」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_069.gif"
+}

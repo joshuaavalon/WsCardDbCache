@@ -1,0 +1,19 @@
+{
+  "Name": "クリスマス 北方棲姫",
+  "Serial": "KC/SE28-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "深海棲艦",
+  "SecondChara": "姫",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\n【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "Flavor": "コナイデ…ッテ…イッテル…ノ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_se28_P01.gif"
+}

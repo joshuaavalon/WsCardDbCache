@@ -1,0 +1,19 @@
+{
+  "Name": "からっぽの存在 ヘカテー",
+  "Serial": "SS/W14-082",
+  "Rarity": "U",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "巫女",
+  "Text": "【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのパワーを＋2000。",
+  "Flavor": "役目を終えたものは、ただ消えゆく\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_082.gif"
+}

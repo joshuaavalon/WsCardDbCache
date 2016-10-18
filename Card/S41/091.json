@@ -1,0 +1,19 @@
+{
+  "Name": "“素直になれない”一松",
+  "Serial": "OMS/S41-091",
+  "Rarity": "C",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 6500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたのカード名に「松」か「エスパーニャンコ」を含むキャラがいるなら、このカードのパワーを＋3000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ホントの気持ち」があるなら、相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_091.gif"
+}

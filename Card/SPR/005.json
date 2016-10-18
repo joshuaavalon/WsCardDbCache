@@ -1,0 +1,19 @@
+{
+  "Name": "“痛覚残留”浅上 藤乃",
+  "Serial": "KK/SPR-005",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "虚無",
+  "Text": "【自】［(2)］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているレベル2以下のキャラを1枚選び、【レスト】する。",
+  "Flavor": "凶れェ――――――――――――っ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kk_spr_005.gif"
+}

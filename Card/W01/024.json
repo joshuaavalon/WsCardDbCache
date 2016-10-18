@@ -1,0 +1,19 @@
+{
+  "Name": "魔法使いの見る夢",
+  "Serial": "DC/W01-024",
+  "Rarity": "CC",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "ここはみんなの夢の通り道……\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_024.gif"
+}

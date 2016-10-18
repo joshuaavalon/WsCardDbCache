@@ -1,0 +1,19 @@
+{
+  "Name": "大鳳型装甲空母 大鳳",
+  "Serial": "KC/S42-004",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "装甲空母",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「第一機動部隊、出撃！」があるなら、あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "最新鋭の装甲空母の本当の戦い、見せてあげる！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_004.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "私服の葉留佳",
+  "Serial": "LB/W06-028",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビー玉",
+  "SecondChara": "双子",
+  "Text": "【永】 他のあなたの《委員長》のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《ビー玉》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "自分のこと、見てくれるってやっぱりいいね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_028.gif"
+}

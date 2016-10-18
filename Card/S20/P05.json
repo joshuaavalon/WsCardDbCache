@@ -1,0 +1,19 @@
+{
+  "Name": "伝えたい想い 明日奈",
+  "Serial": "SAO/S20-P05",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "きみ、向こうでもこっちでも、気の抜けてる時はほんとうにうっかりのんびり屋さんだね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_p05.gif"
+}

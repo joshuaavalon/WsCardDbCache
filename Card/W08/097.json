@@ -1,0 +1,19 @@
+{
+  "Name": "情報連結解除",
+  "Serial": "SY/W08-097",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に置く。",
+  "Flavor": "あーあ、残念。所詮私はバックアップだったかぁ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_097.gif"
+}

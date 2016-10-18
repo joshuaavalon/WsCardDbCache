@@ -1,0 +1,19 @@
+{
+  "Name": "催眠術",
+  "Serial": "AB/W31-049",
+  "Rarity": "C",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。",
+  "Flavor": "貴様は今から幸せな夢を見る\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_049.gif"
+}

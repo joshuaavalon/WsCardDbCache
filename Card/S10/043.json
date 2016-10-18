@@ -1,0 +1,19 @@
+{
+  "Name": "シオンの友人 リーズバイフェ",
+  "Serial": "MB/S10-043",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "盾",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの前列のカード名に「シオン」を含むキャラがいるなら、このカードのパワーを＋2000。",
+  "Flavor": "その身にまとった神秘、一切を打ち崩そう―――！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_043.gif"
+}

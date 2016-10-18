@@ -1,0 +1,19 @@
+{
+  "Name": "コルベール先生",
+  "Serial": "ZM/WE13-34",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "メガネ",
+  "Text": "【永】 他のあなたの、「ルイズの守り手 サイト」と「“神の左手”サイト」すべてに、パワーを＋1000。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "オストラント号の強みは、水蒸気機関を使っている\nことによる速さだからね。逃げて、逃げて、逃げまくる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_34.gif"
+}

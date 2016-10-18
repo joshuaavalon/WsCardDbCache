@@ -1,0 +1,19 @@
+{
+  "Name": "あどけない瞳 かなで",
+  "Serial": "AB/W31-019",
+  "Rarity": "U",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "ふーん…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_019.gif"
+}

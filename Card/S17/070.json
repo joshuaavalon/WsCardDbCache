@@ -1,0 +1,19 @@
+{
+  "Name": "黒い殺意 バーサーカー",
+  "Serial": "FZ/S17-070",
+  "Rarity": "U",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 3,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "……Ar(アァ)……thur(サァ)……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_070.gif"
+}

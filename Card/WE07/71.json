@@ -1,0 +1,19 @@
+{
+  "Name": "占い好きな椋",
+  "Serial": "CL/WE07-71",
+  "Rarity": "RE",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "占い",
+  "Text": "【永】 他のあなたのカード名に「杏」を含むキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "占いが当たってしまうと、未来が一つしかないみたいじゃないですか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_71.gif"
+}

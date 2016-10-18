@@ -1,0 +1,19 @@
+{
+  "Name": "手料理への挑戦",
+  "Serial": "SS/W14-065",
+  "Rarity": "U",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "相手に6ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "むむむ……む、む…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_065.gif"
+}

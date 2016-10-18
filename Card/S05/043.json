@@ -1,0 +1,19 @@
+{
+  "Name": "静かなる傭兵クラーク",
+  "Serial": "KF/S05-043",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "軍隊",
+  "Text": "-",
+  "Flavor": "訓練じゃ得られない物がある。\nもっと「実戦」で経験を積むんだな\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_043.gif"
+}

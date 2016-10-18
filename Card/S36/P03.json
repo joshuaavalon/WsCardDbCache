@@ -1,0 +1,19 @@
+{
+  "Name": "“闇夜の巡回”凛＆アーチャー",
+  "Serial": "FS/S36-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "サーヴァント",
+  "Text": "【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは1枚引く。",
+  "Flavor": "凛「アーチャー！着地任せた！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_p03.gif"
+}

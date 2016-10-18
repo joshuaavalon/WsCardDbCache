@@ -1,0 +1,19 @@
+{
+  "Name": "オリヴァー・クロムウェル",
+  "Serial": "ZM/W03-090",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの青のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。\n【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。",
+  "Flavor": "……時は満ちた……いよいよ実行の時……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_090.gif"
+}

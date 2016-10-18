@@ -1,0 +1,19 @@
+{
+  "Name": "異教地への伝道者 オルソラ",
+  "Serial": "ID/W13-088",
+  "Rarity": "C",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "シスター",
+  "Text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+  "Flavor": "このバスに乗ればよいのでございましょうか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_088.gif"
+}

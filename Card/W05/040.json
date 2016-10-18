@@ -1,0 +1,19 @@
+{
+  "Name": "伏兵のつかさ",
+  "Serial": "LS/W05-040",
+  "Rarity": "C",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "お菓子",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のキャラを1枚選び、そのターン中、レベルを-1。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "うん、それはね…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_040.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“向き合う勇気”切歌",
+  "Serial": "SG/W39-029R",
+  "Rarity": "RRR",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのカード名に「調」を含むキャラがいるなら、このカードのパワーを＋1500。\n【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "自らの義に正しくあること\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

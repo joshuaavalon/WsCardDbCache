@@ -1,0 +1,19 @@
+{
+  "Name": "六魔将軍",
+  "Serial": "FT/SE10-29Mid",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 このカードと同じカード名のカードは、デッキに6枚まで入れることができる。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の「六魔将軍のマスター ゼロ」を1枚選び、このカードをそのカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "ミッドナイト「数打てば当たると思った？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_29mid.gif"
+}

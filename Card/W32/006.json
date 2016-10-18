@@ -1,0 +1,19 @@
+{
+  "Name": "教育係リニス",
+  "Serial": "N1/W32-006",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【自】［あなたの舞台のカード名に「フェイト」を含むキャラを1枚クロック置場に置き、このカードを思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「もうひとりの魔法少女フェイト」を1枚まで選び、後列の好きな枠に置く。その山札をシャッフルする。",
+  "Flavor": "フェイトは勉強熱心な子ですから……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_006.gif"
+}

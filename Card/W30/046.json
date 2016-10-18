@@ -1,0 +1,19 @@
+{
+  "Name": "約束のペンダント",
+  "Serial": "NK/W30-046",
+  "Rarity": "U",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたの《鍵》のキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500。このカードを思い出にする。",
+  "Flavor": "楽「……一つだけ聞いてもいいかな……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_046.gif"
+}

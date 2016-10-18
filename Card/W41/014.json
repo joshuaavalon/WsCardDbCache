@@ -1,0 +1,19 @@
+{
+  "Name": "もう一度前へ 未央",
+  "Serial": "IMC/W41-014",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。\n【自】 このカードがアタックした時、クライマックス置場に「ファンレター」があるなら、あなたは他の自分の【レスト】しているキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "アイドル、一緒に続けさせてほしい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_014.gif"
+}

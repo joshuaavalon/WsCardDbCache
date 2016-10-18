@@ -1,0 +1,19 @@
+{
+  "Name": "代わりの人形フェイト",
+  "Serial": "N1/W32-001",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "クローン",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "Flavor": "アリシアになれなくて……期待に応えられなくて……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_001.gif"
+}

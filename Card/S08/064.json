@@ -1,0 +1,19 @@
+{
+  "Name": "ガソスタの店員",
+  "Serial": "P4/S08-064",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。",
+  "Flavor": "らっしゃーせー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_064.gif"
+}

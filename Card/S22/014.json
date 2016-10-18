@@ -1,0 +1,19 @@
+{
+  "Name": "鏡音リン“アペンド”",
+  "Serial": "PD/S22-014",
+  "Rarity": "U",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「鏡音リン“オリジナル”」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_014.gif"
+}

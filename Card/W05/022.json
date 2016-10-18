@@ -1,0 +1,19 @@
+{
+  "Name": "夢のような生活",
+  "Serial": "LS/W05-022",
+  "Rarity": "C",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 4,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "すぅ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_022.gif"
+}

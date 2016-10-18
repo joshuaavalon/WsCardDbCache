@@ -1,0 +1,19 @@
+{
+  "Name": "“クイントール族”ファークリン",
+  "Serial": "SE/S04-029",
+  "Rarity": "R",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "魔法",
+  "Text": "【永】 他のあなたの「爆弾娘アミタリリ」すべてに、パワーを＋1000。",
+  "Flavor": "アミちゃん、惚れっぽいんだから……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_029.gif"
+}

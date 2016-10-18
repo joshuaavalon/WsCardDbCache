@@ -1,0 +1,19 @@
+{
+  "Name": "《ビーター》キリト",
+  "Serial": "SAO/S20-103",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【起】［(1)］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "これからは、元テスターごときと一緒にしないでくれ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_103.gif"
+}

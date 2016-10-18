@@ -1,0 +1,19 @@
+{
+  "Name": "天元理心流特訓術",
+  "Serial": "VR/W22-038",
+  "Rarity": "C",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の手札の「天元理心流特訓術」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの《鍵》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "はいこれ、次はあおいちゃんがやるのよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_038.gif"
+}

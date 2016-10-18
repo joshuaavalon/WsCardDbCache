@@ -1,0 +1,19 @@
+{
+  "Name": "閃光の一撃",
+  "Serial": "RN/W16-046",
+  "Rarity": "U",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の《科学》のキャラを2枚まで選び、【スタンド】する。",
+  "Flavor": "せやあっ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_046.gif"
+}

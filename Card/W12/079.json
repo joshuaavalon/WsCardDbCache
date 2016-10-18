@@ -1,0 +1,19 @@
+{
+  "Name": "レティ・ロウラン",
+  "Serial": "NA/W12-079",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "こっちのデータは以上よ……お役にたってる？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_079.gif"
+}

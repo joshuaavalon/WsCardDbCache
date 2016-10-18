@@ -1,0 +1,19 @@
+{
+  "Name": "新生活！ るり",
+  "Serial": "NK/WE22-35",
+  "Rarity": "C",
+  "Expansion": "ニセコイ:",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
+  "Flavor": "この子クラス分け発表の時、嬉しさの余り泣いてたしね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_we22_35.gif"
+}

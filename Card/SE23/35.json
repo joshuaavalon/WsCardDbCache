@@ -1,0 +1,19 @@
+{
+  "Name": "幻影の一弾",
+  "Serial": "SAO/SE23-35",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインII",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "――ラストアタック。幻影の一弾(ルビ：ファントム・バレット)――\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_35.gif"
+}

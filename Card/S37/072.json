@@ -1,0 +1,19 @@
+{
+  "Name": "“プロキオン・プディング”杏橋 天音",
+  "Serial": "SGS/S37-072",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "動物",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の赤のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "マネージャーを通しなさいっ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_072.gif"
+}

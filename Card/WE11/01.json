@@ -1,0 +1,19 @@
+{
+  "Name": "“単純な馬鹿”ゆっこ",
+  "Serial": "NJ/WE11-01",
+  "Rarity": "R",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(2)  このカードを【レスト】する］ あなたは自分の山札を見て《漫画》か《仏像》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "あ…あ、ああ…\nあ、あ…くっ…くくくくく…くっ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_01.gif"
+}

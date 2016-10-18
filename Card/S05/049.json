@@ -1,0 +1,19 @@
+{
+  "Name": "ジェルミナール",
+  "Serial": "KF/S05-049",
+  "Rarity": "CC",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "ボンボヤージ\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_049.gif"
+}

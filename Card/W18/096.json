@@ -1,0 +1,19 @@
+{
+  "Name": "枯れない桜の奇跡",
+  "Serial": "DC3/W18-096",
+  "Rarity": "U",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 7,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 相手のキャラすべてに、そのターン中、ソウルを＋5し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "『桜が咲いたら、約束のあの場所でお花見をしようね！』\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_096.gif"
+}

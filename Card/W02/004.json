@@ -1,0 +1,19 @@
+{
+  "Name": "“リーダー”恭介",
+  "Serial": "LB/W02-004",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「リーダーの帰還」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを１枚選び、手札に戻す。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "ミッション・スタート！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_004.gif"
+}

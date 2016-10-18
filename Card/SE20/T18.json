@@ -1,0 +1,19 @@
+{
+  "Name": "付与術師の援護",
+  "Serial": "LH/SE20-T18",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "まずは敵に、命中率や回避率の低下を引き起こす、\n惑乱のバッドステータスを与え、\n次に、味方の武器の攻撃力を増幅させる…！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_t18.gif"
+}

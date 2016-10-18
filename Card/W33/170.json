@@ -1,0 +1,19 @@
+{
+  "Name": "台上遊戯 椎名心実",
+  "Serial": "GF/W33-170",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "これでまっすぐ打てれば、多分ですけど、ちゃんと入るはず\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_170.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "告白の返事 阿良々木暦",
+  "Serial": "BM/S15-069",
+  "Rarity": "C",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "-",
+  "Flavor": "見えていないものを見えてるふりしたり、\n見えてるものを見えてないふりしたり、\nそういうのは今後一切なしだ\nもしも意見が食い違ったら、その時は話し合おう\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_069.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“2人の力”お静",
+  "Serial": "TL/W42-091",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "霊",
+  "SecondChara": "超能力",
+  "Text": "【自】 共鳴 ［(1) 手札の「“料理を作ると吉”春菜」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_091.gif"
+}

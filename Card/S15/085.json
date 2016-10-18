@@ -1,0 +1,19 @@
+{
+  "Name": "パジャマ姿の羽川翼",
+  "Serial": "BM/S15-085",
+  "Rarity": "U",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "委員長",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪異》のキャラの枚数×500に等しい。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_085.gif"
+}

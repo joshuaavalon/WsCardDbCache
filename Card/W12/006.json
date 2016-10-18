@@ -1,0 +1,19 @@
+{
+  "Name": "武人 シグナム",
+  "Serial": "NA/W12-006",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「シュツルムファルケン」があるなら、そのターン中、このカードのパワーを＋3000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "レヴァンティン「Bogen form」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_006.gif"
+}

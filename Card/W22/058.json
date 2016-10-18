@@ -1,0 +1,19 @@
+{
+  "Name": "謎の存在 アローン",
+  "Serial": "VR/W22-058",
+  "Rarity": "U",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "アローン",
+  "SecondChara": "謎",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "Flavor": "健次郎「羽化しよった……！！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_058.gif"
+}

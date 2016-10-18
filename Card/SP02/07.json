@@ -1,0 +1,19 @@
+{
+  "Name": "“フルレイド”シロエ",
+  "Serial": "LH/SP02-07",
+  "Rarity": "PS",
+  "Expansion": "パワーアップセット　ログ・ホライズン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "メガネ",
+  "Text": "【永】 あなたのキャラすべてが《武器》か《魔法》なら、このカードのパワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《武器》か《魔法》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "Flavor": "そうだ。必ず帰る、みんなのところへ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lh_sp02_07.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "決意の円陣",
+  "Serial": "RN/W16-025",
+  "Rarity": "CC",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "あき穂「チュウタネ、ロボ部～！ 元気一発！ \nよいら～いき～！」「よいら～いき～！」\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_025.gif"
+}

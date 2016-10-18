@@ -1,0 +1,19 @@
+{
+  "Name": "朝練中 美綴",
+  "Serial": "FS/S34-023",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開し、相手はあなたの山札の上から1枚を、山札の下に置いてよい。（そうしないなら元に戻す）",
+  "Flavor": "あれ、遠坂？\n今朝は一段と早いのね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_023.gif"
+}

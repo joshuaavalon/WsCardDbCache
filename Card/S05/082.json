@@ -1,0 +1,19 @@
+{
+  "Name": "Kを超えるもの",
+  "Serial": "KF/S05-082",
+  "Rarity": "R",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "",
+  "Text": "【自】 相手のアタックフェイズの始めに、あなたはこのカードをキャラのいない他の前列の枠に動かしてよい。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "ブラックアウト\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_082.gif"
+}

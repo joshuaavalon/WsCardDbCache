@@ -1,0 +1,19 @@
+{
+  "Name": "ボルトヴァリアン",
+  "Serial": "RN/W16-107",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【永】 他のあなたの、「スナイデル」と「スターラプター」と「スティングーマ」がいるなら、このカードのパワーを＋2500。",
+  "Flavor": "ガイ・コーエンが搭乗する、\n超重量型のカートルーパー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_107.gif"
+}

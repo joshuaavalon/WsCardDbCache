@@ -1,0 +1,19 @@
+{
+  "Name": "“八高組”千枝",
+  "Serial": "PQ/SE21-12",
+  "Rarity": "C",
+  "Expansion": "ペルソナQ シャドウ オブ ザ ラビリンス",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "魔法",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 記憶 相手の思い出置場にカードがあるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+  "Flavor": "よーっし、任せといて！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_12.gif"
+}

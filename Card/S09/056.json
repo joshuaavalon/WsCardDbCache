@@ -1,0 +1,19 @@
+{
+  "Name": "ドラゴンの力 ナツ",
+  "Serial": "FT/S09-056",
+  "Rarity": "R",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。\n【自】［(3)］ このカードがアタックした時、クライマックス置場に「火竜の煌炎」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、山札の上に置く。",
+  "Flavor": "ハッピー「滅竜魔法！イグニールがナツに教えたんだ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_056.gif"
+}

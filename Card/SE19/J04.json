@@ -1,0 +1,19 @@
+{
+  "Name": "お買いもの うーさー",
+  "Serial": "Woo/SE19-J04",
+  "Rarity": "WR",
+  "Expansion": "【スペシャルセット】うーさーのその日暮らし",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "動物",
+  "Text": "【起】［(2) お店で1パック購入する］ あなたはそのパックの中のキャラを1枚選び、舞台の好きな枠に置く。\n※このカードは公式・公認大会では使用できません。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_j04.gif"
+}

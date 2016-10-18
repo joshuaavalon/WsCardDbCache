@@ -1,0 +1,19 @@
+{
+  "Name": "スポーツ万能 千棘",
+  "Serial": "NK/W30-012",
+  "Rarity": "U",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "令嬢",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「乙女心 千棘」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "どうも、どうも\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_012.gif"
+}

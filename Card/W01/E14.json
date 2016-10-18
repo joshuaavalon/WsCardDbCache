@@ -1,0 +1,19 @@
+{
+  "Name": "ねことお風呂で",
+  "Serial": "DC/W01-E14",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "にゃ？\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_e14.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "不意打ち 集",
+  "Serial": "GC/S16-088",
+  "Rarity": "C",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "葬儀社",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を公開してよい。そうしたら、それらのカードにレベル0以下のキャラがないなら、あなたは自分の山札を見て｢学園の集｣を1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置く。その山札をシャッフルする。",
+  "Flavor": "…………！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_088.gif"
+}

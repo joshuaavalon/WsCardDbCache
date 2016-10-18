@@ -1,0 +1,19 @@
+{
+  "Name": "“就職しよう”おそ松",
+  "Serial": "OMS/S41-T09",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "ギャンブル",
+  "Text": "-",
+  "Flavor": "希望はビッグっす！あとはカリスマ、レジェンド、人間国宝！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_t09.gif"
+}

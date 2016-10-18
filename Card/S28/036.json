@@ -1,0 +1,19 @@
+{
+  "Name": "おませな女の子 ネネちゃん",
+  "Serial": "CS/S28-036",
+  "Rarity": "U",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "幼稚園",
+  "SecondChara": "人形",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+  "Flavor": "しんのすけ「ネネちゃんは扱いづらいし」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_036.gif"
+}

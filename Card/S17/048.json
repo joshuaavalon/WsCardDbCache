@@ -1,0 +1,19 @@
+{
+  "Name": "ウェイバー・“マッケンジー”",
+  "Serial": "FZ/S17-048",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "錬金術",
+  "Text": "【自】 あなたのキャラがアタックした時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "約束はできません。\n無事またここに帰ってこられる保証はないんで\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_048.gif"
+}

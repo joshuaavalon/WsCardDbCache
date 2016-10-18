@@ -1,0 +1,19 @@
+{
+  "Name": "空飛ぶネロ",
+  "Serial": "MK/SE09-10",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "バイバ～イ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_10.gif"
+}

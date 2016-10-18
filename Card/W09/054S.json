@@ -1,0 +1,19 @@
+{
+  "Name": "エリカ・ムラサキ",
+  "Serial": "DC/W09-054S",
+  "Rarity": "SR",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "王族",
+  "Text": "【永】 あなたのキャラすべてが《生徒会》なら、このカードのパワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "理想の家族 プレシア＆リニス",
+  "Serial": "N2/W25-020",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "動物",
+  "Text": "-",
+  "Flavor": "フェイト、いらっしゃい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_020.gif"
+}

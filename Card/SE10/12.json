@@ -1,0 +1,19 @@
+{
+  "Name": "ラクサスの“じーじ”マカロフ",
+  "Serial": "FT/SE10-12",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "マスター",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+  "Flavor": "たとえ姿が見えなくとも、たとえ遠く離れていようと、\nワシはいつでもおまえを見てる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_12.gif"
+}

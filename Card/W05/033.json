@@ -1,0 +1,19 @@
+{
+  "Name": "３秒ルールみさお",
+  "Serial": "LS/W05-033",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "八重歯",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。",
+  "Flavor": "ほ　ほら……　３秒ルール　３秒ルール!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_033.gif"
+}

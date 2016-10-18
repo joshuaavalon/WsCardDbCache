@@ -1,0 +1,19 @@
+{
+  "Name": "宿命を背負うマミ",
+  "Serial": "MM/W17-006R",
+  "Rarity": "RRR",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お茶",
+  "Text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

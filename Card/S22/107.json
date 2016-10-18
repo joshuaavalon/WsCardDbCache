@@ -1,0 +1,19 @@
+{
+  "Name": "ODDS＆ENDS",
+  "Serial": "PD/S22-107",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "言葉は歌になりこの世界を\n再び駆け巡る　君のために\n",
+  "Trigger": "Bag",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_107.gif"
+}

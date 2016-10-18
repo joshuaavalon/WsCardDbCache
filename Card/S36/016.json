@@ -1,0 +1,19 @@
+{
+  "Name": "“敗北の末路”ギルガメッシュ",
+  "Serial": "FS/S36-016",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのカード名に「ギルガメッシュ」か「アーチャー」を含むキャラすべてに、パワーを＋500。",
+  "Flavor": "お前の勝ちだ。満足して死ね、フェイカー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_016.gif"
+}

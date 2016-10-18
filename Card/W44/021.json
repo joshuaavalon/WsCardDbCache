@@ -1,0 +1,19 @@
+{
+  "Name": "千夜と並ぶ甘兎庵の顔 あんこ",
+  "Serial": "GU/W44-021",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "甘兎庵",
+  "SecondChara": "うさぎ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】［(3) このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルのカード名に「シャロ」を含むキャラを1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_021.gif"
+}

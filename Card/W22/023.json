@@ -1,0 +1,19 @@
+{
+  "Name": "免許皆伝 わかば",
+  "Serial": "VR/W22-023",
+  "Rarity": "R",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "Flavor": "天元理心流、喪心撃\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_023.gif"
+}

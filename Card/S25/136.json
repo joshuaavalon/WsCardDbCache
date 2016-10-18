@@ -1,0 +1,19 @@
+{
+  "Name": "最上型航空巡洋艦2番艦 三隈改",
+  "Serial": "KC/S25-136",
+  "Rarity": "R",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "航空巡洋艦",
+  "Text": "【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。\n【自】 このカードが控え室から舞台に置かれた時、あなたは自分の控え室の「最上型重巡2番艦 三隈」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "今までの私と、同じと思ってもらっては困ります。\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_136.gif"
+}

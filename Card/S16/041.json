@@ -1,0 +1,19 @@
+{
+  "Name": "突然の居候 いのり",
+  "Serial": "GC/S16-041",
+  "Rarity": "C",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "-",
+  "Flavor": "ねぇ、集……おなかへった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_041.gif"
+}

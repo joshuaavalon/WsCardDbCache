@@ -1,0 +1,19 @@
+{
+  "Name": "ティロ・デュエット",
+  "Serial": "MM/W35-025",
+  "Rarity": "CC",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "Flavor": "ティロ・デュエット！\n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_025.gif"
+}

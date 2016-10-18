@@ -1,0 +1,19 @@
+{
+  "Name": "迷い牛 八九寺真宵",
+  "Serial": "BM/S15-005",
+  "Rarity": "R",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "霊",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを山札に戻す。その山札をシャッフルする。（そうでないなら元に戻す）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_005.gif"
+}

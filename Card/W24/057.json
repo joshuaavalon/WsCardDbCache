@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服の海未",
+  "Serial": "LL/W24-057",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メイド",
+  "Text": "【永】 他のあなたの前列の中央の枠のカード名に「穂乃果」を含むキャラに、パワーを＋500。\n【自】 絆／「μ'sの牽引役 穂乃果」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「μ'sの牽引役 穂乃果」を1枚選び、手札に戻す）",
+  "Flavor": "おかえりなさいませ、ご主人様…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_057.gif"
+}

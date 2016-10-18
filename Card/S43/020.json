@@ -1,0 +1,19 @@
+{
+  "Name": "約束の褒賞 黒雪姫",
+  "Serial": "AW/S43-020",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "アバター",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《アバター》か《ネット》のキャラなら、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "キミに、ご褒美をあげないとな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_020.gif"
+}

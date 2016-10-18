@@ -1,0 +1,19 @@
+{
+  "Name": "エヴァンゲリオン正規実用型２号機",
+  "Serial": "EV/S12-069",
+  "Rarity": "C",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "アスカ「ダメ！　私じゃ間に合わない！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_069.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "吸血衝動 アルクェイド",
+  "Serial": "MB/S10-009",
+  "Rarity": "U",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "王族",
+  "SecondChara": "血",
+  "Text": "【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「暴走アルクェイド」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "生き物らしく死ねると思わないでね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_009.gif"
+}

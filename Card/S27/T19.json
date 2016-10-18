@@ -1,0 +1,19 @@
+{
+  "Name": "“親友”流子&マコ",
+  "Serial": "KLK/S27-T19",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "家族",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "マコ「私も、私の家族も、みんな流子ちゃんのこと大好きだよ！」\n流子「ああ、よくわかってるよ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t19.gif"
+}

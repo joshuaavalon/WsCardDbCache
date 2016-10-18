@@ -1,0 +1,19 @@
+{
+  "Name": "奇跡も、魔法も、あるんだよ",
+  "Serial": "MM/W17-T14",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "これで、トドメだぁ――ッ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_t14.gif"
+}

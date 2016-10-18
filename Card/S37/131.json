@@ -1,0 +1,19 @@
+{
+  "Name": "黒鳥の騎士 オディール",
+  "Serial": "SGS/S37-131",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "変身",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《ストライカー》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "我が名はオディール！ 黒鳥の騎士なり！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_131.gif"
+}

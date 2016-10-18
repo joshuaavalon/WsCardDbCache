@@ -1,0 +1,19 @@
+{
+  "Name": "優しい温もり リズベット",
+  "Serial": "SAO/S26-056",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "……あんたは大丈夫なの？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_056.gif"
+}

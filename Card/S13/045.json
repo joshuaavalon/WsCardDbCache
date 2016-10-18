@@ -1,0 +1,19 @@
+{
+  "Name": "独りのランカ",
+  "Serial": "MF/S13-045",
+  "Rarity": "C",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "-",
+  "Flavor": "ブレラ「ターゲット、アイランド１よりアイランド３へ移動。ゼントラモールへ向かう模様」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_045.gif"
+}

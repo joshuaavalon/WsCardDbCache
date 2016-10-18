@@ -1,0 +1,19 @@
+{
+  "Name": "“どんなときもずっと”矢澤 にこ",
+  "Serial": "LL/W34-006S",
+  "Rarity": "SR",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［(1)］ あなたのクライマックス置場に「この9人でいられる時」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

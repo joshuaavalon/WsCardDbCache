@@ -1,0 +1,19 @@
+{
+  "Name": "鼻眼鏡",
+  "Serial": "MG/S39-072",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたの山札が5枚以上なら、あなたは自分の控え室のカードを2枚まで選び、山札に戻し、その山札をシャッフルする。このカードを思い出にする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_072.gif"
+}

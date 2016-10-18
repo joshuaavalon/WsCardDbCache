@@ -1,0 +1,19 @@
+{
+  "Name": "スランプ中 ことり",
+  "Serial": "LL/W34-044",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ あなたのクライマックス置場に「おやすみタイム ことり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1500し、次の能力を与える。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_044.gif"
+}

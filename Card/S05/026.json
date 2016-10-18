@@ -1,0 +1,19 @@
+{
+  "Name": "冷徹なる暗殺者ハイデルン",
+  "Serial": "KF/S05-026",
+  "Rarity": "RR",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "軍隊",
+  "SecondChara": "眼帯",
+  "Text": "【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋500。\n【自】 相手が『【自】 アンコール』を使った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（ルールによる『【自】 アンコール ［(3)］』も含む）",
+  "Flavor": "分かったかね？これが戦闘のプロと\nそうでない者との差だ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_026.gif"
+}

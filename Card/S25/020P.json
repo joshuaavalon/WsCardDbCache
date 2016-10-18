@@ -1,0 +1,19 @@
+{
+  "Name": "利根型重巡1番艦 利根",
+  "Serial": "KC/S25-020P",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "重巡洋艦",
+  "Text": "【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+  "Flavor": "直撃だと！？この程度では吾輩は沈まん！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_020p.gif"
+}

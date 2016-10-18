@@ -1,0 +1,19 @@
+{
+  "Name": "ウッカリマーメイド 笹原野々花",
+  "Serial": "GF/W33-065S",
+  "Rarity": "SR",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している赤のキャラを1枚選び、【レスト】する。",
+  "Flavor": "私を守ってくれたんだね。驚いたけれど、嬉しいな。ありがとね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

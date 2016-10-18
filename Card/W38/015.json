@@ -1,0 +1,19 @@
+{
+  "Name": "日本文化 桐山優月",
+  "Serial": "GF/W38-015",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "和服",
+  "Text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "こういう遊びがあるのは知ってましたけど、\n実際に見るのは初めてですよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_015.gif"
+}

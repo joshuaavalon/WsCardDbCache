@@ -1,0 +1,19 @@
+{
+  "Name": "黒咲 芽亜",
+  "Serial": "TL/W37-002",
+  "Rarity": "RR",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "お菓子",
+  "Text": "【永】 あなたのターン中、他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《変身》か《家事》のキャラの枚数に等しい。",
+  "Flavor": "「…素敵(記号：ハート)」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_002.gif"
+}

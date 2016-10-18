@@ -1,0 +1,19 @@
+{
+  "Name": "新人監視官 朱",
+  "Serial": "PP/SE14-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "公安",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "本日付で刑事課に配属となりました常守朱です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pp_se14_p01.gif"
+}

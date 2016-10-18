@@ -1,0 +1,19 @@
+{
+  "Name": "“はい、あーん♪”南 ことり",
+  "Serial": "LL/W36-060",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "Flavor": "お料理って面白いよね～　お鍋でコトコト煮て、出来上がりを待つのとか～　結構楽しいの♪\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_060.gif"
+}

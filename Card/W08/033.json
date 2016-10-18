@@ -1,0 +1,19 @@
+{
+  "Name": "おめかしみくる",
+  "Serial": "SY/W08-033",
+  "Rarity": "U",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "時間",
+  "SecondChara": "SOS団",
+  "Text": "【永】 他のあなたの《SOS団》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】［手札を1枚控え室に置く］ 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを-2000。",
+  "Flavor": "わたしがお嫁にいけなくなったら、もらってくれますか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_033.gif"
+}

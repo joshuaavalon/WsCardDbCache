@@ -1,0 +1,19 @@
+{
+  "Name": "カートリッジシステム なのは",
+  "Serial": "N2/W25-035",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのレベルを＋1し、パワーを＋3000。",
+  "Flavor": "RHE「Commencing cartridge load.」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_035.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "私であるための証 れい",
+  "Serial": "VR/W22-071",
+  "Rarity": "C",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "謎",
+  "Text": "-",
+  "Flavor": "返して！　――返してよ！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_071.gif"
+}

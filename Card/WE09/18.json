@@ -1,0 +1,19 @@
+{
+  "Name": "夏祭りのハルヒ",
+  "Serial": "SY/WE09-18",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "団長",
+  "SecondChara": "和服",
+  "Text": "-",
+  "Flavor": "一個だけなら食べてもいいわよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_18.gif"
+}

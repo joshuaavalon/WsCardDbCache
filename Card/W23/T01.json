@@ -1,0 +1,19 @@
+{
+  "Name": "王都のプリンセス さくら",
+  "Serial": "DC/W23-T01",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "ドレス",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "目の前を通り掛かる馬車の上で、片手をあげて笑顔を\nみせていたのは……。紛れもなく、芳乃さくらだった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_t01.gif"
+}

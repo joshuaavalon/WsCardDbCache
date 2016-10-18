@@ -1,0 +1,19 @@
+{
+  "Name": "わたあめ犬 シロ",
+  "Serial": "CS/S28-T03",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "動物",
+  "Text": "【自】 相手がレベルアップした時、このカードを控え室に置く。",
+  "Flavor": "しんのすけ「よくやった、シロ！おまえは犬の中の犬だゾ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_t03.gif"
+}

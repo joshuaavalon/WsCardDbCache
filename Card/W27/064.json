@@ -1,0 +1,19 @@
+{
+  "Name": "歌が好きなクリス",
+  "Serial": "SG/W27-064",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのカード名に「クリス」を含むキャラが3枚以上なら、このカードのパワーを＋2000。",
+  "Flavor": "楽しいな…あたし…こんなに楽しく歌を唄えるんだ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_064.gif"
+}

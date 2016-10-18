@@ -1,0 +1,19 @@
+{
+  "Name": "まだ見ぬ強敵(強敵ルビ：とも)たち",
+  "Serial": "CGS/WS01-T03",
+  "Rarity": "TD",
+  "Expansion": "カードゲームしよ子",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "カードゲーム",
+  "SecondChara": "暗黒街",
+  "Text": "【永】 このカードはサイドアタックできない。",
+  "Flavor": "闇道(闇道ルビ：ヤミロード)高等学校(偏差値3)で送る夢の学園生活\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_t03.gif"
+}

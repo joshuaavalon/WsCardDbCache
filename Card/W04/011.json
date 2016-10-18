@@ -1,0 +1,19 @@
+{
+  "Name": "キャロ＆ヴォルテール",
+  "Serial": "NS/W04-011",
+  "Rarity": "U",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(4)］ あなたのクライマックス置場に「龍騎招来」が置かれた時、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラすべてを、ストック置場に置く。",
+  "Flavor": "我がもとに来よ、黒き炎の大地の守護者\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_011.gif"
+}

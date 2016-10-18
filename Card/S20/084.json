@@ -1,0 +1,19 @@
+{
+  "Name": "月夜の黒猫団 サチ",
+  "Serial": "SAO/S20-084",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "何よ、人をみそっかすみたいに\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_084.gif"
+}

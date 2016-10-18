@@ -1,0 +1,19 @@
+{
+  "Name": "波乗り勇者 ナナミ",
+  "Serial": "DD/WE17-28",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "勇者",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「ウェーブライダー」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。\n【自】 アンコール ［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "どうしようシンク、フロニャルドの戦って、すっごい楽しいッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_28.gif"
+}

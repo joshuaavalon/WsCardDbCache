@@ -1,0 +1,19 @@
+{
+  "Name": "ハロウィンナイト エリー",
+  "Serial": "MK/S11-032",
+  "Rarity": "R",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "え……？ど……どうして……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_032.gif"
+}

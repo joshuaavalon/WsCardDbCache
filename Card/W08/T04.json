@@ -1,0 +1,19 @@
+{
+  "Name": "ボーカリスト ハルヒ",
+  "Serial": "SY/W08-T04",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "団長",
+  "SecondChara": "音楽",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": " みんな思いっきり演奏するから聴いてね \n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_t04.gif"
+}

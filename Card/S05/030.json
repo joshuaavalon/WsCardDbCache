@@ -1,0 +1,19 @@
+{
+  "Name": "忠実なるギースの影ビリー",
+  "Serial": "KF/S05-030",
+  "Rarity": "R",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "暗黒街",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 チェンジ ［(1) このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「悪のカリスマ ギース」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "ヘイヘイヘイ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_030.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“信頼の眼差し”ララ",
+  "Serial": "TL/W37-061",
+  "Rarity": "R",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "科学",
+  "Text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《宇宙人》か《科学》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "Flavor": "さすがはリトだね…(記号：ハート)\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_061.gif"
+}

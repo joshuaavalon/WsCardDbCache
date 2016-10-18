@@ -1,0 +1,19 @@
+{
+  "Name": "屋上の邂逅 ヴィータ",
+  "Serial": "N2/W32-064",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "人形",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か「闇の書覚醒」の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔法》のキャラの枚数×500に等しい。",
+  "Flavor": "グラーフアイゼン・ロード、カートリッジ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_064.gif"
+}

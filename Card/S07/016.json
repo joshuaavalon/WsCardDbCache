@@ -1,0 +1,19 @@
+{
+  "Name": "引っ込み思案 雪歩",
+  "Serial": "IM/S07-016",
+  "Rarity": "C",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お茶",
+  "Text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。\n【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "あ、あの、ダメダメな私なんかじゃムリです～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_016.gif"
+}

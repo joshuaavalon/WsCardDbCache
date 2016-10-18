@@ -1,0 +1,19 @@
+{
+  "Name": "暴君 アルクェイド",
+  "Serial": "MB/S10-004SP",
+  "Rarity": "SP",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "王族",
+  "SecondChara": "血",
+  "Text": "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

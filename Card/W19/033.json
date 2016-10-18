@@ -1,0 +1,19 @@
+{
+  "Name": "幼い頃のクリス",
+  "Serial": "SG/W19-033",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
+  "Flavor": "そしてまた、あたしはひとりぼっちになるわけだ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_033.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "白い奇跡の夜 美咲",
+  "Serial": "DC/W23-014",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+  "Flavor": "頼子「ここは、私のお気に入りの場所なんです。\nいつか美咲さんにも見てもらいたくて」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_014.gif"
+}

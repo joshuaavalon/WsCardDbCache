@@ -1,0 +1,19 @@
+{
+  "Name": "ポポイは腹話術？ アコール先生",
+  "Serial": "PY/S38-067",
+  "Rarity": "R",
+  "Expansion": "ぷよぷよ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ぷよ",
+  "SecondChara": "先生",
+  "Text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「ポポイ」を1枚まで選び、舞台の好きな枠に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "せいとに　なにかあったらこまりますからね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_067.gif"
+}

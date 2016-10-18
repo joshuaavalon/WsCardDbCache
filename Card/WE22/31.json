@@ -1,0 +1,19 @@
+{
+  "Name": "姉妹でお風呂 春",
+  "Serial": "NK/WE22-31",
+  "Rarity": "C",
+  "Expansion": "ニセコイ:",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「小咲」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "Flavor": "分かんないよ。あの人のどこが良い人なの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_we22_31.gif"
+}

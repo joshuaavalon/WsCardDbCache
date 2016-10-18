@@ -1,0 +1,19 @@
+{
+  "Name": "“シャルル・ド・マッキング”瑠々",
+  "Serial": "KI/S44-035",
+  "Rarity": "U",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "漫画",
+  "SecondChara": "",
+  "Text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《漫画》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "私から、自由になりたい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_035.gif"
+}

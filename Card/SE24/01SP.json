@@ -1,0 +1,19 @@
+{
+  "Name": "素直な気持ち クロ",
+  "Serial": "PI/SE24-01SP",
+  "Rarity": "SP",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル置場の《魔法》のキャラの枚数×500に等しい。\n【自】［手札の《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の上に置く。",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

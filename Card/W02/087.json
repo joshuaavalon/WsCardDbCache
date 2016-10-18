@@ -1,0 +1,19 @@
+{
+  "Name": "“３姉妹”クド",
+  "Serial": "LB/W02-087",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは《動物》の自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "実は私はストレルカのお姉さんなのですが\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_087.gif"
+}

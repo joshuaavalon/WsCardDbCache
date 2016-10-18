@@ -1,0 +1,19 @@
+{
+  "Name": "上条 恭介",
+  "Serial": "MM/W17-T09",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "さやか「願い事って、自分の事柄じゃなきゃだめなのかな」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_t09.gif"
+}

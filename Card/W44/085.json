@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服姿のチノ",
+  "Serial": "GU/W44-085",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "Flavor": "おぅ…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_085.gif"
+}

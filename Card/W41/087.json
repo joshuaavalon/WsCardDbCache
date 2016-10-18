@@ -1,0 +1,19 @@
+{
+  "Name": "マイファーストスター 美波",
+  "Serial": "IMC/W41-087",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か「アナスタシア」の【自】の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_087.gif"
+}

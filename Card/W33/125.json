@@ -1,0 +1,19 @@
+{
+  "Name": "素直が一番 鴫野睦",
+  "Serial": "GF/W33-125",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたの青のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "Flavor": "…一番素直に、すませたいと思うので…先輩、これ…バレンタインのチョコです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_125.gif"
+}

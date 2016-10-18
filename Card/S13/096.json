@@ -1,0 +1,19 @@
+{
+  "Name": "娘娘ラーメン",
+  "Serial": "MF/S13-096",
+  "Rarity": "U",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "Flavor": "ランカ「今日はマゼラン星雲のおまけ付きだよ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_096.gif"
+}

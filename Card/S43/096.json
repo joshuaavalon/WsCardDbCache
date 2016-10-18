@@ -1,0 +1,19 @@
+{
+  "Name": "死亡マーカー",
+  "Serial": "AW/S43-096",
+  "Rarity": "U",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】している、《アバター》か《ネット》のキャラを1枚選び【レスト】する。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "このままだとタクは無限EKだ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_096.gif"
+}

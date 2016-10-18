@@ -1,0 +1,19 @@
+{
+  "Name": "千本桜",
+  "Serial": "PD/S22-047a",
+  "Rarity": "CR",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "三千世界　常世之闇\n嘆ク唄モ聞コエナイヨ\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_047a.gif"
+}

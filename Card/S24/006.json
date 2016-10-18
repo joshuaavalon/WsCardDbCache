@@ -1,0 +1,19 @@
+{
+  "Name": "本気モード 忍野忍",
+  "Serial": "NM/S24-006",
+  "Rarity": "R",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「廃墟の邂逅」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "そこで思う存分、戦おうではないか。\n年季の違いというものを思い知らせてやる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_006.gif"
+}

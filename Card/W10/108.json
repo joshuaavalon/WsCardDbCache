@@ -1,0 +1,19 @@
+{
+  "Name": "背負った宿命 インデックス",
+  "Serial": "ID/W10-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたのカード名に「当麻」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "Flavor": "私の抱えている事情、ホントに知りたい？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_108.gif"
+}

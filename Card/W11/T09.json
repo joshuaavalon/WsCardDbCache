@@ -1,0 +1,19 @@
+{
+  "Name": "家庭科部の部長 あーちゃん先輩",
+  "Serial": "KW/W11-T09",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ご隠居 あーちゃん先輩」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "とっっっても面白いわねっ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_t09.gif"
+}

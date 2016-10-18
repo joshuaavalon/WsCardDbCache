@@ -1,0 +1,19 @@
+{
+  "Name": "はかせの発明品 なの",
+  "Serial": "NJ/WE11-22",
+  "Rarity": "R",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "",
+  "Text": "【自】 あなたのクライマックス置場に「なののギミック」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「雨がっぱ はかせ」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。",
+  "Flavor": "も～。なんでこんなウエポンつけるんですか～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_22.gif"
+}

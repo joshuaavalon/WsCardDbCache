@@ -1,0 +1,19 @@
+{
+  "Name": "竜宮小町 あずさ",
+  "Serial": "IM/S14-031",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「9:02pm」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、あなたはイベントと『助太刀』を、手札からプレイできない。",
+  "Flavor": "今日は、プロデューサーさんと２人きりですね。\nたまにはご飯でもいかがですか？　ふふっ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_031.gif"
+}

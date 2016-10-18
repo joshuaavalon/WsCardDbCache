@@ -1,0 +1,19 @@
+{
+  "Name": "吸血鬼 アルクェイド",
+  "Serial": "MB/S10-015",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "王族",
+  "SecondChara": "血",
+  "Text": "-",
+  "Flavor": "悪いけど貴方じゃ勝ち目はゼロよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_015.gif"
+}

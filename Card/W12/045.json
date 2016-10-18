@@ -1,0 +1,19 @@
+{
+  "Name": "お宅訪問",
+  "Serial": "NA/W12-045",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のクロック置場の《動物》のキャラを1枚選び、手札に戻す。このカードをクロック置場に置く。",
+  "Flavor": "すずか「こんにちわー」　アリサ「来たよー」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_045.gif"
+}

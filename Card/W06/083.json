@@ -1,0 +1,19 @@
+{
+  "Name": "手負いの大型ルーキー謙吾",
+  "Serial": "LB/W06-083",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+  "Flavor": "鈴、思い切りこい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_083.gif"
+}

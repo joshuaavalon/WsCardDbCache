@@ -1,0 +1,19 @@
+{
+  "Name": "茅場 晶彦",
+  "Serial": "SAO/S26-014",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "科学",
+  "Text": "【起】［(1) このカードを思い出にする］ あなたは自分の《アバター》のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "Flavor": "――さて、私はそろそろ行くよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_014.gif"
+}

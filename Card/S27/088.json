@@ -1,0 +1,19 @@
+{
+  "Name": "生徒会四天王 蛇崩",
+  "Serial": "KLK/S27-088",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "服",
+  "SecondChara": "音楽",
+  "Text": "-",
+  "Flavor": "あら、簡単に倒しちゃつまんないでしょ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_088.gif"
+}

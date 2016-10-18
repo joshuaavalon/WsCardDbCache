@@ -1,0 +1,19 @@
+{
+  "Name": "サイトの意地",
+  "Serial": "ZM/W03-T17",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "でも！　下げたくねえ頭は下げられねえ!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_t17.gif"
+}

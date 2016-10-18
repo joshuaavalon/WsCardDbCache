@@ -1,0 +1,19 @@
+{
+  "Name": "使い魔品評会",
+  "Serial": "ZM/W03-021",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。あなたは自分の《使い魔》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "コルベール「ただいまより、本年度の\n使い魔おひろめをとりおこないます」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_021.gif"
+}

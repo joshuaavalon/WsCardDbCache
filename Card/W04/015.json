@@ -1,0 +1,19 @@
+{
+  "Name": "総務統括官リンディ",
+  "Serial": "NS/W04-015",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の「なのは＆フェイト」を1枚選び、そのターン中、パワーを＋2500。",
+  "Flavor": "娘が母親に連絡するのに、急にも何もないじゃない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_015.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "キュルケ＆タバサ",
+  "Serial": "ZM/W03-055",
+  "Rarity": "R",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "-",
+  "Flavor": "タバサ「危険…」\nキュルケ「だから一緒に行くの」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_055.gif"
+}

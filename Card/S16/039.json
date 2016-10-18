@@ -1,0 +1,19 @@
+{
+  "Name": "魂館 颯汰",
+  "Serial": "GC/S16-039",
+  "Rarity": "C",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "ここにいたって、無事って保障はないんだろ。\nだったら動く方がいいじゃん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_039.gif"
+}

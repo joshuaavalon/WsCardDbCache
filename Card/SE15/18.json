@@ -1,0 +1,19 @@
+{
+  "Name": "アステリオス出現",
+  "Serial": "P4/SE15-18",
+  "Rarity": "C",
+  "Expansion": "Ｐ４Ｕ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "シャドウラビリス「これで、私は、私よぉぉぉッ！」\n",
+  "Trigger": "Gold",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_18.gif"
+}

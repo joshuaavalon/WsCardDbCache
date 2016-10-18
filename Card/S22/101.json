@@ -1,0 +1,19 @@
+{
+  "Name": "“キミの隣に”初音ミク",
+  "Serial": "PD/S22-101",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "ずーっと、キミの隣に居たいから…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_101.gif"
+}

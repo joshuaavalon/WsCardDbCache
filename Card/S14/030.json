@@ -1,0 +1,19 @@
+{
+  "Name": "竜宮小町 亜美",
+  "Serial": "IM/S14-030",
+  "Rarity": "R",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【自】 あなたのクライマックス置場に「ポジティブ！」が置かれた時、前列にこのカードがいるなら、あなたの前列の《音楽》のキャラすべてに、そのターン中、次の2つの能力を与える。『【永】 このカードはサイドアタックできない。』『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "Flavor": "さあ、兄ちゃん！　今日も\nガンガンギンギンいくＹＯ→！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_030.gif"
+}

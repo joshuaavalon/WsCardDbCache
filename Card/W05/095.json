@@ -1,0 +1,19 @@
+{
+  "Name": "100Mショック",
+  "Serial": "LS/W05-095",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを＋6。",
+  "Flavor": "こう「およ？このネタ最近どっかで見た気がするなぁ…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_095.gif"
+}

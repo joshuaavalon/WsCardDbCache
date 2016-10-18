@@ -1,0 +1,19 @@
+{
+  "Name": "完全敗北 神原駿河",
+  "Serial": "MG/S39-030",
+  "Rarity": "R",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 経験 あなたのレベル置場に「『やって後悔しない』神原駿河」があるなら、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "『私は最後の意地を振り絞って、\nこぼれそうな涙をこらえていた』\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_030.gif"
+}

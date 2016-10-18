@@ -1,0 +1,19 @@
+{
+  "Name": "Project:Krone フレデリカ",
+  "Serial": "IMC/W43-056",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたの控え室に「Project:Krone」があるなら、このカードは次の能力を得る。『【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。』\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_056.gif"
+}

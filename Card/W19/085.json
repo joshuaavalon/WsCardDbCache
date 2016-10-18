@@ -1,0 +1,19 @@
+{
+  "Name": "はじめてのデート 翼",
+  "Serial": "SG/W19-085",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+  "Flavor": "隣にいる立花がこの形相では、\nまるで心が弾まないな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_085.gif"
+}

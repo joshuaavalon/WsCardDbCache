@@ -1,0 +1,19 @@
+{
+  "Name": "“信じる心”ナナ",
+  "Serial": "TL/W42-067",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "動物",
+  "Text": "【自】 他のあなたの「“信じる心”モモ」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。",
+  "Flavor": "戻ろう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_067.gif"
+}

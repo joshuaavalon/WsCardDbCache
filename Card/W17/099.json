@@ -1,0 +1,19 @@
+{
+  "Name": "あたしって、ほんとバカ",
+  "Serial": "MM/W17-099",
+  "Rarity": "CR",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "心には恨みや妬みが溜まって、\nいちばん大切な友達さえ傷つけて……\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_099.gif"
+}

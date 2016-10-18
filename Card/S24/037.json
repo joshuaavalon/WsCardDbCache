@@ -1,0 +1,19 @@
+{
+  "Name": "栂の木二中の有名人 阿良々木火憐",
+  "Serial": "NM/S24-037",
+  "Rarity": "C",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "……兄ちゃんって、時折、炎より熱いよね。\nやっぱ惚れるよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_037.gif"
+}

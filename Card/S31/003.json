@@ -1,0 +1,19 @@
+{
+  "Name": "陽炎型駆逐艦10番艦 時津風",
+  "Serial": "KC/S31-003",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
+  "Flavor": "さーあ、始めちゃいますか！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-003.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "浮かぶ幸せ",
+  "Serial": "CS/S28-073",
+  "Rarity": "CC",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "ひろし「オレの人生はつまらなくなんかない。家族がいる幸せをあんたたちにも分けてあげたいくらいだぜ」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_073.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "メカコーデリア",
+  "Serial": "MK2/S19-096",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\nあなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "Flavor": "コーデリアァァァ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_096.gif"
+}

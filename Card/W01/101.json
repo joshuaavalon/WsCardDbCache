@@ -1,0 +1,19 @@
+{
+  "Name": "ディーラーの音姫",
+  "Serial": "DC/W01-101",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ポーカー",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "「うー、まだ弟くん分の補充が済んでないよぉ～」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_101.gif"
+}

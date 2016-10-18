@@ -1,0 +1,19 @@
+{
+  "Name": "怪盗ラパン",
+  "Serial": "GU/W44-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードのカード名は「シャロ」としても扱う。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "Flavor": "昼は苛烈に特売を！ 夜は華麗にお宝を！\n狙った獲物は逃がさない！ 怪盗ラパン、参上！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_p02.gif"
+}

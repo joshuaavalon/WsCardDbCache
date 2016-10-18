@@ -1,0 +1,19 @@
+{
+  "Name": "雨宿り キリト",
+  "Serial": "SAO/S26-063",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "変な奴だな。帰りたくないのか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_063.gif"
+}

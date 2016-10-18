@@ -1,0 +1,19 @@
+{
+  "Name": "“王の自尊心”ギルガメッシュ",
+  "Serial": "FS/S36-006",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを－3000。",
+  "Flavor": "贋作を作るその頭蓋!一片たりとも残しはせん!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_006.gif"
+}

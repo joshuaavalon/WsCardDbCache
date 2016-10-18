@@ -1,0 +1,19 @@
+{
+  "Name": "甘えん坊つかさ",
+  "Serial": "LS/W05-012",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "お菓子",
+  "Text": "【永】 このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "あ　そうだちょっとお姉ちゃんに聞きたいんだけど…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_012.gif"
+}

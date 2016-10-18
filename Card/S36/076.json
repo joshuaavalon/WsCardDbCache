@@ -1,0 +1,19 @@
+{
+  "Name": "“信頼の関係”イリヤ＆バーサーカー",
+  "Serial": "FS/S36-076",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "サーヴァント",
+  "Text": "【永】 他のあなたの後列のカード名に「イリヤ」を含むキャラ1枚につき、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードがアタックした時、クライマックス置場に「出会いと絆」があるなら、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "Flavor": "イリヤ「バーサーカーは誰よりも強いんだから！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_076.gif"
+}

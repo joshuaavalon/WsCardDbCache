@@ -1,0 +1,19 @@
+{
+  "Name": "妄想ウェディング 理樹",
+  "Serial": "LB/WE21-18SP",
+  "Rarity": "SP",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 あなたの舞台のキャラの持つ色の合計が3色以上なら、このカードのパワーを＋3000。\n【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

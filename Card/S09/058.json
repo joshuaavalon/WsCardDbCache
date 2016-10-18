@@ -1,0 +1,19 @@
+{
+  "Name": "ガジル・レッドフォックス",
+  "Serial": "FT/S09-058",
+  "Rarity": "U",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "オレは手加減って言葉知らねぇからよォ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_058.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "王女の貫録 貴音",
+  "Serial": "IM/S07-039",
+  "Rarity": "C",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "王族",
+  "Text": "【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
+  "Flavor": "ここはわたくし１人で十分です。\n他の者は立ち去りなさい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_039.gif"
+}

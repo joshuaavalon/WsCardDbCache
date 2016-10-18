@@ -1,0 +1,19 @@
+{
+  "Name": "“お姉さん”アリシア",
+  "Serial": "NA/W12-001",
+  "Rarity": "RR",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたの、《クローン》か《動物》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［(3) 手札のクライマックスを1枚控え室に置き、このカードを思い出にする］ あなたは自分の手札の「“雷光”フェイト」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "じゃあ、いってらっしゃい、フェイト\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_001.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“賢才瞬麗”まつ",
+  "Serial": "SB/S06-030",
+  "Rarity": "R",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたの「“豪放磊落”前田 利家」がいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【永】 他のあなたの「“豪放磊落”前田 利家」すべてに、《愛》を与え、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "二人揃いますれば…最強伝説！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_030.gif"
+}

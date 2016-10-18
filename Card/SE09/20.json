@@ -1,0 +1,19 @@
+{
+  "Name": "キュートな水着姿 コーデリア",
+  "Serial": "MK/SE09-20",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "水着",
+  "Text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "ちょっと泳ぎ疲れちゃったわね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_20.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "狙撃する砲撃手ディエチ",
+  "Serial": "NS/W04-039",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "武器",
+  "Text": "【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-4000。",
+  "Flavor": "遮蔽物もないし、空気も済んでる……よく見える……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_039.gif"
+}

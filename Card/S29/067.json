@@ -1,0 +1,19 @@
+{
+  "Name": "ＭＥＩＫＯ“スカーレット”",
+  "Serial": "PD/S29-067",
+  "Rarity": "U",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "ドレス",
+  "Text": "【自】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のカード名に「ＭＥＩＫＯ」か「メイコ」を含むキャラを1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_067.gif"
+}

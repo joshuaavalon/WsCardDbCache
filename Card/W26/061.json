@@ -1,0 +1,19 @@
+{
+  "Name": "“心理掌握”食蜂",
+  "Serial": "RG/W26-061",
+  "Rarity": "R",
+  "Expansion": "とある科学の超電磁砲S",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "手袋",
+  "Text": "【永】 他のあなたの《超能力》のキャラすべてに、パワーを＋500。\n【自】［(1) このカードを【レスト】する］ 相手のアタックフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、相手のキャラすべてに、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "美琴「…ひとつ質問いいかしら」\n食蜂「するだけならご自由に」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_061.gif"
+}

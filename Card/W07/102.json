@@ -1,0 +1,19 @@
+{
+  "Name": "掃除するキャル",
+  "Serial": "PT/W07-102",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メイド",
+  "SecondChara": "時計",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "ちょっと待っててね。\nここ片付いたらご飯にするから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_102.gif"
+}

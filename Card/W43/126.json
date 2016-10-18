@@ -1,0 +1,19 @@
+{
+  "Name": "Trancing Pulse",
+  "Serial": "IMC/W43-126",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
+  "Flavor": "激しく溢れ出るこの気持ち 大事な事伝えたい\n過去を 今を 未来 繋げる 言葉を探すよ\n",
+  "Trigger": "Gate",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_126.gif"
+}

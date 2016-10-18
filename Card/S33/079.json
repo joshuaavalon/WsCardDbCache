@@ -1,0 +1,19 @@
+{
+  "Name": "“新探偵服”橘田いずみ",
+  "Serial": "MK/S33-079",
+  "Rarity": "R",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_079.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "私服のことり",
+  "Serial": "DC/W01-036",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "音楽",
+  "Text": "【永】 大活躍\n【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の手札を見る。\n【自】 このカードがアタックした時、クライマックス置場に「結婚式の歌姫」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+  "Flavor": "……私に分かるのは、心だけだから……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_036.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "多勢への挑戦 キリト",
+  "Serial": "SAO/SE26-31",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインⅡ Vol.2",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "悪いな、ここは通行止めだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se26_31.gif"
+}

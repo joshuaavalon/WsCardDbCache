@@ -1,0 +1,19 @@
+{
+  "Name": "三式潜航輸送艇 まるゆ",
+  "Serial": "KC/S25-166P",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "潜水艦",
+  "Text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【起】［(1) このカードを控え室に置く］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
+  "Flavor": "まるゆがお荷物持って行きますね。はい、モグラ輸送です。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_166p.gif"
+}

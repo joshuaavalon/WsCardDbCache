@@ -1,0 +1,19 @@
+{
+  "Name": "副リーダータイプ ことり",
+  "Serial": "LL/W24-053",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【自】［(1) このカードを【レスト】する］ あなたが『チェンジ』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_053.gif"
+}

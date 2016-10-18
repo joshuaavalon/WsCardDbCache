@@ -1,0 +1,19 @@
+{
+  "Name": "アインツベルンの人形 アイリスフィール",
+  "Serial": "FZ/S17-001",
+  "Rarity": "RR",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ホムンクルス",
+  "SecondChara": "錬金術",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「決意の象徴」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以上の、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "あなたは、全てを与えてくれた…\n私には望むべくもなかった、この世の幸せ全てを…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_001.gif"
+}

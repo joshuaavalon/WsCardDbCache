@@ -1,0 +1,19 @@
+{
+  "Name": "はやて＆シグナム",
+  "Serial": "NA/W12-102",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "武器",
+  "Text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "はやて「あたしは……今のままでも十分幸せや」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_102.gif"
+}

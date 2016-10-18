@@ -1,0 +1,19 @@
+{
+  "Name": "“カキ氷とお祭り”クロ",
+  "Serial": "PI/S40-036",
+  "Rarity": "C",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_036.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "指示待ち悪魔 バルバラ",
+  "Serial": "DG/SE17-34",
+  "Rarity": "C",
+  "Expansion": "ディスガイア D2",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "武器",
+  "Text": "【自】 あなたが『助太刀』を使った時、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "我が名を呼んだか！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se17_34.gif"
+}

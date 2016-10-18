@@ -1,0 +1,19 @@
+{
+  "Name": "言峰 璃正",
+  "Serial": "FZ/SE13-25",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "神",
+  "SecondChara": "",
+  "Text": "【自】 相手のアタックフェイズの始めに、あなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "Flavor": "監督役の責務に則って、\n言峰璃正があなたの身の安全を保障する\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_25.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "大地のソル",
+  "Serial": "FT/S09-041",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "エレメント",
+  "Text": "【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "ノンノンノンノンノンノン！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_041.gif"
+}

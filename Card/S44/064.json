@@ -1,0 +1,19 @@
+{
+  "Name": "かわいい一面 千鳥",
+  "Serial": "KI/S44-064",
+  "Rarity": "C",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "家事",
+  "Text": "【永】 他のあなたの「全てを知る者 園崎」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「ふられた気持ち 千鳥」を1枚まで選び、このカードがいた枠に置く。』\n【永】 他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+  "Flavor": "な、何言って……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_064.gif"
+}

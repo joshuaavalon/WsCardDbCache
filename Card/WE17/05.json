@@ -1,0 +1,19 @@
+{
+  "Name": "クーベル・エッシェンバッハ・パスティヤージュ",
+  "Serial": "DD/WE17-05",
+  "Rarity": "R",
+  "Expansion": "DOG DAYS'",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "王族",
+  "Text": "【永】 他のあなたの、《勇者》か《王族》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "ウチはお前と空を行きたい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_05.gif"
+}

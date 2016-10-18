@@ -1,0 +1,19 @@
+{
+  "Name": "“物静か”美魚",
+  "Serial": "LB/W02-113",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "日傘",
+  "Text": "【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "みなさん、がんばってるじゃないですか。\nわたしも心から応援したくなってきました\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_113.gif"
+}

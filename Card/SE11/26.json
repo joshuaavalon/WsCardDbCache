@@ -1,0 +1,19 @@
+{
+  "Name": "“滅びの言葉”シャロ",
+  "Serial": "MK/SE11-26",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ Genius4の反撃",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "カメラ",
+  "Text": "【自】［(1)］ このカードが【リバース】した時、あなたのクライマックス置場に「バリツの秘密」があり、このカードのバトル相手のレベルが2以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。",
+  "Flavor": "らんらんらん♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_26.gif"
+}

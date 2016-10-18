@@ -1,0 +1,19 @@
+{
+  "Name": "隠棲中のスカイ・レイカー",
+  "Serial": "AW/S18-081",
+  "Rarity": "RR",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "Flavor": "はじめてまして。私の名前は《スカイ・レイカー》。\n会えて嬉しいわ、鴉さん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_081.gif"
+}

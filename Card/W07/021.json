@@ -1,0 +1,19 @@
+{
+  "Name": "告悔",
+  "Serial": "PT/W07-021",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。このカードを思い出にする。",
+  "Flavor": "……神様に、直接……いつかは、会えるはずだから…… \n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_021.gif"
+}

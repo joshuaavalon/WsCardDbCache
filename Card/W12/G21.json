@@ -1,0 +1,19 @@
+{
+  "Name": "モード黒騎士 トーマ",
+  "Serial": "NA/W12-G21",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "本",
+  "Text": "-",
+  "Flavor": "トーマ 「大丈夫！　止まれないなら、\n俺達が止めるッ！」\nリリィ 「そうだよ！　私達が、\nきっと助けるからッッ！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_g21.gif"
+}

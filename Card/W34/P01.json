@@ -1,0 +1,19 @@
+{
+  "Name": "身体測定中 希＆にこ＆ことり",
+  "Serial": "LL/W34-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "保健室",
+  "SecondChara": "音楽",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［① このカードを控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "Flavor": "ことり「…ええと」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_P01.gif"
+}

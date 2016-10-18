@@ -1,0 +1,19 @@
+{
+  "Name": "タタリ再演",
+  "Serial": "MB/S10-096",
+  "Rarity": "U",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "ワラキアの夜｢フィナーレとは悲劇にしろ喜劇にしろ、終焉は華やかであるべきだ｣\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_096.gif"
+}

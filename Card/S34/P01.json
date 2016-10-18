@@ -1,0 +1,19 @@
+{
+  "Name": "運命に挑む者たち",
+  "Serial": "FS/S34-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《サーヴァント》のキャラがいるなら、このカードのパワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_p01.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "吹奏楽部 松永綾音",
+  "Serial": "P4/S08-013",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "Flavor": "私、もっと我がままになろうと思うんです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_013.gif"
+}

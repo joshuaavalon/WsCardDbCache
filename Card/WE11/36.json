@@ -1,0 +1,19 @@
+{
+  "Name": "なののギミック",
+  "Serial": "NJ/WE11-36",
+  "Rarity": "C",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "シビビーン、シビビーン、\nシビビーン、シビビーン\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_36.gif"
+}

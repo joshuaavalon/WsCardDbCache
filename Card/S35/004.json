@@ -1,0 +1,19 @@
+{
+  "Name": "“入団式”アニ",
+  "Serial": "AOT/S35-004",
+  "Rarity": "R",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_004.gif"
+}

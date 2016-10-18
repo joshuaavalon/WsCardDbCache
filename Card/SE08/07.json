@@ -1,0 +1,19 @@
+{
+  "Name": "特殺任務部隊のリーダー エミーゼル",
+  "Serial": "DG/SE08-07",
+  "Rarity": "C",
+  "Expansion": "魔界戦記ディスガイア4",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "死",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《死》のキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。",
+  "Flavor": "うるさいっ！　オレ様は弱くない！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_07.gif"
+}

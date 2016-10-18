@@ -1,0 +1,19 @@
+{
+  "Name": "鋭い指摘 リーファ",
+  "Serial": "SAO/S20-037",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "へえ、いいカンしてるじゃない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_037.gif"
+}

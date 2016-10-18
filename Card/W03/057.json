@@ -1,0 +1,19 @@
+{
+  "Name": "キュルケ・アウグスタ・フレデリカ・",
+  "Serial": "ZM/W03-057",
+  "Rarity": "U",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを控え室に置く］ あなたは相手の控え室のカードを1枚選び、山札の上に置く。",
+  "Flavor": "微熱のキュルケの名にふさわしい結果ですわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_057.gif"
+}

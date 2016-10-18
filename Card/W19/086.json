@@ -1,0 +1,19 @@
+{
+  "Name": "あの日の翼",
+  "Serial": "SG/W19-086",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、他のあなたの「シンフォギアの装者 奏」1枚につき、このカードのパワーを＋2000。",
+  "Flavor": "そして、シンフォギアをまとった私達は\nノイズを討つ戦士となった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_086.gif"
+}

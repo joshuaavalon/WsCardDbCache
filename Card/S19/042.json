@@ -1,0 +1,19 @@
+{
+  "Name": "G4担当官 神津",
+  "Serial": "MK2/S19-042",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "メガネ",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "Ｇ４の名に懸けて、全力で怪盗を捕獲せよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_042.gif"
+}

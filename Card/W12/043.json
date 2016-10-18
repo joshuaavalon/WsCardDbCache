@@ -1,0 +1,19 @@
+{
+  "Name": "無類の甘党 リンディ",
+  "Serial": "NA/W12-043",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お茶",
+  "Text": "【自】 アラーム このカードがクロックの1番上にあり、あなたの、《魔法》か《お茶》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "うん、予定は順調。 いいことね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_043.gif"
+}

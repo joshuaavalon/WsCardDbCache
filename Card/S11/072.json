@@ -1,0 +1,19 @@
+{
+  "Name": "PDA",
+  "Serial": "MK/S11-072",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の控え室の《探偵》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "まじめに調べなきゃダメですよね…まじめに…まじめに…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_072.gif"
+}

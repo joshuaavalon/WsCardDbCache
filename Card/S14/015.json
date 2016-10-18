@@ -1,0 +1,19 @@
+{
+  "Name": "私服のやよい",
+  "Serial": "IM/S14-015",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、相手の「私服のやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。（音には注意しましょう）",
+  "Flavor": "プロデューサー！\nハイ、ターッチ、いぇい！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_015.gif"
+}

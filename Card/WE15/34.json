@@ -1,0 +1,19 @@
+{
+  "Name": "幾万の願いの結晶 ヘカテー",
+  "Serial": "SS/WE15-34",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナIII-FINAL-",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "巫女",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「神威召還 ヘカテー」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_we15_34.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "おちゃめなクリス",
+  "Serial": "SG/W27-062",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［(1)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "バーンッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_062.gif"
+}

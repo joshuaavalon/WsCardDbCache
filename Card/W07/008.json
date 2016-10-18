@@ -1,0 +1,19 @@
+{
+  "Name": "生きた証 江漣",
+  "Serial": "PT/W07-008",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「羊の中の狼アイン」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "あなたは、キャルと戦うべきじゃない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_008.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ジェシカ",
+  "Serial": "ZM/W03-T10",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ウェイトレス",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "あたしジェシカ、あんたは？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_t10.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "優しい女の子 雪歩",
+  "Serial": "IM/S07-110",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お茶",
+  "Text": "【永】あなたのターン中、他のあなたの《お茶》のキャラすべてに、パワーを+500",
+  "Flavor": "やっぱり、天気の良い午後は、熱々の日本茶に限りますよね！あの、すぐに用意しますから♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_110.gif"
+}

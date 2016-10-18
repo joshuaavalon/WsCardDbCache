@@ -1,0 +1,19 @@
+{
+  "Name": "リンちゃんなう！",
+  "Serial": "PD/S22-075b",
+  "Rarity": "CC",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "リンちゃんがいつまでたっても敬語なので、\nそのたびに「そんな緊張しなくていいよ」\n「はっ、はい」みたいな会話を毎回やりたい。\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_075b.gif"
+}

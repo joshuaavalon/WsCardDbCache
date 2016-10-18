@@ -1,0 +1,19 @@
+{
+  "Name": "隔離待機室のアスカ",
+  "Serial": "EV/S12-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "軍隊",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "誰かと話すって心地いいのね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_108.gif"
+}

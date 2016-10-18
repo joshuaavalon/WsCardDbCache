@@ -1,0 +1,19 @@
+{
+  "Name": "守護者セイバー",
+  "Serial": "FH/SE03-001SP",
+  "Rarity": "R",
+  "Expansion": "Fate/hollow ataraxia",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】［(2)］ あなたのクライマックス置場に「決戦！　デッドブリッジ」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』\n【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラをストック置場に置く。",
+  "Flavor": "この剣にかけて、貴様等の挑戦に応えよう―――！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_001sp.gif"
+}

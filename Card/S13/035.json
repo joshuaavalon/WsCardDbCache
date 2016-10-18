@@ -1,0 +1,19 @@
+{
+  "Name": "歌姫に憧れる少女 ランカ",
+  "Serial": "MF/S13-035",
+  "Rarity": "U",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\n【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「開拓重機 ランカ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "ホントにシェリルのチケットとれたの!?\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_035.gif"
+}

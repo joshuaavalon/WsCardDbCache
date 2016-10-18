@@ -1,0 +1,19 @@
+{
+  "Name": "勲章",
+  "Serial": "KC/S31-028",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て「勲章」を3枚まで選び、控え室に置き、自分の山札を見て「改装設計図」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "暁の水平線に勝利を刻んだ提督に贈られる「証」。\n資材、または複数集めて改装設計図と交換することも可能です。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-028.gif"
+}

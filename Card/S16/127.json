@@ -1,0 +1,19 @@
+{
+  "Name": "“入れ物”いのり",
+  "Serial": "GC/S16-127",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "【永】 他のあなたの《葬儀社》のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "Flavor": "だから私、入れ物でしかないのに、普通の人みたいに恋できたの\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_127.gif"
+}

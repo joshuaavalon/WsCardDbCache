@@ -1,0 +1,19 @@
+{
+  "Name": "春原コンボ",
+  "Serial": "CL/WE01-47",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のクロック置場の「春原 陽平」を1枚選び、控え室に置く。 あなたのカード名に「朋也」を含むキャラがいるなら、あなたは自分の控え室の「春原 陽平」を1枚選び、ストック置場に置く。",
+  "Flavor": "『コンボがつながった』\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we01_47.gif"
+}

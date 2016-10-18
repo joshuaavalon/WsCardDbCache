@@ -1,0 +1,19 @@
+{
+  "Name": "杏子の覚悟",
+  "Serial": "MM/W17-077",
+  "Rarity": "U",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたの《魔法》のキャラすべてに、そのターン中、パワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_077.gif"
+}

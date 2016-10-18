@@ -1,0 +1,19 @@
+{
+  "Name": "双海 亜美",
+  "Serial": "IM/S07-005S",
+  "Rarity": "SR",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。\n【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海 真美」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

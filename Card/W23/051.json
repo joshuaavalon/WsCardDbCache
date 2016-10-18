@@ -1,0 +1,19 @@
+{
+  "Name": "二人の時間 由夢",
+  "Serial": "DC/W23-051",
+  "Rarity": "RR",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "ねぇ、兄さん。最初はどこに行こうか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_051.gif"
+}

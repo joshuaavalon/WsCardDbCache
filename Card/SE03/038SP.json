@@ -1,0 +1,19 @@
+{
+  "Name": "水着のイリヤ",
+  "Serial": "FH/SE03-038SP",
+  "Rarity": "C",
+  "Expansion": "Fate/hollow ataraxia",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたの『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を持つキャラすべてに、パワーを＋500。\n【自】 絆／「破城槌 イリヤ＆バーサーカー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「破城槌 イリヤ＆バーサーカー」を1枚選び、手札に戻す）",
+  "Flavor": "シロウのバカー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_038sp.gif"
+}

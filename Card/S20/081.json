@@ -1,0 +1,19 @@
+{
+  "Name": "人工知能 ユイ",
+  "Serial": "SAO/S20-081",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「突然の別れ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。",
+  "Flavor": "《メンタルヘルス・カウンセリングプログラム》試作一号、\nコードネーム《Yui》\nそれがわたしです\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_081.gif"
+}

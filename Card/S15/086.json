@@ -1,0 +1,19 @@
+{
+  "Name": "妖怪変化のオーソリティー 忍野メメ",
+  "Serial": "BM/S15-086",
+  "Rarity": "U",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚引く。",
+  "Flavor": "はっはー、そうか、これがあれだ、噂に聞く創立記念日って奴か\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_086.gif"
+}

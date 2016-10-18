@@ -1,0 +1,19 @@
+{
+  "Name": "孤高なる王道 アーチャー",
+  "Serial": "FZ/S17-079",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "王族",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《サーヴァント》のキャラを1枚選び、【レスト】する。",
+  "Flavor": "この世総ての財宝は我（オレ）の物\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_079.gif"
+}

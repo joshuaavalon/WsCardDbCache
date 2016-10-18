@@ -1,0 +1,19 @@
+{
+  "Name": "至福の時 優木苗",
+  "Serial": "GF/W38-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたの《ガール》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+  "Flavor": "ケーキもいろいろあって凄いですよね～どれも美味しそうで、迷っちゃいます\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_p02.gif"
+}

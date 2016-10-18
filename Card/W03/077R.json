@@ -1,0 +1,19 @@
+{
+  "Name": "ルイズ＆アンリエッタ",
+  "Serial": "ZM/W03-077R",
+  "Rarity": "RRR",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "虚無",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

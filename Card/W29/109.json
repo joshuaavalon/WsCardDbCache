@@ -1,0 +1,19 @@
+{
+  "Name": "エレメンタル・タロット 『星』",
+  "Serial": "GT/W29-109",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは控え室に置かれたカードのレベル×1000に等しい。（クライマックスのレベルは0として扱う）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_109.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "最終決戦 海翔",
+  "Serial": "RN/W16-007",
+  "Rarity": "R",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "ゲーム",
+  "Text": "【自】 あなたのアンコールステップの始めに、クライマックス置場に「決意の円陣」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「最終決戦 海翔」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋4500し、ソウルを＋1。",
+  "Flavor": "さあ、ここからは、俺のゲームだ……！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_007.gif"
+}

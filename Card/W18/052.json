@@ -1,0 +1,19 @@
+{
+  "Name": "拭えぬ過去 シャルル",
+  "Serial": "DC3/W18-052",
+  "Rarity": "U",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「終わりのプレゼント」があるなら、あなたは自分の控え室の「拭えぬ過去 シャルル」を1枚選び、手札に戻す。",
+  "Flavor": "あのね、上手くいくかどうかはわからないけど、\nお姉ちゃんがその玩具を出してみるね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_052.gif"
+}

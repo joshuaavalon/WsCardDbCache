@@ -1,0 +1,19 @@
+{
+  "Name": "“天然素材”美魚",
+  "Serial": "LB/W02-077",
+  "Rarity": "RR",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "日傘",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「２つの長い影」があるなら、あなたは1枚引く。\n【起】［(3)］ あなたは自分のクロックを上から1枚選び、控え室に置く。",
+  "Flavor": "わたしを、知りたいと思うのですか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_077.gif"
+}

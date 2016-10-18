@@ -1,0 +1,19 @@
+{
+  "Name": "“魔王の座”シシリー",
+  "Serial": "DG/SE17-04",
+  "Rarity": "C",
+  "Expansion": "ディスガイア D2",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "天使",
+  "SecondChara": "魔法",
+  "Text": "-",
+  "Flavor": "あたしはシシリー。\n魔王になりに来たんだよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se17_04.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "極秘入国者 マリ",
+  "Serial": "EV/S12-029",
+  "Rarity": "R",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "君、面白いね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_029.gif"
+}

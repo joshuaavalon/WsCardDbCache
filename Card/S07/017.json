@@ -1,0 +1,19 @@
+{
+  "Name": "感謝の証 伊織",
+  "Serial": "IM/S07-017",
+  "Rarity": "C",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "人形",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場に「衣装変更」があるなら、あなたは自分のバトルしているキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "アンタに、これあげるわ。……きょ、今日は特別なんだからね！勘違いしないでよ！？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_017.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "先輩とバナナ 美春",
+  "Serial": "DC/W23-T12",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "バナナ",
+  "Text": "【永】 あなたのレベルが1以上なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "Flavor": "え、バ、バナナとどっちが好きですかって、\nえーと、んーと、そ、その……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_t12.gif"
+}

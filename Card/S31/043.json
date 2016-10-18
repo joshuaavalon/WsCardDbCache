@@ -1,0 +1,19 @@
+{
+  "Name": "龍驤型軽空母 龍驤改",
+  "Serial": "KC/S31-043",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "軽空母",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "ほぉ～う、補給はマジで嬉しいなぁ。\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-043.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "浴衣の長門＆キョンの妹",
+  "Serial": "SY/W08-089",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "和服",
+  "Text": "【自】 絆／「浴衣のキョン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す）",
+  "Flavor": "妹「ユキちゃんありがと～～」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_089.gif"
+}

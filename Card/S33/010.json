@@ -1,0 +1,19 @@
+{
+  "Name": "子供の世界 茉莉音",
+  "Serial": "MK/S33-010",
+  "Rarity": "U",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 あなたのターン中、このカードが《音楽》を持つなら、他のあなたのキャラすべてに、パワーを＋2000。\n【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたのキャラすべてに、そのターン中、《音楽》を与える。",
+  "Flavor": "そんな……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_010.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“転送システム【デダイヤル】”モモ",
+  "Serial": "TL/W37-076",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "植物",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "Flavor": "もう大丈夫です\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_076.gif"
+}

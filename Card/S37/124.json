@@ -1,0 +1,19 @@
+{
+  "Name": "“アザーズ”降神 小織",
+  "Serial": "SGS/S37-124",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 経験 相手のアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+  "Flavor": "ばいばい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_124.gif"
+}

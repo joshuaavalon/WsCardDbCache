@@ -1,0 +1,19 @@
+{
+  "Name": "不安げな眼差し 風間くん",
+  "Serial": "CS/S28-054",
+  "Rarity": "R",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "幼稚園",
+  "SecondChara": "優等生",
+  "Text": "【永】 あなたのストックが4枚以上なら、このカードはアタックできない。",
+  "Flavor": "懐かしいって、そんなにいいものなのかな？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_054.gif"
+}

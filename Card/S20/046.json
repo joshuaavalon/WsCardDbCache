@@ -1,0 +1,19 @@
+{
+  "Name": "探し続けたもの リズベット",
+  "Serial": "SAO/S20-046",
+  "Rarity": "RR",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「求めていた温もり」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "あたしもね、ずっと探してたんだ。\nこの世界でのホントの何かを\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_046.gif"
+}

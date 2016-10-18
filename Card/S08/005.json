@@ -1,0 +1,19 @@
+{
+  "Name": "酒屋の娘 小西早紀",
+  "Serial": "P4/S08-005",
+  "Rarity": "R",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ジュネス",
+  "SecondChara": "酒",
+  "Text": "【永】 他のあなたの《ジュネス》のキャラすべてに、パワーを＋1000。\n【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《ジュネス》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "こいつ、友達少ないからさ。 仲良くしてやってね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_005.gif"
+}

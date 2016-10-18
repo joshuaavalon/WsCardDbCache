@@ -1,0 +1,19 @@
+{
+  "Name": "初めての学校 フェイト",
+  "Serial": "NA/W12-033",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "クローン",
+  "Text": "【永】 他のあなたの《動物》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。",
+  "Flavor": "あのっ、フェイト・テスタロッサといいます\nよろしくお願いしますっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_033.gif"
+}

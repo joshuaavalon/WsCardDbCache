@@ -1,0 +1,19 @@
+{
+  "Name": "すべてを打ち消す力",
+  "Serial": "ID/W10-024",
+  "Rarity": "CC",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "お前の住んでる世界にはまだまだ救いがあるってことを…見せてやるってな！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_024.gif"
+}

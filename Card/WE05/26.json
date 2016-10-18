@@ -1,0 +1,19 @@
+{
+  "Name": "獅子堂 神楽",
+  "Serial": "SK/WE05-26",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "コロニー",
+  "SecondChara": "超能力",
+  "Text": "【自】 このカードがアタックした時、相手は0か1か2を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。（そうでないなら元に戻す）",
+  "Flavor": "物わかりの悪い子には、体に教えるしかないか――\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_26.gif"
+}

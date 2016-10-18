@@ -1,0 +1,19 @@
+{
+  "Name": "兎を狙う兎 望月エレナ",
+  "Serial": "GF/W33-053SSP",
+  "Rarity": "SSP",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "カメラ",
+  "Text": "【永】 あなたの赤のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「ストライク！」があり、あなたのキャラすべてが赤なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋2500。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

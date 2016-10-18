@@ -1,0 +1,19 @@
+{
+  "Name": "練習中のキャル",
+  "Serial": "PT/W07-T07",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "時計",
+  "Text": "【自】 このカードが控え室から舞台に置かれた時、あなたは相手の後列のコスト0以下のキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "玲二「その、デニーロだか何だかだ。やってみろ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_t07.gif"
+}

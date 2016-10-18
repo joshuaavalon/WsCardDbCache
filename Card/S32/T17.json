@@ -1,0 +1,19 @@
+{
+  "Name": "“オオスズメバチ”小町 小吉",
+  "Serial": "TF/S32-T17",
+  "Rarity": "TD",
+  "Expansion": "2014年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【永】 他のあなたの《改造》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【永】 このカードの正面のキャラのソウルを－1。",
+  "Flavor": "― 「最も危険な野生動物」は…“熊”でも“鮫”でもない“蜂”である ―\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_t17.gif"
+}

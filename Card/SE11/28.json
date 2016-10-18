@@ -1,0 +1,19 @@
+{
+  "Name": "来栖 ソニア",
+  "Serial": "MK/SE11-28",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ Genius4の反撃",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのカード名に「シャロ」を含むキャラすべてに、パワーを＋1000し、《宝石》を与える。\n【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。",
+  "Flavor": "シャーロック先輩…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_28.gif"
+}

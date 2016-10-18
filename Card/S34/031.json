@@ -1,0 +1,19 @@
+{
+  "Name": "自己鍛錬",
+  "Serial": "FS/S34-031",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "Flavor": "基本 骨子 解明 構成材質解明！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_031.gif"
+}

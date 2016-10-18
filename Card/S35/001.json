@@ -1,0 +1,19 @@
+{
+  "Name": "“城壁の彼方”エレン",
+  "Serial": "AOT/S35-001",
+  "Rarity": "RR",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《兵団》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "目標目の前！超大型巨人！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_001.gif"
+}

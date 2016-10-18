@@ -1,0 +1,19 @@
+{
+  "Name": "再検索なう 咲",
+  "Serial": "MK2/S19-040",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "ヘッドフォン",
+  "Text": "【起】［あなたの《警察》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "ん～～～。最速ルート再検索なう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_040.gif"
+}

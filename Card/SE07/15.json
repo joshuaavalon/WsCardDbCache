@@ -1,0 +1,19 @@
+{
+  "Name": "冥土の蝙蝠",
+  "Serial": "KG/SE07-15",
+  "Rarity": "R",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "武器",
+  "Text": "【起】［(2) このカードをクロック置場に置く］ あなたは自分のクロック置場のコスト0以下のキャラを1枚選び、このカードがいた枠に置く。",
+  "Flavor": "真庭忍軍・頭領の一人。 「冥土の蝙蝠」・獣組\n体内にどんなものでも収納できるという忍法を使う\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_15.gif"
+}

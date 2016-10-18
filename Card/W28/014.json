@@ -1,0 +1,19 @@
+{
+  "Name": "“No brand girls”絵里",
+  "Serial": "LL/W28-014",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "体調崩してない？私？私はもちろん完璧よ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_014.gif"
+}

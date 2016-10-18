@@ -1,0 +1,19 @@
+{
+  "Name": "折り鶴の明日禍",
+  "Serial": "DG/S02-003",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "不良",
+  "Text": "【永】相手の控え室にクライマックスがないなら、このカードのソウルを＋1。",
+  "Flavor": "さすが、お姉様！　不良の中の不良！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_003.gif"
+}

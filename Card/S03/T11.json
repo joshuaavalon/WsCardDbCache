@@ -1,0 +1,19 @@
+{
+  "Name": "赤い騎士アーチャー",
+  "Serial": "FS/S03-T11",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "そんな余分なプライドはな、\nそこいらの狗にでも食わせてしまえ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_t11.gif"
+}

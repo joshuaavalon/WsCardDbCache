@@ -1,0 +1,19 @@
+{
+  "Name": "魔界一の不良ラズベリル",
+  "Serial": "DG/S02-101P",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "不良",
+  "Text": "-",
+  "Flavor": "「学園一の不良であるアタイを差し置いていい度胸じゃないか！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_101p.gif"
+}

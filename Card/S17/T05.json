@@ -1,0 +1,19 @@
+{
+  "Name": "“風王結界”セイバー",
+  "Serial": "FZ/S17-T05",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】［手札のクライマックスを好きな枚数公開する］ このカードのバトル中、あなたのバトルステップの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードの枚数×1000に等しい。（公開したカードは元に戻す）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_t05.gif"
+}

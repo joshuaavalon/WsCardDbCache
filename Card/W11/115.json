@@ -1,0 +1,19 @@
+{
+  "Name": "神秘的な少女 かなで",
+  "Serial": "AB/W11-115",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "Flavor": "そう、あなたがそう言うなら、そうする\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w11_115.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "気の合う二人 千棘＆小咲",
+  "Serial": "NK/W30-P13",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "小咲「もしかして、10年前もこうして二人で話しながら遊んだりしたのかなって……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/NK_W30_P13.gif"
+}

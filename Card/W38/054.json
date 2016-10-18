@@ -1,0 +1,19 @@
+{
+  "Name": "待ち合わせ 優木苗",
+  "Serial": "GF/W38-054",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "本当によかったんですか？\nわざわざ、おうちまで迎えに来てもらっちゃって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_054.gif"
+}

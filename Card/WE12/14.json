@@ -1,0 +1,19 @@
+{
+  "Name": "獅子王炎陣大爆破",
+  "Serial": "DD/WE12-14",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "どおりゃあーーーー！！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_14.gif"
+}

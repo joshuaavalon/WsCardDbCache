@@ -1,0 +1,19 @@
+{
+  "Name": "もーう！もーう!!",
+  "Serial": "GU/W44-063",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「ココア」を含むキャラがいないなら、手札からプレイできない。\nあなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "千夜「ココアちゃんが牛みたいに」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_063.gif"
+}

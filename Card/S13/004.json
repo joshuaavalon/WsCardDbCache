@@ -1,0 +1,19 @@
+{
+  "Name": "“ピンキーナース”シェリル",
+  "Serial": "MF/S13-004",
+  "Rarity": "R",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "あたしはステージ…舞台っていう魔物に囚われた虜…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_004.gif"
+}

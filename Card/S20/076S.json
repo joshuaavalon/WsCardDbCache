@@ -1,0 +1,19 @@
+{
+  "Name": "謎の少女 ユイ",
+  "Serial": "SAO/S20-076S",
+  "Rarity": "SR",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ネット",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "素直になれない誠士郎",
+  "Serial": "NK/W30-038",
+  "Rarity": "C",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。",
+  "Flavor": "仕方ないな、ちょっと見せてみろ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_038.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "当麻＆インデックス",
+  "Serial": "ID/W13-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【起】【カウンター】助太刀2000 レベル1 [(1) 手札のこのカードを控え室に置く] （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "あ、とうまだ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_106.gif"
+}

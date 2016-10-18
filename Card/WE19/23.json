@@ -1,0 +1,19 @@
+{
+  "Name": "後輩想いの希",
+  "Serial": "LL/WE19-23",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "占い",
+  "Text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "フフフ、頑張ってるかね？　キミ達？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we19_23.gif"
+}

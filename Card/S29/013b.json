@@ -1,0 +1,19 @@
+{
+  "Name": "初音ミク“シャノワール”",
+  "Serial": "PD/S29-013b",
+  "Rarity": "C",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_013b.gif"
+}

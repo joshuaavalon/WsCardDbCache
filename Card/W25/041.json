@@ -1,0 +1,19 @@
+{
+  "Name": "新たなる力 なのは",
+  "Serial": "N2/W25-041",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【自】 チェンジ ［(1) このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アクセルモード なのは」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "レイジングハート・エクセリオン！\nセーット！　アーップ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_041.gif"
+}

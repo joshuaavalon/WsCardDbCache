@@ -1,0 +1,19 @@
+{
+  "Name": "輪廻の輪",
+  "Serial": "KR/SE30-39",
+  "Rarity": "U",
+  "Expansion": "境界のRINNE",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
+  "Flavor": "桜「と、飛んでる！？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_39.gif"
+}

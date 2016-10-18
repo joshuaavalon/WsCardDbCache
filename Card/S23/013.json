@@ -1,0 +1,19 @@
+{
+  "Name": "お調子者 ピニオン",
+  "Serial": "GG/S23-013",
+  "Rarity": "U",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "オペレーター",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "どこ触ってもウンともスンとも…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_013.gif"
+}

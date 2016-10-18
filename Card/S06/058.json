@@ -1,0 +1,19 @@
+{
+  "Name": "“風林火山”武田 信玄",
+  "Serial": "SB/S06-058",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "動物",
+  "Text": "【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“闘魂絶唱”真田 幸村」を1枚選び、このカードがいた枠に置く。\n【起】［(1)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《動物》を与える。",
+  "Flavor": "武田が騎馬軍団、押して通るッ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_058.gif"
+}

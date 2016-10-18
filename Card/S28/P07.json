@@ -1,0 +1,19 @@
+{
+  "Name": "操縦者しんのすけ",
+  "Serial": "CS/S28-P07",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "幼稚園",
+  "Text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《家族》か《メカ》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "アフター５ひげスプラッシュ！発射！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_p07.gif"
+}

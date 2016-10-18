@@ -1,0 +1,19 @@
+{
+  "Name": "学園長のさくら",
+  "Serial": "DC/W01-001",
+  "Rarity": "RR",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【自】 絆／「桜内 義之」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「桜内 義之」を1枚選び、手札に戻す）\n【起】［(1) このカードを【レスト】する］ あなたは《魔法》の自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "まあ、ボクも長いこと学園にいるからさ。思い出がいっぱいになっちゃうんだよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_001.gif"
+}

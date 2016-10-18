@@ -1,0 +1,19 @@
+{
+  "Name": "挑発",
+  "Serial": "KF/S05-045",
+  "Rarity": "U",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたはキャラを1枚選び、そのターン中、パワーを＋2000し、あなたが指定した特徴を1つ与える。",
+  "Flavor": "アッシュ「キミに、ボクは止められないよ……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_045.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "アリカ＆ニナ",
+  "Serial": "MH/WE03-014",
+  "Rarity": "R",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.01",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "エレメント",
+  "SecondChara": "宝石",
+  "Text": "【永】 他のあなたの《宝石》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "ニナ「あんたも、ちゃんとやりなさいよ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mh_we03_014.gif"
+}

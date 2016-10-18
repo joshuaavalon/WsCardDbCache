@@ -1,0 +1,19 @@
+{
+  "Name": "第八の契約",
+  "Serial": "FZ/S17-099",
+  "Rarity": "CR",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "望む答えを得るその時まで、\nこの身は道化に甘んじるとも…\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_099.gif"
+}

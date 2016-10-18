@@ -1,0 +1,19 @@
+{
+  "Name": "コロマル＆ケルベロス",
+  "Serial": "P3/S01-009",
+  "Rarity": "U",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "ワオーン！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_009.gif"
+}

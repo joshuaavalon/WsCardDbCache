@@ -1,0 +1,19 @@
+{
+  "Name": "蒼い鳥",
+  "Serial": "IM/S14-099",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "私は飛ぶ　未来を信じて\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_099.gif"
+}

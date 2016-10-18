@@ -1,0 +1,19 @@
+{
+  "Name": "“レッツクエスト！”静流",
+  "Serial": "RW/W20-062",
+  "Rarity": "R",
+  "Expansion": "Rewrite Harvest festa!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風紀委員",
+  "SecondChara": "オカルト",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "Flavor": "探検発見トレジャーボックス\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w20_062.gif"
+}

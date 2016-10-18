@@ -1,0 +1,19 @@
+{
+  "Name": "好奇心旺盛 ひまわり",
+  "Serial": "VR/W22-011S",
+  "Rarity": "SR",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "盾",
+  "Text": "【自】 他のあなたの《鍵》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

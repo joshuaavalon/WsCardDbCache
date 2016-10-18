@@ -1,0 +1,19 @@
+{
+  "Name": "武者修行",
+  "Serial": "P4/SE15-25",
+  "Rarity": "C",
+  "Expansion": "Ｐ４Ｕ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。",
+  "Flavor": "実は、そろそろ禁断症状が出そうなほど\n体が“あれ”を求めていたところだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_25.gif"
+}

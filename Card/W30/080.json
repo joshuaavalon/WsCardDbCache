@@ -1,0 +1,19 @@
+{
+  "Name": "はじめての訪問 小咲",
+  "Serial": "NK/W30-080",
+  "Rarity": "R",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "【永】 他のあなたの、《鍵》か《スポーツ》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "一条君のにおい……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_080.gif"
+}

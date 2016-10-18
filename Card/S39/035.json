@@ -1,0 +1,19 @@
+{
+  "Name": "自分らしく 神原駿河",
+  "Serial": "MG/S39-035",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを－3000。",
+  "Flavor": "私は阿良々木先輩の意見に納得した。\nだから戦おうと思う\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_035.gif"
+}

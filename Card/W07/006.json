@@ -1,0 +1,19 @@
+{
+  "Name": "羊の中の狼アイン",
+  "Serial": "PT/W07-006",
+  "Rarity": "R",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのソウルを＋1。",
+  "Flavor": "羊の皮を被っても、狼の嗅覚は忘れない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_006.gif"
+}

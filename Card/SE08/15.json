@@ -1,0 +1,19 @@
+{
+  "Name": "天使長 フロン",
+  "Serial": "DG/SE08-15",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア4",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "天使",
+  "SecondChara": "愛",
+  "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て《悪魔》か《天使》か《愛》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "『愛』ですッ！！！！\n祈り……それは愛のチカラとなるのです！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_15.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“鞘となる一族”凍空 こなゆき",
+  "Serial": "KG/SE07-13",
+  "Rarity": "C",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "雪",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《武器》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』（公開したカードは元に戻す）",
+  "Flavor": "七花おにーちゃん、今度はうちっちの番ですよ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_13.gif"
+}

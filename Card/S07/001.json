@@ -1,0 +1,19 @@
+{
+  "Name": "気高い女王 伊織",
+  "Serial": "IM/S07-001",
+  "Rarity": "RR",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "人形",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、レベルを＋1。\n【永】 他のあなたの「ハイタッチやよい」すべてに、パワーを＋1000。",
+  "Flavor": "ねえ、この私が見てあげてるんだから、しっかりしなさいよね？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_001.gif"
+}

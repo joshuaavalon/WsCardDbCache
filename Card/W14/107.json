@@ -1,0 +1,19 @@
+{
+  "Name": "“偉大なる者”シャナ",
+  "Serial": "SS/W14-107",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "武器",
+  "Text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを+500。",
+  "Flavor": "厄介ね…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_107.gif"
+}

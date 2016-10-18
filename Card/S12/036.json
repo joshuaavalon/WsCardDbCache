@@ -1,0 +1,19 @@
+{
+  "Name": "決意のマリ",
+  "Serial": "EV/S12-036",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "メガネ",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ビースト・マリ」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "にゃろー。なんてやつ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_036.gif"
+}

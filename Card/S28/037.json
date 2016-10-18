@@ -1,0 +1,19 @@
+{
+  "Name": "陰の実力者 ボーちゃん",
+  "Serial": "CS/S28-037",
+  "Rarity": "U",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "幼稚園",
+  "SecondChara": "謎",
+  "Text": "【永】 他のあなたの、《家族》か《幼稚園》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 他のあなたの、《家族》か《幼稚園》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "しんのすけ「ボーちゃんはボーちゃんだし」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_037.gif"
+}

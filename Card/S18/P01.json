@@ -1,0 +1,19 @@
+{
+  "Name": "初めての恋 黒雪姫",
+  "Serial": "AW/S18-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "アバター",
+  "Text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "Flavor": "いつでもキミのことを考えて、\n嬉しくなったり悲しくなったりしているよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_p01.gif"
+}

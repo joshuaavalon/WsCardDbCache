@@ -1,0 +1,19 @@
+{
+  "Name": "“奇跡の子“膝丸 燈",
+  "Serial": "TF/S32-057S",
+  "Rarity": "SR",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのターンの終わりに、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+  "Flavor": "最初の1年は型と股割りだ。出直してこい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘中 ぎんか",
+  "Serial": "GT/W29-010",
+  "Rarity": "U",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "コイン",
+  "Text": "【自】［(1) 手札の「１００万ドル金貨」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "今日は5万ユーロや！インフレやで～！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_010.gif"
+}

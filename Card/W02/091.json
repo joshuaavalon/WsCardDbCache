@@ -1,0 +1,19 @@
+{
+  "Name": "“マネージャー”美魚",
+  "Serial": "LB/W02-091",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "日傘",
+  "Text": "【永】 他の《スポーツ》のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。",
+  "Flavor": "…アイドルデビューするのですか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_091.gif"
+}

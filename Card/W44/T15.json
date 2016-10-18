@@ -1,0 +1,19 @@
+{
+  "Name": "木組みの街で チノ",
+  "Serial": "GU/W44-T15",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【永】 このカードはサイドアタックできない。",
+  "Flavor": "…ココアさん\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_t15.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“たい焼き大好き”多摩",
+  "Serial": "KC/S25-P11",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "軽巡洋艦",
+  "Text": "【永】 あなたのストックが4枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "軽巡、多摩です。猫じゃないにゃ。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_p11.gif"
+}

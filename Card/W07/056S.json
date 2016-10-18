@@ -1,0 +1,19 @@
+{
+  "Name": "“無敵のファントム”ドライ",
+  "Serial": "PT/W07-056S",
+  "Rarity": "SR",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "時計",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(4) このカードを思い出にする］ アタックしているこのカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「決着」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、このカードがいた枠に置く。（バトルは発生しない）",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

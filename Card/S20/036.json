@@ -1,0 +1,19 @@
+{
+  "Name": "手を噛まれたリーファ",
+  "Serial": "SAO/S20-036",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+  "Flavor": "ギャーーーーーッ! !\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_036.gif"
+}

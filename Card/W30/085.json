@@ -1,0 +1,19 @@
+{
+  "Name": "いたずらなキス 万里花",
+  "Serial": "NK/W30-085",
+  "Rarity": "U",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "鍵",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "……忘れられない思い出、一つ目です……&hearts;\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_085.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ある日の風景",
+  "Serial": "IM/S21-078a",
+  "Rarity": "U",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】している《音楽》のキャラを1枚選び【レスト】する。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。このカードを思い出にする。",
+  "Flavor": "挑戦しがいのある良い曲だわ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_078a.gif"
+}

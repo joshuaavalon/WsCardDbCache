@@ -1,0 +1,19 @@
+{
+  "Name": "査察官ヴェロッサ",
+  "Serial": "NS/W04-091",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。』",
+  "Flavor": "君の頭の中……ちょいと査察させてもらうよ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_091.gif"
+}

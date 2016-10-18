@@ -1,0 +1,19 @@
+{
+  "Name": "“拠点侵入”慎二",
+  "Serial": "FS/S36-043",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 経験 あなたのレベル置場の「自意識過剰 慎二」1枚につき、他のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "なら丁度いい おい、バーサーカーの…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_043.gif"
+}

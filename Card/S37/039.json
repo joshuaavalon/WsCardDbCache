@@ -1,0 +1,19 @@
+{
+  "Name": "アブナイ香り ハヅキ",
+  "Serial": "SGS/S37-039",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "セクシー",
+  "Text": "（バニラ）",
+  "Flavor": "そんな顔してどうしたのさ\nこっちへおいでよ。なでくりまわしてあげるからさ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_039.gif"
+}

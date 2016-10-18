@@ -1,0 +1,19 @@
+{
+  "Name": "雲龍型正規空母1番艦 雲龍改",
+  "Serial": "KC/S31-010",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "正規空母",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。\n【自】 他のあなたのバトル中のレベル2以上の「空母」を含む特徴を持つキャラが【リバース】した時、あなたはそのキャラを、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "ふーん…もっと優秀な艦載機を載せてくれるの？\nなら、色々してあげようかな。\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-010.gif"
+}

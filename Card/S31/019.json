@@ -1,0 +1,19 @@
+{
+  "Name": "雲龍型正規空母1番艦 雲龍",
+  "Serial": "KC/S31-019",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "正規空母",
+  "Text": "【起】［(1)］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラをストック置場に置いてよい。』",
+  "Flavor": "航空母艦雲龍、出撃する。\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-019.gif"
+}

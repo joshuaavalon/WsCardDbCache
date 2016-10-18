@@ -1,0 +1,19 @@
+{
+  "Name": "湯上り 氷室",
+  "Serial": "KW/W11-T10",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "科学",
+  "Text": "-",
+  "Flavor": "ふぅ、いいお湯だった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_t10.gif"
+}

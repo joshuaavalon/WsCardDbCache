@@ -1,0 +1,19 @@
+{
+  "Name": "追い求めた理想 切嗣",
+  "Serial": "FZ/S17-012",
+  "Rarity": "U",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの「切嗣の部品 舞弥」1枚につき、このカードのソウルを＋1。",
+  "Flavor": "僕がこの冬木で流す血を、人類最後の流血にしてみせる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_012.gif"
+}

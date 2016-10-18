@@ -1,0 +1,19 @@
+{
+  "Name": "美学に生きる賊 怪盗帝国",
+  "Serial": "MK/S11-114p",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "仮面",
+  "Text": "-",
+  "Flavor": "美しく全てを盗みだす、それが怪盗帝国の目的なのです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_114p.gif"
+}

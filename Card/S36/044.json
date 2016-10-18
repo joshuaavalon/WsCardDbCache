@@ -1,0 +1,19 @@
+{
+  "Name": "動揺",
+  "Serial": "FS/S36-044",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のクロック置場の緑のキャラを1枚選び、手札に戻し、このカードをクロック置場に置く。",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_044.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "否定する小咲",
+  "Serial": "NK/W30-092",
+  "Rarity": "C",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "-",
+  "Flavor": "家の鍵と間違えて……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_092.gif"
+}

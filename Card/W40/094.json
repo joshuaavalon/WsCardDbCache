@@ -1,0 +1,19 @@
+{
+  "Name": "“荒んだ心”乙坂 有宇",
+  "Serial": "CHA/W40-094",
+  "Rarity": "C",
+  "Expansion": "Charlotte",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "能力者",
+  "SecondChara": "生徒会",
+  "Text": "【永】 相手のターン中、他のあなたの《能力者》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 あなたのクライマックス置場に「筋書き」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。",
+  "Flavor": "甘いものを食べるのは久々だなぁ…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_094.gif"
+}

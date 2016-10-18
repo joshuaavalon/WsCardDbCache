@@ -1,0 +1,19 @@
+{
+  "Name": "“真田忍隊の長”猿飛 佐助",
+  "Serial": "SB/S06-T10",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "さてさて、お手並み拝見と行きますか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_t10.gif"
+}

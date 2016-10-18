@@ -1,0 +1,19 @@
+{
+  "Name": "伝説の使い魔",
+  "Serial": "ZM/WE13-13",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "デルフリンガー「……なかなかどうして、\nいっぱしのツラになったなぁ、おい」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_13.gif"
+}

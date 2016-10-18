@@ -1,0 +1,19 @@
+{
+  "Name": "ランカの実兄 ブレラ",
+  "Serial": "MF/S13-020",
+  "Rarity": "C",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "改造",
+  "Text": "-",
+  "Flavor": "迎えに来たよ、ランカ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_020.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“冬服”シャロ",
+  "Serial": "GU/W44-011",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。",
+  "Flavor": "こ、今年は大福にロウソクの夜じゃないのね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_011.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“情熱＝クール・ビューティー”川田まみ",
+  "Serial": "VA/WPR-P33",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビジュアルアーツ",
+  "SecondChara": "音楽",
+  "Text": "【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+  "Flavor": "私について来てっ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p33.gif"
+}

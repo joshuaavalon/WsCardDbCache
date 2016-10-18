@@ -1,0 +1,19 @@
+{
+  "Name": "“ギャングスター”ルーシィ",
+  "Serial": "FT/S09-112",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "鍵",
+  "Text": "【起】[(1)] あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "作戦通りだわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_112.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "禁忌の過去",
+  "Serial": "KI/S44-048",
+  "Rarity": "CR",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "仁子「うふふ。この太った子も幸せそうな顔してるぅ……♪」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_048.gif"
+}

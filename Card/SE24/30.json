@@ -1,0 +1,19 @@
+{
+  "Name": "守りたい日常 イリヤ",
+  "Serial": "PI/SE24-30",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、自分の手札のコスト1以下のキャラを1枚まで選び、舞台の好きな枠に置く。\n【自】［(3) このカードを手札に戻す］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「もう一人の私」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「叶えたい願い クロ」を1枚まで選び、このカードがいた枠に置く。",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_30.gif"
+}

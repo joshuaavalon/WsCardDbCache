@@ -1,0 +1,19 @@
+{
+  "Name": "水着のエイミー",
+  "Serial": "GG/S23-T06",
+  "Rarity": "TD",
+  "Expansion": "2013年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "手紙",
+  "SecondChara": "水着",
+  "Text": "-",
+  "Flavor": "やったぁー！いっちばーん！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_t06.gif"
+}

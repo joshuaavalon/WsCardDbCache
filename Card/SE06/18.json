@@ -1,0 +1,19 @@
+{
+  "Name": "黒の玉座 デッドマスター",
+  "Serial": "BR/SE06-18",
+  "Rarity": "C",
+  "Expansion": "ブラック★ロックシューター",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「闇に浮かぶ影」があるなら、そのターン中、このカードのパワーを＋1000し、相手は『助太刀』を手札からプレイできない。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/br_se06_18.gif"
+}

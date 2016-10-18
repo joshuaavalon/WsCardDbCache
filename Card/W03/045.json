@@ -1,0 +1,19 @@
+{
+  "Name": "魅惑の妖精のビスチェ",
+  "Serial": "ZM/W03-045",
+  "Rarity": "U",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、【スタンド】する。あなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "せ…せっかくだから、借りてみたの。\nだ、だって…もったいないでしょ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_045.gif"
+}

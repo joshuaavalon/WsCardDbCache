@@ -1,0 +1,19 @@
+{
+  "Name": "アルカトラズからの脱獄",
+  "Serial": "MF/S13-071",
+  "Rarity": "U",
+  "Expansion": "劇場版マクロスＦ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室のキャラを1枚選び、手札に戻す。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "シェリル「…馬鹿！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_071.gif"
+}

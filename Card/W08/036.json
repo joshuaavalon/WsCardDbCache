@@ -1,0 +1,19 @@
+{
+  "Name": "ウェイトレス鶴屋さん",
+  "Serial": "SY/W08-036",
+  "Rarity": "U",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "オデコ",
+  "SecondChara": "ウェイトレス",
+  "Text": "【永】 他のあなたの《時間》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「もうボロ儲けだよっ！」があるなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを-Ｘ。Ｘはあなたの《時間》のキャラの枚数×1000に等しい。",
+  "Flavor": "どうだいっ。この衣装めがっさ似合ってると思わないかなっ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_036.gif"
+}

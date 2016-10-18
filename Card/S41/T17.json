@@ -1,0 +1,19 @@
+{
+  "Name": "“暗黒のバカ”一松",
+  "Serial": "OMS/S41-T17",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "動物",
+  "Text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "来世、来世\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_t17.gif"
+}

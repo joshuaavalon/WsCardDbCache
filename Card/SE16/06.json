@@ -1,0 +1,19 @@
+{
+  "Name": "ダイチ＆じゃあくフロスト",
+  "Serial": "DS2/SE16-06",
+  "Rarity": "R",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サマナー",
+  "SecondChara": "悪魔",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《サマナー》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "ヒ、ヒビキをいじめてんじゃねえよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_06.gif"
+}

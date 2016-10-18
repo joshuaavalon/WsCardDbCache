@@ -1,0 +1,19 @@
+{
+  "Name": "放課後のフラウ＆淳和＆昴",
+  "Serial": "RN/W16-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "",
+  "Text": "【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "フラウ「空手先輩、テラいい匂い……クンカクンカ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_p03.gif"
+}

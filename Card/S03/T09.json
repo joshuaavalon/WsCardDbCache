@@ -1,0 +1,19 @@
+{
+  "Name": "ファニーライオン",
+  "Serial": "FS/S03-T09",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000し、ソウルを＋1。",
+  "Flavor": "昔、ライオンの仔を預かっていた事があって――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_t09.gif"
+}

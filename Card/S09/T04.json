@@ -1,0 +1,19 @@
+{
+  "Name": "“拳で語れ”エルフマン",
+  "Serial": "FT/S09-T04",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "動物",
+  "Text": "【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "本気も本気、本気でやらねば漢ではない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_t04.gif"
+}

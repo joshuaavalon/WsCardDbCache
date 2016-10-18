@@ -1,0 +1,19 @@
+{
+  "Name": "理想の部屋",
+  "Serial": "MK/S11-045",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《警察》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードをクロック置場に置く。",
+  "Flavor": "やっぱり日本人は和でしょ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_045.gif"
+}

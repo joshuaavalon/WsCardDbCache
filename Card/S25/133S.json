@@ -1,0 +1,19 @@
+{
+  "Name": "幸運の駆逐艦 時雨改二",
+  "Serial": "KC/S25-133S",
+  "Rarity": "SR",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か「白露型駆逐艦2番艦 時雨」の【起】の効果で舞台に置かれた時、相手は自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

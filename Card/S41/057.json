@@ -1,0 +1,19 @@
+{
+  "Name": "“罵詈雑言”チョロ松",
+  "Serial": "OMS/S41-057",
+  "Rarity": "C",
+  "Expansion": "おそ松さん",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "６つ子",
+  "SecondChara": "オタク",
+  "Text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "Flavor": "ケツ毛燃えるわブス！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_057.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "タネガシマシン３改",
+  "Serial": "RN/W16-015",
+  "Rarity": "C",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "あき穂「ガンヴァルラッシュ！ ラッシュ！\nガンヴァルブロー！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_015.gif"
+}

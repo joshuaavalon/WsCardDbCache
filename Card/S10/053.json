@@ -1,0 +1,19 @@
+{
+  "Name": "割烹着の悪魔 琥珀",
+  "Serial": "MB/S10-053",
+  "Rarity": "R",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "和服",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《双子》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "元気になったら、また遊びに来てくださいまし？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_053.gif"
+}

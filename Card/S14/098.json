@@ -1,0 +1,19 @@
+{
+  "Name": "エージェント夜を往く",
+  "Serial": "IM/S14-098",
+  "Rarity": "CR",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "情熱 快楽の　解放待ち望む\nそうよ　乱れる悦びを…\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_098.gif"
+}

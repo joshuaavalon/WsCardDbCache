@@ -1,0 +1,19 @@
+{
+  "Name": "桜の木の下で",
+  "Serial": "DC3/WE16-35",
+  "Rarity": "C",
+  "Expansion": "アニメ「D.C.III～ダ・カーポIII～」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたの前列のキャラが2枚以下なら、あなたの前列の《新聞》のキャラすべてに、そのターン中、パワーを＋2500。",
+  "Flavor": "ん……っ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_we16_35.gif"
+}

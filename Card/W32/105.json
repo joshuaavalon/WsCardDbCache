@@ -1,0 +1,19 @@
+{
+  "Name": "激戦の攻防",
+  "Serial": "N1/W32-105",
+  "Rarity": "CR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "フェイト「ジュエルシードは諦めてって……」\nなのは「それを言うなら……なんでジュエルシードを\n集めてるのか教えて、って――」\n",
+  "Trigger": "Door",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_105.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "天使の翼 かなで",
+  "Serial": "AB/W31-005",
+  "Rarity": "R",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【永】 他のあなたの《死》のキャラ1枚につき、このカードのパワーを＋500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「別れの時」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《生徒会》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "ううん、飾り。そのほうが天使らしいからだって\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_005.gif"
+}

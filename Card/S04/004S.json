@@ -1,0 +1,19 @@
+{
+  "Name": "野生児トウマ",
+  "Serial": "SE/S04-004S",
+  "Rarity": "SR",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードがフロントアタックした時、クライマックス置場に「ＶＳイノブタ」があり、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

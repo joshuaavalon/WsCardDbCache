@@ -1,0 +1,19 @@
+{
+  "Name": "テガカリ 春",
+  "Serial": "NK/WE22-15",
+  "Rarity": "C",
+  "Expansion": "ニセコイ:",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《お菓子》のキャラすべてに、パワーを＋500。\n【永】 記憶 相手の思い出置場の「約束のペンダント」1枚につき、このカードは次の能力を得る。『【永】 他のあなたの《お菓子》のキャラすべてに、パワーを＋500。』",
+  "Flavor": "私の王子様……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_we22_15.gif"
+}

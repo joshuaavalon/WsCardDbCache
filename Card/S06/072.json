@@ -1,0 +1,19 @@
+{
+  "Name": "傾奇者",
+  "Serial": "SB/S06-072",
+  "Rarity": "C",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたの《武器》のキャラすべてに、そのターン中、パワーを＋1500。",
+  "Flavor": "慶次「恋もケンカも押しの一手よ！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_072.gif"
+}

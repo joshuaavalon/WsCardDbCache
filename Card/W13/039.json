@@ -1,0 +1,19 @@
+{
+  "Name": "浴衣の春上",
+  "Serial": "RG/W13-039",
+  "Rarity": "C",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "和服",
+  "Text": "【起】［(1)］ あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "私…浴衣着るの初めて…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w13_039.gif"
+}

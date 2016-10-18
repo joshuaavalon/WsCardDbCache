@@ -1,0 +1,19 @@
+{
+  "Name": "ジュネスでサボる足立",
+  "Serial": "P4/S08-063",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "ジュネス",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《警察》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "今日の夕飯は、ロールキャベツとキャベツのみそ汁…あとキャベツご飯かな？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_063.gif"
+}

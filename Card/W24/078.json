@@ -1,0 +1,19 @@
+{
+  "Name": "凛の幼馴染 花陽",
+  "Serial": "LL/W24-078",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。",
+  "Flavor": "え、あ…。何でもない…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_078.gif"
+}

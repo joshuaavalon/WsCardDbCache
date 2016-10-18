@@ -1,0 +1,19 @@
+{
+  "Name": "正義の教育者キム",
+  "Serial": "KF/S05-005",
+  "Rarity": "R",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "",
+  "Text": "【永】 あなたのクロック置場に「チャン＆チョイ」があるなら、このカードのパワーを＋2000。",
+  "Flavor": "罪を憎んで人を憎まず！\nこれからは、共に正義のために闘いましょう！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_005.gif"
+}

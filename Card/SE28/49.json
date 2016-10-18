@@ -1,0 +1,19 @@
+{
+  "Name": "シズミナサイ！",
+  "Serial": "KC/SE28-49",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "ナンドデモ…シズメテ…アゲル\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_se28_49.gif"
+}

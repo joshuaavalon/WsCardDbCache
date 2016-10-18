@@ -1,0 +1,19 @@
+{
+  "Name": "母の日の阿良々木暦",
+  "Serial": "BM/S15-003",
+  "Rarity": "R",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたの《怪異》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
+  "Flavor": "ついていくから――迷う？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_003.gif"
+}

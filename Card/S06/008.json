@@ -1,0 +1,19 @@
+{
+  "Name": "“信義不倒”浅井 長政",
+  "Serial": "SB/S06-008",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "勇者",
+  "Text": "【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の山札を見てカード名に「お市」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "この花に誓い、必ずや辿り着こう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_008.gif"
+}

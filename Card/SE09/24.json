@@ -1,0 +1,19 @@
+{
+  "Name": "ミステリアス・シャドウ",
+  "Serial": "MK/SE09-24",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の山札を見て《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "アルセーヌ「今夜の獲物は大物ですわよ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_24.gif"
+}

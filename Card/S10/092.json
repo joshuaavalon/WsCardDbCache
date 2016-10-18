@@ -1,0 +1,19 @@
+{
+  "Name": "ミハイル・ロア・バルダムヨォン",
+  "Serial": "MB/S10-092",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "血",
+  "SecondChara": "",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたはこのカードを山札に戻してよい。そうしたら、その山札をシャッフルする。",
+  "Flavor": "……やれやれ。これじゃあ本当に、オレを止められるヤツはいなくなっちまったぜ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_092.gif"
+}

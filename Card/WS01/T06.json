@@ -1,0 +1,19 @@
+{
+  "Name": "未年 しよ子",
+  "Serial": "CGS/WS01-T06",
+  "Rarity": "TD",
+  "Expansion": "カードゲームしよ子",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "カードゲーム",
+  "SecondChara": "和服",
+  "Text": "【永】 他のあなたの《カードゲーム》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。",
+  "Flavor": "未年もヴァイスシュヴァルツしよ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_t06.gif"
+}

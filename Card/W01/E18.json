@@ -1,0 +1,19 @@
+{
+  "Name": "小川で遊ぼう！",
+  "Serial": "DC/W01-E18",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+  "Flavor": "環「ええ、とっても。気持ち良いですよ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_e18.gif"
+}

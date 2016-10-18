@@ -1,0 +1,19 @@
+{
+  "Name": "初めてのダンス",
+  "Serial": "MK2/S19-074",
+  "Rarity": "CC",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "シャロ「どうしてかな……、\n体が……、勝手に動きます……」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_074.gif"
+}

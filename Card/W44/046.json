@@ -1,0 +1,19 @@
+{
+  "Name": "新しい街で新しい生活 ココア",
+  "Serial": "GU/W44-046",
+  "Rarity": "U",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "パン",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《ラビットハウス》か《パン》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 他のあなたの、《ラビットハウス》か《パン》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "ここなら楽しく暮らせそう♪\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_046.gif"
+}

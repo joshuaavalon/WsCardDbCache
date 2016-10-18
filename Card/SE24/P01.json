@@ -1,0 +1,19 @@
+{
+  "Name": "一緒にお風呂 イリヤ＆美遊",
+  "Serial": "PI/SE24-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+  "Flavor": "美遊「…イリヤ」\nイリヤ「ん？なーに、美遊？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_se24_p01.gif"
+}

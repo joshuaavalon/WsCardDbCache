@@ -1,0 +1,19 @@
+{
+  "Name": "“ラビットハウスの看板娘”チノ",
+  "Serial": "GU/W44-T17",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「珈琲職人の魔法」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_t17.gif"
+}

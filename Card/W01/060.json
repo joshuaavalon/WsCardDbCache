@@ -1,0 +1,19 @@
+{
+  "Name": "美春＆音夢",
+  "Serial": "DC/W01-060",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "バナナ",
+  "Text": "-",
+  "Flavor": "ちっちっちっ……女の子はなにかを買う目的なんかなくても買い物するんですよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_060.gif"
+}

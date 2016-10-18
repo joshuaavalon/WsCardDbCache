@@ -1,0 +1,19 @@
+{
+  "Name": "瑠々の幻影 穂乃香",
+  "Serial": "KI/S44-042",
+  "Rarity": "C",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "漫画",
+  "Text": "【永】 記憶 あなたの思い出置場に「“シャルル・ド・マッキング”瑠々」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。』",
+  "Flavor": "あ……あ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_042.gif"
+}

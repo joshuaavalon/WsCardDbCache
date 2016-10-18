@@ -1,0 +1,19 @@
+{
+  "Name": "“火星への旅立ち”マルコス",
+  "Serial": "TF/S32-031",
+  "Rarity": "R",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【永】 他のあなたのカード名に「アレックス」を含むキャラが2枚以上なら、このカードのパワーを＋500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+  "Flavor": "おー重力あるわ～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_031.gif"
+}

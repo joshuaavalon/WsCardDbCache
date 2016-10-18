@@ -1,0 +1,19 @@
+{
+  "Name": "“？←HEARTBEAT”東條 希",
+  "Serial": "LL/WE24-06",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！The School Idol Movie",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 あなたのクライマックス置場に「？←HEARTBEAT」が置かれた時、前列にこのカードがいるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we24_06.gif"
+}

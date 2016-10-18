@@ -1,0 +1,19 @@
+{
+  "Name": "ヨコハマを去ったアルセーヌ",
+  "Serial": "MK/SE11-48",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "仮面",
+  "Text": "-",
+  "Flavor": "さようなら、ミルキィホームズ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_48.gif"
+}

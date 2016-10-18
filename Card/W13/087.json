@@ -1,0 +1,19 @@
+{
+  "Name": "元天草式十字凄教 神裂",
+  "Serial": "ID/W13-087",
+  "Rarity": "U",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "彼らがいるなら、私がいなくても、天草式は正しき道を進めるでしょう\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_087.gif"
+}

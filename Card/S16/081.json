@@ -1,0 +1,19 @@
+{
+  "Name": "オペレーター ツグミ",
+  "Serial": "GC/S16-081",
+  "Rarity": "R",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "葬儀社",
+  "SecondChara": "オペレーター",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《葬儀社》のキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "アヤねえ、接続よろし？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_081.gif"
+}

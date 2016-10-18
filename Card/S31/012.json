@@ -1,0 +1,19 @@
+{
+  "Name": "夕雲型駆逐艦17番艦 早霜",
+  "Serial": "KC/S31-012",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "駆逐艦",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［③］』も使えない）",
+  "Flavor": "私とやる気なの？　いいわ、お相手します。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-012.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "結界魔導師ユーノ",
+  "Serial": "N1/WE06-25",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "動物",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "なんで君たちはジュエルシードを集める！？ あれは危険なものなんだ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n1_we06_25.gif"
+}

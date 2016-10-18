@@ -1,0 +1,19 @@
+{
+  "Name": "お花見 みくる",
+  "Serial": "SY/WE09-10",
+  "Rarity": "C",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "時間",
+  "SecondChara": "SOS団",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《時間》か《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "わーきれい～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_10.gif"
+}

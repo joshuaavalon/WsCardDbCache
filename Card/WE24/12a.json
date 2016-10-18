@@ -1,0 +1,19 @@
+{
+  "Name": "僕たちはひとつの光",
+  "Serial": "LL/WE24-12a",
+  "Rarity": "CR",
+  "Expansion": "ラブライブ！The School Idol Movie",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【トレジャー】：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
+  "Flavor": "-\n",
+  "Trigger": "Gold",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we24_12a.gif"
+}

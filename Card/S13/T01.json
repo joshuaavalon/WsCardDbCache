@@ -1,0 +1,19 @@
+{
+  "Name": "ミッションコード“銀河の妖精”シェリル",
+  "Serial": "MF/S13-T01",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "ＶＥＧＡのブラックカードよ。足りなきゃ、次のアルバムの印税をつぎ込んだっていいわ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_t01.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "あこがれのステージ",
+  "Serial": "IMC/W41-075",
+  "Rarity": "CC",
+  "Expansion": "アイドルマスター シンデレラガールズ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "みくもアイドルになりたい！デビューしたい！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_075.gif"
+}

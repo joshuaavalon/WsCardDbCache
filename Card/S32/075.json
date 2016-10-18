@@ -1,0 +1,19 @@
+{
+  "Name": "するべきこと",
+  "Serial": "TF/S32-075",
+  "Rarity": "CC",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "アレックス「取るぞ、遺志」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_075.gif"
+}

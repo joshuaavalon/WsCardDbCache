@@ -1,0 +1,19 @@
+{
+  "Name": "ドレス姿のアンリエット",
+  "Serial": "MK2/S19-086S",
+  "Rarity": "SR",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "生徒会",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【永】 他のあなたの、《探偵》か《怪盗》のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ 相手はあなたの山札を上から1枚見て、山札の上か控え室に置く。あなたは1枚引く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

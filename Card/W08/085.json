@@ -1,0 +1,19 @@
+{
+  "Name": "ビーチバレー 長門",
+  "Serial": "SY/W08-085",
+  "Rarity": "U",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "スポーツ",
+  "Text": "【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの《団長》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "問題ない。そちらに追い込む\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_085.gif"
+}

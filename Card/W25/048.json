@@ -1,0 +1,19 @@
+{
+  "Name": "久しぶりの再会 なのは",
+  "Serial": "N2/W25-048",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "フェイトちゃん…！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_048.gif"
+}

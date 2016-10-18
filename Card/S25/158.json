@@ -1,0 +1,19 @@
+{
+  "Name": "妙高型重巡3番艦 足柄",
+  "Serial": "KC/S25-158",
+  "Rarity": "C",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "重巡洋艦",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "出撃よ！戦場が、勝利が私を呼んでいるわ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_158.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "姉御肌のプリニー",
+  "Serial": "DG/S02-029",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "プリニー",
+  "SecondChara": "愛",
+  "Text": "【永】他のあなたのカード名に「ラハール」を含むキャラすべてに、パワーを＋500。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500し、《愛》を与える。",
+  "Flavor": "同じ悲しみは一度だけでいい……\nそういう愛の形もあるのです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_029.gif"
+}

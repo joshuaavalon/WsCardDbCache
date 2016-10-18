@@ -1,0 +1,19 @@
+{
+  "Name": "えきぞちっくな誓い",
+  "Serial": "KW/W11-T14",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
+  "Flavor": "おまじないをしましょうか、リキ\n",
+  "Trigger": "Book",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_t14.gif"
+}

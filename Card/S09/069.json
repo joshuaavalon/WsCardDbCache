@@ -1,0 +1,19 @@
+{
+  "Name": "大火の兎兎丸",
+  "Serial": "FT/S09-069",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 9500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "エレメント",
+  "Text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+  "Flavor": "全ての炎は私によって制御される\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_069.gif"
+}

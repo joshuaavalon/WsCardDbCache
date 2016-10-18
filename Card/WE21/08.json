@@ -1,0 +1,19 @@
+{
+  "Name": "あなたといるから 佐々美",
+  "Serial": "LB/WE21-08",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 9000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "和服",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたのクロックが2枚以下なら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "Flavor": "お風呂に行きましょ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LB_WE21_08.gif"
+}

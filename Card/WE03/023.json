@@ -1,0 +1,19 @@
+{
+  "Name": "“怪奇課”いつき",
+  "Serial": "SK/WE03-023",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "コロニー",
+  "SecondChara": "警察",
+  "Text": "【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《コロニー》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "連れて行きなさい！　あのコロニーに\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we03_023.gif"
+}

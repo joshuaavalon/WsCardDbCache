@@ -1,0 +1,19 @@
+{
+  "Name": "結婚宣言 菜々子",
+  "Serial": "P4/S08-014",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ジュネス",
+  "SecondChara": "テレビ",
+  "Text": "【永】 他のあなたの、《勇者》かカード名に「主人公」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の「主人公＆伊邪那岐大神」を1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "菜々子、しょうらい、お兄ちゃんとけっこんする\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_014.gif"
+}

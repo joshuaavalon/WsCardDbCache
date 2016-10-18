@@ -1,0 +1,19 @@
+{
+  "Name": "“ホントの気持ち”マヤ",
+  "Serial": "GU/W44-075",
+  "Rarity": "R",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "八重歯",
+  "SecondChara": "",
+  "Text": "【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。\n【永】 他のあなたの青のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "友達と進む学校が違ったら、もう親友じゃなくなっちゃうのかな…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_075.gif"
+}

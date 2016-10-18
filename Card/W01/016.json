@@ -1,0 +1,19 @@
+{
+  "Name": "霧羽 香澄",
+  "Serial": "DC/W01-016",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "霊",
+  "SecondChara": "",
+  "Text": "【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを手札に戻してよい。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「あたし……そろそろ行かなきゃ……」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを１枚選び、手札に戻す。",
+  "Flavor": "これだけはっきりと足が見えてるのに失礼ね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_016.gif"
+}

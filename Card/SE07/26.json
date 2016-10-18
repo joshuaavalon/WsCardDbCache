@@ -1,0 +1,19 @@
+{
+  "Name": "忍法断罪円",
+  "Serial": "KG/SE07-26",
+  "Rarity": "C",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "右衛門左衛門「鳳凰よ―お前は『あの技』を断罪円などと呼んでいるのか」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_26.gif"
+}

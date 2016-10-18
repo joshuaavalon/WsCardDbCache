@@ -1,0 +1,19 @@
+{
+  "Name": "“お色気担当”唯湖",
+  "Serial": "LB/W06-063",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【自】 他のあなたのバトルしているキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "フフフ…正直だな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_063.gif"
+}

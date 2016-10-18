@@ -1,0 +1,19 @@
+{
+  "Name": "離島棲鬼",
+  "Serial": "KC/SE28-33SP",
+  "Rarity": "SP",
+  "Expansion": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "深海棲艦",
+  "SecondChara": "鬼",
+  "Text": "【永】 他のあなたの《深海棲艦》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《深海棲艦》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

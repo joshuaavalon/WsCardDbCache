@@ -1,0 +1,19 @@
+{
+  "Name": "ツンツン 姫乃",
+  "Serial": "DC3/W18-T01",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "",
+  "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。\n【永】 あなたの手札が4枚以下なら、他のあなたの《新聞》のキャラすべてに、パワーを＋500。",
+  "Flavor": "別になんでもないです。兄さんのばーか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_t01.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "インデックスの保護者 当麻",
+  "Serial": "ID/W13-006",
+  "Rarity": "R",
+  "Expansion": "禁書目録II＆超電磁砲",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 記憶 あなたの思い出が2枚以上なら、舞台のこのカードのレベルを－2し、パワーを＋3000。\n【自】 このカードがアタックした時、クライマックス置場に「幻想殺し」があるなら、他のあなたのキャラすべてに、そのターン中、パワーを＋3000。",
+  "Flavor": "またせちまったみたいだな\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_006.gif"
+}

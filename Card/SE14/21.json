@@ -1,0 +1,19 @@
+{
+  "Name": "運命的な邂逅",
+  "Serial": "PP/SE14-21",
+  "Rarity": "C",
+  "Expansion": "PSYCHO-PASS サイコパス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "槙島「お前は、狡噛慎也だ」\n狡噛「お前は、槙島聖護だ」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pp_se14_21.gif"
+}

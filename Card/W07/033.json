@@ -1,0 +1,19 @@
+{
+  "Name": "裏切り者クロウディア",
+  "Serial": "PT/W07-033",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "暗黒街",
+  "SecondChara": "",
+  "Text": "【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《暗黒街》のキャラすべてに、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。』",
+  "Flavor": "時間にルーズな男は……嫌われるわよ。玲二\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_033.gif"
+}

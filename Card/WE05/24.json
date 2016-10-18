@@ -1,0 +1,19 @@
+{
+  "Name": "水着のなつき",
+  "Serial": "MH/WE05-24",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "エレメント",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "余計なお世話だ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mh_we05_24.gif"
+}

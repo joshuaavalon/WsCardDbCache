@@ -1,0 +1,19 @@
+{
+  "Name": "“穏やかな昼餐”りんね",
+  "Serial": "KR/SE30-04",
+  "Rarity": "R",
+  "Expansion": "境界のRINNE",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死神",
+  "SecondChara": "",
+  "Text": "【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "Flavor": "こんな高級メシ、一体どこから…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_04.gif"
+}

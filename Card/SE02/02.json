@@ -1,0 +1,19 @@
+{
+  "Name": "“宝物”カナン＆マリア",
+  "Serial": "CN/SE02-02",
+  "Rarity": "R",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "あやとり",
+  "Text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「カナン」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "マリア「少し、怖いけれど……ふれてみたい。その輝きに――」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_02.gif"
+}

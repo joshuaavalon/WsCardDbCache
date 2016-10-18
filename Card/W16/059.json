@@ -1,0 +1,19 @@
+{
+  "Name": "ミスター・プレアデス",
+  "Serial": "RN/W16-059",
+  "Rarity": "U",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "仮面",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "7人の女神の祝福により、\n我、400光年の彼方よりここに降臨。\nアイアム――ミスター・プレアデス！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_059.gif"
+}

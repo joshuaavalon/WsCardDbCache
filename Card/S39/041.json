@@ -1,0 +1,19 @@
+{
+  "Name": "母親のこと 神原駿河",
+  "Serial": "MG/S39-041",
+  "Rarity": "C",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "『私はあの人に、子供扱いされたことがないとばかり\n思っていたけれど－－しかし、案外。あの人はずっと一貫して。\n私を娘として、扱っていたのかもしれない』\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_041.gif"
+}

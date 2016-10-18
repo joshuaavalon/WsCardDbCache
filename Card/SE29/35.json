@@ -1,0 +1,19 @@
+{
+  "Name": "めげずに前進！シャロ",
+  "Serial": "MK/SE29-35",
+  "Rarity": "C",
+  "Expansion": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "カメラ",
+  "Text": "【永】 あなたのキャラすべてが《探偵》なら、このカードのレベルを＋1し、パワーを＋500。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
+  "Flavor": "次がダメでも次の次にアルセーヌを捕まえてみせます！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_35.gif"
+}

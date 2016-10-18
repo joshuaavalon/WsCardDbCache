@@ -1,0 +1,19 @@
+{
+  "Name": "碇 ゲンドウ",
+  "Serial": "EV/S12-088",
+  "Rarity": "C",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "手袋",
+  "Text": "【永】 他のあなたのカード名に「綾波」を含むキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
+  "Flavor": "そのための、ネルフです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_088.gif"
+}

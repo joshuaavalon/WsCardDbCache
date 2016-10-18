@@ -1,0 +1,19 @@
+{
+  "Name": "“リトルバスターズ”謙吾＆真人",
+  "Serial": "LB/W21-006S",
+  "Rarity": "SR",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "筋肉",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 このカードの正面のキャラのソウルを＋1。\n【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのソウル×1000に等しい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

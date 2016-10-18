@@ -1,0 +1,19 @@
+{
+  "Name": "ちび春菜",
+  "Serial": "TL/W42-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《動物》か《スポーツ》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+  "Flavor": "ご…ゴメンなさい…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_104.gif"
+}

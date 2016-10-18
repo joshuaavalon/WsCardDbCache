@@ -1,0 +1,19 @@
+{
+  "Name": "熱いビート アグナム",
+  "Serial": "SR/SE25-10",
+  "Rarity": "C",
+  "Expansion": "シャイニング・レゾナンス",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "竜",
+  "Text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。",
+  "Flavor": "別に頼んだ覚えはねえんだけどな……\nまあ……来るってんなら勝手にしやがれ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sr_se25_10.gif"
+}

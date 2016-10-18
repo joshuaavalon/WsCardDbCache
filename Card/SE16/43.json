@@ -1,0 +1,19 @@
+{
+  "Name": "龍脈",
+  "Serial": "DS2/SE16-43",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「ヤマト」か「ヒビキ」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。\nこのカードを思い出にする。",
+  "Flavor": "新田さん…死、なんて……そんな選択選ばないでくれ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_43.gif"
+}

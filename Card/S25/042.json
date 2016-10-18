@@ -1,0 +1,19 @@
+{
+  "Name": "伊勢型航空戦艦1番艦 伊勢改",
+  "Serial": "KC/S25-042",
+  "Rarity": "R",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "航空戦艦",
+  "Text": "【永】 他のあなたの「伊勢型航空戦艦2番艦 日向改」すべてに、パワーを＋1000。\n【自】［手札を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "主砲、四基八門、一斉射！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_042.gif"
+}

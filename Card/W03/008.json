@@ -1,0 +1,19 @@
+{
+  "Name": "ヴァリエール公爵夫人",
+  "Serial": "ZM/W03-008",
+  "Rarity": "U",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "この子は本当にいくつになっても心配をかけて…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_008.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“Happy maker!”矢澤 にこ",
+  "Serial": "LL/W34-002",
+  "Rarity": "RR",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「にこ」を含むキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_002.gif"
+}

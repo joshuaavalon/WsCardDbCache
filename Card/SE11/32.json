@@ -1,0 +1,19 @@
+{
+  "Name": "ココロノエデン",
+  "Serial": "MK/SE11-32",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ Genius4の反撃",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "彷徨う街の片隅で すれ違う孤独な瞳\n世界は沈黙を選び時を止めた\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_32.gif"
+}

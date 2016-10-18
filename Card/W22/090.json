@@ -1,0 +1,19 @@
+{
+  "Name": "すっかり元気 あおい",
+  "Serial": "VR/W22-090",
+  "Rarity": "U",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "武器",
+  "Text": "【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。",
+  "Flavor": "今度は私が、みんなを守る！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_090.gif"
+}

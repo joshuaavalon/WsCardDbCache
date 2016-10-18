@@ -1,0 +1,19 @@
+{
+  "Name": "仲間の力 ナツ",
+  "Serial": "FT/SE10-28",
+  "Rarity": "R",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "うおおぉおお!!!!\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_28.gif"
+}

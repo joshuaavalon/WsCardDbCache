@@ -1,0 +1,19 @@
+{
+  "Name": "“魔術師”ルヴィア",
+  "Serial": "PI/S40-001R",
+  "Rarity": "RRR",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宝石",
+  "SecondChara": "令嬢",
+  "Text": "【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。\n【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《宝石》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
+  "Flavor": "けれどもとよりこの程度…想定済みですわ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

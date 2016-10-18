@@ -1,0 +1,19 @@
+{
+  "Name": "“ミステリックブルー”美魚",
+  "Serial": "LB/W02-13T",
+  "Rarity": "U",
+  "Expansion": "2008年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "日傘",
+  "Text": "【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠に【レスト】して置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_13t.gif"
+}

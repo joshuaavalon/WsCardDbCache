@@ -1,0 +1,19 @@
+{
+  "Name": "大淀型軽巡1番艦 大淀改",
+  "Serial": "KC/S31-017",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "軽巡洋艦",
+  "Text": "－",
+  "Flavor": "旗艦 大淀、全力出撃。参りましょう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-017.gif"
+}

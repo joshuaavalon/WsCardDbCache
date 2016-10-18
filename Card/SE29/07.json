@@ -1,0 +1,19 @@
+{
+  "Name": "モリアーティ教授",
+  "Serial": "MK/SE29-07",
+  "Rarity": "U",
+  "Expansion": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "怪盗",
+  "SecondChara": "時間",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【自】［手札を1枚控え室に置く］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のストックを上から3枚まで見て、山札の上に好きな順番で置く。",
+  "Flavor": "3秒、時間を戻せるトイズです。たかが3秒、されど3秒。\n戦いでは絶大な威力を発揮します\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_07.gif"
+}

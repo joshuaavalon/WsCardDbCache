@@ -1,0 +1,19 @@
+{
+  "Name": "一匹狼 ケイタ",
+  "Serial": "DS2/SE16-13",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サマナー",
+  "SecondChara": "スポーツ",
+  "Text": "【起】［あなたの《サマナー》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。",
+  "Flavor": "はあ……手掛かりもなしに人捜しぃ…？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_13.gif"
+}

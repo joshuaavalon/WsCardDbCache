@@ -1,0 +1,19 @@
+{
+  "Name": "“どんなときもずっと”東條 希",
+  "Serial": "LL/W34-007",
+  "Rarity": "R",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_007.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "クッションの海 チユリ",
+  "Serial": "AW/S18-031R",
+  "Rarity": "RRR",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "動物",
+  "Text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【自】［(1) あなたの【スタンド】しているキャラを2枚【レスト】する］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

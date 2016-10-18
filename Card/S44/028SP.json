@@ -1,0 +1,19 @@
+{
+  "Name": "“上から選民”穂乃香",
+  "Serial": "KI/S44-028SP",
+  "Rarity": "SP",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "漫画",
+  "Text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "託されるもの",
+  "Serial": "LB/W02-075",
+  "Rarity": "CC",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "お別れだ、理樹\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_075.gif"
+}

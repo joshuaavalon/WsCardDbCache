@@ -1,0 +1,19 @@
+{
+  "Name": "謎の男 美木杉",
+  "Serial": "KLK/S27-065",
+  "Rarity": "C",
+  "Expansion": "キルラキル",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "ナルシスト",
+  "Text": "-",
+  "Flavor": "答えは自分で見つけることだ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_065.gif"
+}

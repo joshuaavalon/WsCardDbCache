@@ -1,0 +1,19 @@
+{
+  "Name": "あなたは神を信じますか？",
+  "Serial": "Woo/SE19-017",
+  "Rarity": "TD",
+  "Expansion": "【スペシャルセット】うーさーのその日暮らし",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "-\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_017.gif"
+}

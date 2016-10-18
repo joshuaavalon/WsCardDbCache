@@ -1,0 +1,19 @@
+{
+  "Name": "アスナ＆ユウキ",
+  "Serial": "SAO/SE26-18",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインⅡ Vol.2",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、《アバター》か《ネット》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "ボク、がんばって生きた……。ここで、生きたよ……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se26_18.gif"
+}

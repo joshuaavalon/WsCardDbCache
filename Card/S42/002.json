@@ -1,0 +1,19 @@
+{
+  "Name": "大鳳型装甲空母 大鳳改",
+  "Serial": "KC/S42-002",
+  "Rarity": "RR",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "装甲空母",
+  "Text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 相手が【起】を使った時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "今日はいい風…。正規空母、大鳳、出撃します！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_002.gif"
+}

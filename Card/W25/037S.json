@@ -1,0 +1,19 @@
+{
+  "Name": "悲壮な決意 ヴィータ",
+  "Serial": "N2/W25-037S",
+  "Rarity": "SR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "人形",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「はやての為に」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

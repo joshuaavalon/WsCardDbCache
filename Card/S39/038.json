@@ -1,0 +1,19 @@
+{
+  "Name": "“悪魔様”沼地蝋花",
+  "Serial": "MG/S39-038",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "悪魔",
+  "Text": "【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「悪魔のパーツ」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+  "Flavor": "別に私は何もしていない。話を聞くだけだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_038.gif"
+}

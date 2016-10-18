@@ -1,0 +1,19 @@
+{
+  "Name": "真水集め チェインバー",
+  "Serial": "GG/S23-034",
+  "Rarity": "U",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "軍隊",
+  "Text": "【永】 他のあなたの《軍隊》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "べローズ「よーし、そのままー」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_034.gif"
+}

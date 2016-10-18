@@ -1,0 +1,19 @@
+{
+  "Name": "超アバウト アルフ",
+  "Serial": "NA/W12-014",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【永】 相手の【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "みんなでズバッとぶっ飛ばしちゃうわけにはいかないの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_014.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "突然の転入辞令",
+  "Serial": "MK2/S19-024",
+  "Rarity": "CC",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
+  "Flavor": "納得できません！\n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_024.gif"
+}

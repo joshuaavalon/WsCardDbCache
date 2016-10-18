@@ -1,0 +1,19 @@
+{
+  "Name": "Adhesion panic",
+  "Serial": "TL/W42-049",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 3,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたの、《動物》か《植物》のキャラが5枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_049.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ワラキアの夜",
+  "Serial": "MB/S10-035",
+  "Rarity": "U",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "血",
+  "SecondChara": "",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+  "Flavor": "もう終わりかね？これでも気を使ったつもりなのだが\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_035.gif"
+}

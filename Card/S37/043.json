@@ -1,0 +1,19 @@
+{
+  "Name": "“約束”伊緒＆まな",
+  "Serial": "SGS/S37-043",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "",
+  "Text": "（バニラ）",
+  "Flavor": "――あの約束 今でも有効だよね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_043.gif"
+}

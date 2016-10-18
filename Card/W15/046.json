@@ -1,0 +1,19 @@
+{
+  "Name": "アサヒハルカの呪い",
+  "Serial": "RW/W15-046",
+  "Rarity": "U",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「ルチア」を含むキャラがいないなら、手札からプレイできない。\n相手のキャラすべてに、そのターン中、パワーを－1500。",
+  "Flavor": "……私の手、…昨夜からおかしいんだ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_046.gif"
+}

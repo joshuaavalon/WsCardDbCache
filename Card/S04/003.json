@@ -1,0 +1,19 @@
+{
+  "Name": "アウトロー トウマ",
+  "Serial": "SE/S04-003",
+  "Rarity": "R",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。",
+  "Flavor": "そんなふうにシリルに言われると、なんか居心地が悪りぃなぁ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_003.gif"
+}

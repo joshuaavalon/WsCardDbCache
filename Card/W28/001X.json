@@ -1,0 +1,19 @@
+{
+  "Name": "“No brand girls”穂乃果",
+  "Serial": "LL/W28-001X",
+  "Rarity": "XR",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「Snow halation」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "姫様の秘書 アメリタ",
+  "Serial": "DD/WE12-T05",
+  "Rarity": "TD",
+  "Expansion": "【エクストラトライアル】DOG DAYS",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "メガネ",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "お邪魔が入らぬようにいたします……\n大丈夫ですよね、騎士団長？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_t05.gif"
+}

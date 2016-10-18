@@ -1,0 +1,19 @@
+{
+  "Name": "ALLSTAR LIVE 真美",
+  "Serial": "IM/S21-007",
+  "Rarity": "U",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "双子",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_007.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "通りすがりの腕自慢 ヒナ",
+  "Serial": "DD/WE23-32",
+  "Rarity": "U",
+  "Expansion": "DOG DAYS\"",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "武器",
+  "Text": "【永】 記憶 あなたの思い出置場に「“追憶”フィー」があるなら、このカードのパワーを＋2000。",
+  "Flavor": "魔物に変わっちゃった生き物や土地神を助けるためにもね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_32.gif"
+}

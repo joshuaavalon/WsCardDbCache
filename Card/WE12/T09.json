@@ -1,0 +1,19 @@
+{
+  "Name": "きっと恋をしている",
+  "Serial": "DD/WE12-T09",
+  "Rarity": "TD",
+  "Expansion": "【エクストラトライアル】DOG DAYS",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "頑張る勇気を乗せて歌います……\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_t09.gif"
+}

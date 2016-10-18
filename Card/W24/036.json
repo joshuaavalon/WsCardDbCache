@@ -1,0 +1,19 @@
+{
+  "Name": "“ナイショ話”希",
+  "Serial": "LL/W24-036",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "占い",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「タロット占い」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+  "Flavor": "ちょっと話しすぎちゃったかも。みんなには秘密ね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_036.gif"
+}

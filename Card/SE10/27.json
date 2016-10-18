@@ -1,0 +1,19 @@
+{
+  "Name": "オレたちの帰る場所 ナツ",
+  "Serial": "FT/SE10-27",
+  "Rarity": "R",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "竜",
+  "Text": "【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "ギルドこそがオレたちの家族だろうが!!!!!\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_27.gif"
+}

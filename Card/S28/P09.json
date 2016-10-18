@@ -1,0 +1,19 @@
+{
+  "Name": "夏の思い出 しんのすけ&シロ",
+  "Serial": "CS/S28-P09",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "動物",
+  "Text": "【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\n【起】［(1)］あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+  "Flavor": "しんのすけ「こっちこっち！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_p09.gif"
+}

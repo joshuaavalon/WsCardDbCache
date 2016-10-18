@@ -1,0 +1,19 @@
+{
+  "Name": "シャイニング・フォース フェザー",
+  "Serial": "SF/S04-103",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "異なる羽は、やがて大きな翼に変わる。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sf_s04_103.gif"
+}

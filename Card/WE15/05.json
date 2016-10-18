@@ -1,0 +1,19 @@
+{
+  "Name": "逃げない勇気 一美",
+  "Serial": "SS/WE15-05",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナIII-FINAL-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "愛",
+  "SecondChara": "",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "今、逃げたら……私は本当に、踏み込んだはずの場所から\n放り出されてしまう気がする\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_we15_05.gif"
+}

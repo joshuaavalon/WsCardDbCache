@@ -1,0 +1,19 @@
+{
+  "Name": "品行方正 加賀美茉莉",
+  "Serial": "GF/W33-064",
+  "Rarity": "R",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "スポーツ",
+  "Text": "【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に赤のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の赤のキャラを1枚選び、手札に戻す。",
+  "Flavor": "後はこれを…　あ、持ってくれるの？　うん、ありがとう。じゃ、行こっか\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_064.gif"
+}

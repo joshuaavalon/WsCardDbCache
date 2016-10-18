@@ -1,0 +1,19 @@
+{
+  "Name": "ゆったりとした時間 莉乃",
+  "Serial": "DC/W23-085",
+  "Rarity": "U",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ドングリ",
+  "SecondChara": "美術",
+  "Text": "【自】［(2) このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。",
+  "Flavor": "あとちょっとでひと段落つくから……\n待っていてくださいねぇ～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_085.gif"
+}

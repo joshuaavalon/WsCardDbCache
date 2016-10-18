@@ -1,0 +1,19 @@
+{
+  "Name": "体験実習！音姫&エリカ",
+  "Serial": "DC/WE20-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "王族",
+  "Text": "【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "音姫「じゃあ、まずは校庭10周！」\nエリカ「えっ！は、走るんですか！？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we20_p02.gif"
+}

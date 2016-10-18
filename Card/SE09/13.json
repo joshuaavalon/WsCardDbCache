@@ -1,0 +1,19 @@
+{
+  "Name": "6月のシャロ",
+  "Serial": "MK/SE09-13",
+  "Rarity": "R",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "カメラ",
+  "Text": "【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "湿度１００％ですぅー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_13.gif"
+}

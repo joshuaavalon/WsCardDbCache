@@ -1,0 +1,19 @@
+{
+  "Name": "フラワーズは大忙し！ 葵",
+  "Serial": "DC3/W18-071",
+  "Rarity": "RR",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "ウェイトレス",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。",
+  "Flavor": "え！？　清隆さん？　何してるんですか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_071.gif"
+}

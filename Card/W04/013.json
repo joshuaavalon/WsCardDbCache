@@ -1,0 +1,19 @@
+{
+  "Name": "フェイト＆アルフ",
+  "Serial": "NS/W04-013",
+  "Rarity": "C",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "使い魔",
+  "Text": "-",
+  "Flavor": "フェイト「元気そうだね」\nアルフ「元気！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_013.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "弓場の雨情 重藤秋穂",
+  "Serial": "GF/W38-076S",
+  "Rarity": "SR",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 他のあなたの《ガール》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「仲良し【芽以＆秋穂】」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ガール》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

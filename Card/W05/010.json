@@ -1,0 +1,19 @@
+{
+  "Name": "名前が呼べたゆたか",
+  "Serial": "LS/W05-010",
+  "Rarity": "U",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "保健室",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの『絆』を持つキャラすべてに、ソウルを＋1。\n【自】 あなたのクライマックス置場に「夏休み明け」が置かれた時、他のあなたのカード名に「みなみ」を含むキャラがいるなら、そのターン中、このカードは次の能力を得る。『【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードとバトルしているキャラと、このカードを選び、手札に戻してよい。』",
+  "Flavor": "そっか……そうだよねっ　ありがとう　みなみちゃんっ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_010.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "パーソナリティ フーカ",
+  "Serial": "DG/SE08-49",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "プリニー",
+  "SecondChara": "死",
+  "Text": "-",
+  "Flavor": "日本　一人前になるわ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_49.gif"
+}

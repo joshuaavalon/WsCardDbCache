@@ -1,0 +1,19 @@
+{
+  "Name": "父へのお願い あき穂",
+  "Serial": "RN/W16-P04",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メカ",
+  "Text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "ロボ部の手助けをしてほしい。\n一緒に、正義の巨大ロボを造ろう\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_p04.gif"
+}

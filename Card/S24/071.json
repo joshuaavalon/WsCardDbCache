@@ -1,0 +1,19 @@
+{
+  "Name": "戦いに赴く阿良々木暦",
+  "Serial": "NM/S24-071",
+  "Rarity": "RR",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「家族のこと」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
+  "Flavor": "ハァ…ハァ…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_071.gif"
+}

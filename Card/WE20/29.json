@@ -1,0 +1,19 @@
+{
+  "Name": "笑顔のために すもも",
+  "Serial": "DC3/WE20-29",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～サクラサクパック",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "演劇",
+  "Text": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "内緒話だから、内緒\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/DC3_WE20_29.gif"
+}

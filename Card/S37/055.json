@@ -1,0 +1,19 @@
+{
+  "Name": "灰島 依咲里",
+  "Serial": "SGS/S37-055",
+  "Rarity": "R",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "オッドアイ",
+  "Text": "【永】 他のあなたの、「緋ノ宮 二穂」と「“S”灰島 華賀利」すべてに、パワーを＋500。\n【永】 他のあなたの「灰島 華賀利」がいるなら、他のあなたの赤のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "はァ はァ……もっと……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_055.gif"
+}

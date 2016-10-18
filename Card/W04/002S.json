@@ -1,0 +1,19 @@
+{
+  "Name": "“真ソニックフォーム”フェイト",
+  "Serial": "NS/W04-002S",
+  "Rarity": "SR",
+  "Expansion": "なのはStrikerS",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「迷いが晴れた時」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

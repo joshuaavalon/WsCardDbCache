@@ -1,0 +1,19 @@
+{
+  "Name": "観察者 長門",
+  "Serial": "SY/WE09-22",
+  "Rarity": "R",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "SOS団",
+  "Text": "【永】 相手のターン中、他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。",
+  "Flavor": "元気\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_22.gif"
+}

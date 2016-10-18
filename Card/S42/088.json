@@ -1,0 +1,19 @@
+{
+  "Name": "祥鳳型軽空母1番艦 祥鳳改",
+  "Serial": "KC/S42-088",
+  "Rarity": "C",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "軽空母",
+  "Text": "【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "第2次攻撃隊、編成できる？　じゃあ、随時発進してください！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_088.gif"
+}

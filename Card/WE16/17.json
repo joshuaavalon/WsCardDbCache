@@ -1,0 +1,19 @@
+{
+  "Name": "愛にひたむき 美琴",
+  "Serial": "DC3/WE16-17",
+  "Rarity": "C",
+  "Expansion": "アニメ「D.C.III～ダ・カーポIII～」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "愛",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。そうでないなら、そのターン中、このカードのパワーを－1500。（公開したカードは元に戻す）",
+  "Flavor": "杉並さま！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_we16_17.gif"
+}

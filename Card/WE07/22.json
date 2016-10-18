@@ -1,0 +1,19 @@
+{
+  "Name": "渚＆杏＆椋",
+  "Serial": "CL/WE07-22",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "演劇",
+  "SecondChara": "双子",
+  "Text": "【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "杏「ほらいじめないから、いい子いい子～」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_22.gif"
+}

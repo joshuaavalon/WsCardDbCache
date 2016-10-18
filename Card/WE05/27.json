@@ -1,0 +1,19 @@
+{
+  "Name": "小川で遊ぼう！",
+  "Serial": "SK/WE05-27",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+  "Flavor": "いつき「サイズが合いませんか？怪奇課の標準装備なんですけど」\n秋葉「ううん、ピッタリ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_27.gif"
+}

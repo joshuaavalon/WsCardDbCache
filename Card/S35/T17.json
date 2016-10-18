@@ -1,0 +1,19 @@
+{
+  "Name": "“絶望の中の希望”ミカサ",
+  "Serial": "AOT/S35-T17",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "違う……これで私と離れずにすんだと思って……安心してる……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_t17_td.gif"
+}

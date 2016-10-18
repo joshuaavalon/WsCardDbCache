@@ -1,0 +1,19 @@
+{
+  "Name": "負けず嫌いで努力家まゆき",
+  "Serial": "DC/W09-082",
+  "Rarity": "R",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "生徒会",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のクライマックス置場にクライマックスがあるなら、このカードのパワーを＋2000。\n【自】 このカードがアタックした時、クライマックス置場に「ラストチャンス」があるなら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "んっ……十分だよ、ありがと弟くん\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_082.gif"
+}

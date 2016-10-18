@@ -1,0 +1,19 @@
+{
+  "Name": "朝焼けの丘 マミ",
+  "Serial": "MM/W35-010",
+  "Rarity": "U",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お茶",
+  "Text": "【永】 このカードの正面のキャラは他の枠に動かせない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_010.gif"
+}

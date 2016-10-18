@@ -1,0 +1,19 @@
+{
+  "Name": "天王寺 綯",
+  "Serial": "RN/W16-028",
+  "Rarity": "R",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "スポーツ",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ひと夏のアバンチュール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《科学》のキャラを1枚選び、ストック置場に置き、自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋3500。",
+  "Flavor": "それは、デートのお誘い、だったりして\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_028.gif"
+}

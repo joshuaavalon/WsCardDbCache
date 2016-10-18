@@ -1,0 +1,19 @@
+{
+  "Name": "赤木 リツコ",
+  "Serial": "EV/S12-083",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "到着予定時刻を１２分もオーバー。\nあんまり遅いので迎えに来たわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_083.gif"
+}

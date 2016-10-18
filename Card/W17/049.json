@@ -1,0 +1,19 @@
+{
+  "Name": "鹿目 詢子",
+  "Serial": "MM/W17-049",
+  "Rarity": "C",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのカード名に「まどか」を含むキャラすべてに、パワーを＋1000。",
+  "Flavor": "女は外見で舐められたら終わりだよ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_049.gif"
+}

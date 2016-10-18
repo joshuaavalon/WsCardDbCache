@@ -1,0 +1,19 @@
+{
+  "Name": "いつき＆ウル",
+  "Serial": "SK/WE05-11",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "コロニー",
+  "SecondChara": "メカ",
+  "Text": "-",
+  "Flavor": "ウル「我々を舐めるなよ。スパイシー」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_11.gif"
+}

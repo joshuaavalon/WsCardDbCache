@@ -1,0 +1,19 @@
+{
+  "Name": "ＫＢＹＤ散歩 紗枝",
+  "Serial": "IMC/W43-063",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\n【起】［あなたの舞台のキャラを1枚控え室に置く］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "本日は昔ながらの素敵な町並みをご紹介します\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_063.gif"
+}

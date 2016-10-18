@@ -1,0 +1,19 @@
+{
+  "Name": "半泣きのるな",
+  "Serial": "GT/W29-045",
+  "Rarity": "C",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "令嬢",
+  "Text": "-",
+  "Flavor": "ひっ！何か出てきた……！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_045.gif"
+}

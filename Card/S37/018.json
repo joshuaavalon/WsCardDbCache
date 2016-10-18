@@ -1,0 +1,19 @@
+{
+  "Name": "エール！ 椿芽",
+  "Serial": "SGS/S37-018",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "謎",
+  "Text": "【永】 このカードはサイドアタックできない。",
+  "Flavor": "私 隊長さんなら絶対にできるって 信じてます！\nがんばってください！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_018.gif"
+}

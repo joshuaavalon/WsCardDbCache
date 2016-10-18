@@ -1,0 +1,19 @@
+{
+  "Name": "やれやれ シャルル",
+  "Serial": "DC3/WPR-002",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "おーい、立夏。現実の世界へ帰ってこーい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_wpr_002.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "巡音ルカ“SW リゾートビキニ”",
+  "Serial": "PD/S22-053S",
+  "Rarity": "SR",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋500。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

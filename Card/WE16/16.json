@@ -1,0 +1,19 @@
+{
+  "Name": "しっかりお仕事 シャルル",
+  "Serial": "DC3/WE16-16",
+  "Rarity": "C",
+  "Expansion": "アニメ「D.C.III～ダ・カーポIII～」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "-",
+  "Flavor": "じゃあまずは昨日の報告からかな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_we16_16.gif"
+}

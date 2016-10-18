@@ -1,0 +1,19 @@
+{
+  "Name": "使徒の一撃",
+  "Serial": "EV/S12-021",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "青葉「目標内部に高エネルギー反応！」\nミサト「何ですって！？」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_021.gif"
+}

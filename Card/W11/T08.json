@@ -1,0 +1,19 @@
+{
+  "Name": "科学部の部長 氷室",
+  "Serial": "KW/W11-T08",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "科学",
+  "Text": "【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋１000。",
+  "Flavor": "名乗ってなかったわね。併設校３年。科学部部長、氷室よ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_t08.gif"
+}

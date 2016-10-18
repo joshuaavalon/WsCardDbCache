@@ -1,0 +1,19 @@
+{
+  "Name": "意外な動き 東雲レイ",
+  "Serial": "GF/W33-135",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたの青のキャラすべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "Flavor": "ほら、こんな感じで滑れば、行ける行ける\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_135.gif"
+}

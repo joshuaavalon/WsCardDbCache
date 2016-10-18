@@ -1,0 +1,19 @@
+{
+  "Name": "アドバイザー ユーノ",
+  "Serial": "N2/W25-050",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【自】［(1) あなたの【スタンド】している《魔法》のキャラを2枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「なのは」を含むキャラを1枚選び、手札に戻す。",
+  "Flavor": "二人の純粋魔力砲で、その黒いかたまりをぶっとばしてッ！！\n全力全開手加減なしでッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_050.gif"
+}

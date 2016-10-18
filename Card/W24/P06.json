@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服の海未",
+  "Serial": "LL/W24-P06",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メイド",
+  "Text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "あなたの心を\n私の青でいっぱいに満たしてしまいましょう――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_p06.gif"
+}

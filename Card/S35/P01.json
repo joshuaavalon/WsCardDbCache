@@ -1,0 +1,19 @@
+{
+  "Name": "戦火の前線 エレン",
+  "Serial": "AOT/S35-P01",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードのパワーを＋X。Xはこのカードの正面のキャラのレベル×2000に等しい。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_p01.gif"
+}

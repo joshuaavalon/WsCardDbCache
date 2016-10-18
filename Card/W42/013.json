@@ -1,0 +1,19 @@
+{
+  "Name": "“絶対の存在”ネメシス",
+  "Serial": "TL/W42-013",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "だんご",
+  "Text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【自】 共鳴 ［手札を1枚控え室に置き、手札の「“ネコミミ(記号：ハート)モード”ネメシス」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“一歩前進”芽亜」を1枚選び、舞台の好きな枠に置く。",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_013.gif"
+}

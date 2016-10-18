@@ -1,0 +1,19 @@
+{
+  "Name": "貧乏アルバイター ユンユン",
+  "Serial": "CN/SE02-21",
+  "Rarity": "C",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "病気",
+  "SecondChara": "ウェイトレス",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 あなたのレベル置場に「大切な友人 カナン＆マリア」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
+  "Flavor": "一人と一人が腕組めば、そこまで寂しいこたないスよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_21.gif"
+}

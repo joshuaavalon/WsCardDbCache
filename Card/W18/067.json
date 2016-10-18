@@ -1,0 +1,19 @@
+{
+  "Name": "孤高のカトレア",
+  "Serial": "DC3/W18-067",
+  "Rarity": "CR",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "ジル「ありがとね、リッカ……。\nわたしたちのために、頑張ってくれて。\nわたしはね、ホントにうれしいんだよ」\n",
+  "Trigger": "Door",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_067.gif"
+}

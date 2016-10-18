@@ -1,0 +1,19 @@
+{
+  "Name": "お姫様 貴音",
+  "Serial": "IM/S07-031",
+  "Rarity": "R",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "王族",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「フラワーガール」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋3000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "あ、あの、私なりに、かわいさを追求したつもりです。それでは『フラワーガール』……いざっ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_031.gif"
+}

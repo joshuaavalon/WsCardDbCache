@@ -1,0 +1,19 @@
+{
+  "Name": "寝坊助サンタクロース",
+  "Serial": "GU/W44-099",
+  "Rarity": "CC",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+  "Flavor": "チノ「わたしが欲しかった立体パズルと可愛いオルゴール！\n…それとココアさん！」\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_099.gif"
+}

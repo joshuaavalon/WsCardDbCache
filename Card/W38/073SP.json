@@ -1,0 +1,19 @@
+{
+  "Name": "花は桜木 不知火五十鈴",
+  "Serial": "GF/W38-073SP",
+  "Rarity": "SP",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "和服",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの青のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

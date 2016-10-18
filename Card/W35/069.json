@@ -1,0 +1,19 @@
+{
+  "Name": "朝の光景 杏子",
+  "Serial": "MM/W35-069",
+  "Rarity": "U",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《魔法》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "おっせーぞ、まどか\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_069.gif"
+}

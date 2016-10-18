@@ -1,0 +1,19 @@
+{
+  "Name": "使い魔 リニス",
+  "Serial": "NA/W12-004",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【自】［手札を1枚控え室に置き、このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「戯れるフェイト＆アルフ」を1枚選び、このカードがいた枠に防御キャラとして置く。",
+  "Flavor": "皆、ちゃんと起きてますか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_004.gif"
+}

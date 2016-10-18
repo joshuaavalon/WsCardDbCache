@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服の絵里",
+  "Serial": "LL/W24-042",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メイド",
+  "Text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
+  "Flavor": "穂乃果「おおお～！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_042.gif"
+}

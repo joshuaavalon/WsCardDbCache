@@ -1,0 +1,19 @@
+{
+  "Name": "“すとらいくばっくす”クド",
+  "Serial": "LB/W21-068",
+  "Rarity": "U",
+  "Expansion": "アニメ「リトルバスターズ！」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「50ノーティカルマイルの空へ」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "Flavor": "みなさん！ わたし、ただいまなのです！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_068.gif"
+}

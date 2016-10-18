@@ -1,0 +1,19 @@
+{
+  "Name": "デルフリンガーの相棒 サイト",
+  "Serial": "ZM/WE13-08",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "武器",
+  "Text": "【自】［(1)］ あなたのクライマックス置場に「伝説の使い魔」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、手札に戻す。",
+  "Flavor": "デルフリンガー「相棒！　俺を使え！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_08.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "捜査再開！ ネロ",
+  "Serial": "MK2/S19-102",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "いぇーい！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_102.gif"
+}

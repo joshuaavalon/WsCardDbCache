@@ -1,0 +1,19 @@
+{
+  "Name": "聖夜の告白 リッカ",
+  "Serial": "DC3/W18-047",
+  "Rarity": "R",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋2000。",
+  "Flavor": "だから、私と……恋人になりなさい。\nい、嫌とは言わせないわよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_047.gif"
+}

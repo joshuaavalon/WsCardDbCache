@@ -1,0 +1,19 @@
+{
+  "Name": "新入生 春",
+  "Serial": "NK/WE22-25",
+  "Rarity": "R",
+  "Expansion": "ニセコイ:",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《お菓子》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "私は今日から高校一年生……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_we22_25.gif"
+}

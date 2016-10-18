@@ -1,0 +1,19 @@
+{
+  "Name": "改装設計図",
+  "Serial": "KC/S31-029",
+  "Rarity": "U",
+  "Expansion": "「艦隊これくしょん -艦これ-」第二艦隊",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を上からＸ枚まで見て、《艦娘》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはあなたの控え室の「勲章」の枚数に等しい。",
+  "Flavor": "艦娘の「特別な改造」に使用する設計図。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-029.gif"
+}

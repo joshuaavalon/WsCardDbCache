@@ -1,0 +1,19 @@
+{
+  "Name": "“歌姫”いのり",
+  "Serial": "GC/S16-104",
+  "Rarity": "TD",
+  "Expansion": "2011年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "【永】 他のあなたの《葬儀社》のキャラが2枚以上なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《葬儀社》のキャラを1枚選び、手札に戻してよい。",
+  "Flavor": "信じて。――できる、絶対に。\n私はもう、あなたのものだから\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_104.gif"
+}

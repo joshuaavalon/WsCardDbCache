@@ -1,0 +1,19 @@
+{
+  "Name": "くの一 雪丸",
+  "Serial": "DG/S02-084",
+  "Rarity": "U",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "武器",
+  "Text": "【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "貴殿の刀となりて、\n全身全霊をもって戦う所存にゴザル!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_084.gif"
+}

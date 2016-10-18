@@ -1,0 +1,19 @@
+{
+  "Name": "朝の挨拶 桜",
+  "Serial": "FS/S34-040",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列の中央の枠の、《スポーツ》か《武器》のキャラに、パワーを＋1500。",
+  "Flavor": "おはようございます。先輩\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_040.gif"
+}

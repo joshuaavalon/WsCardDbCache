@@ -1,0 +1,19 @@
+{
+  "Name": "“初めての外”アイリスフィール",
+  "Serial": "FZ/S17-T08",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ホムンクルス",
+  "SecondChara": "錬金術",
+  "Text": "-",
+  "Flavor": "私――外に出るのが初めてなの\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_t08.gif"
+}

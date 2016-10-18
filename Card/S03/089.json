@@ -1,0 +1,19 @@
+{
+  "Name": "氷室 鐘",
+  "Serial": "FS/S03-089",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "メガネ",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚引く。",
+  "Flavor": "……蒔の字。君の蔭口は、\n遠坂嬢に聞こえているようだが\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_089.gif"
+}

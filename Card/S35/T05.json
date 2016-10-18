@@ -1,0 +1,19 @@
+{
+  "Name": "“発揮された力”エレン",
+  "Serial": "AOT/S35-T05",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「進撃の一歩」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "これが……オレの……武器だ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_t05_td.gif"
+}

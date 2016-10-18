@@ -1,0 +1,19 @@
+{
+  "Name": "SD士郎",
+  "Serial": "FS/S34-101",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "武器",
+  "Text": "【永】 他のあなたの、《マスター》か《サーヴァント》のキャラすべてに、パワーを＋500。",
+  "Flavor": "俺、お前みたいな奴は好きだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_101.gif"
+}

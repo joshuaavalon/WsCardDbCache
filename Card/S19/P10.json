@@ -1,0 +1,19 @@
+{
+  "Name": "ちび小衣",
+  "Serial": "MK2/S19-P10",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "警察",
+  "SecondChara": "仮面",
+  "Text": "【起】［あなたの《警察》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "ハーバードを飛び級で卒業した、\n天才美少女警察官、明智小衣よ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_p10.gif"
+}

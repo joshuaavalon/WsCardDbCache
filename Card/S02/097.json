@@ -1,0 +1,19 @@
+{
+  "Name": "ダークヒーロー",
+  "Serial": "DG/S02-097",
+  "Rarity": "C",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のクロックの上から1枚を、控え室に置いてよい。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+  "Flavor": "張り切っていくぞ、てめぇらー！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_097.gif"
+}

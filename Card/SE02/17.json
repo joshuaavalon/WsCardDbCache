@@ -1,0 +1,19 @@
+{
+  "Name": "社長秘書リャン・チー",
+  "Serial": "CN/SE02-17",
+  "Rarity": "R",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "愛",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の赤のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "強い鼓動は――私の中の――赤を、燃えあがらせる\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_17.gif"
+}

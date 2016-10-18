@@ -1,0 +1,19 @@
+{
+  "Name": "たった一つの取り柄",
+  "Serial": "LB/W02-048S",
+  "Rarity": "SP",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+  "Flavor": "SECRET\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

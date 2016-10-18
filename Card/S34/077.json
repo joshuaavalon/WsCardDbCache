@@ -1,0 +1,19 @@
+{
+  "Name": "魔術師の戦い方 キャスター",
+  "Serial": "FS/S34-077",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night [Unlimited Blade Works]",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "マスター",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】 集中 [(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。",
+  "Flavor": "もし貴方が私に協力してくれたなら\n聖杯を分けてあげてもよかったのに\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_077.gif"
+}

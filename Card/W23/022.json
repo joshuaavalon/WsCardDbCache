@@ -1,0 +1,19 @@
+{
+  "Name": "熱弁をふるう巴",
+  "Serial": "DC3/W23-022",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "遠慮するな。刀のことなら、\nいくらでもつきあってやるぞ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w23_022.gif"
+}

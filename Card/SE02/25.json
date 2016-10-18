@@ -1,0 +1,19 @@
+{
+  "Name": "ダイダラ社社長カミングズ",
+  "Serial": "CN/SE02-25",
+  "Rarity": "C",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "メガネ",
+  "SecondChara": "愛",
+  "Text": "【永】 あなたの控え室に「社長秘書リャン・チー」があるなら、このカードのパワーを＋1500。",
+  "Flavor": "リ、リャン・チー様…？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_25.gif"
+}

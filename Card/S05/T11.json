@@ -1,0 +1,19 @@
+{
+  "Name": "禍忌",
+  "Serial": "KF/S05-T11",
+  "Rarity": "TD",
+  "Expansion": "2009年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+  "Flavor": "人の持つ可能性とやら、見せてもらおう。\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_t11.gif"
+}

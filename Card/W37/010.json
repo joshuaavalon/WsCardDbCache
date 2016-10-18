@@ -1,0 +1,19 @@
+{
+  "Name": "“リボンでラッピング”芽亜",
+  "Serial": "TL/W37-010",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "お菓子",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《変身》か《家事》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "こんどペロペロしてください、結城せんぱい(記号：ハート)\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_010.gif"
+}

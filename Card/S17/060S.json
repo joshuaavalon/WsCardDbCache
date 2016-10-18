@@ -1,0 +1,19 @@
+{
+  "Name": "至高の美酒 アーチャー",
+  "Serial": "FZ/S17-060S",
+  "Rarity": "SR",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "王族",
+  "Text": "【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

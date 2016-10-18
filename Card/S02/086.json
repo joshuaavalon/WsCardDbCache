@@ -1,0 +1,19 @@
+{
+  "Name": "魔王の娘ロザリー",
+  "Serial": "DG/S02-086",
+  "Rarity": "U",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "武器",
+  "Text": "【永】このカードの正面のキャラのソウルを-1。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「魔王召喚」があるなら、あなたはコストを払ってよい。そうしたら、あなたは3枚まで引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "う、うるさい！　余は伝説の魔王、ゼノンの娘であるぞ？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_086.gif"
+}

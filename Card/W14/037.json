@@ -1,0 +1,19 @@
+{
+  "Name": "対峙の時 シャナ",
+  "Serial": "SS/W14-037",
+  "Rarity": "R",
+  "Expansion": "灼眼のシャナ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《炎》のキャラがいないなら、このカードを控え室に置く。",
+  "Flavor": "頂の座！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_037.gif"
+}

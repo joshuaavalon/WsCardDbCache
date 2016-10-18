@@ -1,0 +1,19 @@
+{
+  "Name": "八神 庵",
+  "Serial": "KF/S05-016",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "オロチ",
+  "SecondChara": "神器",
+  "Text": "-",
+  "Flavor": "月を見るたび思い出せ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_016.gif"
+}

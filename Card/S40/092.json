@@ -1,0 +1,19 @@
+{
+  "Name": "“協力攻撃”美遊",
+  "Serial": "PI/S40-092",
+  "Rarity": "C",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "魔法",
+  "Text": "【永】 他のあなたの、「“協力攻撃”イリヤ」とカード名に「凛」を含むキャラがいるなら、このカードのパワーを＋4500。",
+  "Flavor": "フォイアアァ―!!!\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_092.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "生きる意志 ヒビキ",
+  "Serial": "DS2/SE16-16",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「デビルサバイバー2」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サマナー",
+  "SecondChara": "竜",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サマナー》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
+  "Flavor": "生き残る……必ず\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_16.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "リーゼリット",
+  "Serial": "FS/S03-040",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メイド",
+  "SecondChara": "ホムンクルス",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "……ありがとう。ケーキ、たすかった\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_040.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "小神 あきら",
+  "Serial": "LS/W05-027",
+  "Rarity": "RR",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "テレビ",
+  "SecondChara": "音楽",
+  "Text": "【永】 相手の【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「らっきーちゃんねる」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの【スタンド】しているキャラの枚数×1000に等しい。",
+  "Flavor": "皆さんおは☆らっきー\nらっきー☆ちゃんねるのパーソナリティの小神あきらでーすっ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_027.gif"
+}

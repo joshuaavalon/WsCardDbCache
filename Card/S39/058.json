@@ -1,0 +1,19 @@
+{
+  "Name": "アドバイザー 阿良々木暦",
+  "Serial": "MG/S39-058",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "血",
+  "Text": "【永】 他のあなたの「新学期 神原駿河」すべてに、パワーを＋1000。\n【自】 絆／「新学期 神原駿河」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新学期 神原駿河」を1枚選び、手札に戻す）",
+  "Flavor": "なんかあったのか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_058.gif"
+}

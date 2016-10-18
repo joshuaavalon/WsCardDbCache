@@ -1,0 +1,19 @@
+{
+  "Name": "複雑なお年頃 音姫",
+  "Serial": "DC/W09-T02",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1し、ターンの終わりに、このカードを思い出にする。",
+  "Flavor": "……なに、してるの？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_t02.gif"
+}

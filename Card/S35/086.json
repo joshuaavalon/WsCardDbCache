@@ -1,0 +1,19 @@
+{
+  "Name": "“立ち塞がる脅威”巨人",
+  "Serial": "AOT/S35-086",
+  "Rarity": "R",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "巨人",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《巨人》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_086.gif"
+}

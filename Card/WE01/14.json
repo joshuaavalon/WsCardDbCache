@@ -1,0 +1,19 @@
+{
+  "Name": "夢の最後まで",
+  "Serial": "CL/WE01-14",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.01",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "いつまでも・・・いつまでも幸せに\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we01_14.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "高城 丈士朗",
+  "Serial": "CHA/W40-T17",
+  "Rarity": "TD",
+  "Expansion": "2015年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "能力者",
+  "SecondChara": "生徒会",
+  "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋2000。",
+  "Flavor": "いえ、その可能性がある者、前兆が見える者、そういう生徒のほうが多くいます\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_t17.gif"
+}

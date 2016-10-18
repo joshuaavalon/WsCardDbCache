@@ -1,0 +1,19 @@
+{
+  "Name": "ななことヤギ",
+  "Serial": "DC/W01-071",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたはレベル1以下の相手のキャラを1枚選び、控え室に置く。",
+  "Flavor": "ひゃうううう！　やーめーてー！　それを食べないでーーー！！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_071.gif"
+}

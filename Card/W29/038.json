@@ -1,0 +1,19 @@
+{
+  "Name": "急接近!? あかり＆るな",
+  "Serial": "GT/W29-038",
+  "Rarity": "C",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "",
+  "Text": "【起】［あなたの「急接近!? あかり＆るな」を2枚【レスト】する］ あなたは自分の山札の上から1枚を、ストック置場に置く。",
+  "Flavor": "あかり「るなちゃんが自分の気持ちを整理するまで。\nそれまで……一緒にここに居る……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_038.gif"
+}

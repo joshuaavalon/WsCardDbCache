@@ -1,0 +1,19 @@
+{
+  "Name": "とある高校の学生 当麻",
+  "Serial": "RG/W26-025",
+  "Rarity": "C",
+  "Expansion": "とある科学の超電磁砲S",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 舞台のこのカードのレベルを－1。",
+  "Flavor": "ああ、いいよこれくらい一人で運べるし……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_025.gif"
+}

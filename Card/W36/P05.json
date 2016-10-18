@@ -1,0 +1,19 @@
+{
+  "Name": "“巫女服”東條 希",
+  "Serial": "LL/W36-P05",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "巫女",
+  "Text": "【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "神様は心の広い方やから、そんなに緊張しなくても大丈夫やで☆\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w36_p05.gif"
+}

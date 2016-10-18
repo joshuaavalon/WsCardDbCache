@@ -1,0 +1,19 @@
+{
+  "Name": "夢の中へ",
+  "Serial": "LB/W02-019",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたはレベル1以下の相手のキャラを1枚選び、ストック置場に置く。",
+  "Flavor": "…くかー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_019.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "アイドルオタク にこ",
+  "Serial": "LL/W24-027S",
+  "Rarity": "SR",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "オタク",
+  "Text": "【永】 このカードの正面のキャラのソウルを－1。\n【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

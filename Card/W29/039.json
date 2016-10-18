@@ -1,0 +1,19 @@
+{
+  "Name": "アリエル・ヴァルティエル・ウェストコット",
+  "Serial": "GT/W29-039",
+  "Rarity": "C",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "メガネ",
+  "Text": "【起】［あなたの《タロット》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "会議室に集合しろ、話がある\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_039.gif"
+}

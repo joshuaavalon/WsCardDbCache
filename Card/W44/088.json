@@ -1,0 +1,19 @@
+{
+  "Name": "クリスマスの朝 チノ",
+  "Serial": "GU/W44-088",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「寝坊助サンタクロース」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋500。",
+  "Flavor": "…わぁ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_088.gif"
+}

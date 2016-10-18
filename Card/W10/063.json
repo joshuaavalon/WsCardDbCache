@@ -1,0 +1,19 @@
+{
+  "Name": "常盤台のエース 美琴",
+  "Serial": "RG/W10-063",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "超能力",
+  "SecondChara": "カエル",
+  "Text": "【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+  "Flavor": "ち、ちょっと、やめなさいってば\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w10_063.gif"
+}

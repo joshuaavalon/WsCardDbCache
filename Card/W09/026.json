@@ -1,0 +1,19 @@
+{
+  "Name": "ショッピング中のことり",
+  "Serial": "DC/W09-026",
+  "Rarity": "RR",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。\n【自】 このカードがアタックした時、クライマックス置場に「ことりの歌」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+  "Flavor": "こんなのはどうかな？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_026.gif"
+}

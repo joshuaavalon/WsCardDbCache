@@ -1,0 +1,19 @@
+{
+  "Name": "偵都の少女 エリー",
+  "Serial": "MK/SE29-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《探偵》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
+  "Flavor": "あの、私も…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_p02.gif"
+}

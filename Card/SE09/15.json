@@ -1,0 +1,19 @@
+{
+  "Name": "和服のアンリエット",
+  "Serial": "MK/SE09-15",
+  "Rarity": "R",
+  "Expansion": "ミルキィホームズ 怪盗帝国の逆襲",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "和服",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。\n【永】 他のあなたの《怪盗》のキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "お祭りが始まりますわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se09_15.gif"
+}

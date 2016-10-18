@@ -1,0 +1,19 @@
+{
+  "Name": "奇跡の殺戮者 キャロル",
+  "Serial": "SG/W39-039",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアＧＸ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "錬金術",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "俺が奇跡を殺すと言っている！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_039.gif"
+}

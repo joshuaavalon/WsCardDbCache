@@ -1,0 +1,19 @@
+{
+  "Name": "メイスの使い手 リズベット",
+  "Serial": "SAO/S20-056",
+  "Rarity": "U",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「気づいた本当の気持ち」があるなら、あなたはコストを払ってよい。そうしたら、あなたの《武器》のキャラすべてに、そのターン中、パワーを＋2500。",
+  "Flavor": "満足のいく剣が打ちあがったら、\n彼に気持ちを告白しよう\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_056.gif"
+}

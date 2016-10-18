@@ -1,0 +1,19 @@
+{
+  "Name": "“マスターに教わった考え”芽亜",
+  "Serial": "TL/W37-023",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "変身",
+  "SecondChara": "お菓子",
+  "Text": "【自】 あなたのクライマックス置場に「あたたかい街“彩南”」が置かれた時、前列にこのカードがいるなら、あなたは相手の手札を見て、自分の、《変身》か《家事》のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。",
+  "Flavor": "心なんてそう簡単に変わるものじゃないってコトだよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_023.gif"
+}

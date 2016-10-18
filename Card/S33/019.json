@@ -1,0 +1,19 @@
+{
+  "Name": "歌を盗まれた茉莉音",
+  "Serial": "MK/S33-019",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+  "Flavor": "わた～しの～うたは～どこ～～\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_019.gif"
+}

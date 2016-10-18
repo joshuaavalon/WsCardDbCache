@@ -1,0 +1,19 @@
+{
+  "Name": "星井 美希",
+  "Serial": "IM/S07-028",
+  "Rarity": "R",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「誘い上手な美希」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "ねえ、プロデューサー？\n髪の短い女の子ってどう思う？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_028.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "仲良し姉妹 翡翠＆琥珀",
+  "Serial": "MB/S10-065",
+  "Rarity": "C",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "和服",
+  "Text": "【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。",
+  "Flavor": "琥珀｢はい、せーのっ｣\n琥珀＆翡翠｢ぶいなのだー！｣\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_065.gif"
+}

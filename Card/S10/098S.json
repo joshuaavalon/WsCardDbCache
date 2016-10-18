@@ -1,0 +1,19 @@
+{
+  "Name": "固有結界・枯渇庭園",
+  "Serial": "MB/S10-098S",
+  "Rarity": "SR",
+  "Expansion": "MELTY BLOOD",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "SECRET\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

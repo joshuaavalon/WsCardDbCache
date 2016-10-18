@@ -1,0 +1,19 @@
+{
+  "Name": "贅沢な悩み",
+  "Serial": "DC/WE02-004",
+  "Rarity": "C",
+  "Expansion": "D.C.II P.C.",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\nそのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
+  "Flavor": "だって、この先に明るい未来なんてないんですから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we02_004.gif"
+}

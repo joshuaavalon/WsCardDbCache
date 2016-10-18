@@ -1,0 +1,19 @@
+{
+  "Name": "はやて＆ヴィータ＆シグナム",
+  "Serial": "NA/W12-106",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 相手のターン中、他のあなたの《魔法》のキャラすべてに、パワーを＋1000。",
+  "Flavor": "シグナム「我ら夜天の主のもとに集いし騎士」\nヴィータ「我らが主、夜天の王……八神はやての名のもとに！」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_106.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ラハール＆エトナ＆フロン",
+  "Serial": "DG/S02-102",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "天使",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを+500。",
+  "Flavor": "いくぞォ！！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_102.gif"
+}

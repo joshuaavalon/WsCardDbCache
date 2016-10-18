@@ -1,0 +1,19 @@
+{
+  "Name": "“サンタの初恋 ”シャルル",
+  "Serial": "DC3/W18-006",
+  "Rarity": "R",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "生徒会",
+  "Text": "【自】 あなたのクライマックス置場に「幸せの魔法」が置かれた時、前列にこのカードがいるなら、 あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋6000。\n【自】 このカードが控え室から舞台に置かれた時、あなたはこのカードを後列のキャラのいない枠に動かしてよい。",
+  "Flavor": "はい、どうぞ！　これが清隆くんが願った物よ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_006.gif"
+}

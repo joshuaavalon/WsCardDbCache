@@ -1,0 +1,19 @@
+{
+  "Name": "仲良しな二人 切歌＆調",
+  "Serial": "SG/W27-039",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+  "Flavor": "調「……いつもありがとうキリちゃん」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_039.gif"
+}

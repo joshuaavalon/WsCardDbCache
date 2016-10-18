@@ -1,0 +1,19 @@
+{
+  "Name": "“おしゃべり”葉留佳",
+  "Serial": "LB/W06-060",
+  "Rarity": "U",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ビー玉",
+  "SecondChara": "双子",
+  "Text": "【永】 他のあなたの《委員長》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "柚子にダイダイ、夏みかんにオレンジ♪\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_060.gif"
+}

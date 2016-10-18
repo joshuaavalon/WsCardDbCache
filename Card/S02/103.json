@@ -1,0 +1,19 @@
+{
+  "Name": "魔王ラハール＆家来エトナ",
+  "Serial": "DG/S02-103",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードとバトルしているキャラが【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを１枚選び、ストック置場に置いてよい。",
+  "Flavor": "殿下ったら優しー。あたしだったら全殺しするのに\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_103.gif"
+}

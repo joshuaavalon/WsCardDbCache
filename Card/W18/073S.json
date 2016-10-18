@@ -1,0 +1,19 @@
+{
+  "Name": "大切なこと さくら",
+  "Serial": "DC3/W18-073S",
+  "Rarity": "SR",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「友達の証」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

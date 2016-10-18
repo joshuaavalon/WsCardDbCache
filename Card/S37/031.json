@@ -1,0 +1,19 @@
+{
+  "Name": "“花火”ハヅキ",
+  "Serial": "SGS/S37-031",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "セクシー",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+  "Flavor": "みんなで浴衣を着て花火\nこういうの好きだよ あたし\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_031.gif"
+}

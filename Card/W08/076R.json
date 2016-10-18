@@ -1,0 +1,19 @@
+{
+  "Name": "宇宙人 長門＆朝倉＆喜緑",
+  "Serial": "SY/W08-076R",
+  "Rarity": "RRR",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "本",
+  "Text": "【永】 他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《宇宙人》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

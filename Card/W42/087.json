@@ -1,0 +1,19 @@
+{
+  "Name": "“スポーツドリンク”春菜",
+  "Serial": "TL/W42-087",
+  "Rarity": "U",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "動物",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル置場の、《動物》か《霊》のキャラの枚数×500に等しい。\n【自】 あなたのクライマックス置場に「今だけは１人占め(記号：ハート)」が置かれた時、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。』",
+  "Flavor": "\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_087.gif"
+}

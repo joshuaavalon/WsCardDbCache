@@ -1,0 +1,19 @@
+{
+  "Name": "“神の左手”サイト",
+  "Serial": "ZM/WE13-36",
+  "Rarity": "C",
+  "Expansion": "ゼロの使い魔Ｆ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "武器",
+  "Text": "【自】［(2)］ あなたのクライマックス置場に「大いなる槍」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "デルフリンガー「その砲弾にディスペルをかけろ。\nブチ抜くにはそれしかない」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_we13_36.gif"
+}

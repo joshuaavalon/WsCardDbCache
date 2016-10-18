@@ -1,0 +1,19 @@
+{
+  "Name": "玉ねぎみじん切り",
+  "Serial": "MK/S33-071",
+  "Rarity": "U",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×1000に等しい。",
+  "Flavor": "涙が止まりません\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_071.gif"
+}

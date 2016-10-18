@@ -1,0 +1,19 @@
+{
+  "Name": "お目覚め かなで",
+  "Serial": "AB/W31-111",
+  "Rarity": "C",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《生徒会》のキャラの枚数×500に等しい。",
+  "Flavor": "あなたを覚えてるあたしが目覚めたのは奇跡ね…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_111.gif"
+}

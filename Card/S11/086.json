@@ -1,0 +1,19 @@
+{
+  "Name": "生徒会長 アンリエット",
+  "Serial": "MK/S11-086",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "生徒会",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "これくらいのフォローはお任せ下さい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_086.gif"
+}

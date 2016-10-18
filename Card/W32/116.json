@@ -1,0 +1,19 @@
+{
+  "Name": "“守護騎士”ザフィーラ",
+  "Serial": "N2/W32-116",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
+  "Flavor": "我等が主の病は消える…\n少なくとも、進みは止まる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_116.gif"
+}

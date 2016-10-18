@@ -1,0 +1,19 @@
+{
+  "Name": "アッシュ・ローラー",
+  "Serial": "AW/S18-040",
+  "Rarity": "U",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "バイク",
+  "Text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "ヒャーハハハハァ！　もっと踊れぇ――――ッ!!\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_040.gif"
+}

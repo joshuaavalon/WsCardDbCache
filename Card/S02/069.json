@@ -1,0 +1,19 @@
+{
+  "Name": "解剖実験",
+  "Serial": "DG/S02-069",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻す。その山札をシャッフルする。5枚戻したなら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "「……汗」「はいっ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_069.gif"
+}

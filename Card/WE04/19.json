@@ -1,0 +1,19 @@
+{
+  "Name": "杏＆汐",
+  "Serial": "CL/WE04-19",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "双子",
+  "SecondChara": "先生",
+  "Text": "【永】他のあなたのパワー500以下のキャラすべてに『【自】アンコール[手札のキャラを1枚控え室に置く]』を与える。",
+  "Flavor": "杏「よかったね、汐ちゃん」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we04_19.gif"
+}

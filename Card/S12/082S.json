@@ -1,0 +1,19 @@
+{
+  "Name": "シンジを守ると誓う綾波",
+  "Serial": "EV/S12-082S",
+  "Rarity": "SR",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "パイロット",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［手札の「綾波の笑顔」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋3500し、このカードのパワーを＋3500。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

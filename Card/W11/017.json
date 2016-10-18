@@ -1,0 +1,19 @@
+{
+  "Name": "戦線の敵 天使",
+  "Serial": "AB/W11-017",
+  "Rarity": "C",
+  "Expansion": "Angel Beats! ＆ クドわふたー",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "生徒会",
+  "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "ゆり「あれよ…。あれが『死んでたまるか戦線』の敵…天使よ」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w11_017.gif"
+}

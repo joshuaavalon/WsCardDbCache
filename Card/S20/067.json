@@ -1,0 +1,19 @@
+{
+  "Name": "背中を押すリズベット",
+  "Serial": "SAO/S20-067",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「前向きな笑顔 リズベット」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "まあ、変だけど悪い人じゃないわね。\n応援するからさ、頑張りなよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_067.gif"
+}

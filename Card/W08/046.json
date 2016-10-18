@@ -1,0 +1,19 @@
+{
+  "Name": "任意同行？",
+  "Serial": "SY/W08-046",
+  "Rarity": "U",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 4,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のクロック置場のレベル2以下の《SOS団》のキャラを1枚選び、舞台の好きな枠に置く。このカードをクロック置場に置く。",
+  "Flavor": "なんなんですかー？　ここどこですか。何であたし連れてこられたんですか　\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_046.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“私たちはスクールアイドル！”園田 海未",
+  "Serial": "LL/WE24-58",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_we24_58.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "閉鎖空間",
+  "Serial": "SY/W08-025",
+  "Rarity": "CC",
+  "Expansion": "涼宮ハルヒの憂鬱",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、今回の攻撃キャラが次に与えるダメージがキャンセルされた時、相手に１ダメージを与える。）",
+  "Flavor": "さて、僕も参加しなければ\n",
+  "Trigger": "Fire",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_025.gif"
+}

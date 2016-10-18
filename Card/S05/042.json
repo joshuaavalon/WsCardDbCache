@@ -1,0 +1,19 @@
+{
+  "Name": "ネームレス",
+  "Serial": "KF/S05-042",
+  "Rarity": "C",
+  "Expansion": "THE KING OF FIGHTERS",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "クローン",
+  "SecondChara": "改造",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「真実の探求者」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+  "Flavor": "すぐに迎えにいく……必ず！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_042.gif"
+}

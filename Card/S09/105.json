@@ -1,0 +1,19 @@
+{
+  "Name": "氷の造形魔導士 グレイ",
+  "Serial": "FT/S09-105",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "氷",
+  "Text": "【起】［(2)］ そのターン中、このカードのパワーを＋5000。",
+  "Flavor": "氷の魔法さ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_105.gif"
+}

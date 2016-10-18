@@ -1,0 +1,19 @@
+{
+  "Name": "はやての為に",
+  "Serial": "N2/W25-053",
+  "Rarity": "CR",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "優しいはやてが、痛いのも苦しいのも…嫌なんだ…\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_053.gif"
+}

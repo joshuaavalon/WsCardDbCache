@@ -1,0 +1,19 @@
+{
+  "Name": "お色気担当？ ユイ",
+  "Serial": "AB/W31-004",
+  "Rarity": "R",
+  "Expansion": "Angel Beats! Re: Edit",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死",
+  "SecondChara": "音楽",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－3000。（公開したカードは元に戻す）",
+  "Flavor": "ギャグじゃないやいっ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_004.gif"
+}

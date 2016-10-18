@@ -1,0 +1,19 @@
+{
+  "Name": "美綴 綾子",
+  "Serial": "FS/S03-007",
+  "Rarity": "U",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「凛」を含むキャラなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）\n【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
+  "Flavor": "あん？　今アンタ、\nよからぬ感想をもらさなかったかもし？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_007.gif"
+}

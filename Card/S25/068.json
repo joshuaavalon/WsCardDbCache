@@ -1,0 +1,19 @@
+{
+  "Name": "古鷹型重巡2番艦 加古",
+  "Serial": "KC/S25-068",
+  "Rarity": "C",
+  "Expansion": "艦隊これくしょん -艦これ-",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "重巡洋艦",
+  "Text": "-",
+  "Flavor": "古鷹型重巡の2番艦、加古ってんだ、\nよっろしくぅー！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_068.gif"
+}

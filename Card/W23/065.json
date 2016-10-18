@@ -1,0 +1,19 @@
+{
+  "Name": "先輩とバナナ 美春",
+  "Serial": "DC/W23-065",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "バナナ",
+  "Text": "【永】 あなたのレベルが1以上なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+  "Flavor": "みっ、美春は先輩が買ってくれるバナナが一番――、\nでなくて、美春にバナナを買ってくれる先輩が大好きです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_065.gif"
+}

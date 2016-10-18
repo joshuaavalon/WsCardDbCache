@@ -1,0 +1,19 @@
+{
+  "Name": "我物申す 姫島木乃子",
+  "Serial": "GF/W38-P03",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "メイド",
+  "Text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "お帰りなさいませ、ご主人様ぁ～～とまあ…こんな具合にだな…\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_p03.gif"
+}

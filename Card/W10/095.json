@@ -1,0 +1,19 @@
+{
+  "Name": "禁断の魔術師 アウレオルス＝イザード",
+  "Serial": "ID/W10-095",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "錬金術",
+  "Text": "-",
+  "Flavor": "倒れ伏せ、侵入者ども！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_095.gif"
+}

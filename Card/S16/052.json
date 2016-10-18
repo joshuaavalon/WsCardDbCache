@@ -1,0 +1,19 @@
+{
+  "Name": "集のパートナー いのり",
+  "Serial": "GC/S16-052",
+  "Rarity": "RR",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「楪 いのり」を1枚選び、このカードがいた枠に置く。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "お願い…私を、使って…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_052.gif"
+}

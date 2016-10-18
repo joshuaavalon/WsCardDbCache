@@ -1,0 +1,19 @@
+{
+  "Name": "“紅い炎”真田 幸村",
+  "Serial": "SB/SE05-24",
+  "Rarity": "R",
+  "Expansion": "ＴＶアニメ 戦国BASARA弐",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "鉢巻",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(3)］ このカードがアタックした時、クライマックス置場に「死闘」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "真田幸村、いざ全力で――参るッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_24.gif"
+}

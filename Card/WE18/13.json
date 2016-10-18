@@ -1,0 +1,19 @@
+{
+  "Name": "世界の秘密",
+  "Serial": "LB/WE18-13",
+  "Rarity": "U",
+  "Expansion": "アニメ「リトルバスターズ～Refrain～」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「理樹」か「鈴」を含むキャラに、パワーを＋1000。",
+  "Flavor": "――この世界には秘密がある――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_we18_13.gif"
+}

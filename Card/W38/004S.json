@@ -1,0 +1,19 @@
+{
+  "Name": "接近一射 春宮つぐみ",
+  "Serial": "GF/W38-004S",
+  "Rarity": "SR",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 あなたのクライマックス置場に「仲良し【真尋＆つぐみ】」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「皆の物語 夏目真尋」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

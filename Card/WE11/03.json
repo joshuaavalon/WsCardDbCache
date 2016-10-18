@@ -1,0 +1,19 @@
+{
+  "Name": "長野原 みお",
+  "Serial": "NJ/WE11-03",
+  "Rarity": "R",
+  "Expansion": "日常",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "漫画",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの「相生 祐子」がいるなら、このカードのパワーを＋2000。",
+  "Flavor": "ゆっこ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nj_we11_03.gif"
+}

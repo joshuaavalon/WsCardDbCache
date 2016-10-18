@@ -1,0 +1,19 @@
+{
+  "Name": "メイド服の凛",
+  "Serial": "LL/W24-086",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_086.gif"
+}

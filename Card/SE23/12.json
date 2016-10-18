@@ -1,0 +1,19 @@
+{
+  "Name": "現れた死神《死銃》",
+  "Serial": "SAO/SE23-12",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンラインII",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のコスト1以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+  "Flavor": "……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_12.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "私の義妹",
+  "Serial": "PI/S40-042",
+  "Rarity": "U",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上から4枚まで見て、《宝石》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "Flavor": "8枚目のカードがあるとわかってから\n貴女の態度はおかしかったわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_042.gif"
+}

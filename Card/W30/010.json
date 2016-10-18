@@ -1,0 +1,19 @@
+{
+  "Name": "胸の高まり 誠士郎",
+  "Serial": "NK/W30-010",
+  "Rarity": "U",
+  "Expansion": "ニセコイ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の、《武器》か《令嬢》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "おう、何をジロジロ見ている？\nちゃんと話は聞いてたのか？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_010.gif"
+}

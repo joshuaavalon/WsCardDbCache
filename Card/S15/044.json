@@ -1,0 +1,19 @@
+{
+  "Name": "品行方正 羽川翼",
+  "Serial": "BM/S15-044",
+  "Rarity": "C",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "委員長",
+  "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
+  "Flavor": "私が言ってるのは、そういうことじゃなくて。神原さんのこと、大変だったねって\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_044.gif"
+}

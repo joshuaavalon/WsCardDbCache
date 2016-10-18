@@ -1,0 +1,19 @@
+{
+  "Name": "渾身の土下座 うーさー",
+  "Serial": "Woo/SE19-J03",
+  "Rarity": "WR",
+  "Expansion": "【スペシャルセット】うーさーのその日暮らし",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "土下座",
+  "Text": "【永】 あなたの受けたダメージがキャンセルされなかった時、あなたが相手にお願いして相手が認めたなら、かわりにそのダメージをキャンセルし、ゲームの終わりに、あなたは相手の肩を揉む。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n※このカードは公式・公認大会では使用できません。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_j03.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "探しもの はやて",
+  "Serial": "N2/W32-090",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "",
+  "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の、《魔法》かカード名に「はやて」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "はい…ありがとうございます！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_090.gif"
+}

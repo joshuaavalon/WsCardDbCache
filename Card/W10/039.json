@@ -1,0 +1,19 @@
+{
+  "Name": "木山 春生",
+  "Serial": "RG/W10-039",
+  "Rarity": "C",
+  "Expansion": "禁書目録＆超電磁砲",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "科学",
+  "Text": "【永】 他のあなたの、レベルがあなたのレベルより高いキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたのキャラすべてに、そのターン中、レベルを＋1。",
+  "Flavor": "それはいいが…ここは暑すぎる\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w10_039.gif"
+}

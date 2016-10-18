@@ -1,0 +1,19 @@
+{
+  "Name": "バブルインタビュー 櫻井明音",
+  "Serial": "GF/W38-006",
+  "Rarity": "R",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたの《ガール》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ あなたのクライマックス置場に「シャボン」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "Flavor": "ちょっと待って待って！　緊急事態発生です！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_006.gif"
+}

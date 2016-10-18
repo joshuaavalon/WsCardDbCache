@@ -1,0 +1,19 @@
+{
+  "Name": "天羽々斬",
+  "Serial": "SG/W19-096",
+  "Rarity": "U",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のレベル2以上のカード名に「翼」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の手札の「風鳴 翼」を1枚まで選び、舞台の好きな枠に置く。\nあなたは自分のクロックの上から1枚を、控え室に置く。このカードを思い出にする。",
+  "Flavor": "弦十郎「天羽々斬。翼の持つ、第一号聖遺物だ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_096.gif"
+}

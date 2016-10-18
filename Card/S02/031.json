@@ -1,0 +1,19 @@
+{
+  "Name": "超魔王バール",
+  "Serial": "DG/S02-031",
+  "Rarity": "R",
+  "Expansion": "魔界戦記ディスガイア",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "悪魔",
+  "SecondChara": "",
+  "Text": "【永】他のあなたのキャラがいないなら、このカードのパワーを＋10000し、ソウルを＋2し、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』",
+  "Flavor": "超魔王バール……\n伝説は本当だったのか……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_031.gif"
+}

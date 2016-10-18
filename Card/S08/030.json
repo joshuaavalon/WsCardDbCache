@@ -1,0 +1,19 @@
+{
+  "Name": "バスケ部 一条康",
+  "Serial": "P4/S08-030",
+  "Rarity": "R",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500\n【起】［(1) このカードを【レスト】する］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋2500。",
+  "Flavor": "全然…違うんだよな。本当に“分かる”…ってこと\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_030.gif"
+}

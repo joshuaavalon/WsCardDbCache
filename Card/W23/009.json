@@ -1,0 +1,19 @@
+{
+  "Name": "“正義の魔法使い”由姫",
+  "Serial": "DC/W23-009",
+  "Rarity": "U",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+  "Flavor": "あなたにだから、任せられるのよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_009.gif"
+}

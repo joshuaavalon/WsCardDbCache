@@ -1,0 +1,19 @@
+{
+  "Name": "マスター桜",
+  "Serial": "FS/S03-026",
+  "Rarity": "RR",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "マスター",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたの《動物》のキャラすべてに、パワーを＋500。\n【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードに「ゴルゴンの末女ライダー」があるなら、あなたは自分の控え室の「ゴルゴンの末女ライダー」を1枚選び、舞台の好きな枠に置く。",
+  "Flavor": "ライダーのマスターとして、全力で戦います\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_026.gif"
+}

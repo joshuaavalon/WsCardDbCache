@@ -1,0 +1,19 @@
+{
+  "Name": "“最強の男児”謙吾",
+  "Serial": "LB/W02-042",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。",
+  "Flavor": "100戦無敗\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_042.gif"
+}

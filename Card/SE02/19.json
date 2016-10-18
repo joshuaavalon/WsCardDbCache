@@ -1,0 +1,19 @@
+{
+  "Name": "新人アイドル ネネ",
+  "Serial": "CN/SE02-19",
+  "Rarity": "C",
+  "Expansion": "CANAAN",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《愛》を与える。",
+  "Flavor": "だってだって、愛なんだよ～♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cn_se02_19.gif"
+}

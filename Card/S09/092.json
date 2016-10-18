@@ -1,0 +1,19 @@
+{
+  "Name": "氷の魔法 グレイ",
+  "Serial": "FT/S09-092",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "氷",
+  "Text": "-",
+  "Flavor": "キズなんてどこに増えようがかまわねえんだ。 目に見える方はな\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_092.gif"
+}

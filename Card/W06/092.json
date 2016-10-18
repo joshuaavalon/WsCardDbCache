@@ -1,0 +1,19 @@
+{
+  "Name": "弓道部のみゆき",
+  "Serial": "LB/W06-092",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "眼帯",
+  "Text": "-",
+  "Flavor": "…はい。絶対しません\n宮沢さんが拾ってくれた命です\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_092.gif"
+}

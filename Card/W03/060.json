@@ -1,0 +1,19 @@
+{
+  "Name": "ルイズ＆サイト",
+  "Serial": "ZM/W03-060",
+  "Rarity": "U",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "使い魔",
+  "Text": "-",
+  "Flavor": "サイト「俺がお前の全存在を肯定してやる」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_060.gif"
+}

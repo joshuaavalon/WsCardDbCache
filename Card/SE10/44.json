@@ -1,0 +1,19 @@
+{
+  "Name": "“合体魔法”ジュビア",
+  "Serial": "FT/SE10-44",
+  "Rarity": "C",
+  "Expansion": "FAIRY TAIL",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "愛",
+  "Text": "【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出置場に「“合体魔法”ルーシィ」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "あれ・・ジュビア・・・・目から雨が降ってきました\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ft_se10_44.gif"
+}

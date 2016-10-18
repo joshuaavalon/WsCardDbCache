@@ -1,0 +1,19 @@
+{
+  "Name": "ゲイルスラスター",
+  "Serial": "AW/S18-026",
+  "Rarity": "U",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+  "Flavor": "――着装！ 《ゲイルスラスター》！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_026.gif"
+}

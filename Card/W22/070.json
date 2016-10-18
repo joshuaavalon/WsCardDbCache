@@ -1,0 +1,19 @@
+{
+  "Name": "平行世界の少女 れい",
+  "Serial": "VR/W22-070",
+  "Rarity": "C",
+  "Expansion": "ビビッドレッド・オペレーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "鍵",
+  "SecondChara": "謎",
+  "Text": "【永】 あなたのストックが4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「さよならは言わない」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "……取り返してみせる……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_070.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "初音ミク“おさんぽスタイル”",
+  "Serial": "PD/S29-047",
+  "Rarity": "C",
+  "Expansion": "初音ミク -Project DIVA- F 2nd",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "メガネ",
+  "Text": "-",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s29_047.gif"
+}

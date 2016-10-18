@@ -1,0 +1,19 @@
+{
+  "Name": "シンク・イズミ",
+  "Serial": "DD/WE12-33",
+  "Rarity": "C",
+  "Expansion": "DOG DAYS",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "勇者",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+  "Flavor": "おす！勇者として呼んでもらいました、\nシンク・イズミです！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_33.gif"
+}

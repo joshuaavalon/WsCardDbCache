@@ -1,0 +1,19 @@
+{
+  "Name": "“苦手克服”チノ",
+  "Serial": "GU/W44-089",
+  "Rarity": "C",
+  "Expansion": "ご注文はうさぎですか？？",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ラビットハウス",
+  "SecondChara": "コーヒー",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "Flavor": "どうぞ、トマトジュースです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_089.gif"
+}

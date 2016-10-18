@@ -1,0 +1,19 @@
+{
+  "Name": "仲良し【燈＆ゆらら】",
+  "Serial": "GF/W38-035",
+  "Rarity": "CR",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
+  "Flavor": "燈「おやぁ？　先輩、電気つけました？\nなんだか、視界が明るくなったような気が…」\n",
+  "Trigger": "Wind",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_035.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "事務方担当 依咲里",
+  "Serial": "SGS/S37-093",
+  "Rarity": "C",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 9000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "オッドアイ",
+  "Text": "【永】 このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。",
+  "Flavor": "わたくし おもに二穂お嬢様の\nスケジュールや財布の管理を努めておりますわ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_093.gif"
+}

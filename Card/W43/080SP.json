@@ -1,0 +1,19 @@
+{
+  "Name": "Trancing Pulse 凛",
+  "Serial": "IMC/W43-080SP",
+  "Rarity": "SP",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500し、このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "－\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

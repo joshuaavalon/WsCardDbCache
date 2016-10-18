@@ -1,0 +1,19 @@
+{
+  "Name": "自信満々 コーデリア",
+  "Serial": "MK2/S19-091",
+  "Rarity": "C",
+  "Expansion": "探偵オペラ ミルキィホームズ２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "-",
+  "Flavor": "問題ないわ。もう手は打ってあるから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_091.gif"
+}

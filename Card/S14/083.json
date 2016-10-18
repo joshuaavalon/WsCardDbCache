@@ -1,0 +1,19 @@
+{
+  "Name": "私服の真",
+  "Serial": "IM/S14-083",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「青空の様な女の子！ 真」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "プロデューサー、次の仕事まだですか？\nボク、待ちきれません！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_083.gif"
+}

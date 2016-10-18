@@ -1,0 +1,19 @@
+{
+  "Name": "カトレア・イヴェット・ラ・ボーム・ル・",
+  "Serial": "ZM/W03-027",
+  "Rarity": "RR",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「動物合唱隊」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "あなたとルイズに始祖のご加護がありますように\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_027.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "キング・オブ・伊達男",
+  "Serial": "SB/S06-098SP",
+  "Rarity": "SP",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "SECRET\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
+}

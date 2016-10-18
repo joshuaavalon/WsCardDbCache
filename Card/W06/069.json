@@ -1,0 +1,19 @@
+{
+  "Name": "大切なもの",
+  "Serial": "LB/W06-069",
+  "Rarity": "R",
+  "Expansion": "リトルバスターズ! エクスタシー",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上から3枚まで見て、《本》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
+  "Flavor": "これです。確かにこの本です\n…本当にありがとうございました\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_069.gif"
+}

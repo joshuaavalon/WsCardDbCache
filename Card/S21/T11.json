@@ -1,0 +1,19 @@
+{
+  "Name": "まっこまこりーん！ 真",
+  "Serial": "IM/S21-T11",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+  "Flavor": "きゃっぴぴぴぴぴーん！ まっこまこりーん！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_t11.gif"
+}

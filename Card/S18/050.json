@@ -1,0 +1,19 @@
+{
+  "Name": "良きライバル アッシュ・ローラー",
+  "Serial": "AW/S18-050",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "バイク",
+  "Text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "オマケに相手がピッカピカのニュービー。\nメガラッァァァァッキィィッ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_050.gif"
+}

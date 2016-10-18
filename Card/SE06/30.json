@@ -1,0 +1,19 @@
+{
+  "Name": "“★Rock Cannon”ブラック★ロックシューター",
+  "Serial": "BR/SE06-30",
+  "Rarity": "C",
+  "Expansion": "ブラック★ロックシューター",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【自】［あなたの舞台の「翠緑の瞳 デッドマスター」を1枚ストック置場に置く］ このカードがアタックした時、クライマックス置場に「★Rock Cannon」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大人びた美少女 ヨミ」を1枚選び、後列の好きな枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/br_se06_30.gif"
+}

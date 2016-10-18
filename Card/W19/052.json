@@ -1,0 +1,19 @@
+{
+  "Name": "勝ち取った力 奏",
+  "Serial": "SG/W19-052",
+  "Rarity": "RR",
+  "Expansion": "戦姫絶唱シンフォギア",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "武器",
+  "Text": "【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「STARDUST∞FOTON」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下のイベントを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "これが奴らと戦える力……\nあたしのシンフォギアだッ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_052.gif"
+}

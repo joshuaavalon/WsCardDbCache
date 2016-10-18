@@ -1,0 +1,19 @@
+{
+  "Name": "純粋な憎悪ドライ",
+  "Serial": "PT/W07-067",
+  "Rarity": "C",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "時計",
+  "Text": "【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。",
+  "Flavor": "玲二「……生きて、いたのか……？」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_067.gif"
+}

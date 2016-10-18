@@ -1,0 +1,19 @@
+{
+  "Name": "人の為に戦うさやか",
+  "Serial": "MM/W17-083",
+  "Rarity": "R",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "愛",
+  "Text": "【永】 他のあなたの「吠える杏子」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "私は人の為に祈った事を後悔してない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_083.gif"
+}

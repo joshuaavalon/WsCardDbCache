@@ -1,0 +1,19 @@
+{
+  "Name": "世界が忘れた少女 アイシア",
+  "Serial": "DC/WE08-03",
+  "Rarity": "C",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "オモチャ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードが舞台から思い出置場に置かれた時、このカードをストック置場に置く。",
+  "Flavor": "こんなに楽しかったの、ほんと久しぶりだよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_03.gif"
+}

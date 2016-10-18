@@ -1,0 +1,19 @@
+{
+  "Name": "家族がいる幸せ ひろし",
+  "Serial": "CS/S28-060",
+  "Rarity": "U",
+  "Expansion": "クレヨンしんちゃん",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "家族",
+  "SecondChara": "サラリーマン",
+  "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「浮かぶ幸せ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《家族》か《幼稚園》のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "ひろし「俺は家族と一緒に未来を生きる！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_060.gif"
+}

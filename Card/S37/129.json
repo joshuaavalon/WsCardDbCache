@@ -1,0 +1,19 @@
+{
+  "Name": "ナイショの趣味 栞",
+  "Serial": "SGS/S37-129",
+  "Rarity": "U",
+  "Expansion": "スクールガールストライカーズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ストライカー",
+  "SecondChara": "厨二病",
+  "Text": "【永】 あなたのキャラすべてが青なら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』",
+  "Flavor": "……見た？ 見たのね？？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_129.gif"
+}

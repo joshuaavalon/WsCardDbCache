@@ -1,0 +1,19 @@
+{
+  "Name": "振り返る思い出",
+  "Serial": "LL/W34-031",
+  "Rarity": "CC",
+  "Expansion": "ラブライブ！Vol.2",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_031.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "神原駿河",
+  "Serial": "BM/S15-032",
+  "Rarity": "R",
+  "Expansion": "化物語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_032.gif"
+}

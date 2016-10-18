@@ -1,0 +1,19 @@
+{
+  "Name": "みんなで海水浴",
+  "Serial": "LL/W24-046",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのストックの枚数×500に等しい。",
+  "Flavor": "海未「や、やめて下さい希先輩……希！！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_046.gif"
+}

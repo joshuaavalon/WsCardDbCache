@@ -1,0 +1,19 @@
+{
+  "Name": "プロデューサー尾崎",
+  "Serial": "IM/S21-117",
+  "Rarity": "RE",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたの「ちょっぴり不思議 絵理」とバトル中のキャラが【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "がんばってみない？　わたしといっしょに。\nひとりじゃ見られない夢、きっと見られるから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_117.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "獅子堂 妹子",
+  "Serial": "SK/WE05-18",
+  "Rarity": "C",
+  "Expansion": "宇宙をかける少女／舞-HiME＆舞-乙HiME Vol.02",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "コロニー",
+  "SecondChara": "メカ",
+  "Text": "【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋500。\n【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《コロニー》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "秋葉お嬢様ー♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_18.gif"
+}

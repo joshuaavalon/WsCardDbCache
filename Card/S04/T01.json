@@ -1,0 +1,19 @@
+{
+  "Name": "怒ったシリル",
+  "Serial": "SE/S04-T01",
+  "Rarity": "TD",
+  "Expansion": "2008年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、ストック置場に置く。",
+  "Flavor": "トウマが、あんまりバカだからよ！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_t01.gif"
+}

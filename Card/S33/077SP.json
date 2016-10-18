@@ -1,0 +1,19 @@
+{
+  "Name": "浴衣ドレス コーデリア",
+  "Serial": "MK/S33-077SP",
+  "Rarity": "SP",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】［(1)］ この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に置く。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

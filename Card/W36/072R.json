@@ -1,0 +1,19 @@
+{
+  "Name": "“晴れ着”星空 凛",
+  "Serial": "LL/W36-072R",
+  "Rarity": "RRR",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "和服",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+  "Flavor": "着物だと、あんまり走れないにゃー。でも草履で歩くのは、なんだか面白いかも♪\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

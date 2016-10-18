@@ -1,0 +1,19 @@
+{
+  "Name": "御宝死守 掛井園美",
+  "Serial": "GF/W38-024",
+  "Rarity": "C",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
+  "Flavor": "急いでどこか移動しましょう。\n一刻も早く、雨の中から抜けないと！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_024.gif"
+}

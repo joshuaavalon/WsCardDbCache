@@ -1,0 +1,19 @@
+{
+  "Name": "神北 小毬",
+  "Serial": "LB/W02-012",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "童話",
+  "Text": "【永】 他のあなたの「“ウェディングドレス”鈴」すべてに、パワーを＋1000。\n【永】 アラーム このカードがクロックの１番上にあるなら、黄のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+  "Flavor": "あなたの目が、もう少し、\nほんのちょっとだけ見えるようになりますように\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_012.gif"
+}

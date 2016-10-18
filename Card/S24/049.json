@@ -1,0 +1,19 @@
+{
+  "Name": "“しでの鳥”阿良々木月火",
+  "Serial": "NM/S24-049",
+  "Rarity": "R",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "和服",
+  "Text": "【自】 あなたのドローフェイズの始めに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_049.gif"
+}

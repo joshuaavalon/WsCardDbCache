@@ -1,0 +1,19 @@
+{
+  "Name": "OFFタイム 真",
+  "Serial": "IM/S21-063R",
+  "Rarity": "RRR",
+  "Expansion": "アニメ「アイドルマスター」",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、レベルを＋1し、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

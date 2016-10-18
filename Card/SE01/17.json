@@ -1,0 +1,19 @@
+{
+  "Name": "白鐘 直斗",
+  "Serial": "P4/SE01-17",
+  "Rarity": "R",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "警察",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の、《警察》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "皆さんの“遊び”も、\n間もなく終りになるかも知れない…\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se01_17.gif"
+}

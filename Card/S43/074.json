@@ -1,0 +1,19 @@
+{
+  "Name": "乱暴な運転",
+  "Serial": "AW/S43-074",
+  "Rarity": "C",
+  "Expansion": "アクセル・ワールド -インフィニット・バースト-",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\nあなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "スカーレット・レイン「くれぐれもドジ踏んで、転げ落ちないよう注意願いまーす」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_074.gif"
+}

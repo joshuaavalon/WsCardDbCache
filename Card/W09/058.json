@@ -1,0 +1,19 @@
+{
+  "Name": "犬好き美夏",
+  "Serial": "DC/W09-058",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II プラスコミュニケーション",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "バナナ",
+  "Text": "【永】 他のあなたの《メカ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "あははははは。こっちだぞ、タロ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_058.gif"
+}

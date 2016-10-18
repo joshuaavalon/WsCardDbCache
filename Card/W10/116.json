@@ -1,0 +1,19 @@
+{
+  "Name": "インデックス＆美琴",
+  "Serial": "ID/W10-116",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "超能力",
+  "Text": "-",
+  "Flavor": "科学と魔術が交差するとき、物語は始まる――！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_116.gif"
+}

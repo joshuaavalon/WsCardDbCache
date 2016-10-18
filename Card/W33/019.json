@@ -1,0 +1,19 @@
+{
+  "Name": "雪の日 葉月柚子",
+  "Serial": "GF/W33-019",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮）",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。\n【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
+  "Flavor": "いつの間にか、もう結構積もってる?本格的な雪なんて、久しぶりかも？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/WS_GF_W33_019.gif"
+}

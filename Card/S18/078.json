@@ -1,0 +1,19 @@
+{
+  "Name": "ヘイルストーム・ドミネーション",
+  "Serial": "AW/S18-078",
+  "Rarity": "CR",
+  "Expansion": "アクセル・ワールド",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
+  "Flavor": "てめえらの相手が《赤の王》だってこと……\nたっぷり思い知らせてやるぜ！\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_078.gif"
+}

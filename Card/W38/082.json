@@ -1,0 +1,19 @@
+{
+  "Name": "激励GK 織部千華",
+  "Serial": "GF/W38-082",
+  "Rarity": "U",
+  "Expansion": "ガールフレンド（仮） Vol.2",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "ガール",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "脚を止めずにダッシュダッシュ、急いで！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_082.gif"
+}

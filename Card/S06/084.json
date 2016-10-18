@@ -1,0 +1,19 @@
+{
+  "Name": "“南蛮我道”ザビー",
+  "Serial": "SB/S06-084",
+  "Rarity": "U",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "愛",
+  "Text": "【永】 相手のターン中、他のあなたの《愛》のキャラすべてに、パワーを＋1000。\n【自】［(1)］ あなたのクライマックス置場に「愛の戦士」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“南蛮我道”ザビー」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。そのターン中、そのキャラのパワーを＋2000し、《メカ》を与える。",
+  "Flavor": "レッツ・ゴー・ザビーズ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_084.gif"
+}

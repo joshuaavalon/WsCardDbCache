@@ -1,0 +1,19 @@
+{
+  "Name": "はちみつまみれ エリー",
+  "Serial": "MK/S33-040",
+  "Rarity": "C",
+  "Expansion": "ミルキィホームズ セカンドステージ エディション",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "本",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）",
+  "Flavor": "いやぁあ～～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_040.gif"
+}

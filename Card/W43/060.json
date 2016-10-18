@@ -1,0 +1,19 @@
+{
+  "Name": "見守る杏",
+  "Serial": "IMC/W43-060",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター シンデレラガールズ 2nd SEASON",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "飴",
+  "Text": "【自】［手札の《音楽》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたの控え室に「Heart Voice」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "Flavor": "んー……そうだね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_060.gif"
+}

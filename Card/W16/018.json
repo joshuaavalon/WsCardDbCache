@@ -1,0 +1,19 @@
+{
+  "Name": "青空の下 愛理",
+  "Serial": "RN/W16-018",
+  "Rarity": "C",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "ネット",
+  "Text": "【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを2枚まで選び、そのターン中、パワーを＋500。",
+  "Flavor": "お兄ちゃん、お散歩行きましょう♪\nいい天気ですよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_018.gif"
+}

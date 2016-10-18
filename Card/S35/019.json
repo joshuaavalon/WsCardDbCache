@@ -1,0 +1,19 @@
+{
+  "Name": "“駐屯兵団所属”ハンネス",
+  "Serial": "AOT/S35-019",
+  "Rarity": "C",
+  "Expansion": "進撃の巨人",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "兵団",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。\n【永】 他のあなたのカード名に「エレン」か「ミカサ」か「アルミン」を含むキャラがいるなら、このカードのパワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_019.gif"
+}

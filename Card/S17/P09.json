@@ -1,0 +1,19 @@
+{
+  "Name": "清廉なる騎士道 セイバー",
+  "Serial": "FZ/S17-P09",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+  "Flavor": "わが剣の重さは誇りの重さだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_p09.gif"
+}

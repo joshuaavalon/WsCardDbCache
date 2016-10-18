@@ -1,0 +1,19 @@
+{
+  "Name": "旋律の破壊神ことみ",
+  "Serial": "CL/WE07-50",
+  "Rarity": "RE",
+  "Expansion": "CLANNAD Vol.03",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "音楽",
+  "Text": "【自】［(7)］ このカードがアタックした時、クライマックス置場に「娘への贈り物」があるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカード以外のすべてのプレイヤーの前列のキャラすべてを、山札に戻す。それらの山札をシャッフルする。",
+  "Flavor": "・・・うっとり\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we07_50.gif"
+}

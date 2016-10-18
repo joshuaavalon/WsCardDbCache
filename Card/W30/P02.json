@@ -1,0 +1,19 @@
+{
+  "Name": "ラブラブカップル！？ 千棘",
+  "Serial": "NK/W30-P02",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "令嬢",
+  "SecondChara": "鍵",
+  "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。",
+  "Flavor": "ほら！話合わせてよ……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_p02.gif"
+}

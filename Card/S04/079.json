@@ -1,0 +1,19 @@
+{
+  "Name": "料理人シリル",
+  "Serial": "SE/S04-079",
+  "Rarity": "R",
+  "Expansion": "シャイニング・フォース イクサ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "本",
+  "Text": "【自】 他のあなたの『応援』を持つキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\n【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたはＸ枚まで引き、自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数×2に等しい。",
+  "Flavor": "私が作るって言ってるじゃない！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_079.gif"
+}

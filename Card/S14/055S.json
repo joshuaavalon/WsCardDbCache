@@ -1,0 +1,19 @@
+{
+  "Name": "南国少女 響",
+  "Serial": "IM/S14-055S",
+  "Rarity": "SR",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

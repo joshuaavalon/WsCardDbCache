@@ -1,0 +1,19 @@
+{
+  "Name": "恩を仇で返す",
+  "Serial": "MK/S11-095",
+  "Rarity": "U",
+  "Expansion": "探偵オペラ　ミルキィホームズ",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】している《スポーツ》のキャラを1枚選び【レスト】する。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の下に置く。",
+  "Flavor": "痴漢！！！変態！！！犯・罪・者ぁぁぁ～！！！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_095.gif"
+}

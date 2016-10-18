@@ -1,0 +1,19 @@
+{
+  "Name": "リーダー指名！ 春香",
+  "Serial": "IM/S30-063",
+  "Rarity": "C",
+  "Expansion": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "お菓子",
+  "Text": "【永】 前列の中央の枠にこのカードがいるなら、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+  "Flavor": "わ、私がリーダーですか？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-063.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "ご神体の情報 千石撫子",
+  "Serial": "MG/S39-010",
+  "Rarity": "U",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "パジャマ",
+  "Text": "【永】 あなたのターン中、あなたのキャラすべてが《怪異》なら、このカードのパワーを＋2000。",
+  "Flavor": "うんっ！　それだけ情報があれば、\nもう見つけたも同然だね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_010.gif"
+}

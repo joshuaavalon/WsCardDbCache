@@ -1,0 +1,19 @@
+{
+  "Name": "第３の使徒",
+  "Serial": "EV/S12-035",
+  "Rarity": "U",
+  "Expansion": "ヱヴァンゲリヲン新劇場版",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "謎",
+  "SecondChara": "",
+  "Text": "【起】［(1)］ あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "オペレーター「上部外壁破損！最終結界が破られます！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_035.gif"
+}

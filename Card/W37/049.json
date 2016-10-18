@@ -1,0 +1,19 @@
+{
+  "Name": "“猫の着信音”唯",
+  "Serial": "TL/W37-049",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風紀委員",
+  "SecondChara": "動物",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードがアタックした時、クライマックス置場に「魅惑ボイス」があるなら、そのターン中、このカードのパワーを＋Ｘし、相手は『助太刀』を手札からプレイできない。Ｘは他のあなたの、《動物》か《植物》のキャラの枚数×500に等しい。",
+  "Flavor": "この着信音…結城君…！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_049.gif"
+}

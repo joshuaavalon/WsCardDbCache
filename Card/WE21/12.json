@@ -1,0 +1,19 @@
+{
+  "Name": "夜空の大輪 鈴",
+  "Serial": "LB/WE21-12",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ！カードミッション",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "動物",
+  "SecondChara": "和服",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。",
+  "Flavor": "お祭りだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/LB_WE21_12.gif"
+}

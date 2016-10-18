@@ -1,0 +1,19 @@
+{
+  "Name": "一瞬の出来事",
+  "Serial": "MM/W17-018",
+  "Rarity": "U",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。",
+  "Flavor": "――えっ？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_018.gif"
+}

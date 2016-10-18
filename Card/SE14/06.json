@@ -1,0 +1,19 @@
+{
+  "Name": "宜野座 伸元",
+  "Serial": "PP/SE14-06",
+  "Rarity": "C",
+  "Expansion": "PSYCHO-PASS サイコパス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "公安",
+  "SecondChara": "メガネ",
+  "Text": "【永】 舞台にこのカードがいるなら、このカードは《サイコパス》を得る。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "君も監視官の端くれだ。\n猟犬どもを上手く手懐けられると思うなら、やってみろ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pp_se14_06.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“森ガール”小鳥",
+  "Serial": "RW/W15-085",
+  "Rarity": "U",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "",
+  "Text": "【永】 相手のターン中、他のあなたの《植物》のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "………\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_085.gif"
+}

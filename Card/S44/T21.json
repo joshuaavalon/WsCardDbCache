@@ -1,0 +1,19 @@
+{
+  "Name": "洲籠市キズナ計画",
+  "Serial": "KI/S44-T21",
+  "Rarity": "TD",
+  "Expansion": "2016年度トライアルデッキ【S】",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
+  "Flavor": "あなた方は、何よりも強い『キズのキズナ』で結ばれた……\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_t21.gif"
+}

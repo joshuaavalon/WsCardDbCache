@@ -1,0 +1,19 @@
+{
+  "Name": "“俯瞰風景”巫条 霧絵",
+  "Serial": "KK/SPR-006",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "霊",
+  "SecondChara": "虚無",
+  "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【スタンド】し、相手の舞台のキャラのいない他の枠に動かす。",
+  "Flavor": "墜ちろッ…墜ちろ墜ちろ墜ちろ…ッ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kk_spr_006.gif"
+}

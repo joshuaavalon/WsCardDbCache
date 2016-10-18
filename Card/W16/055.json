@@ -1,0 +1,19 @@
+{
+  "Name": "諦めた夢 昴",
+  "Serial": "RN/W16-055",
+  "Rarity": "R",
+  "Expansion": "ロボティクス・ノーツ",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "科学",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「父親との軋轢」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《科学》かカード名に「宏武」を含むキャラの枚数×1000に等しい。",
+  "Flavor": "もう、いいんです。もう、僕の夢は終わったんで\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_055.gif"
+}

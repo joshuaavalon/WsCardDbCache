@@ -1,0 +1,19 @@
+{
+  "Name": "仲間との約束 雪子",
+  "Serial": "P4/SE15-19",
+  "Rarity": "R",
+  "Expansion": "Ｐ４Ｕ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "扇子",
+  "SecondChara": "魔法",
+  "Text": "【起】 集中 ［(1)  このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
+  "Flavor": "大丈夫だよ、私たちだっているし\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_19.gif"
+}

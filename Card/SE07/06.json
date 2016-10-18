@@ -1,0 +1,19 @@
+{
+  "Name": "“否定姫の懐刀”左右田 右衛門左衛門",
+  "Serial": "KG/SE07-06",
+  "Rarity": "C",
+  "Expansion": "刀語",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "忍",
+  "SecondChara": "仮面",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "『不肯』あなたに言われたくはない\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_06.gif"
+}

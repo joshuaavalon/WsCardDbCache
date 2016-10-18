@@ -1,0 +1,19 @@
+{
+  "Name": "“スクールアイドルフェスティバル”ことり",
+  "Serial": "LL/W28-063",
+  "Rarity": "C",
+  "Expansion": "ラブライブ！ feat.スクールアイドルフェスティバル",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "サポートはことりにおまかせです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w28_063.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "昇天",
+  "Serial": "LL/W24-045",
+  "Rarity": "U",
+  "Expansion": "ラブライブ！",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。",
+  "Flavor": "凛「あれ～いない…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_045.gif"
+}

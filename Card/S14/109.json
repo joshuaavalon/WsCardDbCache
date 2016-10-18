@@ -1,0 +1,19 @@
+{
+  "Name": "スノーフレークリリパット 伊織＆やよい",
+  "Serial": "IM/S14-109",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "カエル",
+  "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。",
+  "Flavor": "伊織「やよいもなかなか似合ってるじゃない！」\nやよい「伊織ちゃんもすっごくかわいいですー！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_109.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "微笑む エイミー",
+  "Serial": "GG/S23-061",
+  "Rarity": "U",
+  "Expansion": "翠星のガルガンティア",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "手紙",
+  "SecondChara": "動物",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「翠星のガルガンティア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "レド！おはよう！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_061.gif"
+}

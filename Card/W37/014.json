@@ -1,0 +1,19 @@
+{
+  "Name": "ティアーユ・ルナティーク",
+  "Serial": "TL/W37-014",
+  "Rarity": "C",
+  "Expansion": "To LOVEる-とらぶる-ダークネス2nd",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宇宙人",
+  "SecondChara": "科学",
+  "Text": "【自】 絆／「金色の闇」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「金色の闇」を1枚選び、手札に戻す）",
+  "Flavor": "い…いつのまに脱がせたの…!?\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_014.gif"
+}

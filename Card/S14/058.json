@@ -1,0 +1,19 @@
+{
+  "Name": "妄想大王!? 小鳥さん",
+  "Serial": "IM/S14-058",
+  "Rarity": "U",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "",
+  "Text": "【自】 記憶 他のあなたのバトル中のキャラが【リバース】した時、あなたの思い出置場にイベントがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+  "Flavor": "ああ、プロデューサーさんが、あんなことや\nこんなことを…。ふふ、ふふふっ……！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_058.gif"
+}

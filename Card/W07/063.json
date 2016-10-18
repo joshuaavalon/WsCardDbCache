@@ -1,0 +1,19 @@
+{
+  "Name": "一番目の女アイン",
+  "Serial": "PT/W07-063",
+  "Rarity": "C",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋500。",
+  "Flavor": "私は一番目の女、アイン\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_063.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "“平穏な日々”ライダー",
+  "Serial": "FS/S03-038",
+  "Rarity": "C",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "メガネ",
+  "Text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。",
+  "Flavor": "私はサクラを呼んできます\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_038.gif"
+}

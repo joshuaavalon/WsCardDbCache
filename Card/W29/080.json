@@ -1,0 +1,19 @@
+{
+  "Name": "朝日に輝く せいら",
+  "Serial": "GT/W29-080",
+  "Rarity": "R",
+  "Expansion": "幻影ヲ駆ケル太陽",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "タロット",
+  "SecondChara": "スポーツ",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "……同じ力をもち、同じ秘密を共有する者同士……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_080.gif"
+}

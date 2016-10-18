@@ -1,0 +1,19 @@
+{
+  "Name": "黒ビキニ 立夏",
+  "Serial": "DC3/WPR-P11",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【永】 他のあなたの《生徒会》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "清隆「るる姉、立夏さん！」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_wpr_p11.gif"
+}

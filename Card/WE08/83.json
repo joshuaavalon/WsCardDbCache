@@ -1,0 +1,19 @@
+{
+  "Name": "夢見るレディー さくら",
+  "Serial": "DC/WE08-83",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+  "Flavor": "ねえ、義之くん……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_83.gif"
+}

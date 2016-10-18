@@ -1,0 +1,19 @@
+{
+  "Name": "アイギス＆アテナ",
+  "Serial": "P3/S01-036",
+  "Rarity": "U",
+  "Expansion": "ペルソナ3",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "メカ",
+  "SecondChara": "神",
+  "Text": "【永】 大活躍\n【自】 このカードがアタックした時、クライマックス置場に「命ある者」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\n【起】［(4)］ あなたは自分のクロックか控え室の「命ある者」を1枚選び、クライマックス置場に置く。",
+  "Flavor": "この力が私の、覚悟の証！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_036.gif"
+}

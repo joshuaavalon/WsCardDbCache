@@ -1,0 +1,19 @@
+{
+  "Name": "シリル＆アミタリリ＆ファークリン",
+  "Serial": "SE/S04-104",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを+500。",
+  "Flavor": "シリル「うまくやれるといいんだけど…」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_104.gif"
+}

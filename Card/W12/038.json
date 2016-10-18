@@ -1,0 +1,19 @@
+{
+  "Name": "エイミィ・リミエッタ",
+  "Serial": "NA/W12-038",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "特徴なし",
+  "SecondChara": "",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「未来を変える力 クロノ」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "たっだいまー\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_038.gif"
+}

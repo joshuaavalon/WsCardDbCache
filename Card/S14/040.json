@@ -1,0 +1,19 @@
+{
+  "Name": "チャーミングヴィーナス あずさ",
+  "Serial": "IM/S14-040",
+  "Rarity": "C",
+  "Expansion": "アイドルマスター２",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
+  "Flavor": "うふふっ♪　なんだか\n私もキラキラ、輝いているみたいですね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_040.gif"
+}

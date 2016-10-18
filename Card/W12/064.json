@@ -1,0 +1,19 @@
+{
+  "Name": "“ヴォルケンリッター”ヴィータ",
+  "Serial": "NA/W12-064",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【永】 このカードはサイドアタックできない。\n【自】［(2) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "ヴォルケンリッター……なんなりと命令を……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_064.gif"
+}

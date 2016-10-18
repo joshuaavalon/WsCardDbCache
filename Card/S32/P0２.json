@@ -1,0 +1,19 @@
+{
+  "Name": "“屈強な姿”テラフォーマー",
+  "Serial": "TF_S32-P0２",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "虫",
+  "SecondChara": "",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「テラフォーマー」を含むキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_p02.gif"
+}

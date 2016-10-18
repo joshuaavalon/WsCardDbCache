@@ -1,0 +1,19 @@
+{
+  "Name": "“Puella Magi Holy Quintet”杏子",
+  "Serial": "MM/W35-067",
+  "Rarity": "U",
+  "Expansion": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "お菓子",
+  "Text": "【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【自】 チェンジ [(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「勝気な少女 杏子」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "-\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_067.gif"
+}

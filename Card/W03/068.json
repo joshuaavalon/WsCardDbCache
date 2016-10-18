@@ -1,0 +1,19 @@
+{
+  "Name": "虚無の力",
+  "Serial": "ZM/W03-068",
+  "Rarity": "R",
+  "Expansion": "ゼロの使い魔",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたの《虚無》のキャラがいないなら、手札からプレイできない。\nあなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。あなたは自分の控え室の《使い魔》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "サイトのバカあああ～！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_068.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "浜辺で水遊び 葵",
+  "Serial": "DC3/W23-091",
+  "Rarity": "C",
+  "Expansion": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "ウェイトレス",
+  "Text": "-",
+  "Flavor": "きゃっ！　冷たいです\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w23_091.gif"
+}

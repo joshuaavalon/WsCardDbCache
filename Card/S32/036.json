@@ -1,0 +1,19 @@
+{
+  "Name": "“アネックス1号の乗組員”シーラ",
+  "Serial": "TF/S32-036",
+  "Rarity": "U",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたの《改造》のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「マルコス」か「アレックス」か「小吉」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "こいつら子供んときからずっとこうなの\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_036.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "黒井 ななこ",
+  "Serial": "LS/W05-093",
+  "Rarity": "C",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "ネトゲ",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の、《オタク》か《ネトゲ》のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）",
+  "Flavor": "こんなことでへばってらんと　ちゃんとしぃ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_093.gif"
+}

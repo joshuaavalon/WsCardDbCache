@@ -1,0 +1,19 @@
+{
+  "Name": "カテゴリー５",
+  "Serial": "DC3/W18-017",
+  "Rarity": "U",
+  "Expansion": "D.C.III～ダ・カーポIII～",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "そう……いいわ。いい感じよ……\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_017.gif"
+}

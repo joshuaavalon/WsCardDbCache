@@ -1,0 +1,19 @@
+{
+  "Name": "幻想御手開発者 木山",
+  "Serial": "RG/W10-T03",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "先生",
+  "SecondChara": "科学",
+  "Text": "【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋4000。ターンの終わりに、そのキャラを思い出にする。",
+  "Flavor": "別に他人の能力に興味はないよ。 わたしの目的はもっと大きなものだ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w10_t03.gif"
+}

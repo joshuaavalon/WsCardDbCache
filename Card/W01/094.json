@@ -1,0 +1,19 @@
+{
+  "Name": "人形劇",
+  "Serial": "DC/W01-094",
+  "Rarity": "U",
+  "Expansion": "D.C. D.C.II",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは2枚まで引く。",
+  "Flavor": "だって、私はエトが……エトが、好きだから\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_094.gif"
+}

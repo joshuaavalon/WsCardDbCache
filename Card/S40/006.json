@@ -1,0 +1,19 @@
+{
+  "Name": "“悩ましい状況”ルヴィア",
+  "Serial": "PI/S40-006",
+  "Rarity": "R",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "宝石",
+  "SecondChara": "令嬢",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《宝石》のキャラを1枚選び、手札に戻す。",
+  "Flavor": "とにかく何でもいいから都合よく報告なさい\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_006.gif"
+}

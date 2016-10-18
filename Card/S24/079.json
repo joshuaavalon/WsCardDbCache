@@ -1,0 +1,19 @@
+{
+  "Name": "敗者の強がり",
+  "Serial": "NM/S24-079",
+  "Rarity": "U",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《怪異》のキャラの枚数に等しい。",
+  "Flavor": "これから大逆転するところだったんだよ、余計な\n世話を焼かないでくれるかな、お姉ちゃん――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_079.gif"
+}

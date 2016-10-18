@@ -1,0 +1,19 @@
+{
+  "Name": "約束",
+  "Serial": "PT/W07-019",
+  "Rarity": "R",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分のカード名に「キャル」を含むキャラを1枚選び、手札に戻す。そうしたら、あなたは自分の山札を見てカード名に「ドライ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
+  "Flavor": "だって、玲二が！　玲二が！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_019.gif"
+}

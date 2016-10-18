@@ -1,0 +1,19 @@
+{
+  "Name": "“必殺の蹴り”千枝",
+  "Serial": "P4/SE12-17",
+  "Rarity": "C",
+  "Expansion": "TVアニメ「ペルソナ４」",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "メガネ",
+  "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。",
+  "Flavor": "飛んでけぇぇぇ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se12_17.gif"
+}

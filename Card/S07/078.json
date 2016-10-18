@@ -1,0 +1,19 @@
+{
+  "Name": "癒し系あずさ",
+  "Serial": "IM/S07-078",
+  "Rarity": "R",
+  "Expansion": "THE IDOLM@STER",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "愛",
+  "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+  "Flavor": "私なんかじゃ、頼りないかもしれないけど……。\n私に出来る限りの応援、やってみせるわね！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/im_s07_078.gif"
+}

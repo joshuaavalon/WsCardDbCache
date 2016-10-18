@@ -1,0 +1,19 @@
+{
+  "Name": "“奥州筆頭”伊達政宗",
+  "Serial": "SB/S06-103",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Sサイド】",
+  "Side": "S",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "眼帯",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+  "Flavor": "さて、次の相手はどいつかな\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_103.gif"
+}

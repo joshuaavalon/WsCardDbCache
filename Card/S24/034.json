@@ -1,0 +1,19 @@
+{
+  "Name": "朝の光景 阿良々木火憐",
+  "Serial": "NM/S24-034",
+  "Rarity": "U",
+  "Expansion": "偽物語",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "スポーツ",
+  "Text": "【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“囲い火蜂”阿良々木火憐」を1枚選び、このカードがいた枠に置く。",
+  "Flavor": "兄ちゃん！　朝だぞこら！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_034.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "クリパへようこそ！ シャルル",
+  "Serial": "DC3/W18-101",
+  "Rarity": "TD",
+  "Expansion": "2012年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "生徒会",
+  "Text": "【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
+  "Flavor": "お家でもクリスマス祝おうね！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_101.gif"
+}

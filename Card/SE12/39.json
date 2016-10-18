@@ -1,0 +1,19 @@
+{
+  "Name": "“契約の鍵”主人公",
+  "Serial": "P4/SE12-39",
+  "Rarity": "RE",
+  "Expansion": "TVアニメ「ペルソナ４」",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "【永】 このカードの効果で選んだキャラがいるなら、このカードのパワーを＋2000。\n【自】 このカードが舞台に置かれた時、あなたは他の自分のキャラを1枚選ぶ。\n【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードの効果で選んだキャラを控え室に置く。",
+  "Flavor": "イゴール「貴方が支払うべき代価は１つ…」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se12_39.gif"
+}

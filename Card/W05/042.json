@@ -1,0 +1,19 @@
+{
+  "Name": "異文化の人あやの",
+  "Serial": "LS/W05-042",
+  "Rarity": "C",
+  "Expansion": "らき☆すた",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "オデコ",
+  "Text": "-",
+  "Flavor": "私は……うーんと……〝お嫁さん〟……かな？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_042.gif"
+}

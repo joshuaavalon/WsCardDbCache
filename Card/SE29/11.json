@@ -1,0 +1,19 @@
+{
+  "Name": "自分に素直ネロ",
+  "Serial": "MK/SE29-11",
+  "Rarity": "C",
+  "Expansion": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "探偵",
+  "SecondChara": "お菓子",
+  "Text": "【永】 舞台のこのカードのレベルを－1。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［③］』も使えない）",
+  "Flavor": "すんごいお宝とかもあるんだろ～に～\nもったいない～～\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se29_11.gif"
+}

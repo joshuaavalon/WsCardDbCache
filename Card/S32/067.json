@@ -1,0 +1,19 @@
+{
+  "Name": "“存続を賭けた戦い”ミッシェル",
+  "Serial": "TF/S32-067",
+  "Rarity": "C",
+  "Expansion": "テラフォーマーズ",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "改造",
+  "SecondChara": "虫",
+  "Text": "【自】 バトル中のこのカードが【リバース】した時、他のあなたの《改造》のキャラが1枚以下なら、このカードをクロック置場に置く。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/tf_s32_067.gif"
+}

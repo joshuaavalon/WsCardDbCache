@@ -1,0 +1,19 @@
+{
+  "Name": "“一刀必殺”島津 義弘",
+  "Serial": "SB/S06-069",
+  "Rarity": "C",
+  "Expansion": "戦国BASARA",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "武器",
+  "SecondChara": "酒",
+  "Text": "-",
+  "Flavor": "島津が魂は、こん太刀じゃあ！　おまはんが魂、ワシに見してみい\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_069.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "オレの出番ッス！",
+  "Serial": "P4/SE01-15",
+  "Rarity": "C",
+  "Expansion": "ペルソナ4",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】し、相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
+  "Flavor": "行くぜぇ、ペルソナァ！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se01_15.gif"
+}

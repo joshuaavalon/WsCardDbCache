@@ -1,0 +1,19 @@
+{
+  "Name": "パジャマパーティー 小咲",
+  "Serial": "NK/WE22-27SP",
+  "Rarity": "SP",
+  "Expansion": "ニセコイ:",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "お菓子",
+  "SecondChara": "鍵",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「契約完了☆」があり、あなたのキャラすべてが《お菓子》なら、あなたは自分の山札を見て《お菓子》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋2500。\n【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+  "Flavor": "「SECRET」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

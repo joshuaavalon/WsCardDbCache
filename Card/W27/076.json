@@ -1,0 +1,19 @@
+{
+  "Name": "黒いガングニール",
+  "Serial": "SG/W27-076",
+  "Rarity": "C",
+  "Expansion": "戦姫絶唱シンフォギアG",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたの《武器》のキャラすべてに、そのターン中、パワーを＋1500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_076.gif"
+}

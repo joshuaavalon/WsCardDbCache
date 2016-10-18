@@ -1,0 +1,19 @@
+{
+  "Name": "“最凶の敵”バーサーカー",
+  "Serial": "FS/S03-030",
+  "Rarity": "R",
+  "Expansion": "Fate/stay night",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "サーヴァント",
+  "SecondChara": "武器",
+  "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "イリヤ「――――誓うわ。\n今日は、一人も逃がさない」\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_030.gif"
+}

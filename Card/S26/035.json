@@ -1,0 +1,19 @@
+{
+  "Name": "ゲームマスター オベイロン",
+  "Serial": "SAO/S26-035",
+  "Rarity": "C",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+  "Flavor": "くくく、痛いだろ？\n段階的に強くしてやるから楽しみにしていたまえ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_035.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "遠い日の思い出",
+  "Serial": "NA/W12-046",
+  "Rarity": "U",
+  "Expansion": "魔法少女リリカルなのはA's",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは相手のキャラを1枚選び、そのターン中、パワーを-2000。このカードを思い出にする。",
+  "Flavor": "グレアム「私のミスだった……」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_046.gif"
+}

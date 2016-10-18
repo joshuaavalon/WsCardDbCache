@@ -1,0 +1,19 @@
+{
+  "Name": "“おめかし”小毬",
+  "Serial": "LB/W02-092",
+  "Rarity": "C",
+  "Expansion": "リトルバスターズ!",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "童話",
+  "SecondChara": "お菓子",
+  "Text": "【自】［(1)］ このカードとバトルしているレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+  "Flavor": "一生懸命おめかししてきたんだよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_092.gif"
+}

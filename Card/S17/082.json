@@ -1,0 +1,19 @@
+{
+  "Name": "無毀なる湖光",
+  "Serial": "FZ/S17-082",
+  "Rarity": "C",
+  "Expansion": "Fate/Zero",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 2,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのコスト×1500に等しい。",
+  "Flavor": "セイバー「ア…アロンダイト…まさか貴方は―」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_082.gif"
+}

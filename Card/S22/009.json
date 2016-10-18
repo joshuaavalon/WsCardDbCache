@@ -1,0 +1,19 @@
+{
+  "Name": "鏡音レン“SW ボクサー”",
+  "Serial": "PD/S22-009",
+  "Rarity": "U",
+  "Expansion": "初音ミク -Project DIVA- f",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "水着",
+  "Text": "【永】 他のあなたのカード名に「リン」か「レン」を含むキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「リン」か「レン」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
+  "Flavor": "-\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_009.gif"
+}

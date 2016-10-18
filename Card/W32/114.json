@@ -1,0 +1,19 @@
+{
+  "Name": "幸せな日々 はやて",
+  "Serial": "N2/W32-114",
+  "Rarity": "R",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "本",
+  "SecondChara": "",
+  "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ふたりきりの時間」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+  "Flavor": "わたしは、べつに今のままでもじゅーぶん幸せや\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_114.gif"
+}

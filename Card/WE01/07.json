@@ -1,0 +1,19 @@
+{
+  "Name": "この学園は、好きですか……？",
+  "Serial": "CL/WE01-07",
+  "Rarity": "C",
+  "Expansion": "CLANNAD Vol.01",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Climax",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
+  "Flavor": "それでも、この場所が好きでいられますか？\n",
+  "Trigger": "TwoSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/cl_we01_07.gif"
+}

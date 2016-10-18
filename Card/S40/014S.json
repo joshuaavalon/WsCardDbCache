@@ -1,0 +1,19 @@
+{
+  "Name": "“真夏のビーチ”ルヴィア",
+  "Serial": "PI/S40-014S",
+  "Rarity": "SR",
+  "Expansion": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "宝石",
+  "SecondChara": "令嬢",
+  "Text": "【永】 他のあなたの《宝石》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時か「“人の恋路”ルヴィア」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "ごきげんようシェロ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

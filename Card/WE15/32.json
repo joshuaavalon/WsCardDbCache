@@ -1,0 +1,19 @@
+{
+  "Name": "理屈と気持ち 悠二",
+  "Serial": "SS/WE15-32",
+  "Rarity": "C",
+  "Expansion": "灼眼のシャナIII-FINAL-",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "炎",
+  "SecondChara": "蛇",
+  "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+  "Flavor": "言ったろ、一人じゃなきゃ罰の意味がないって！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ss_we15_32.gif"
+}

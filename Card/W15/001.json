@@ -1,0 +1,19 @@
+{
+  "Name": "“リトルフォレスト”小鳥",
+  "Serial": "RW/W15-001",
+  "Rarity": "RR",
+  "Expansion": "Rewrite",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 8000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "植物",
+  "SecondChara": "オカルト",
+  "Text": "【永】 あなたのストックが6枚以上なら、このカードのパワーを＋500し、ソウルを＋1。",
+  "Flavor": "栄養も愛情も、与えすぎはだめ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_001.gif"
+}

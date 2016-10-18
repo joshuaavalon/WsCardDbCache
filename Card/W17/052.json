@@ -1,0 +1,19 @@
+{
+  "Name": "ふわふわスカート まどか",
+  "Serial": "MM/W17-052",
+  "Rarity": "C",
+  "Expansion": "魔法少女まどか☆マギカ",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "",
+  "Text": "-",
+  "Flavor": "と、とりあえず、衣装だけでも考えておこうかと思って……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_052.gif"
+}

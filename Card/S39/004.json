@@ -1,0 +1,19 @@
+{
+  "Name": "お昼寝 八九寺真宵",
+  "Serial": "MG/S39-004",
+  "Rarity": "R",
+  "Expansion": "<物語>シリーズ セカンドシーズン",
+  "Side": "S",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "怪異",
+  "SecondChara": "霊",
+  "Text": "【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "『むにゃ－－』\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_004.gif"
+}

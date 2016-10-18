@@ -1,0 +1,19 @@
+{
+  "Name": "譲れねぇ仁義リズィ",
+  "Serial": "PT/W07-035",
+  "Rarity": "U",
+  "Expansion": "Phantom -requiem for the phantom-",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 2,
+  "Power": 7500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "暗黒街",
+  "SecondChara": "武器",
+  "Text": "-",
+  "Flavor": "……裏切り者も、カタギに手を出す野郎も、アタシは絶対に許さない\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_035.gif"
+}

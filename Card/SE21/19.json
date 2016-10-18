@@ -1,0 +1,19 @@
+{
+  "Name": "“八高組”雪子",
+  "Serial": "PQ/SE21-19",
+  "Rarity": "C",
+  "Expansion": "ペルソナQ シャドウ オブ ザ ラビリンス",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "扇子",
+  "SecondChara": "魔法",
+  "Text": "【永】 他のあなたの、《扇子》か《和服》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】する。",
+  "Flavor": "そっか、こんなところ怖いよね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_19.gif"
+}

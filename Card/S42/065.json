@@ -1,0 +1,19 @@
+{
+  "Name": "扶桑型航空戦艦2番艦 山城改二",
+  "Serial": "KC/S42-065",
+  "Rarity": "R",
+  "Expansion": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "艦娘",
+  "SecondChara": "航空戦艦",
+  "Text": "【永】 経験 あなたのレベル置場に「扶桑型航空戦艦1番艦 扶桑改二」があるなら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「扶桑型航空戦艦1番艦 扶桑改二」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+  "Flavor": "姉さまも戦っているのかしら…？\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_065.gif"
+}

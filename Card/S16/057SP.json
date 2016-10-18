@@ -1,0 +1,19 @@
+{
+  "Name": "楪 いのり",
+  "Serial": "GC/S16-057SP",
+  "Rarity": "SP",
+  "Expansion": "ギルティクラウン",
+  "Side": "S",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "音楽",
+  "SecondChara": "葬儀社",
+  "Text": "【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】[手札を1枚控え室に置く] このカードがアタックした時、クライマックス置場に｢エウテルペ｣があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

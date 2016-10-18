@@ -1,0 +1,19 @@
+{
+  "Name": "戦闘服 なのは＆フェイト＆はやて",
+  "Serial": "NA/W12-104",
+  "Rarity": "TD",
+  "Expansion": "2010年度トライアルデッキ【W】",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 8500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "武器",
+  "Text": "【自】 このカードがアタックした時、クライマックス置場に「スタンバイ・レディ」があるなら、あなたは1枚引く",
+  "Flavor": "ドライブ・イグニッション！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_104.gif"
+}

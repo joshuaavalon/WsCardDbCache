@@ -1,0 +1,19 @@
+{
+  "Name": "水着の佐々美",
+  "Serial": "LB/W06-108",
+  "Rarity": "PR",
+  "Expansion": "PRカード【Wサイド】",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 2500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "スポーツ",
+  "SecondChara": "水着",
+  "Text": "【永】あなたのターン中、このカードのパワーを+1000。",
+  "Flavor": "…褒められた、ということにしてあげますわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_108.gif"
+}

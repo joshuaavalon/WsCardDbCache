@@ -1,0 +1,19 @@
+{
+  "Name": "勝気な少女 リーファ",
+  "Serial": "SAO/S26-023",
+  "Rarity": "R",
+  "Expansion": "ソードアート・オンライン Vol.2",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "アバター",
+  "SecondChara": "武器",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。",
+  "Flavor": "ユイ「さっきのはパパが悪いです！」\nリーファ「ほんとだよ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s26_023.gif"
+}

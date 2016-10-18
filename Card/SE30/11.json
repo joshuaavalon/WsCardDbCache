@@ -1,0 +1,19 @@
+{
+  "Name": "“開幕！放課後レクイエムコメディー”りんね",
+  "Serial": "KR/SE30-11",
+  "Rarity": "U",
+  "Expansion": "境界のRINNE",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 6500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "死神",
+  "SecondChara": "",
+  "Text": "【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\n【自】 このカードが手札から舞台に置かれた時、あなたのストックが1枚以下なら、このカードを控え室に置く。",
+  "Flavor": "りんね「覚悟しておけ。俺の仕事はキツイぞ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_11.gif"
+}

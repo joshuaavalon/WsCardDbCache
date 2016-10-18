@@ -1,0 +1,19 @@
+{
+  "Name": "容姿のコンプレックス 由多",
+  "Serial": "KI/S44-033S",
+  "Rarity": "SR",
+  "Expansion": "キズナイーバー",
+  "Side": "S",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "キズナ",
+  "SecondChara": "ナルシスト",
+  "Text": "【永】 他のあなたの《キズナ》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【自】 この能力は1ターンにつき2回まで発動する。他のあなたの『絆』を持つキャラが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「禁忌の過去」があるなら、あなたはそのキャラをクロック置場に置いてよい。",
+  "Flavor": "SECRET\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
+}

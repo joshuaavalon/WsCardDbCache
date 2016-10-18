@@ -1,0 +1,19 @@
+{
+  "Name": "全力疾走 ザフィーラ",
+  "Serial": "N2/W25-077",
+  "Rarity": "C",
+  "Expansion": "魔法少女リリカルなのは The MOVIE 2nd A's",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "使い魔",
+  "SecondChara": "動物",
+  "Text": "-",
+  "Flavor": "すぐに局の魔導師が来る…。\n手早く押さえるぞ！\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_077.gif"
+}
