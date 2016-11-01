@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたの手札が相手の手札より少ないなら、このカードのレベルを＋1し、パワーを＋2500。\n【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
-  "Flavor": "さりげなく撮ったら？\n",
+  "Flavor": "さりげなく撮ったら？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_013.gif"
 }

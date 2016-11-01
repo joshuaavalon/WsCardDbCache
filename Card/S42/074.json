@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "敵艦隊、発見したかも！\n艦隊、戦闘よーい！\n",
+  "Flavor": "敵艦隊、発見したかも！\n艦隊、戦闘よーい！",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_074.gif"
 }

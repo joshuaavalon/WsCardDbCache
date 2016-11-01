@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたの山札が5枚以上なら、あなたは自分の控え室のカードを2枚まで選び、山札に戻し、その山札をシャッフルする。このカードを思い出にする。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_072.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードがフロントアタックした時、クライマックス置場に「ＶＳイノブタ」があり、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

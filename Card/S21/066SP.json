@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "スポーツ",
   "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

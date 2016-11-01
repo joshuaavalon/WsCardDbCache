@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【自】 他のあなたの赤のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Star!!」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_059.gif"
 }

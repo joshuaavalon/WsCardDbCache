@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "お菓子",
   "Text": "【自】［(3)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、 あなたは自分の山札を見てレベル1以下の《お菓子》のキャラを1枚まで選び、後列の好きな枠に置く。その山札をシャッフルする。",
-  "Flavor": "おーい、こっちこっちー\n",
+  "Flavor": "おーい、こっちこっちー",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_01.gif"
 }

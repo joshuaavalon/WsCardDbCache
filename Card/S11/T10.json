@@ -1,8 +1,8 @@
 {
   "Name": "コーデリア・グラウカ",
-  "Serial": "MK/S11-T10",
+  "Serial": "MK/S11-T10_",
   "Rarity": "TD",
-  "Expansion": "2011年度トライアルデッキ【S】",
+  "Expansion": "2010年度トライアルデッキ【S】",
   "Side": "S",
   "Color": "Blue",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "スポーツ",
   "Text": "-",
-  "Flavor": "それじゃみんな手をつないで\n",
+  "Flavor": "こんな所にいたのね。ほら、早く行きましょう！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t10_2.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t10.gif"
 }

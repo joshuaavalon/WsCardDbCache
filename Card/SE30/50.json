@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（【ドロー】：このカードがトリガーした時、あなたは1枚引いてよい）",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "Book",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_50.gif"
 }

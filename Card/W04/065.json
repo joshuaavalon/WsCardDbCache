@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "武器",
   "Text": "-",
-  "Flavor": "こちらにいらしたのは『帰還』ですか……？\nそれとも『反逆』ですか……？\n",
+  "Flavor": "こちらにいらしたのは『帰還』ですか……？\nそれとも『反逆』ですか……？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_065.gif"
 }

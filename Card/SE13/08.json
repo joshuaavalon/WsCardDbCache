@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "武器",
   "Text": "【永】 あなたの手札が4枚以下なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "僕はそいつらを側面から襲って叩く\n",
+  "Flavor": "僕はそいつらを側面から襲って叩く",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_08.gif"
 }

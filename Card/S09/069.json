@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "エレメント",
   "Text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
-  "Flavor": "全ての炎は私によって制御される\n",
+  "Flavor": "全ての炎は私によって制御される",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_069.gif"
 }

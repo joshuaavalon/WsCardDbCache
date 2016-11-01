@@ -13,7 +13,7 @@
   "FirstChara": "委員長",
   "SecondChara": "双子",
   "Text": "【起】［(1)］ 次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。",
-  "Flavor": "…そんなに人付き合い苦手そうに見える？\n",
+  "Flavor": "…そんなに人付き合い苦手そうに見える？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_e11.gif"
 }

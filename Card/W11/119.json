@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "生徒会",
   "Text": "【永】あなたのターン中、このカードのパワーを+1000。",
-  "Flavor": "ここからどうするの？\n",
+  "Flavor": "ここからどうするの？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w11_119.gif"
 }

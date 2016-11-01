@@ -13,7 +13,7 @@
   "FirstChara": "和服",
   "SecondChara": "武器",
   "Text": "【永】他のあなたのキャラがいないなら、このカードのレベルを+1し、パワーを+1500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_47.gif"
 }

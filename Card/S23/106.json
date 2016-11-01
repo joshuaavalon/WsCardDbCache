@@ -13,7 +13,7 @@
   "FirstChara": "パイロット",
   "SecondChara": "",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "この展開、ついていけないんだけど…\n",
+  "Flavor": "この展開、ついていけないんだけど…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_106.gif"
 }

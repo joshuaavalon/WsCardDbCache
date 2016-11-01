@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【自】 相手がレベルアップした時、このカードを控え室に置く。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_12.gif"
 }

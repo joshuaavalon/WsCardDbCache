@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "そのスキは見逃さねぇぇぇ！！\n",
+  "Flavor": "そのスキは見逃さねぇぇぇ！！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_062.gif"
 }

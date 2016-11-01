@@ -13,7 +13,7 @@
   "FirstChara": "パイロット",
   "SecondChara": "軍隊",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《軍隊》のキャラを1枚選び、【レスト】する。",
-  "Flavor": "協力関係を探るのが得策だと思う\n",
+  "Flavor": "協力関係を探るのが得策だと思う",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_080.gif"
 }

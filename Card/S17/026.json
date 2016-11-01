@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_026.gif"
 }

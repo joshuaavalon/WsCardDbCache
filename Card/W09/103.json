@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "先生",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「枯れない桜」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "そう。キミはこの桜の魔法が引き起こした奇跡\n",
+  "Flavor": "そう。キミはこの桜の魔法が引き起こした奇跡",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_103.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "そこ！ 遅いです！\n",
+  "Flavor": "そこ！ 遅いです！",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_101.gif"
 }

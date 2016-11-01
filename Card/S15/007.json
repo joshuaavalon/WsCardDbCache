@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "血",
   "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_007.gif"
 }

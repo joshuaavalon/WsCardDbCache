@@ -13,7 +13,7 @@
   "FirstChara": "メガネ",
   "SecondChara": "探偵",
   "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「名案」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び手札に戻し、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "こういうのはどうでしょうか？\n",
+  "Flavor": "こういうのはどうでしょうか？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_006.gif"
 }

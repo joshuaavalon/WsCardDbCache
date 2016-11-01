@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】［(5)］ このカードがアタックした時、クライマックス置場に「約束された勝利の剣」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラすべてを、ストック置場に置く。",
-  "Flavor": "――――風よ\n",
+  "Flavor": "――――風よ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_018.gif"
 }

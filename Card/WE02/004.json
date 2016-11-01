@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\nそのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
-  "Flavor": "だって、この先に明るい未来なんてないんですから\n",
+  "Flavor": "だって、この先に明るい未来なんてないんですから",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we02_004.gif"
 }

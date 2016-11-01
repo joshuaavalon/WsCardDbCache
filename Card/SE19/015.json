@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上から4枚まで見て、《謎》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。このカードをクロック置場に置く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/woo_se19_015.gif"
 }

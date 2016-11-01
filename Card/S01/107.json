@@ -13,7 +13,7 @@
   "FirstChara": "手袋",
   "SecondChara": "メガネ",
   "Text": "【起】[(4)] あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の上に置く。",
-  "Flavor": "諒「終わらせる。 今度こそ、本当に」\n",
+  "Flavor": "諒「終わらせる。 今度こそ、本当に」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_107.gif"
 }

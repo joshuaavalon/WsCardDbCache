@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《魔法》のキャラの枚数に等しい。",
-  "Flavor": "その全てに…感謝します\nありがとう\n",
+  "Flavor": "その全てに…感謝します\nありがとう",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_094.gif"
 }

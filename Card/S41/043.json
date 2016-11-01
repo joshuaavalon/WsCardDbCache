@@ -13,7 +13,7 @@
   "FirstChara": "６つ子",
   "SecondChara": "まゆげ",
   "Text": "【永】 あなたのカード名に「松」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてがカード名に「松」を含むなら、このカードのパワーを＋3000。",
-  "Flavor": "分かった。こうか\n",
+  "Flavor": "分かった。こうか",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_043.gif"
 }

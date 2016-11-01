@@ -13,7 +13,7 @@
   "FirstChara": "霊",
   "SecondChara": "",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
-  "Flavor": "かつて私は…小学校のスターだった！\n",
+  "Flavor": "かつて私は…小学校のスターだった！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_57.gif"
 }

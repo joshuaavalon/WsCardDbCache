@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "カメラ",
   "Text": "【自】 アンコール 〔手札のキャラを1枚控え室に置く〕（このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。 そうしたらこのカードがいた枠に【レスト】して置く）",
-  "Flavor": "ファイトです！！\n",
+  "Flavor": "ファイトです！！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_110.gif"
 }

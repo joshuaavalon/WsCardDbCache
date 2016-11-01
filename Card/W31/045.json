@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "生徒会",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「舞い降りる天使」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "あなたがそうしたければ、どうぞお好きに\n",
+  "Flavor": "あなたがそうしたければ、どうぞお好きに",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_045.gif"
 }

@@ -1,8 +1,8 @@
 {
   "Name": "合同捜査 小衣＆シャロ",
-  "Serial": "MK/S11-T02",
+  "Serial": "MK/S11-T02_",
   "Rarity": "TD",
-  "Expansion": "2011年度トライアルデッキ【S】",
+  "Expansion": "2010年度トライアルデッキ【S】",
   "Side": "S",
   "Color": "Red",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "警察",
   "Text": "【自】 ［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、相手の「合同捜査 小衣＆シャロ」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手と勝負が付くまでじゃんけんし、勝ったプレイヤーは1枚引く。",
-  "Flavor": "シャロ「ココロちゃん！一緒に手がかりを見つけようね！」\n小衣「ココロちゃんって言うな～！」\n",
+  "Flavor": "シャロ「ココロちゃん！一緒に手がかりを見つけようね！」\n小衣「ココロちゃんって言うな～！」",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t02_2.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t02.gif"
 }

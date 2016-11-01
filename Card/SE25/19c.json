@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、あなたの前列の中央の枠にカード名に「ユーマ」か「ソニア」か「キリカ」を含むキャラがいないなら、手札からプレイできない。\n【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-  "Flavor": "強くなる、みんなの力で！\n",
+  "Flavor": "強くなる、みんなの力で！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sr_se25_19c.gif"
 }

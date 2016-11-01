@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "謎",
   "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【起】［(1) このカードを【レスト】する］ あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。",
-  "Flavor": "行ってくる\n",
+  "Flavor": "行ってくる",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_019.gif"
 }

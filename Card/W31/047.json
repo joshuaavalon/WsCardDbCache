@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "生徒会",
   "Text": "【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《死》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、ストック置場に置く。",
-  "Flavor": "ふ…神のなせる業だ\n",
+  "Flavor": "ふ…神のなせる業だ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_047.gif"
 }

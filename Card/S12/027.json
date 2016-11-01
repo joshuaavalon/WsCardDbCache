@@ -13,7 +13,7 @@
   "FirstChara": "パイロット",
   "SecondChara": "メガネ",
   "Text": "【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "がぁぁぁ……\n",
+  "Flavor": "がぁぁぁ……",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_027.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。",
-  "Flavor": "お別れの挨拶は終わった？\n",
+  "Flavor": "お別れの挨拶は終わった？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_070.gif"
 }

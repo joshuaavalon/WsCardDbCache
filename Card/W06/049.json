@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【プール】：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）",
-  "Flavor": "メール、届きましたか？\n",
+  "Flavor": "メール、届きましたか？",
   "Trigger": "Bag",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_049.gif"
 }

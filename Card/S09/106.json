@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "鍵",
   "Text": "【起】［(1)］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "まかせて。きっとうまくいくから\n",
+  "Flavor": "まかせて。きっとうまくいくから",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_106.gif"
 }

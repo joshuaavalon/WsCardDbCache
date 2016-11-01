@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "本",
   "Text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、レベルを＋1し、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《本》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

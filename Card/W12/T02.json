@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分のカード名に「八神」を含むキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "レヴァンティン、たたっ斬れ！！\n",
+  "Flavor": "レヴァンティン、たたっ斬れ！！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_t02.gif"
 }

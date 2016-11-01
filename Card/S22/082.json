@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "水着",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\n【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_082.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見て《先生》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を2枚選び、控え室に置く。",
-  "Flavor": "…お願い、助けて…\n",
+  "Flavor": "…お願い、助けて…",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_095.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_079.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "炎",
   "SecondChara": "武器",
   "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-  "Flavor": "仲間はいないわ\n",
+  "Flavor": "仲間はいないわ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_t10.gif"
 }

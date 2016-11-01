@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "マネージャー",
   "Text": "【起】［(1) このカードを【レスト】する］ あなたは相手の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。",
-  "Flavor": "…アタシといるのに、他の子としゃべっちゃダメ！\n",
+  "Flavor": "…アタシといるのに、他の子としゃべっちゃダメ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_088.gif"
 }

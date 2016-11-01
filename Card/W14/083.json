@@ -13,7 +13,7 @@
   "FirstChara": "炎",
   "SecondChara": "眼帯",
   "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードは次の能力を得る。『【起】［(1)］ そのターン中、このカードはサイドアタックしてもソウルが減少しない。』",
-  "Flavor": "久方ぶりだねえ。天壌の劫火、それに万条の仕手\n",
+  "Flavor": "久方ぶりだねえ。天壌の劫火、それに万条の仕手",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_083.gif"
 }

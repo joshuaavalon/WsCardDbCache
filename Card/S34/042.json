@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "黙って見てりゃいいんだろ。誰も手出しはしねぇよ\n",
+  "Flavor": "黙って見てりゃいいんだろ。誰も手出しはしねぇよ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_042.gif"
 }

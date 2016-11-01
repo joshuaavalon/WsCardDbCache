@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "スポーツ",
   "Text": "【永】あなたの手札が相手の手札より多いなら、このカードのパワーを+1000。",
-  "Flavor": "さあ、みんな！ 行くわよ！\n",
+  "Flavor": "さあ、みんな！ 行くわよ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_119.gif"
 }

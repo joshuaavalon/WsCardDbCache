@@ -13,7 +13,7 @@
   "FirstChara": "メガネ",
   "SecondChara": "動物",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《動物》か《煩悩》のキャラの枚数×500に等しい。",
-  "Flavor": "いらっしゃいませぇ(記号：ハート)\n",
+  "Flavor": "いらっしゃいませぇ(記号：ハート)",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_090.gif"
 }

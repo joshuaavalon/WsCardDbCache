@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "お菓子",
   "Text": "【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「Project:Krone」があるなら、そのターン中、このカードのパワーを＋4500。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_098.gif"
 }

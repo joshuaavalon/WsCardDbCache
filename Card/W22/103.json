@@ -13,7 +13,7 @@
   "FirstChara": "鍵",
   "SecondChara": "武器",
   "Text": "【起】［(2) あなたの舞台の「守るための力 あおい」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一つになった二人 ビビッドブルー」を1枚選び、このカードがいた枠に置く。",
-  "Flavor": "なんか、ビビってきたの！\n",
+  "Flavor": "なんか、ビビってきたの！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/vr_w22_103.gif"
 }

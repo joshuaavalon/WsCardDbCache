@@ -13,7 +13,7 @@
   "FirstChara": "錬金術",
   "SecondChara": "メカ",
   "Text": "【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "これより侵入個体を賢者の石に変換する――――！！\n",
+  "Flavor": "これより侵入個体を賢者の石に変換する――――！！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_045.gif"
 }

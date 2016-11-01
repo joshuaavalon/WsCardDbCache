@@ -13,7 +13,7 @@
   "FirstChara": "令嬢",
   "SecondChara": "鍵",
   "Text": "【永】 あなたの、《武器》か《令嬢》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの、《武器》か《令嬢》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-  "Flavor": "「SECRET」\n",
+  "Flavor": "「SECRET」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "占い",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
-  "Flavor": "カードがウチにそう告げるんや！！\n",
+  "Flavor": "カードがウチにそう告げるんや！！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_028.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "うさぎ",
   "Text": "【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のカード名に「チノ」を含むキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_083.gif"
 }

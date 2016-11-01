@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\nこのカードは、あなたの《人形》のキャラがいないなら、手札からプレイできない。あなたは相手の前列のレベル1以下のキャラを1枚選び、ストック置場に置く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_030.gif"
 }

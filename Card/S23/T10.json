@@ -13,7 +13,7 @@
   "FirstChara": "パイロット",
   "SecondChara": "軍隊",
   "Text": "【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを思い出にする。（公開したカードは元に戻す）",
-  "Flavor": "こいつら何者だ？\n",
+  "Flavor": "こいつら何者だ？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_t10.gif"
 }

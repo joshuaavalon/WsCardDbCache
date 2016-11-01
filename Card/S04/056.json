@@ -13,7 +13,7 @@
   "FirstChara": "悪魔",
   "SecondChara": "魔法",
   "Text": "【永】 他のあなたの後列のカード名に「ファークリン」を含むキャラ1枚につき、このカードのパワーを＋500。",
-  "Flavor": "これも天才のなせるワザかしら\n",
+  "Flavor": "これも天才のなせるワザかしら",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_056.gif"
 }

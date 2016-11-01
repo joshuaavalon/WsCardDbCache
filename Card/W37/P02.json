@@ -13,7 +13,7 @@
   "FirstChara": "変身",
   "SecondChara": "宇宙人",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-  "Flavor": "モモ「ヤ―ミさん♪」\n",
+  "Flavor": "モモ「ヤ―ミさん♪」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w37_p02.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "王族",
   "Text": "【永】 他のあなたの、《勇者》か《王族》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《勇者》か《王族》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_09.gif"
 }

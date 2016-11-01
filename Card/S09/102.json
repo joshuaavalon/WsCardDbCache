@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-  "Flavor": "今戻った。マスターはおられるか\n",
+  "Flavor": "今戻った。マスターはおられるか",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_102.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《マスター》か《サーヴァント》のキャラの枚数×500に等しい。",
-  "Flavor": "ここで消えろ\n",
+  "Flavor": "ここで消えろ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_062.gif"
 }

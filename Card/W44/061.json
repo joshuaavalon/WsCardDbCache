@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "パン",
   "Text": "【永】 このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_061.gif"
 }

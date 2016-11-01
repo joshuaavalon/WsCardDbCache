@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "ぽこん！　魔法戦なら私の出番ね\n",
+  "Flavor": "ぽこん！　魔法戦なら私の出番ね",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_064.gif"
 }

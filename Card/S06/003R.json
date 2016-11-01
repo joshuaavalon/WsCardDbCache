@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【永】 他のあなたの前列のキャラが1枚以下なら、このカードのソウルを＋1。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

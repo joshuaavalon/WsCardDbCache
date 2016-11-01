@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "正規空母",
   "Text": "【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《艦娘》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

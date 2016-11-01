@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "ホムンクルス",
   "Text": "【永】 他のあなたの「“強靭な意思”バーサーカー」すべてに、パワーを＋1000。\n【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_080.gif"
 }

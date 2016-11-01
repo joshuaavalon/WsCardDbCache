@@ -13,7 +13,7 @@
   "FirstChara": "ストライカー",
   "SecondChara": "空手",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。",
-  "Flavor": "隊長 こっちでいっしょに花火しないか？\n",
+  "Flavor": "隊長 こっちでいっしょに花火しないか？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_035.gif"
 }

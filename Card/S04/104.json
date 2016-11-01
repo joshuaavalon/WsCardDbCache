@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【永】 他のあなたの《武器》のキャラすべてに、パワーを+500。",
-  "Flavor": "シリル「うまくやれるといいんだけど…」\n",
+  "Flavor": "シリル「うまくやれるといいんだけど…」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_104.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「破魔の紅薔薇」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

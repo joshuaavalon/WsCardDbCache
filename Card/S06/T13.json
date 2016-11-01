@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "眼帯",
   "Text": "【永】 他のあなたの《武器》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【自】 他のあなたの《眼帯》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "鬼にかなうヤツなんか、この世にいやしねえのさ\n",
+  "Flavor": "鬼にかなうヤツなんか、この世にいやしねえのさ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_t13.gif"
 }

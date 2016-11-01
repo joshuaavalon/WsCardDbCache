@@ -13,7 +13,7 @@
   "FirstChara": "能力者",
   "SecondChara": "生徒会",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《能力者》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
-  "Flavor": "では乙坂さんにはこのおまじないー！\n",
+  "Flavor": "では乙坂さんにはこのおまじないー！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_067.gif"
 }

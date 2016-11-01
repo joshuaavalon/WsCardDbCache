@@ -13,7 +13,7 @@
   "FirstChara": "バジュラ",
   "SecondChara": "",
   "Text": "【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の《バジュラ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_040.gif"
 }

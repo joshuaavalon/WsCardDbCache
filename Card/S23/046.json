@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上から3枚まで見て、緑のカードを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "この状況の必然性を問う。この状況の……\n",
+  "Flavor": "この状況の必然性を問う。この状況の……",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_046.gif"
 }

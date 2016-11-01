@@ -13,7 +13,7 @@
   "FirstChara": "おでん",
   "SecondChara": "",
   "Text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが黄のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
-  "Flavor": "いちいち手間だからお財布ちょうだい\n",
+  "Flavor": "いちいち手間だからお財布ちょうだい",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_007.gif"
 }

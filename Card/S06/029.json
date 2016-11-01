@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "日輪",
   "Text": "【永】 応援 このカードの前のあなたのコスト0以下のキャラすべてに、パワーを＋1000。\n【永】 アラーム このカードがクロックの1番上にあるなら、あなたのコスト0以下のキャラすべてに、パワーを＋1000。",
-  "Flavor": "行け、そなたらの死の先に勝利あり\n",
+  "Flavor": "行け、そなたらの死の先に勝利あり",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_029.gif"
 }

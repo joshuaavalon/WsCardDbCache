@@ -13,7 +13,7 @@
   "FirstChara": "タロット",
   "SecondChara": "スポーツ",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、相手は自分の山札を上から1枚見て、山札の上に置くか手札に加える。（公開したカードは元に戻す）",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

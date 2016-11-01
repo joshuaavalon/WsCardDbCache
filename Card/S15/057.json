@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "文房具",
   "Text": "【永】 他のあなたの《怪異》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「ひたぎクラブ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_057.gif"
 }

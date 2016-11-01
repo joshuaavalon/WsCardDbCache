@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見て『チェンジ』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "ミサト「あれが、ダミーシステム……」\n",
+  "Flavor": "ミサト「あれが、ダミーシステム……」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_096.gif"
 }

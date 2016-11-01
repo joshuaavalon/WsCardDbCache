@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
-  "Flavor": "星の息吹よ…！\n",
+  "Flavor": "星の息吹よ…！",
   "Trigger": "Wind",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_023.gif"
 }

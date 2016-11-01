@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "ハピハピ",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。\n【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_t03.gif"
 }

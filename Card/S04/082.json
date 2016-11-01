@@ -13,7 +13,7 @@
   "FirstChara": "本",
   "SecondChara": "動物",
   "Text": "【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見る。（見たカードは元に戻す）",
-  "Flavor": "ジラ「もう1人のマスターが、シリルなの」\n",
+  "Flavor": "ジラ「もう1人のマスターが、シリルなの」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_082.gif"
 }

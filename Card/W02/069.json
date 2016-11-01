@@ -12,8 +12,8 @@
   "Type": "Event",
   "FirstChara": "",
   "SecondChara": "",
-  "Text": "あなたは相手の前列のキャラを1枚選び、控え室に置く。",
-  "Flavor": "…これからは…楽しいことがたくさん待ってんのかな\n",
+  "Text": "あなたは相手の前列のキャラを1枚選び、控え室に置く。　",
+  "Flavor": "…これからは…楽しいことがたくさん待ってんのかな",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_069.gif"
 }

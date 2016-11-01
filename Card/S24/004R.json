@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "血",
   "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

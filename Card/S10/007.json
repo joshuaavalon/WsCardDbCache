@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの前列の《血》のキャラが2枚以上なら、このカードのパワーを＋1500。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。",
-  "Flavor": "決める！\n",
+  "Flavor": "決める！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_007.gif"
 }

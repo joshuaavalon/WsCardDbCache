@@ -13,7 +13,7 @@
   "FirstChara": "タロット",
   "SecondChara": "スポーツ",
   "Text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの《タロット》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "持ってて欲しい……花苗のものだから……\n",
+  "Flavor": "持ってて欲しい……花苗のものだから……",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_082.gif"
 }

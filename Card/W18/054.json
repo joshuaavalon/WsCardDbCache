@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "生徒会",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「孤高のカトレア」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
-  "Flavor": "助けに来たわよ、ピーター・パン♪\n",
+  "Flavor": "助けに来たわよ、ピーター・パン♪",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_054.gif"
 }

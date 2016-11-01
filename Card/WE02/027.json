@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "ヴァルキリー",
   "Text": "【起】[あなたの《神》のキャラを2枚【レスト】する] そのターン中、このカードのソウルを+1。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we02_027.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "葬儀社",
   "Text": "【自】 絆／「添い寝するいのり」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「添い寝するいのり」を1枚選び、手札に戻す）",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_058.gif"
 }

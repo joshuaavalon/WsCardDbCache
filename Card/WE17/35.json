@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "鍛冶",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、《武器》を与える。",
-  "Flavor": "朝から賑やかだね\n",
+  "Flavor": "朝から賑やかだね",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_35.gif"
 }

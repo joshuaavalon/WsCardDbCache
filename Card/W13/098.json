@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "ふんだ、とうまのばか。向こう見ず\n",
+  "Flavor": "ふんだ、とうまのばか。向こう見ず",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_098.gif"
 }

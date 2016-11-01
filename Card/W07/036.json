@@ -13,7 +13,7 @@
   "FirstChara": "暗黒街",
   "SecondChara": "",
   "Text": "【自】［(4)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを＋6。",
-  "Flavor": "……あなたはステキよ…\n",
+  "Flavor": "……あなたはステキよ…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_036.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "アーチャー「…少しばかり、本業に戻りすぎたようだ」\n",
+  "Flavor": "アーチャー「…少しばかり、本業に戻りすぎたようだ」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_009.gif"
 }

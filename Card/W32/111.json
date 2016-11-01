@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【自】 他のあなたの、《魔法》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "リインフォースさんもきっと…心配したりしないから\n",
+  "Flavor": "リインフォースさんもきっと…心配したりしないから",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w32_111.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

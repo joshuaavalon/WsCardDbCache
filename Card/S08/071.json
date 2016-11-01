@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上から2枚まで見て、キャラを2枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
-  "Flavor": "『走り出したペンは止まらない！』\n",
+  "Flavor": "『走り出したペンは止まらない！』",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_071.gif"
 }

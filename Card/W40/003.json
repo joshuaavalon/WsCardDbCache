@@ -13,7 +13,7 @@
   "FirstChara": "能力者",
   "SecondChara": "生徒会",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 他のあなたのバトル中の《能力者》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "あ、今日あいつ来ないっすよ\n",
+  "Flavor": "あ、今日あいつ来ないっすよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_003.gif"
 }

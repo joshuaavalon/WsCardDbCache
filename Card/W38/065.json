@@ -13,7 +13,7 @@
   "FirstChara": "ガール",
   "SecondChara": "スポーツ",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、相手は自分の控え室のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "あ、ゴールまで空いた？　行けるかな？\nよし、このまま行っちゃえ、それっ！\n",
+  "Flavor": "あ、ゴールまで空いた？　行けるかな？\nよし、このまま行っちゃえ、それっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gf_w38_065.gif"
 }

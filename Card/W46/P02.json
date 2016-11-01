@@ -13,7 +13,7 @@
   "FirstChara": "風南島",
   "SecondChara": "帽子",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《風南島》のキャラなら、そのターン中、このカードのソウルを＋1。",
-  "Flavor": "あっ、わたし、今、格好――\n",
+  "Flavor": "あっ、わたし、今、格好――",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_p02.gif"
 }

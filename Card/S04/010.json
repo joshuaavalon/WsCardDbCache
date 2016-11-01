@@ -13,7 +13,7 @@
   "FirstChara": "本",
   "SecondChara": "動物",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを2枚選び、【レスト】する。",
-  "Flavor": "ジラ「アタシは友だちのつもりなんだけど」\n",
+  "Flavor": "ジラ「アタシは友だちのつもりなんだけど」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_010.gif"
 }

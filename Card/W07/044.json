@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。\n相手のキャラすべてに、そのターン中、パワーを-1500。",
-  "Flavor": "了解……フェイズ２、開始\n",
+  "Flavor": "了解……フェイズ２、開始",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_044.gif"
 }

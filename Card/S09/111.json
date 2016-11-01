@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "竜",
   "Text": "【自】この能力は1ターンにつき2回まで発動する。 あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "おまえにオレ様が止められるかな\n",
+  "Flavor": "おまえにオレ様が止められるかな",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ft_s09_111.gif"
 }

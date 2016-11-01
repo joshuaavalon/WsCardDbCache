@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
-  "Flavor": "うふふ、今夜は微熱じゃすまなそう…\n",
+  "Flavor": "うふふ、今夜は微熱じゃすまなそう…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_051.gif"
 }

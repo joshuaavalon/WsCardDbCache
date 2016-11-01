@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。ターンの終わりに、そのキャラをストック置場に置く。",
-  "Flavor": "好代「やだねぇ。一応、毒じゃないものしか入れてませんよ」\n",
+  "Flavor": "好代「やだねぇ。一応、毒じゃないものしか入れてませんよ」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_017.gif"
 }

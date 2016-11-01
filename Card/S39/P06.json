@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "動物",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_p06.gif"
 }

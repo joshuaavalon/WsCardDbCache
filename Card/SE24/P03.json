@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
-  "Flavor": "イリヤ「もー、いい加減にしてよね！」\n",
+  "Flavor": "イリヤ「もー、いい加減にしてよね！」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_P03.gif"
 }

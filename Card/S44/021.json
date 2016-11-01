@@ -13,7 +13,7 @@
   "FirstChara": "キズナ",
   "SecondChara": "不思議",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×500に等しい。",
-  "Flavor": "友達って、そういうものですか？\n",
+  "Flavor": "友達って、そういうものですか？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_021.gif"
 }

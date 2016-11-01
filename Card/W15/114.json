@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "オカルト",
   "Text": "【起】［(1)］そのターン中、このカードのソウルを+1。",
-  "Flavor": "この一件、なかなか楽しめたわ\n",
+  "Flavor": "この一件、なかなか楽しめたわ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_114.gif"
 }

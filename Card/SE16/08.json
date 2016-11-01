@@ -13,7 +13,7 @@
   "FirstChara": "サマナー",
   "SecondChara": "音楽",
   "Text": "【永】 他のあなたのカード名に「ジュンゴ」を含むキャラがいるなら、このカードのパワーを＋2000し、ソウルを＋1。",
-  "Flavor": "あんたも行くのよ！\n",
+  "Flavor": "あんたも行くのよ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_08.gif"
 }

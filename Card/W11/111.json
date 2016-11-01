@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "武器",
   "Text": "【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "あたしは、本当に『神』がいるのなら、立ち向かいたいだけよ\n",
+  "Flavor": "あたしは、本当に『神』がいるのなら、立ち向かいたいだけよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w11_111.gif"
 }

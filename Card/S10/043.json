@@ -13,7 +13,7 @@
   "FirstChara": "盾",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの前列のカード名に「シオン」を含むキャラがいるなら、このカードのパワーを＋2000。",
-  "Flavor": "その身にまとった神秘、一切を打ち崩そう―――！\n",
+  "Flavor": "その身にまとった神秘、一切を打ち崩そう―――！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_043.gif"
 }

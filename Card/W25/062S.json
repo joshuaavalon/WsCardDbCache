@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【自】 あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしないなら、このカードを思い出にする。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

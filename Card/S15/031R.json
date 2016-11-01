@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "文房具",
   "Text": "【永】 経験 このカードのパワーを＋Ｘ。Ｘはあなたのレベル置場のカードのレベルの合計×500に等しい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

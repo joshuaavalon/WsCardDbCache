@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。\n【起】［(1) このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。",
-  "Flavor": "いくよ、バルディッシュ！\n",
+  "Flavor": "いくよ、バルディッシュ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_t05.gif"
 }

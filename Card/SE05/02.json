@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「天下布武の大号令」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
-  "Flavor": "余が直々に比良坂へ送ってくれようぞ…!!\n",
+  "Flavor": "余が直々に比良坂へ送ってくれようぞ…!!",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_02.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "鍵",
   "SecondChara": "音楽",
   "Text": "【永】 他のあなたの、《鍵》か《武器》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_p04.gif"
 }

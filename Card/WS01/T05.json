@@ -13,7 +13,7 @@
   "FirstChara": "カードゲーム",
   "SecondChara": "スポーツ",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《カードゲーム》のキャラの枚数×500に等しい。",
-  "Flavor": "そんなことよりカードゲームしよ！\n",
+  "Flavor": "そんなことよりカードゲームしよ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_t05.gif"
 }

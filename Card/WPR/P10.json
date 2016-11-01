@@ -12,8 +12,8 @@
   "Type": "Character",
   "FirstChara": "ビジュアルアーツ",
   "SecondChara": "怪異",
-  "Text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
-  "Flavor": "key開発室に栄光あれえぇ！！ ぎゃあぁあ！！！\n",
+  "Text": "【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。 ",
+  "Flavor": "key開発室に栄光あれえぇ！！ ぎゃあぁあ！！！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p10.gif"
 }

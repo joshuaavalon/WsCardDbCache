@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "メカ",
   "Text": "【起】［あなたの《メカ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "１０８部隊、ギンガ・ナカジマ陸曹です\n",
+  "Flavor": "１０８部隊、ギンガ・ナカジマ陸曹です",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_031.gif"
 }

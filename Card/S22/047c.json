@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "その閃光弾を打ち上げろ\n",
+  "Flavor": "その閃光弾を打ち上げろ",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_047c.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "手を伸ばせ　もっと高く　君と　君と　君と　さあ進もう\n",
+  "Flavor": "手を伸ばせ　もっと高く　君と　君と　君と　さあ進もう",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_000.gif"
 }

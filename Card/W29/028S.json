@@ -13,7 +13,7 @@
   "FirstChara": "タロット",
   "SecondChara": "令嬢",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【永】 他のあなたの「朝日に輝く せいら」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「強い虚栄心 るな」を1枚選び、このカードがいた枠に置く。』",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

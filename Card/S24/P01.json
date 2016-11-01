@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "和服",
   "Text": "【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_p01.gif"
 }

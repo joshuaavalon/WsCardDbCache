@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "宝石",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 他のあなたの、《マスター》か《サーヴァント》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "いいから覚悟なさい！\n",
+  "Flavor": "いいから覚悟なさい！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_t19.gif"
 }

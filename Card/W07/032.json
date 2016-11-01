@@ -13,7 +13,7 @@
   "FirstChara": "暗黒街",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの《暗黒街》のキャラすべてに、パワーを＋500。\n【起】［(2)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-2500。",
-  "Flavor": "忠告くらいさせなよ。趣味なんだからさ \n",
+  "Flavor": "忠告くらいさせなよ。趣味なんだからさ ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_032.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "服",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
-  "Flavor": "やっと面白くなった\n",
+  "Flavor": "やっと面白くなった",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t17.gif"
 }

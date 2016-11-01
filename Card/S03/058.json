@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "武器",
   "Text": "【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。",
-  "Flavor": "行くわよ、士郎。打ち合わせ通りにね\n",
+  "Flavor": "行くわよ、士郎。打ち合わせ通りにね",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_058.gif"
 }

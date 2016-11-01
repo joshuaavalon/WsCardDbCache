@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のレベル1以下のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "クリスタ「はい！」\n",
+  "Flavor": "クリスタ「はい！」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot/s35_p03.gif"
 }

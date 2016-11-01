@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋1。\n【自】 アタックしているこのカードの与えたダメージがキャンセルされた時、クライマックス置場に「起源弾」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置いてよい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "新聞",
   "SecondChara": "スポーツ",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
-  "Flavor": "葛木さん！　助けてください！\n",
+  "Flavor": "葛木さん！　助けてください！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_084.gif"
 }

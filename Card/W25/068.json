@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【永】 他のあなたの、《魔法》か《本》のキャラが3枚以上なら、このカードのパワーを＋1500。",
-  "Flavor": "我らが主の事を…よろしく頼む\n",
+  "Flavor": "我らが主の事を…よろしく頼む",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_068.gif"
 }

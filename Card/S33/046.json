@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上から4枚まで見て、カード名に「アリス」か「カズミ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-  "Flavor": "桃怪盗「あなたのトイズ、本当に怪盗向きなのね」\n",
+  "Flavor": "桃怪盗「あなたのトイズ、本当に怪盗向きなのね」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_046.gif"
 }

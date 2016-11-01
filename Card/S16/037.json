@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "葬儀社",
   "Text": "【起】［(1)］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
-  "Flavor": "心配？裏切られたのに\n",
+  "Flavor": "心配？裏切られたのに",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_037.gif"
 }

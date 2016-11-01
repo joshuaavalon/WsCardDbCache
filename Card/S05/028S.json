@@ -13,7 +13,7 @@
   "FirstChara": "軍隊",
   "SecondChara": "オロチ",
   "Text": "【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

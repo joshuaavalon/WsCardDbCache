@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "動物",
   "Text": "【自】［(2)］ あなたのクライマックス置場に「入部宣言」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト0以下の《音楽》のキャラか、「アルパカ」を3枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

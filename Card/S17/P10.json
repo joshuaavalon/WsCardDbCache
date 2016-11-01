@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "王族",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《マスター》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "理想に準じてこそ王だ\n",
+  "Flavor": "理想に準じてこそ王だ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_p10.gif"
 }

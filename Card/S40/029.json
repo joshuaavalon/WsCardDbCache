@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔法》のキャラの枚数×500に等しい。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_029.gif"
 }

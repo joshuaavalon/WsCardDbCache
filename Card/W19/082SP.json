@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "武器",
   "Text": "【永】 記憶 あなたの思い出置場に「天羽々斬」があるなら、このカードのパワーを＋1500。\n【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

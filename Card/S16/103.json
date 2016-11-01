@@ -13,7 +13,7 @@
   "FirstChara": "葬儀社",
   "SecondChara": "武器",
   "Text": "【起】［(1)］ そのターン中、このカードのソウルを＋1。",
-  "Flavor": "全てを俺に預け、ただ俺の命令に従え\n",
+  "Flavor": "全てを俺に預け、ただ俺の命令に従え",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_103.gif"
 }

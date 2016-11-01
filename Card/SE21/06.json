@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《魔法》か《武器》のキャラの枚数×500に等しい。",
-  "Flavor": "ワフッ！\n",
+  "Flavor": "ワフッ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/PQ_SE21_06.gif"
 }

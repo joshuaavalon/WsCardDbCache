@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "影",
   "Text": "【永】 あなたのターン中、あなたの控え室に「“信義不倒”浅井 長政」があるなら、このカードのパワーを＋1500。",
-  "Flavor": "頑張るから…見ててね長政さま…\n",
+  "Flavor": "頑張るから…見ててね長政さま…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_007.gif"
 }

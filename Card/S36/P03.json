@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "サーヴァント",
   "Text": "【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは1枚引く。",
-  "Flavor": "凛「アーチャー！着地任せた！」\n",
+  "Flavor": "凛「アーチャー！着地任せた！」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_p03.gif"
 }

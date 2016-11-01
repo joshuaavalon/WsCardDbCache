@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の前列のレベル3以下のキャラを1枚まで選び、手札に戻し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）",
-  "Flavor": "ええい何を手間取っているのです！\n",
+  "Flavor": "ええい何を手間取っているのです！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_025.gif"
 }

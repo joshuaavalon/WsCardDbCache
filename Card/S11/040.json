@@ -13,7 +13,7 @@
   "FirstChara": "警察",
   "SecondChara": "武器",
   "Text": "【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。",
-  "Flavor": "柔道、剣道、合気道などを嗜んでおります\n",
+  "Flavor": "柔道、剣道、合気道などを嗜んでおります",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_040.gif"
 }

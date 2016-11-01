@@ -13,7 +13,7 @@
   "FirstChara": "悪魔",
   "SecondChara": "魔法",
   "Text": "【自】 あなたのクライマックス置場に「いつかラ・ヴァースになる！」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト1以下の《動物》のキャラを1枚まで選び、手札に戻すか、舞台の好きな枠に【レスト】して置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

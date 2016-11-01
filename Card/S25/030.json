@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "潜水空母",
   "Text": "【自】 このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
-  "Flavor": "潜ります？潜っちゃいます？\n",
+  "Flavor": "潜ります？潜っちゃいます？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_030.gif"
 }

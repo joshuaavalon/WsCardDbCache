@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "先生",
   "Text": "【永】 他のあなたの《ぷよ》のキャラすべてに、パワーを＋1000。",
-  "Flavor": "たいへん　よくできました\n",
+  "Flavor": "たいへん　よくできました",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_t17.gif"
 }

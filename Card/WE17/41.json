@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "神",
   "Text": "【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋1000。",
-  "Flavor": "救命訓練に移るでござるよ～\n",
+  "Flavor": "救命訓練に移るでござるよ～",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_41.gif"
 }

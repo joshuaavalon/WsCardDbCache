@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "それは義之くん相手だからだよ\n",
+  "Flavor": "それは義之くん相手だからだよ",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_50.gif"
 }

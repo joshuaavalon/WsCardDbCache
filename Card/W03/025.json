@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-  "Flavor": "君ではルイズを守れない\n",
+  "Flavor": "君ではルイズを守れない",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_025.gif"
 }

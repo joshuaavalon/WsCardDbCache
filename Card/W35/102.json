@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "チーズ",
   "Text": "【起】【カウンター】 助太刀4000 レベル2 [(2) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋4000）",
-  "Flavor": "なぎさはチーズが食べたかっただけなのです\n",
+  "Flavor": "なぎさはチーズが食べたかっただけなのです",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_102.gif"
 }

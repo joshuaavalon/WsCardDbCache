@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "武器",
   "Text": "【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。\n【永】 相手のターン中、このカードのパワーを＋1000。",
-  "Flavor": "主伝導システム、混戦！流動中！\n",
+  "Flavor": "主伝導システム、混戦！流動中！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ev_s12_091.gif"
 }

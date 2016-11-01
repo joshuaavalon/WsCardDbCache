@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の山札を上から1枚見て、山札の上か下に置く。このカードをストック置場に置く。",
-  "Flavor": "小林「大丈夫かい、エルキュール？」\n",
+  "Flavor": "小林「大丈夫かい、エルキュール？」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_046.gif"
 }

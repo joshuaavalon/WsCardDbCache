@@ -13,7 +13,7 @@
   "FirstChara": "宝石",
   "SecondChara": "",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。",
-  "Flavor": "別に気にしないで\n",
+  "Flavor": "別に気にしないで",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_008.gif"
 }

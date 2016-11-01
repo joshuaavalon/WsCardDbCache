@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "武器",
   "Text": "【自】 あなたがレベルアップした時、このカードを控え室に置く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_055.gif"
 }

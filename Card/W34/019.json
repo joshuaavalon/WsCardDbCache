@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「心残り」があり、他のあなたの、「“Snow halation”東條 希」と「“Snow halation”矢澤 にこ」がいるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/LL_W34_019.gif"
 }

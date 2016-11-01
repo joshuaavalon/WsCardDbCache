@@ -13,7 +13,7 @@
   "FirstChara": "ストライカー",
   "SecondChara": "オッドアイ",
   "Text": "【永】 他のあなたの、「緋ノ宮 二穂」と「“S”灰島 華賀利」すべてに、パワーを＋500。\n【永】 他のあなたの「灰島 華賀利」がいるなら、他のあなたの赤のキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

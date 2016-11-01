@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "",
   "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\n【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "レノンが手紙持ってきたぞ！　久しぶりだな！\n",
+  "Flavor": "レノンが手紙持ってきたぞ！　久しぶりだな！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w21_004.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "６つ子",
   "SecondChara": "ギャンブル",
   "Text": "【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "カラ松これ食べる？\n",
+  "Flavor": "カラ松これ食べる？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/oms_s41_056.gif"
 }

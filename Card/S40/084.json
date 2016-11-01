@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "魔法",
   "Text": "【永】 他のあなたの《魔法》のキャラが2枚以下なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_084.gif"
 }

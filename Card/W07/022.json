@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】　あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "アイン「持ち方は……こう。トリガーには指を掛けないで」\n",
+  "Flavor": "アイン「持ち方は……こう。トリガーには指を掛けないで」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_022.gif"
 }

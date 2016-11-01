@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "メガネ",
   "Text": "【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-070.gif"
 }

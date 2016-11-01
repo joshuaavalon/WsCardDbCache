@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "本",
   "Text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《ぷよ》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "まっ、実力だね\n",
+  "Flavor": "まっ、実力だね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_076.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "超能力",
   "SecondChara": "",
   "Text": "【永】 あなたのターン中、他のあなたの《超能力》のキャラが2枚以上なら、このカードのレベルを＋3し、パワーを＋2500。\n【自】［(4)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードとバトル中のキャラを【リバース】する。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

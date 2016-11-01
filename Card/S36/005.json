@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
-  "Flavor": "貴方たちの勝利だ凛\n",
+  "Flavor": "貴方たちの勝利だ凛",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_005.gif"
 }

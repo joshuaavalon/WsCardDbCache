@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\n【自】 このカードがサイドアタックした時、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_035.gif"
 }

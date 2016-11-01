@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の【スタンド】している《音楽》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の控え室のレベル0以下のキャラを2枚まで選び、舞台の別々の枠に置く。\nこのカードを思い出にする。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/IM-S30-071.gif"
 }

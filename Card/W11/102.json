@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "科学",
   "Text": "【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。",
-  "Flavor": "未来へ届け\n",
+  "Flavor": "未来へ届け",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_102.gif"
 }

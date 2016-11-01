@@ -1,8 +1,8 @@
 {
   "Name": "ちぇりおー！",
-  "Serial": "KG/SE07-42",
+  "Serial": "KG/SE07-42_",
   "Rarity": "C",
-  "Expansion": "刀語",
+  "Expansion": "【エクストラトライアル】刀語",
   "Side": "S",
   "Color": "Red",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "TwoSoul",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_42.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_42t.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "カードゲーム",
   "SecondChara": "音楽",
   "Text": "【永】 他のあなたの《カードゲーム》のキャラすべてに、パワーを＋500。\n【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "いっしょにバンドしよ！\n",
+  "Flavor": "いっしょにバンドしよ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cgs_ws01_t13.gif"
 }

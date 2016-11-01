@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見てカード名に「由多」を含むキャラを1枚までとカード名に「穂乃香」を含むキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
-  "Flavor": "天河「……どうすっかこれ」\n",
+  "Flavor": "天河「……どうすっかこれ」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_047.gif"
 }

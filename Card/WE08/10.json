@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-  "Flavor": "兄さんの反応が面白いから、つい調子に乗っちゃった\n",
+  "Flavor": "兄さんの反応が面白いから、つい調子に乗っちゃった",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_10.gif"
 }

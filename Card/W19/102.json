@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
-  "Flavor": "…剣に、そんな感情など備わっていません…\n",
+  "Flavor": "…剣に、そんな感情など備わっていません…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w19_102.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【永】 他のあなたのキャラが2枚以下なら、このカードのパワーを＋2000。",
-  "Flavor": "３人で戦えば、そう簡単にやられたりしない！\n",
+  "Flavor": "３人で戦えば、そう簡単にやられたりしない！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_006.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "パン",
   "Text": "【永】 他のあなたの、《ラビットハウス》か《パン》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_t08.gif"
 }

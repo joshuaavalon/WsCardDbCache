@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「《絶剣》の最期」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
-  "Flavor": "はあっ！\n",
+  "Flavor": "はあっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se26_05.gif"
 }

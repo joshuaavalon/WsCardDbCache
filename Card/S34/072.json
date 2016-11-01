@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
-  "Flavor": "これが私の家に伝わる魔術の結晶よ\n",
+  "Flavor": "これが私の家に伝わる魔術の結晶よ",
   "Trigger": "Door",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_072.gif"
 }

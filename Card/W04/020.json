@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を上から3枚まで見て、カード名に「フェイト」か「エリオ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。",
-  "Flavor": "それにしても……この案件はやはり素晴らしい……。\n",
+  "Flavor": "それにしても……この案件はやはり素晴らしい……。",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_020.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "生徒会",
   "SecondChara": "ネット",
   "Text": "【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "君、昼食は？\n",
+  "Flavor": "君、昼食は？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_013.gif"
 }

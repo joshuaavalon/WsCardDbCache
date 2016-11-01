@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "カメラ",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「シャーロックの膝枕」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "あなたが犯人ですね！\n",
+  "Flavor": "あなたが犯人ですね！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_052.gif"
 }

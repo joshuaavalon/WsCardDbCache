@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【自】 このカードが手札から舞台に置かれた時、他のあなたの、《魔法》か《本》のキャラが3枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000。",
-  "Flavor": "お前が…お前たちがいなければッッ！\n",
+  "Flavor": "お前が…お前たちがいなければッッ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_061.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手のキャラすべてを選び、それらのキャラ以外の相手のキャラすべてを、思い出にする。\nあなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_022.gif"
 }

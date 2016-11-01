@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "エレン「……今何してる……他の奴らも……どうなった……？」\n",
+  "Flavor": "エレン「……今何してる……他の奴らも……どうなった……？」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_085.gif"
 }

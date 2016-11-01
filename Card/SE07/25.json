@@ -13,7 +13,7 @@
   "FirstChara": "忍",
   "SecondChara": "愛",
   "Text": "【永】 経験 あなたのレベル置場に「真庭忍軍 真庭虫組」があるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【起】［(1)］ そのターン中、このカードのパワーを＋1000。』",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_25.gif"
 }

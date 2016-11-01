@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "先生",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。",
-  "Flavor": "侮ったなセイバー\n",
+  "Flavor": "侮ったなセイバー",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_080.gif"
 }

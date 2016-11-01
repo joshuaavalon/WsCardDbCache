@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "",
   "Text": "【起】［(1)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを-500。",
-  "Flavor": "100戦無敗\n",
+  "Flavor": "100戦無敗",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_042.gif"
 }

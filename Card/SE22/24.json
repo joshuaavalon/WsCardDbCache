@@ -13,7 +13,7 @@
   "FirstChara": "謎",
   "SecondChara": "ギガント",
   "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《ギガント》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "ここからすべてが始まる…\n",
+  "Flavor": "ここからすべてが始まる…",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/GST_SE22_24.gif"
 }

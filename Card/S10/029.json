@@ -13,7 +13,7 @@
   "FirstChara": "盾",
   "SecondChara": "武器",
   "Text": "【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "それには正直、思うところもある。\nだからここで決着をつけよう\n",
+  "Flavor": "それには正直、思うところもある。\nだからここで決着をつけよう",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mb_s10_029.gif"
 }

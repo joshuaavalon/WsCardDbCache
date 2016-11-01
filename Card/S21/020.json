@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
-  "Flavor": "輝いたステージに立てば　最高の気分を味わえる\n",
+  "Flavor": "輝いたステージに立てば　最高の気分を味わえる",
   "Trigger": "Wind",
   "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_020.gif"
 }

@@ -1,8 +1,8 @@
 {
   "Name": "奇策士 とがめ",
-  "Serial": "KG/SE07-36",
+  "Serial": "KG/SE07-36_",
   "Rarity": "C",
-  "Expansion": "刀語",
+  "Expansion": "【エクストラトライアル】刀語",
   "Side": "S",
   "Color": "Red",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "和服",
   "SecondChara": "",
   "Text": "-",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_36.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/kg_se07_36t.gif"
 }

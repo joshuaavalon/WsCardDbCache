@@ -13,7 +13,7 @@
   "FirstChara": "ウェイトレス",
   "SecondChara": "スポーツ",
   "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
-  "Flavor": "葵「明日もいい日になりますように！」\n",
+  "Flavor": "葵「明日もいい日になりますように！」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_p03.gif"
 }

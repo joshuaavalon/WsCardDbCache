@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "",
   "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋2000。\n【永】 相手の【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
-  "Flavor": "でもまぁそんな堅苦しく考える必要もないぞ\n",
+  "Flavor": "でもまぁそんな堅苦しく考える必要もないぞ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_090.gif"
 }

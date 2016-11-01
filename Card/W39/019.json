@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「大きな心配事」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_019.gif"
 }

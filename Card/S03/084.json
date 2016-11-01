@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "仮面",
   "Text": "【自】 このカードが舞台に置かれた時、あなたはこのカードか自分の「佐々木 小次郎」を1枚選び、控え室に置く。",
-  "Flavor": "おまえの心臓は、私が貰う\n",
+  "Flavor": "おまえの心臓は、私が貰う",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_084.gif"
 }

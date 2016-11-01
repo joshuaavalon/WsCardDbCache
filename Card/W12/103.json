@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "クローン",
   "Text": "【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
-  "Flavor": "『運命が、今静かに動き始めている――』\n",
+  "Flavor": "『運命が、今静かに動き始めている――』",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_103.gif"
 }

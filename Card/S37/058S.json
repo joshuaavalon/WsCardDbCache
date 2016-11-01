@@ -13,7 +13,7 @@
   "FirstChara": "ストライカー",
   "SecondChara": "不思議",
   "Text": "【自】 あなたのクライマックス置場に「穿けえっ！」が置かれた時、他のあなたの赤のキャラが4枚以上で、前列にこのカードがいるなら、あなたは自分の山札を見て「緋ノ宮 二穂」を1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのレベルを＋1し、パワーを＋2500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

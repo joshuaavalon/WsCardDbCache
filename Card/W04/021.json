@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 このカードは、あなたの後列にキャラがいないなら、手札からプレイできない。あなたは相手の後列のレベル0以下のキャラを1枚選び、手札に戻す。",
-  "Flavor": "こんな感じで\n",
+  "Flavor": "こんな感じで",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_021.gif"
 }

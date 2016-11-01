@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "霊",
   "Text": "【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
-  "Flavor": "それはともかく阿良々木さん。わたしはお腹がすいていますよ？\n",
+  "Flavor": "それはともかく阿良々木さん。わたしはお腹がすいていますよ？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_019.gif"
 }

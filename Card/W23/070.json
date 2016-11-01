@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "メイド",
   "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。\n【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "んーーーーっ！\n",
+  "Flavor": "んーーーーっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_070.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
-  "Flavor": "その不覚を衝かせてもらう\n",
+  "Flavor": "その不覚を衝かせてもらう",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_se13_19.gif"
 }

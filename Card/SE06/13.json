@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/br_se06_13.gif"
 }

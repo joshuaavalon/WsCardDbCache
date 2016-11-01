@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【起】［(1)］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "あら、シロ坊？彼女できたんか～？\n",
+  "Flavor": "あら、シロ坊？彼女できたんか～？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_t07.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "鍵",
   "SecondChara": "マヨネーズ",
   "Text": "【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

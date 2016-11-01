@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
-  "Flavor": "彼らがいるなら、私がいなくても、天草式は正しき道を進めるでしょう\n",
+  "Flavor": "彼らがいるなら、私がいなくても、天草式は正しき道を進めるでしょう",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_087.gif"
 }

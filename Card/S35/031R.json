@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【永】 あなたの《兵団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\n【永】 あなたのキャラすべてが《兵団》なら、このカードのパワーを＋1000。\n【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-  "Flavor": "「SECRET」\n",
+  "Flavor": "「SECRET」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

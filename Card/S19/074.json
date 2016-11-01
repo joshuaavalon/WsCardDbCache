@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "シャロ「どうしてかな……、\n体が……、勝手に動きます……」\n",
+  "Flavor": "シャロ「どうしてかな……、\n体が……、勝手に動きます……」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_074.gif"
 }

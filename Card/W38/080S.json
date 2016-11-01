@@ -13,7 +13,7 @@
   "FirstChara": "ガール",
   "SecondChara": "",
   "Text": "【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋1500。\n【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

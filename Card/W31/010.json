@@ -13,7 +13,7 @@
   "FirstChara": "死",
   "SecondChara": "生徒会",
   "Text": "【自】 このカードがアタックした時、あなたは自分の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラを1枚選び、そのターン中、ソウルを＋1。",
-  "Flavor": "どこ行くの？ テスト始まるわよ？\n",
+  "Flavor": "どこ行くの？ テスト始まるわよ？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ab_w31_010.gif"
 }

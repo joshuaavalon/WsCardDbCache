@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "倒しやすい敵がいるなら、遠慮なく叩くべきだ\n",
+  "Flavor": "倒しやすい敵がいるなら、遠慮なく叩くべきだ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_103.gif"
 }

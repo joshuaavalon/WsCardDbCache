@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、《本》のあなたのキャラがいないなら、手札からプレイできない。\nあなたは2枚引き、自分の手札を1枚選び、控え室に置く。",
-  "Flavor": "読んだ本の数だけ、世界が広がります\n",
+  "Flavor": "読んだ本の数だけ、世界が広がります",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_095.gif"
 }

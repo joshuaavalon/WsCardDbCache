@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "神",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「機械の乙女」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\n【起】［(3)］ あなたは相手の前列のキャラすべてに、そのターン中、パワーを-1500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

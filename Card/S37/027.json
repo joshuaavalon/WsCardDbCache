@@ -13,7 +13,7 @@
   "FirstChara": "ストライカー",
   "SecondChara": "新聞",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【永】 他のあなたの黄のキャラすべてに、パワーを＋500。』",
-  "Flavor": "どんどんいくのだー！\n",
+  "Flavor": "どんどんいくのだー！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_027.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "",
   "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「小毬」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "わふー、真っ暗ですー\n",
+  "Flavor": "わふー、真っ暗ですー",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w06_t09.gif"
 }

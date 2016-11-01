@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "スポーツ",
   "Text": "【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ll_w24_086.gif"
 }

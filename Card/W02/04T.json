@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_04t.gif"
 }

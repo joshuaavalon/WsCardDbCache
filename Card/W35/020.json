@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "お茶",
   "Text": "【永】 あなたのターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードがアタックした時、クライマックス置場に「ティロ・デュエット」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_020.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【起】［(1) このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。\n【起】［このカードをクロック置場に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "お待たせ\n",
+  "Flavor": "お待たせ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_003.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "忍",
   "Text": "【永】 他のあなたのカード名に「シロエ」を含むキャラがいるなら、このカードのパワーを＋1500。\n【自】 他のあなたの、《武器》か《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "……主君\n",
+  "Flavor": "……主君",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lh_se20_p01.gif"
 }

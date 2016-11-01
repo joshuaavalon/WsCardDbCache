@@ -13,7 +13,7 @@
   "FirstChara": "オロチ",
   "SecondChara": "神器",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分の前列のキャラすべてを、控え室に置く。2枚置いたなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

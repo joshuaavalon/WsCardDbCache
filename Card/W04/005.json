@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "竜",
   "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
-  "Flavor": "フリード……！ブラストレイッ！\n",
+  "Flavor": "フリード……！ブラストレイッ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_005.gif"
 }

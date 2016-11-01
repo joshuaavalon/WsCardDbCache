@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "ネコキャラ",
   "Text": "【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\n【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。",
-  "Flavor": "ちょーっと待つにゃーっ！\n",
+  "Flavor": "ちょーっと待つにゃーっ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_t22.gif"
 }

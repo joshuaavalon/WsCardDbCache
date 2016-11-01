@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "血",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードをストック置場に置く。（公開したカードは元に戻す）",
-  "Flavor": "よかったの。たまたま可愛くて\n",
+  "Flavor": "よかったの。たまたま可愛くて",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mg_s39_018.gif"
 }

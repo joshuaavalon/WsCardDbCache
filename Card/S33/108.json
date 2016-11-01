@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "スポーツ",
   "Text": "【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/MK_S33_108.gif"
 }

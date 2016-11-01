@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "魔法",
   "Text": "【永】 あなたのキャラすべてがカード名に「イリヤ」か「美遊」を含むなら、このカードのパワーを＋2000。",
-  "Flavor": "私の友達は生涯イリヤだけ。他の人なんてどうでもいいでしょう？\n",
+  "Flavor": "私の友達は生涯イリヤだけ。他の人なんてどうでもいいでしょう？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_se18_030.gif"
 }

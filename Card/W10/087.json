@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【永】 このカードの正面のキャラのソウルを-1。\n【自】 このカードとバトル中のレベル2以上のキャラが【リバース】した時、あなたは1枚引いてよい。",
-  "Flavor": "ねぇ、とうまー\n",
+  "Flavor": "ねぇ、とうまー",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_087.gif"
 }

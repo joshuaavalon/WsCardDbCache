@@ -13,7 +13,7 @@
   "FirstChara": "炎",
   "SecondChara": "本",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。",
-  "Flavor": "ふん、どうだかね\n",
+  "Flavor": "ふん、どうだかね",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ss_we15_07.gif"
 }

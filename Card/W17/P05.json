@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "お菓子",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "助けられないとしたら、放っとくか？\n",
+  "Flavor": "助けられないとしたら、放っとくか？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_p05.gif"
 }

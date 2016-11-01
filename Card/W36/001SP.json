@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "和服",
   "Text": "【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

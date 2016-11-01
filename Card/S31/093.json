@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "軽空母",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。",
-  "Flavor": "そうね、追撃しちゃいますか！\n",
+  "Flavor": "そうね、追撃しちゃいますか！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/KC-S31-093.gif"
 }

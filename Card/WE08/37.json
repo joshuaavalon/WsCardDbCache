@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分の山札の上から2枚を、ストック置場に置く。（そうでないなら元に戻す）",
-  "Flavor": "ななか「いっくよ～、えいっ！」\n",
+  "Flavor": "ななか「いっくよ～、えいっ！」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_37.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "軽空母",
   "Text": "【起】［手札の《艦娘》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。",
-  "Flavor": "艦載機のみんなぁー、お仕事お仕事ー！\n",
+  "Flavor": "艦載機のみんなぁー、お仕事お仕事ー！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_t06.gif"
 }

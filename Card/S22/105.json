@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。\n【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "ほら、この先が新しい舞台\n",
+  "Flavor": "ほら、この先が新しい舞台",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_105.gif"
 }

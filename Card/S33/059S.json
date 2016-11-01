@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "カメラ",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《探偵》のキャラの枚数×500に等しい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -1,8 +1,8 @@
 {
   "Name": "活発なネロ",
-  "Serial": "MK/S11-T01",
+  "Serial": "MK/S11-T01_",
   "Rarity": "TD",
-  "Expansion": "2011年度トライアルデッキ【S】",
+  "Expansion": "2010年度トライアルデッキ【S】",
   "Side": "S",
   "Color": "Red",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "お菓子",
   "Text": "【自】 ［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《探偵》のキャラを1枚選び、手札に戻す。\n【自】 絆／「けなげでひたむき シャロ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「けなげでひたむき シャロ」を1枚選び、手札に戻す）",
-  "Flavor": "やるじゃん、ちょっと感心したよ\n",
+  "Flavor": "おやつを食べてきたからバッチリだよ",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t01_2.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t01.gif"
 }

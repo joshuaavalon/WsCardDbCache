@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたのカード名に「リンディ」を含むキャラがいるなら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "デュランダル「Eternal coffin」\n",
+  "Flavor": "デュランダル「Eternal coffin」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_028.gif"
 }

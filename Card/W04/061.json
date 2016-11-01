@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "王族",
   "Text": "【永】 このカードの正面のキャラのソウルを-1。\n【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
-  "Flavor": "あんたなんか……ママじゃない\n",
+  "Flavor": "あんたなんか……ママじゃない",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_061.gif"
 }

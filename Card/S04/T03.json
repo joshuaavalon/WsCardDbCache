@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "武器",
   "Text": "【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "ワシの望みは、ただひとつ……。 騎士としての道を極めることだ\n",
+  "Flavor": "ワシの望みは、ただひとつ……。 騎士としての道を極めることだ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_t03.gif"
 }

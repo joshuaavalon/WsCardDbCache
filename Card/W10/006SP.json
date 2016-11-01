@@ -13,7 +13,7 @@
   "FirstChara": "特徴なし",
   "SecondChara": "",
   "Text": "【永】 記憶 あなたの思い出が2枚以上なら、舞台のこのカードのレベルを-1し、パワーを＋1500。\n【自】［(1)］ このカードがアタックした時、クライマックス置場に「すべてを打ち消す力」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

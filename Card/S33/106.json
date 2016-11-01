@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "本",
   "Text": "【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/MK_S33_106.gif"
 }

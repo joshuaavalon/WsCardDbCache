@@ -13,7 +13,7 @@
   "FirstChara": "深海棲艦",
   "SecondChara": "補給艦",
   "Text": "【永】 あなたのキャラすべてが《深海棲艦》なら、このカードのパワーを＋1000。\n【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_se28_35.gif"
 }

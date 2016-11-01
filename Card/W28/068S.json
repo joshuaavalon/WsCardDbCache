@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "スポーツ",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【自】 あなたが『チェンジ』を使った時、あなたは他のキャラを2枚まで選び、そのターン中、レベルを＋1。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

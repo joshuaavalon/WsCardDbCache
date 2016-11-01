@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "スポーツ",
   "Text": "【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "私たちが失われた歌を取り戻す！\n",
+  "Flavor": "私たちが失われた歌を取り戻す！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_t14.gif"
 }

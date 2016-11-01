@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "虚無",
   "Text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置く。それらのカードのクライマックス1枚につき、あなたのキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。",
-  "Flavor": "ちょっと失敗したみたいね\n",
+  "Flavor": "ちょっと失敗したみたいね",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_t03.gif"
 }

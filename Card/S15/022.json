@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "では、生むみ生もめ生ままもと三回言ってください\n",
+  "Flavor": "では、生むみ生もめ生ままもと三回言ってください",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_022.gif"
 }

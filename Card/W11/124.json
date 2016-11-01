@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "死",
   "Text": "【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kw_w11_124.gif"
 }

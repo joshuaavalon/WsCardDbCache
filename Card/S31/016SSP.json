@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "駆逐艦",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「いい風ね…。撃ち方、始めて！」があるなら、そのターン中、このカードのパワーを＋3000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

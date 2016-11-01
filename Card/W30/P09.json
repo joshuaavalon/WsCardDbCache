@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【起】［(1)］  あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。",
-  "Flavor": "ほら行くぞ、一条楽！グズグズするな！\n",
+  "Flavor": "ほら行くぞ、一条楽！グズグズするな！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_p09.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "帽子",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\n【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-  "Flavor": "いぇーーーい！\n",
+  "Flavor": "いぇーーーい！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_t11.gif"
 }

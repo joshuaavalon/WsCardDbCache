@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "先生",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "……きれいな姿だね、本当に\n",
+  "Flavor": "……きれいな姿だね、本当に",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_64.gif"
 }

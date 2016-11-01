@@ -13,7 +13,7 @@
   "FirstChara": "巨人",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてが《巨人》なら、このカードのパワーを＋2000。\n【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_091.gif"
 }

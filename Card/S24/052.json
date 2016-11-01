@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "霊",
   "Text": "【自】［(1) 手札を1枚クロック置場に置く］ このカードがアタックした時、クライマックス置場に「かみましたっ！」があるなら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）",
-  "Flavor": "またお会いしましょう\n",
+  "Flavor": "またお会いしましょう",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_052.gif"
 }

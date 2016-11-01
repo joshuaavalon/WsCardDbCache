@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【起】［(1)］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "ご命令をいただければ御力になれますが……\n",
+  "Flavor": "ご命令をいただければ御力になれますが……",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_003.gif"
 }

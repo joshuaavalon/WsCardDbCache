@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "駆逐艦",
   "Text": "【自】［(1)］ あなたのクライマックス置場に「さぁ、素敵なパーティしましょ！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

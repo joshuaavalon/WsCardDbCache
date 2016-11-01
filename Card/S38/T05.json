@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "魔法",
   "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
-  "Flavor": "魔法薬の材料になりそうなもの…落ちてないかしら？\n",
+  "Flavor": "魔法薬の材料になりそうなもの…落ちてないかしら？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_t05.gif"
 }

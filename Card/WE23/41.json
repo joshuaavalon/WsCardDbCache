@@ -13,7 +13,7 @@
   "FirstChara": "巫女",
   "SecondChara": "音楽",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［(2 このカードを【レスト】する］ あなたは自分の山札を見て《動物》か《勇者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we23_41.gif"
 }

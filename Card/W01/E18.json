@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
-  "Flavor": "環「ええ、とっても。気持ち良いですよ」\n",
+  "Flavor": "環「ええ、とっても。気持ち良いですよ」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w01_e18.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分のストックを見てキャラを1枚まで選んで相手に見せ、手札に戻す。そのストックをシャッフルする。",
-  "Flavor": "＞ヌシ様が釣れた！\n",
+  "Flavor": "＞ヌシ様が釣れた！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p4_s08_047.gif"
 }

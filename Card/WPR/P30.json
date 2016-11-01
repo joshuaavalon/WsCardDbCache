@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "Na-Gaさんがお茶買ってきてくれた！\n",
+  "Flavor": "Na-Gaさんがお茶買ってきてくれた！",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p30.gif"
 }

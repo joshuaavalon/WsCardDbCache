@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_p04.gif"
 }

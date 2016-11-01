@@ -13,7 +13,7 @@
   "FirstChara": "能力者",
   "SecondChara": "生徒会",
   "Text": "【永】 他のあなたの《能力者》のキャラすべてに、パワーを＋1000。\n【起】［(2) このカードを【レスト】する］ あなたは1枚引く。",
-  "Flavor": "よし、ビンゴ！\n",
+  "Flavor": "よし、ビンゴ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_087.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
-  "Flavor": "祈りも、贖罪も、ありはしないわ。死は全ての終わり\n",
+  "Flavor": "祈りも、贖罪も、ありはしないわ。死は全ての終わり",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_097.gif"
 }

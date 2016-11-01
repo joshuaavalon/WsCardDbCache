@@ -13,7 +13,7 @@
   "FirstChara": "宇宙人",
   "SecondChara": "SOS団",
   "Text": "【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《宇宙人》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "十分\n",
+  "Flavor": "十分",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_26.gif"
 }

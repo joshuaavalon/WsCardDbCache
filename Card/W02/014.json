@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "お菓子",
   "Text": "【自】 相手がレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。\n【起】［(3)］ あなたは自分のキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "りんちゃんと私、お友達だから\n",
+  "Flavor": "りんちゃんと私、お友達だから",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_014.gif"
 }

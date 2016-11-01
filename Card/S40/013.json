@@ -13,7 +13,7 @@
   "FirstChara": "宝石",
   "SecondChara": "",
   "Text": "【永】 他のあなたの《宝石》のキャラすべてに、パワーを＋1000。\n【自】 あなたの赤のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "あなたたちの出番はもうすぐよ！\n",
+  "Flavor": "あなたたちの出番はもうすぐよ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_013.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "コロニー",
   "SecondChara": "武器",
   "Text": "【起】［(6)］ あなたは相手の前列のレベル3以下のキャラすべてを、手札に戻す。",
-  "Flavor": "これで、最後だからね！\n",
+  "Flavor": "これで、最後だからね！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we03_003.gif"
 }

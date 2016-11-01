@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "先生",
   "Text": "【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手のキャラを1枚選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

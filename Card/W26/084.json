@@ -13,7 +13,7 @@
   "FirstChara": "超能力",
   "SecondChara": "カエル",
   "Text": "【自】このカードが手札から舞台に置かれた時、あなたは自分の控え室の《超能力》のキャラを1枚選び、手札に戻してよい。\n【自】他のあなたの《超能力》のキャラがアタックした時、そのターン中、このカードのパワーを+1000。",
-  "Flavor": "ねえ黒子……。ありがとね\n",
+  "Flavor": "ねえ黒子……。ありがとね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rg_w26_084.gif"
 }

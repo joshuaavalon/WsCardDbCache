@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。",
-  "Flavor": "アイン「アタックは私が。バックアップをお願い」\nツヴァイ「了解」\n",
+  "Flavor": "アイン「アタックは私が。バックアップをお願い」\nツヴァイ「了解」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_104.gif"
 }

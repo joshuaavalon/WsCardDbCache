@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "闇",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_t51.gif"
 }

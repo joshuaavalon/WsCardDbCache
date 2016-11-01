@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札の上から1枚を公開する。そのカードが《SOS団》のキャラなら、あなたは1枚引いてよい。（そうでないなら元に戻す）\nあなたの《SOS団》のキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "変ったことも無く、無事一日目を終了した\n",
+  "Flavor": "変ったことも無く、無事一日目を終了した",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_020.gif"
 }

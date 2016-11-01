@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。",
-  "Flavor": "もう…こっちをむいて…平気…\n",
+  "Flavor": "もう…こっちをむいて…平気…",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_047.gif"
 }

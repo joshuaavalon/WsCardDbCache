@@ -13,7 +13,7 @@
   "FirstChara": "暗黒街",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「仁義」があるなら、あなたは自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-  "Flavor": "おら、蛇野郎！　撃ってきやがれ！\n",
+  "Flavor": "おら、蛇野郎！　撃ってきやがれ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_030.gif"
 }

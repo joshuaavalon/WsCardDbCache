@@ -13,7 +13,7 @@
   "FirstChara": "警察",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたのカード名に「対怪盗事件捜査チーム」を含むキャラがいるなら、このカードのパワーを＋1500。",
-  "Flavor": "どうしたんですか？溜息なんかついて…\n",
+  "Flavor": "どうしたんですか？溜息なんかついて…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_037.gif"
 }

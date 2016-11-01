@@ -13,7 +13,7 @@
   "FirstChara": "科学",
   "SecondChara": "メカ",
   "Text": "【永】 このカードの正面のキャラのソウルを－1。\n【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、他のあなたのキャラすべてに、パワーを＋1000。",
-  "Flavor": "あき穂「うちとカイは、一心同体なんだから」\n",
+  "Flavor": "あき穂「うちとカイは、一心同体なんだから」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_105.gif"
 }

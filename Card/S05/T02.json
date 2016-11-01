@@ -13,7 +13,7 @@
   "FirstChara": "神器",
   "SecondChara": "日輪",
   "Text": "【永】 あなたのターン中、このカードのパワーを＋1000。\n【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-  "Flavor": "ハンデが必要かい？\n",
+  "Flavor": "ハンデが必要かい？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kf_s05_t02.gif"
 }

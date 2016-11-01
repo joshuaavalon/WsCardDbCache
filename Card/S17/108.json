@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "王族",
   "Text": "【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-  "Flavor": "貴様はまず聖杯の力で、\nあと30センチほど背丈を伸ばしてもらえ\n",
+  "Flavor": "貴様はまず聖杯の力で、\nあと30センチほど背丈を伸ばしてもらえ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fz_s17_108.gif"
 }

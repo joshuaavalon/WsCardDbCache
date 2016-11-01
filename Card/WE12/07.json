@@ -1,8 +1,8 @@
 {
   "Name": "“ジェノワーズ”ジョーヌ",
-  "Serial": "DD/WE12-07",
+  "Serial": "DD/WE12-07_",
   "Rarity": "C",
-  "Expansion": "DOG DAYS",
+  "Expansion": "【エクストラトライアル】DOG DAYS",
   "Side": "W",
   "Color": "Green",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "武器",
   "Text": "-",
-  "Flavor": "ガウ様直属、秘密諜報部隊！\n",
+  "Flavor": "ガウ様直属、秘密諜報部隊！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_07.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_07t.gif"
 }

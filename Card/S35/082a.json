@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "私はあなたを守る！\n",
+  "Flavor": "私はあなたを守る！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_082a.gif"
 }

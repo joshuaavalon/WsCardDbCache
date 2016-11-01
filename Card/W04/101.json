@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
-  "Flavor": "友達って、そういうもんだと思うよ\n",
+  "Flavor": "友達って、そういうもんだと思うよ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_101.gif"
 }

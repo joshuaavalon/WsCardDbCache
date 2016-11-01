@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "魔法",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-  "Flavor": "ありがとね、美遊\n",
+  "Flavor": "ありがとね、美遊",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_se18_p01.gif"
 }

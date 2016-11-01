@@ -13,7 +13,7 @@
   "FirstChara": "タロット",
   "SecondChara": "",
   "Text": "【起】［あなたの《タロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "るな「かわいい」\nせいら「おそろい……」\n",
+  "Flavor": "るな「かわいい」\nせいら「おそろい……」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_094.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "メカ",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「最後の模擬戦」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、パワーを＋1000。",
-  "Flavor": "リボルバーッ！シュ――――トっ！！\n",
+  "Flavor": "リボルバーッ！シュ――――トっ！！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ns_w04_027.gif"
 }

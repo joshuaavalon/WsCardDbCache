@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "魔法",
   "Text": "【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
-  "Flavor": "わたしの気持ちを歌で伝えたいの\n",
+  "Flavor": "わたしの気持ちを歌で伝えたいの",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_52.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "鍵",
   "SecondChara": "スポーツ",
   "Text": "【永】 このカードはサイドアタックできない。\n【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

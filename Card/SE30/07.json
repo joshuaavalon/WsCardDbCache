@@ -13,7 +13,7 @@
   "FirstChara": "水着",
   "SecondChara": "",
   "Text": "【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-  "Flavor": "どうしたの？翼くん？\n",
+  "Flavor": "どうしたの？翼くん？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kr_se30_07.gif"
 }

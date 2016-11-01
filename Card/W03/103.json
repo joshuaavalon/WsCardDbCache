@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "虚無",
   "Text": "【永】応援 このカードの前のあなたの「【自】アンコール[手札のキャラを1枚控え室に置く]」を持つキャラすべてに、パワーを+1000。",
-  "Flavor": "ティファニア「ねえ、お友達になってくれる？」\n",
+  "Flavor": "ティファニア「ねえ、お友達になってくれる？」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_103.gif"
 }

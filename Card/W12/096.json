@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の山札を上から6枚まで見てカードを6枚まで選び、控え室に置く。残りのカードを山札に戻す。その山札をシャッフルする。",
-  "Flavor": "リンカーコア、捕獲……蒐集、開始……！\n",
+  "Flavor": "リンカーコア、捕獲……蒐集、開始……！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_096.gif"
 }

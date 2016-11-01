@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "航空戦艦",
   "Text": "【永】 経験 あなたのレベル置場に「扶桑型航空戦艦1番艦 扶桑改二」があるなら、このカードのパワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時か「扶桑型航空戦艦1番艦 扶桑改二」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "悪魔",
   "SecondChara": "死",
   "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。\n【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。",
-  "Flavor": "死神として、お前の魂……刈り取らせてもらうぞ？\n",
+  "Flavor": "死神として、お前の魂……刈り取らせてもらうぞ？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_se08_03.gif"
 }

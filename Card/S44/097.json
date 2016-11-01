@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×1000に等しい。",
-  "Flavor": "漆原「のりちゃんはキズナの会のアイドルなの」\n",
+  "Flavor": "漆原「のりちゃんはキズナの会のアイドルなの」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_097.gif"
 }

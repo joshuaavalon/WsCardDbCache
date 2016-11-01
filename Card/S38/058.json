@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "ツノ",
   "Text": "【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。\n【永】 他のあなたの前列の「おに子」1枚につき、このカードのパワーを＋2000。",
-  "Flavor": "オッニオーン♪\n",
+  "Flavor": "オッニオーン♪",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_058.gif"
 }

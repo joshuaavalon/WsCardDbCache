@@ -13,7 +13,7 @@
   "FirstChara": "王族",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-  "Flavor": "余は王なのだ！世界を護る義務がある！\n",
+  "Flavor": "余は王なのだ！世界を護る義務がある！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/se_s04_037.gif"
 }

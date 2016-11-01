@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の赤のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。",
-  "Flavor": "天河「千鳥、落ち着け！　自分の傷広げなくていいから！」\n",
+  "Flavor": "天河「千鳥、落ち着け！　自分の傷広げなくていいから！」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ki_s44_075.gif"
 }

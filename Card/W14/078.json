@@ -13,7 +13,7 @@
   "FirstChara": "炎",
   "SecondChara": "巫女",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「この世での徒の誕生」があるなら、他のあなたのキャラすべてに、次の相手のターンの終わりまで、『【自】 アンコール ［(1)］』を与える。",
-  "Flavor": "…解かれよ…\n",
+  "Flavor": "…解かれよ…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ss_w14_078.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_055.gif"
 }

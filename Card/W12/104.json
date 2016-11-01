@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「スタンバイ・レディ」があるなら、あなたは1枚引く",
-  "Flavor": "ドライブ・イグニッション！\n",
+  "Flavor": "ドライブ・イグニッション！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/na_w12_104.gif"
 }

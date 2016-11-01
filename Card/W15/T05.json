@@ -13,7 +13,7 @@
   "FirstChara": "執事",
   "SecondChara": "メガネ",
   "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
-  "Flavor": "まあ、瑣末なことですね\n",
+  "Flavor": "まあ、瑣末なことですね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_t05.gif"
 }

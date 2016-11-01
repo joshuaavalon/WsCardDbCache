@@ -13,7 +13,7 @@
   "FirstChara": "コロニー",
   "SecondChara": "超能力",
   "Text": "【起】［(1) あなたの《コロニー》のキャラを2枚【レスト】する］ あなたは自分の控え室の、《コロニー》か《メカ》のキャラを1枚選び、手札に戻す。",
-  "Flavor": "…なして？\n",
+  "Flavor": "…なして？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sk_we05_16.gif"
 }

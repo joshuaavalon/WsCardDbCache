@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "委員長",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪異》のキャラの枚数×500に等しい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_085.gif"
 }

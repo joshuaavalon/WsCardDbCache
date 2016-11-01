@@ -1,8 +1,8 @@
 {
   "Name": "親衛隊長 エクレ",
-  "Serial": "DD/WE12-31",
+  "Serial": "DD/WE12-31_",
   "Rarity": "C",
-  "Expansion": "DOG DAYS",
+  "Expansion": "【エクストラトライアル】DOG DAYS",
   "Side": "W",
   "Color": "Red",
   "Level": 1,
@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "武器",
   "Text": "-",
-  "Flavor": "エクレール……騎士団の、親衛隊長だ\n",
+  "Flavor": "エクレール……騎士団の、親衛隊長だ",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_31.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_31t.gif"
 }

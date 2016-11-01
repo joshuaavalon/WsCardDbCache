@@ -13,7 +13,7 @@
   "FirstChara": "科学",
   "SecondChara": "メカ",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "ほらカイ、ハンガー行くよ！\n",
+  "Flavor": "ほらカイ、ハンガー行くよ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rn_w16_p02.gif"
 }

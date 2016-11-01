@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「セイバー」を含むキャラを1枚選び、クロック置場に置く。",
-  "Flavor": "――――黒い光が流出する。\n風を巻いて、セイバーの剣が灼熱する\n",
+  "Flavor": "――――黒い光が流出する。\n風を巻いて、セイバーの剣が灼熱する",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_052.gif"
 }

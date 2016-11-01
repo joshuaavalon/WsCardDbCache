@@ -13,7 +13,7 @@
   "FirstChara": "巨人",
   "SecondChara": "",
   "Text": "【自】［あなたの舞台のレベル0以下のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_p02.gif"
 }

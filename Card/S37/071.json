@@ -13,7 +13,7 @@
   "FirstChara": "ストライカー",
   "SecondChara": "癒し",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの赤のキャラの枚数×500に等しい。",
-  "Flavor": "おイタがすぎますよ\n",
+  "Flavor": "おイタがすぎますよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sgs_s37_071.gif"
 }

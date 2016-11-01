@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "引いて、セイバー……！\n",
+  "Flavor": "引いて、セイバー……！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_072.gif"
 }

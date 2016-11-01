@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "和服",
   "Text": "【自】 あなたのドローフェイズの始めに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

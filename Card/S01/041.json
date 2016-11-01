@@ -13,7 +13,7 @@
   "FirstChara": "先生",
   "SecondChara": "ネトゲ",
   "Text": "【永】 応援 このカードの前の『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つあなたのキャラすべてに、パワーを＋1000。",
-  "Flavor": "…先生、いま良いこと言ったから、期末にこのまま出すよ？\n",
+  "Flavor": "…先生、いま良いこと言ったから、期末にこのまま出すよ？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_041.gif"
 }

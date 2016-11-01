@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "俺たちは淘汰される者に葬送の歌を送り続ける\n",
+  "Flavor": "俺たちは淘汰される者に葬送の歌を送り続ける",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gc_s16_111.gif"
 }

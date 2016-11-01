@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "武器",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「あの頃は二人だった」があり、他のあなたのカード名に「翼」を含むキャラが4枚以上なら、あなたは1枚引いてよい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

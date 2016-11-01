@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
-  "Flavor": "ティロ・デュエット！\n",
+  "Flavor": "ティロ・デュエット！",
   "Trigger": "Fire",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_025.gif"
 }

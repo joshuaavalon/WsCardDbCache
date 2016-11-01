@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "集中 あなたは自分の山札の上から7枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそれらのカードの「みどりぷよ」の枚数に等しい。（ダメージキャンセルは発生する）",
-  "Flavor": "ヒカエオロウ\n",
+  "Flavor": "ヒカエオロウ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_059.gif"
 }

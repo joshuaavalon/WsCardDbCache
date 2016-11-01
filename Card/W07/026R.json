@@ -13,7 +13,7 @@
   "FirstChara": "暗黒街",
   "SecondChara": "",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたの舞台の「二番目の男ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムを継ぎし者”ツヴァイ」を1枚選び、舞台の好きな枠に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

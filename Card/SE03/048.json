@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "メイド",
   "Text": "【自】あなたがレベルアップした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを+1000。",
-  "Flavor": "ね、ライダー。 似合ってるかな？\n",
+  "Flavor": "ね、ライダー。 似合ってるかな？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_048.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "神",
   "Text": "【自】 このカードがプレイされて舞台に置かれた時、そのターン中、このカードのソウルを＋1。\n【自】 このカードがアタックした時、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p3_s01_01t.gif"
 }

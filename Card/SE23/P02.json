@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "……じゃあ、行くぜ\n",
+  "Flavor": "……じゃあ、行くぜ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23-p02.gif"
 }

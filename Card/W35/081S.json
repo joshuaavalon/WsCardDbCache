@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "愛",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【起】[(2) このカードを【レスト】する］ あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-  "Flavor": "ごあいさつだね\n",
+  "Flavor": "ごあいさつだね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

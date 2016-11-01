@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻す。その山札をシャッフルする。5枚戻したなら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "「……汗」「はいっ」\n",
+  "Flavor": "「……汗」「はいっ」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_069.gif"
 }

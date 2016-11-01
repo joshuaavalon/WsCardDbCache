@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「シンフォギア」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見てカード名に「響」を含むキャラを2枚まで選んで相手に見せ、手札に加える。その後、残りのカードを控え室に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "生徒会",
   "Text": "【永】 記憶 あなたの思い出が3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-  "Flavor": "ほら。シャツのボタン、掛け違えてるよ\n",
+  "Flavor": "ほら。シャツのボタン、掛け違えてるよ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w09_101.gif"
 }

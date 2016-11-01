@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見て《武器》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "運が良ければ手足を串刺す程度であろう―――！\n",
+  "Flavor": "運が良ければ手足を串刺す程度であろう―――！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_019.gif"
 }

@@ -1,19 +1,19 @@
 {
-  "Name": "“お人好し”黒桐 幹也",
-  "Serial": "KK/SPR-004",
+  "Name": "安城トコハ役 新田恵海",
+  "Serial": "WS/SPR-004",
   "Rarity": "PR",
   "Expansion": "PRカード【Sサイド】",
   "Side": "S",
-  "Color": "Blue",
+  "Color": "Red",
   "Level": 0,
   "Cost": 0,
-  "Power": 2000,
+  "Power": 3000,
   "Soul": 1,
   "Type": "Character",
-  "FirstChara": "メガネ",
-  "SecondChara": "探偵",
-  "Text": "【永】 他のあなたの《和服》のキャラすべてに、パワーを＋500。",
-  "Flavor": "おはよう、式\n",
+  "FirstChara": "カードゲーム",
+  "SecondChara": "ヴァンガード",
+  "Text": "【永】 他のあなたの《ネオネクタール》のヴァンガードがいるなら、このカードのパワーを＋5000。",
+  "Flavor": "今度は私と必ず勝負してもらうからね！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/kk_spr_004.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ws_spr_004.gif"
 }

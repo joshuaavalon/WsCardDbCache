@@ -13,7 +13,7 @@
   "FirstChara": "新聞",
   "SecondChara": "ウェイトレス",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "元気と明るさが私のとりえですっ！\n",
+  "Flavor": "元気と明るさが私のとりえですっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w18_t14.gif"
 }

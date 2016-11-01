@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "オカルト",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル0以下のキャラを1枚選び、控え室に置く。",
-  "Flavor": "構わないじゃないの、誰もいなかったのだから\n",
+  "Flavor": "構わないじゃないの、誰もいなかったのだから",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_064.gif"
 }

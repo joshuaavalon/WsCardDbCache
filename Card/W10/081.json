@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "タバコ",
   "Text": "【永】 記憶 あなたの思い出が3枚以上なら、他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
-  "Flavor": "まったく世話が焼ける\n",
+  "Flavor": "まったく世話が焼ける",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/id_w10_081.gif"
 }

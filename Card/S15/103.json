@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "文房具",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《怪異》のキャラを1枚選び、手札に戻してよい。\n【起】[あなたの《怪異》のキャラを2枚【レスト】する] そのターン中、このカードのパワーを＋2500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_103.gif"
 }

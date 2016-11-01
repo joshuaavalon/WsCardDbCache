@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【自】 あなたがレベルアップした時、このカードを控え室に置く。",
-  "Flavor": "必ず自分が幸運だったと思い知らせてやる\n",
+  "Flavor": "必ず自分が幸運だったと思い知らせてやる",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_054.gif"
 }

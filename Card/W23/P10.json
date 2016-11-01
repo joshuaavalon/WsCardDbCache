@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ゲート】：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）",
-  "Flavor": "～特別なあなたと過ごす、とびっきりの毎日～\n",
+  "Flavor": "～特別なあなたと過ごす、とびっきりの毎日～",
   "Trigger": "Gate",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w23_p10.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 [(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "根拠もない！でもオレにはそれしかねえ！\n",
+  "Flavor": "根拠もない！でもオレにはそれしかねえ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_103.gif"
 }

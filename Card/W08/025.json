@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、今回の攻撃キャラが次に与えるダメージがキャンセルされた時、相手に１ダメージを与える。）",
-  "Flavor": "さて、僕も参加しなければ\n",
+  "Flavor": "さて、僕も参加しなければ",
   "Trigger": "Fire",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sy_w08_025.gif"
 }

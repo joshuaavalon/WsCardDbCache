@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "和服",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「鏡音八八花合戦」があるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが1以上なら、あなたは2枚引く。（クライマックスのレベルは0として扱う）",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pd_s22_076.gif"
 }

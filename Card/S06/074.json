@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "佐助「さいなら、あんたはここで死ぬ」\n",
+  "Flavor": "佐助「さいなら、あんたはここで死ぬ」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_074.gif"
 }

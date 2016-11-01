@@ -13,7 +13,7 @@
   "FirstChara": "能力者",
   "SecondChara": "生徒会",
   "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋2000。",
-  "Flavor": "いえ、その可能性がある者、前兆が見える者、そういう生徒のほうが多くいます\n",
+  "Flavor": "いえ、その可能性がある者、前兆が見える者、そういう生徒のほうが多くいます",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cha_w40_t17.gif"
 }

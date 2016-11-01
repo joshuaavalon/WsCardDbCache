@@ -12,8 +12,8 @@
   "Type": "Character",
   "FirstChara": "ビジュアルアーツ",
   "SecondChara": "仏像",
-  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-  "Flavor": "犬（ハルちゃん）をもふもふしたい\n",
+  "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。 ",
+  "Flavor": "犬（ハルちゃん）をもふもふしたい",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p16.gif"
 }

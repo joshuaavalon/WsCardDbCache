@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "さようならアンリマユ。\n貴方を祓うのは、特別に見逃してさしあげます\n",
+  "Flavor": "さようならアンリマユ。\n貴方を祓うのは、特別に見逃してさしあげます",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_044sp.gif"
 }

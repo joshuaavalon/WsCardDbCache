@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "オカルト",
   "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
-  "Flavor": "覇ッ！\n",
+  "Flavor": "覇ッ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/rw_w15_t07.gif"
 }

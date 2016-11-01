@@ -1,8 +1,8 @@
 {
   "Name": "ミルキィホームズ結成！",
-  "Serial": "MK/S11-104",
+  "Serial": "MK/S11-104_",
   "Rarity": "TD",
-  "Expansion": "2011年度トライアルデッキ【S】",
+  "Expansion": "2010年度トライアルデッキ【S】",
   "Side": "S",
   "Color": "Blue",
   "Level": 0,
@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "TwoSoul",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_104_2.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_104.gif"
 }

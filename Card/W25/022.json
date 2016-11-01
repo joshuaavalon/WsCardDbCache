@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードを思い出にする。\n【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「フェイト」を含むキャラに、パワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_022.gif"
 }

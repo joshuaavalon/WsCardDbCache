@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは相手のキャラを1枚まで選び、そのターン中、パワーを－4000。",
-  "Flavor": "…僕がなんとかしてみる\n",
+  "Flavor": "…僕がなんとかしてみる",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_043.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）",
-  "Flavor": "別に……単に言いたかったんだよ\n",
+  "Flavor": "別に……単に言いたかったんだよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/DC_WE20_06.gif"
 }

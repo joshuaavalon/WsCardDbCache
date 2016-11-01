@@ -1,8 +1,8 @@
 {
   "Name": "ケモノダマ",
-  "Serial": "DD/WE12-34",
+  "Serial": "DD/WE12-34_",
   "Rarity": "C",
-  "Expansion": "DOG DAYS",
+  "Expansion": "【エクストラトライアル】DOG DAYS",
   "Side": "W",
   "Color": "Red",
   "Level": 1,
@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたは自分の《動物》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
-  "Flavor": "にゃー！\n",
+  "Flavor": "にゃー！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_34.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_34t.gif"
 }

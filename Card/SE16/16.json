@@ -13,7 +13,7 @@
   "FirstChara": "サマナー",
   "SecondChara": "竜",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サマナー》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
-  "Flavor": "生き残る……必ず\n",
+  "Flavor": "生き残る……必ず",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ds2_se16_16.gif"
 }

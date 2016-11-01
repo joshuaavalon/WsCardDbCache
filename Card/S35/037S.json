@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの《兵団》のキャラすべてに、パワーを＋1000。\n【自】 あなたのクライマックス置場に「真相」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《兵団》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
-  "Flavor": "「SECRET」\n",
+  "Flavor": "「SECRET」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

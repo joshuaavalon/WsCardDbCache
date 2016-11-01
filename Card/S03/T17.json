@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "『――――今からでも、自分を許してあげなさい』\n",
+  "Flavor": "『――――今からでも、自分を許してあげなさい』",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_t17.gif"
 }

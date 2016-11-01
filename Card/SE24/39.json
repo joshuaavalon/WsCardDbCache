@@ -13,7 +13,7 @@
   "FirstChara": "本",
   "SecondChara": "",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_39.gif"
 }

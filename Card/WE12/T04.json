@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "王族",
   "Text": "【自】このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\n【起】［(1)］ そのターン中、このカードのパワーを＋2000。",
-  "Flavor": "ガレット獅子団領国の王にして、百獣王の騎士！！\n",
+  "Flavor": "ガレット獅子団領国の王にして、百獣王の騎士！！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we12_t04.gif"
 }

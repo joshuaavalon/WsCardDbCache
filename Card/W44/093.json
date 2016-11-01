@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "コーヒー",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「ラビットハウスへようこそ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの《ラビットハウス》のキャラの枚数×500に等しい。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gu_w44_093.gif"
 }

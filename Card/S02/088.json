@@ -13,7 +13,7 @@
   "FirstChara": "悪魔",
   "SecondChara": "武器",
   "Text": "【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\n【起】［あなたは1枚引く］ あなたのメインフェイズを終了しエンドフェイズに進む。",
-  "Flavor": "……ところで『ターン終了』したら、どうなるんじゃ？\n",
+  "Flavor": "……ところで『ターン終了』したら、どうなるんじゃ？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_088.gif"
 }

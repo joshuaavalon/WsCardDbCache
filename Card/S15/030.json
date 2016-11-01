@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "",
   "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「重さの無い少女」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、レベルを＋1し、パワーを＋2000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/bm_s15_030.gif"
 }

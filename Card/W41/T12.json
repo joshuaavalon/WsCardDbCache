@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\n【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w41_t12.gif"
 }

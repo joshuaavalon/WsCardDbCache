@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【永】 相手のターン中、他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-  "Flavor": "第一目標成功\n",
+  "Flavor": "第一目標成功",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

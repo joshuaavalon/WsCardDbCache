@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "駆逐艦",
   "Text": "【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500。\n【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

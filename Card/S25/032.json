@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【ショット】：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）",
-  "Flavor": "戦艦大和。連合艦隊、出撃です。\n",
+  "Flavor": "戦艦大和。連合艦隊、出撃です。",
   "Trigger": "Fire",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_032.gif"
 }

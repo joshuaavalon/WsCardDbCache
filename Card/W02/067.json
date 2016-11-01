@@ -13,7 +13,7 @@
   "FirstChara": "本",
   "SecondChara": "日傘",
   "Text": "【起】［(2)］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置く。",
-  "Flavor": "翼のあるものを縛り付けることなんて、できませんよ\n",
+  "Flavor": "翼のあるものを縛り付けることなんて、できませんよ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_067.gif"
 }

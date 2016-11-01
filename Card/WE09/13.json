@@ -13,7 +13,7 @@
   "FirstChara": "団長",
   "SecondChara": "SOS団",
   "Text": "【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。\n【起】［このカードを【レスト】する］ あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "ハイ！　じゃあ本番いってみよーう！\n",
+  "Flavor": "ハイ！　じゃあ本番いってみよーう！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sy_we09_13.gif"
 }

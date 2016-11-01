@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "魔法",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
-  "Flavor": "いっくよー だいれんさ！\n",
+  "Flavor": "いっくよー だいれんさ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_p01.gif"
 }

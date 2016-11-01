@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【カムバック】：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）",
-  "Flavor": "きっとつながるRelation\n空に描き出す\n",
+  "Flavor": "きっとつながるRelation\n空に描き出す",
   "Trigger": "Door",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_44.gif"
 }

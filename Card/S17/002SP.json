@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "王族",
   "Text": "【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを－1。\n【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、ソウルを＋1。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

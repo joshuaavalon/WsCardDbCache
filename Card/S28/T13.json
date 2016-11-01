@@ -13,7 +13,7 @@
   "FirstChara": "家族",
   "SecondChara": "幼稚園",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《家族》か《幼稚園》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-  "Flavor": "ブ、ラジャー！！\n",
+  "Flavor": "ブ、ラジャー！！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_t13.gif"
 }

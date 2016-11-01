@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "",
   "Text": "【自】 他のあなたの、《スポーツ》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_041.gif"
 }

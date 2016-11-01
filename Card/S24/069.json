@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "思い出はいつも、この胸の中に置いてある\n",
+  "Flavor": "思い出はいつも、この胸の中に置いてある",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nm_s24_069.gif"
 }

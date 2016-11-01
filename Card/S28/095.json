@@ -13,7 +13,7 @@
   "FirstChara": "和服",
   "SecondChara": "",
   "Text": "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。",
-  "Flavor": "ねねと申します\n",
+  "Flavor": "ねねと申します",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/cs_s28_095.gif"
 }

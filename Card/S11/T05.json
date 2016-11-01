@@ -1,8 +1,8 @@
 {
   "Name": "Ｇ４のリーダー 小衣",
-  "Serial": "MK/S11-T05",
+  "Serial": "MK/S11-T05_",
   "Rarity": "TD",
-  "Expansion": "2011年度トライアルデッキ【S】",
+  "Expansion": "2010年度トライアルデッキ【S】",
   "Side": "S",
   "Color": "Red",
   "Level": 1,
@@ -13,7 +13,7 @@
   "FirstChara": "警察",
   "SecondChara": "傘",
   "Text": "-",
-  "Flavor": "ほら、雨あがったわよ！\n",
+  "Flavor": "ほら、雨あがったわよ！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t05_2.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_t05.gif"
 }

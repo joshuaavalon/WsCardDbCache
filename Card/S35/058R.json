@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの《兵団》のキャラ1枚につき、このカードのパワーを＋500。\n【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「少女が見た世界」があるなら、相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
-  "Flavor": "「SECRET」\n",
+  "Flavor": "「SECRET」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "ビジュアルアーツ",
   "SecondChara": "へたれ",
   "Text": "【起】［このカードを【レスト】する］ あなたはキャラを2枚まで選び、そのターン中、《ビジュアルアーツ》を与える。\n【起】［このカードを控え室に置く］ あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "なんでも運びます\n",
+  "Flavor": "なんでも運びます",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p21.gif"
 }

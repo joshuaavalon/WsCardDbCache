@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "王族",
   "Text": "【起】［(4)］ あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
-  "Flavor": "その代償が我が命であろうとも、だ\n",
+  "Flavor": "その代償が我が命であろうとも、だ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_016.gif"
 }

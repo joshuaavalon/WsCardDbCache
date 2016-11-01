@@ -13,7 +13,7 @@
   "FirstChara": "宝石",
   "SecondChara": "令嬢",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《宝石》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）",
-  "Flavor": "惑わされないで!!\n",
+  "Flavor": "惑わされないで!!",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pi_s40_033.gif"
 }

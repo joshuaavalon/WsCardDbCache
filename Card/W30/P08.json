@@ -13,7 +13,7 @@
   "FirstChara": "お菓子",
   "SecondChara": "鍵",
   "Text": "【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-  "Flavor": "それは秘密、教えられません\n",
+  "Flavor": "それは秘密、教えられません",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_p08.gif"
 }

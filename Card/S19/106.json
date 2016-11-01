@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "警察",
   "Text": "-",
-  "Flavor": "それでは、早速捜査開始です！\n",
+  "Flavor": "それでは、早速捜査開始です！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk2_s19_106.gif"
 }

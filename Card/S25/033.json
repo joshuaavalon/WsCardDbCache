@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\n（【リターン】：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）",
-  "Flavor": "翔鶴「いい？瑞鶴、行くわよ！機動部隊、出撃！」\n",
+  "Flavor": "翔鶴「いい？瑞鶴、行くわよ！機動部隊、出撃！」",
   "Trigger": "Wind",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s25_033.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【永】 このカードは、あなたの《兵団》のキャラが1枚以下なら、手札からプレイできない。",
-  "Flavor": "命令だ。何とかしろ\n",
+  "Flavor": "命令だ。何とかしろ",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_106.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたのキャラすべてに、パワーを＋500。\n【起】[(2) このカードを【レスト】する］ あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-  "Flavor": "間に合ったよお兄ちゃん！\n",
+  "Flavor": "間に合ったよお兄ちゃん！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se26_15.gif"
 }

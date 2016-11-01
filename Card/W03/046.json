@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の山札を上から4枚まで見て、山札の上に好きな順番で置く。",
-  "Flavor": "あれ？　は、はずれね～！\n",
+  "Flavor": "あれ？　は、はずれね～！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/zm_w03_046.gif"
 }

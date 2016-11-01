@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードがアタックした時、クライマックス置場に「ピナの蘇生」があるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、相手の控え室のカードを1枚まで選び、山札の上に置く。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

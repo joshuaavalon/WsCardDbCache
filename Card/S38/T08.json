@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "謎",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ぷよ》のキャラの枚数×500に等しい。",
-  "Flavor": "ぐぐっぐぐーぐ！\n",
+  "Flavor": "ぐぐっぐぐーぐ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_t08.gif"
 }

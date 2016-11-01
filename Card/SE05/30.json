@@ -13,7 +13,7 @@
   "FirstChara": "忍",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの《忍》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。",
-  "Flavor": "俺様を誰だと思ってんの。ま、ちょいと危なかったけど\n",
+  "Flavor": "俺様を誰だと思ってんの。ま、ちょいと危なかったけど",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_se05_30.gif"
 }

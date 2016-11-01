@@ -13,7 +13,7 @@
   "FirstChara": "武器",
   "SecondChara": "",
   "Text": "【永】 他のあなたのカード名に「信玄」を含むキャラがいるなら、このカードのパワーを＋1500。",
-  "Flavor": "燃えよ、我が槍、我が魂！\n",
+  "Flavor": "燃えよ、我が槍、我が魂！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sb_s06_104.gif"
 }

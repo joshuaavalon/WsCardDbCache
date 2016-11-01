@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-  "Flavor": "わっ、どうしてこの中にとうまがいるの？\n",
+  "Flavor": "わっ、どうしてこの中にとうまがいるの？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/id_w13_113.gif"
 }

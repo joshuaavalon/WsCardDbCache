@@ -13,7 +13,7 @@
   "FirstChara": "変身",
   "SecondChara": "お菓子",
   "Text": "【永】 このカードはサイドアタックできない。\n【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードのレベルを＋1し、パワーを＋1500。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/tl_w42_016.gif"
 }

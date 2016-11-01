@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "星",
   "Text": "【永】 あなたのクロック置場に「シンデレラプロジェクトのリーダー 美波」があるなら、あなたの手札のこのカードのレベルを－1。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_117.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。",
-  "Flavor": "戦えない人間なんかいない！\n",
+  "Flavor": "戦えない人間なんかいない！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_se23_29.gif"
 }

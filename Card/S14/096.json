@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。このカードを思い出にする。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/im_s14_096.gif"
 }

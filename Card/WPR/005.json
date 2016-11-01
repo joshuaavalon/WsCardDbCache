@@ -1,6 +1,6 @@
 {
-  "Name": "いつもの質問 葵",
-  "Serial": "DC3/WPR-005",
+  "Name": "しろくろフェス しよ子 2014",
+  "Serial": "SI/WPR-005",
   "Rarity": "PR",
   "Expansion": "PRカード【Wサイド】",
   "Side": "W",
@@ -10,10 +10,10 @@
   "Power": 5000,
   "Soul": 1,
   "Type": "Character",
-  "FirstChara": "新聞",
-  "SecondChara": "ウェイトレス",
-  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-  "Flavor": "それって凄いんですか？\n",
+  "FirstChara": "カードゲーム",
+  "SecondChara": "音楽",
+  "Text": "【永】 相手のターン中、このカードのパワーを＋1000。",
+  "Flavor": "今年も24時間カードゲームしよ！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_wpr_005.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/si_wpr_005.gif"
 }

@@ -1,19 +1,19 @@
 {
-  "Name": "ピンクのフリフリ水着 姫乃",
-  "Serial": "DC3/WPR-P13",
+  "Name": "“七つの傷を持つ男”魁",
+  "Serial": "VA/WPR-P13",
   "Rarity": "PR",
   "Expansion": "PRカード【Wサイド】",
   "Side": "W",
   "Color": "Red",
-  "Level": 1,
+  "Level": 0,
   "Cost": 0,
-  "Power": 5000,
+  "Power": 2500,
   "Soul": 1,
   "Type": "Character",
-  "FirstChara": "新聞",
-  "SecondChara": "",
-  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-  "Flavor": "……\n",
+  "FirstChara": "ビジュアルアーツ",
+  "SecondChara": "不死",
+  "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く） ",
+  "Flavor": "人間、意外と丈夫なんだぜ！",
   "Trigger": "None",
-  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_wpr_p13.gif"
+  "Image": "http://ws-tcg.com/cardlist/cardimages/va_wpr_p13.gif"
 }

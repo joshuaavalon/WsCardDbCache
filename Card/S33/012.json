@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "",
   "Text": "【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋2000。",
-  "Flavor": "私たちフェザーズが許さない！\n",
+  "Flavor": "私たちフェザーズが許さない！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_012.gif"
 }

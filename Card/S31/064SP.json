@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "駆逐艦",
   "Text": "【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ぷっぷくぷぅ～！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、手札に戻す。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "勇者",
   "SecondChara": "本",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「ウィッチカノン 超魔王モード」があるなら、あなたは他の自分のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "でも本当…無事でよかった\n",
+  "Flavor": "でも本当…無事でよかった",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dd_we17_14.gif"
 }

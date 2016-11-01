@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "スポーツ",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックス置場に「桜、幸せ？」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

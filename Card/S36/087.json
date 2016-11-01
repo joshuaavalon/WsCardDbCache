@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "ホムンクルス",
   "Text": "【自】 バトル中のこのカードが【リバース】した時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。",
-  "Flavor": "でも、無事に辿り着けるかしら？\n",
+  "Flavor": "でも、無事に辿り着けるかしら？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_087.gif"
 }

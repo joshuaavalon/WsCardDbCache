@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "お菓子",
   "Text": "【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-  "Flavor": "僕と契約成立だね！\n",
+  "Flavor": "僕と契約成立だね！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_se11_46.gif"
 }

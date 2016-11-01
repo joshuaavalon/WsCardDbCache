@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、あなたの「ウェル博士」がいないなら、手札からプレイできない。\nあなたは自分の山札を見てコスト0以下の《ノイズ》のキャラを4枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。",
-  "Flavor": "いつもいつもッ！都合のいいところで！\n",
+  "Flavor": "いつもいつもッ！都合のいいところで！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w27_048.gif"
 }

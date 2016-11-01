@@ -13,7 +13,7 @@
   "FirstChara": "錬金術",
   "SecondChara": "人形",
   "Text": "【永】 他のあなたの《錬金術》のキャラすべてに、パワーを＋1000。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの《錬金術》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "剣は剣でも私の剣は剣殺し…\n",
+  "Flavor": "剣は剣でも私の剣は剣殺し…",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sg_w39_044.gif"
 }

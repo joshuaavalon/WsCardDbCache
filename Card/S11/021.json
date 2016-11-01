@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは相手の控え室のカードを6枚まで選び、山札に戻す。相手はその山札をシャッフルする。",
-  "Flavor": "どう？お菓子食べる？\n",
+  "Flavor": "どう？お菓子食べる？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_021.gif"
 }

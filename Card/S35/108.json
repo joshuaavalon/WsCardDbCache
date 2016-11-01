@@ -13,7 +13,7 @@
   "FirstChara": "兵団",
   "SecondChara": "武器",
   "Text": "【起】［手札のクライマックスを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
-  "Flavor": "あなたも『いいこと』をするの？\n",
+  "Flavor": "あなたも『いいこと』をするの？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aot_s35_108.gif"
 }

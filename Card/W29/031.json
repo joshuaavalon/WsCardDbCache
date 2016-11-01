@@ -13,7 +13,7 @@
   "FirstChara": "タロット",
   "SecondChara": "月",
   "Text": "【自】［(2)］ このカードがアタックした時、クライマックス置場に「アマリリスの花咲く光」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置き、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gt_w29_031.gif"
 }

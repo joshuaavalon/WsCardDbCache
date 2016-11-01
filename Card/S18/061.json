@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "なめやがって、ぶっつぶしてやる！\n",
+  "Flavor": "なめやがって、ぶっつぶしてやる！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_061.gif"
 }

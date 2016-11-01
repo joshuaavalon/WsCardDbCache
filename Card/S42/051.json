@@ -13,7 +13,7 @@
   "FirstChara": "艦娘",
   "SecondChara": "戦艦",
   "Text": "【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。\n【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）",
-  "Flavor": "戦艦Bismarck、抜錨！出撃するわ！\n",
+  "Flavor": "戦艦Bismarck、抜錨！出撃するわ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/kc_s42_051.gif"
 }

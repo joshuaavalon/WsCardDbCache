@@ -13,7 +13,7 @@
   "FirstChara": "服",
   "SecondChara": "武器",
   "Text": "【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500。",
-  "Flavor": "今度は私の番だね！\n",
+  "Flavor": "今度は私の番だね！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/klk_s27_t04.gif"
 }

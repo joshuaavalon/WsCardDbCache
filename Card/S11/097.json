@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の山札を見て《探偵》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "怪盗はどこからくるんでしょう…？\n",
+  "Flavor": "怪盗はどこからくるんでしょう…？",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_097.gif"
 }

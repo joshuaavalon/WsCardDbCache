@@ -13,7 +13,7 @@
   "FirstChara": "お菓子",
   "SecondChara": "鍵",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/nk_w30_t16.gif"
 }

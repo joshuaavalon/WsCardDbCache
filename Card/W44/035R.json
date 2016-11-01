@@ -13,7 +13,7 @@
   "FirstChara": "ラビットハウス",
   "SecondChara": "武器",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

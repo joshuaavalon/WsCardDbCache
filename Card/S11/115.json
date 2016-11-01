@@ -13,7 +13,7 @@
   "FirstChara": "探偵",
   "SecondChara": "お菓子",
   "Text": "【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）",
-  "Flavor": "まっ、僕たちが守ってみせるけどね\n",
+  "Flavor": "まっ、僕たちが守ってみせるけどね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s11_115.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "王族",
   "Text": "【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ あなたのクライマックス置場に「神威の車輪」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "カレー",
   "SecondChara": "武器",
   "Text": "【自】 経験 ［(4)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードがアタックした時、あなたはこのカードを【スタンド】してよい。』",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

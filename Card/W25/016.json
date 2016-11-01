@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベル0以下の《魔法》のキャラを1枚選び、舞台の好きな枠に置く。",
-  "Flavor": "LA「Schlangebei&#946;en! Angriff!」\n",
+  "Flavor": "LA「Schlangebei&#946;en! Angriff!」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_016.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "武器",
   "Text": "【永】このカードの下にマーカーがあるなら、このカードのパワーを+1000。\n【自】このカードが控え室から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
-  "Flavor": "ともだちに…なりたいんだ……\n",
+  "Flavor": "ともだちに…なりたいんだ……",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n1_we06_28.gif"
 }

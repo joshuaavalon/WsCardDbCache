@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "ドレス",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「ワールズエンド・ダンスホール」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

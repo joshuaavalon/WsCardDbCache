@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "カエル",
   "Text": "【自】 このカードがアタックした時、クライマックス置場に「自分REST@RT」があるなら、そのターン中、このカードのパワーを＋4000。\n【自】 このカードがアタックした時、クライマックス置場に「自分REST@RT」があるなら、次の相手のターンの終わりまで、このカードは『【自】 アンコール ［(1)］』を得る。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/im_s21_005.gif"
 }

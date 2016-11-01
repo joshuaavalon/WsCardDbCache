@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "オモチャ",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\n【自】 このカードが舞台から思い出置場に置かれた時、このカードをストック置場に置く。",
-  "Flavor": "こんなに楽しかったの、ほんと久しぶりだよ\n",
+  "Flavor": "こんなに楽しかったの、ほんと久しぶりだよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_we08_03.gif"
 }

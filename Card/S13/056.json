@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "",
   "Text": "【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「マクロス・アタック」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはそのキャラのコストに等しい。（ダメージキャンセルは発生する）",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_056.gif"
 }

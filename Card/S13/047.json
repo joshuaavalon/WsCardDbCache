@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
-  "Flavor": "あなたの歌で世界を変えるんです！\n",
+  "Flavor": "あなたの歌で世界を変えるんです！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mf_s13_047.gif"
 }

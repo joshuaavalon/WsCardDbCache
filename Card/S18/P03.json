@@ -13,7 +13,7 @@
   "FirstChara": "スポーツ",
   "SecondChara": "ネット",
   "Text": "【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）",
-  "Flavor": "ちょっと待って\n",
+  "Flavor": "ちょっと待って",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s18_p03.gif"
 }

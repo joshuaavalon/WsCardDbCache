@@ -13,7 +13,7 @@
   "FirstChara": "風南島",
   "SecondChara": "新聞",
   "Text": "【永】 舞台のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《風南島》か《新聞》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "よかろう。なんでも言え\n",
+  "Flavor": "よかろう。なんでも言え",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_072.gif"
 }

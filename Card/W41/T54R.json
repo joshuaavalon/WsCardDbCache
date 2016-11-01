@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "",
   "Text": "【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\n【永】 このカードの正面のキャラのソウルを－1。\n【自】 あなたのクライマックス置場に「最高の舞台」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "魔法",
   "Text": "【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "\n",
+  "Flavor": "",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/PI_SE24_25.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のクロック置場のレベル3以下のキャラを1枚選び、舞台の好きな枠に置く。次の相手のターンの終わりに、そのキャラをクロック置場に置く。",
-  "Flavor": "ありがと。そのリボン、ずっと着けていてくれて、嬉しかった\n",
+  "Flavor": "ありがと。そのリボン、ずっと着けていてくれて、嬉しかった",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_044.gif"
 }

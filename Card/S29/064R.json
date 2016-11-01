@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "ディーラー",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Ｂｌａｃｋｊａｃｋ」を1枚選び、手札に戻す。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

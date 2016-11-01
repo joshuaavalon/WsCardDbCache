@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "武器",
   "Text": "【永】 他のあなたの後列のカード名に「イリヤ」を含むキャラ1枚につき、このカードのパワーを＋1000。",
-  "Flavor": "－\n",
+  "Flavor": "－",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s36_081.gif"
 }

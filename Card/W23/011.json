@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "生徒会",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\n【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-  "Flavor": "おはよ。……弟くんは、相変わらず寝ぼすけさんだね\n",
+  "Flavor": "おはよ。……弟くんは、相変わらず寝ぼすけさんだね",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w23_011.gif"
 }

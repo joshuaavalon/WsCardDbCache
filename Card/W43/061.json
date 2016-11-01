@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "クローバー",
   "Text": "【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "カエルさんっ！\n",
+  "Flavor": "カエルさんっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/imc_w43_061.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "お茶",
   "Text": "【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-  "Flavor": "これはちょっと…マズイかしら…？\n",
+  "Flavor": "これはちょっと…マズイかしら…？",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n2_w25_026.gif"
 }

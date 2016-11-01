@@ -13,7 +13,7 @@
   "FirstChara": "警察",
   "SecondChara": "鍵",
   "Text": "【自】 このカードがアタックした時、あなたは自分の《鍵》のキャラを2枚まで選び、そのターン中、パワーを＋500。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/NK_W30_P12.gif"
 }

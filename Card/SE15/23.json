@@ -13,7 +13,7 @@
   "FirstChara": "不良",
   "SecondChara": "魔法",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-  "Flavor": "さあて…やってやんぜオラァ！！\n",
+  "Flavor": "さあて…やってやんぜオラァ！！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/p4_se15_23.gif"
 }

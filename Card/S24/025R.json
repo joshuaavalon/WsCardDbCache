@@ -13,7 +13,7 @@
   "FirstChara": "怪異",
   "SecondChara": "スポーツ",
   "Text": "【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。\n【自】［(2)］ このカードがアタックした時、クライマックス置場に「かれんビー」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋2000。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

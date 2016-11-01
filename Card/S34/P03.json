@@ -13,7 +13,7 @@
   "FirstChara": "マスター",
   "SecondChara": "サーヴァント",
   "Text": "【自】この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
-  "Flavor": "これ以上関わると、死ぬわよ\n",
+  "Flavor": "これ以上関わると、死ぬわよ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s34_p03.gif"
 }

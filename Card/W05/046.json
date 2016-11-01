@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《双子》のキャラの枚数×500に等しい。",
-  "Flavor": "こなた「前から思ってたんだけど」\n",
+  "Flavor": "こなた「前から思ってたんだけど」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ls_w05_046.gif"
 }

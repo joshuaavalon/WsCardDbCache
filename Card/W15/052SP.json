@@ -13,7 +13,7 @@
   "FirstChara": "お菓子",
   "SecondChara": "マスター",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\n【自】 あなたのクライマックスフェイズの始めに、あなたは自分のストックすべてを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

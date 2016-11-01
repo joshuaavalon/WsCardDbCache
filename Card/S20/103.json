@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "武器",
   "Text": "【起】［(1)］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-  "Flavor": "これからは、元テスターごときと一緒にしないでくれ\n",
+  "Flavor": "これからは、元テスターごときと一緒にしないでくれ",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/sao_s20_103.gif"
 }

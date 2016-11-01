@@ -1,6 +1,6 @@
 {
   "Name": "漢泣き シャロ",
-  "Serial": "MK/S33-P06",
+  "Serial": "MK_S33-P06",
   "Rarity": "PR",
   "Expansion": "PRカード【Sサイド】",
   "Side": "S",
@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mk_s33_p06.gif"
 }

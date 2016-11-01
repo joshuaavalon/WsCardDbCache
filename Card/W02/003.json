@@ -13,7 +13,7 @@
   "FirstChara": "動物",
   "SecondChara": "",
   "Text": "【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\n【自】 この能力は、1ターンにつき2回しか使えない。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-  "Flavor": "ふかーっ！\n",
+  "Flavor": "ふかーっ！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_003.gif"
 }

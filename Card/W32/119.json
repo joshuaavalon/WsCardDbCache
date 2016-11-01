@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "クローン",
   "Text": "【永】 あなたの手札が5枚以下なら、このカードのパワーを＋1500。",
-  "Flavor": "母さんの願いを、かなえてあげたいの\n",
+  "Flavor": "母さんの願いを、かなえてあげたいの",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/n1_w32_119.gif"
 }

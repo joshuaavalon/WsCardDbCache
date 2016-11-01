@@ -13,7 +13,7 @@
   "FirstChara": "勇者",
   "SecondChara": "科学",
   "Text": "【永】アラーム このカードがクロックの1番上にあるなら、あなたの、《勇者》かカード名に「主人公」を含むキャラすべてに、パワーを＋1000。",
-  "Flavor": "ラハール「だから、そのムチムチした体をオレさまに近づけるな！！」\n",
+  "Flavor": "ラハール「だから、そのムチムチした体をオレさまに近づけるな！！」",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dg_s02_067.gif"
 }

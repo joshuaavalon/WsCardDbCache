@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "王族",
   "Text": "【永】 あなたの手札が3枚以下なら、このカードのパワーを＋1500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "ぷよ",
   "SecondChara": "虫",
   "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに「あかぷよ」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
-  "Flavor": "あつまれー ムシー\n",
+  "Flavor": "あつまれー ムシー",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/py_s38_083.gif"
 }

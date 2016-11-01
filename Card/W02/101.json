@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "【永】 あなたのキャラすべてに、ソウルを＋2。",
-  "Flavor": "「そうしたら何もかもうまくいくんじゃないか？」\n",
+  "Flavor": "「そうしたら何もかもうまくいくんじゃないか？」",
   "Trigger": "TwoSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/lb_w02_101.gif"
 }

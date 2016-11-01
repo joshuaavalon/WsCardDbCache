@@ -13,7 +13,7 @@
   "FirstChara": "音楽",
   "SecondChara": "愛",
   "Text": "【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、そのターン中、このカードのパワーを+3000。",
-  "Flavor": "キャンセルですっ！\n",
+  "Flavor": "キャンセルですっ！",
   "Trigger": "OneSoul",
   "Image": "http://ws-tcg.com/cardlist/cardimages/ws_spr_p02.gif"
 }

@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "あなたは自分のキャラを1枚選び、山札の上に置く。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。",
-  "Flavor": "逃が――――\nすかってんだ、このヤロウ――――！\n",
+  "Flavor": "逃が――――\nすかってんだ、このヤロウ――――！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fs_s03_022.gif"
 }

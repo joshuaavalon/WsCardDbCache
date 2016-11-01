@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "軍隊",
   "Text": "【自】 このカードがアタックした時、あなたは他の自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-  "Flavor": "レド少尉、貴官の抵抗は無意味である\n",
+  "Flavor": "レド少尉、貴官の抵抗は無意味である",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/gg_s23_028.gif"
 }

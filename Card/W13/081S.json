@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "本",
   "Text": "【自】［(1)］ このカードがアタックした時、クライマックス置場に「大した事ない？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、このカードのパワーを＋1500。",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }

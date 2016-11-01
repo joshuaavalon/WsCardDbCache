@@ -13,7 +13,7 @@
   "FirstChara": "アバター",
   "SecondChara": "",
   "Text": "【自】 このカードのバトル相手が【リバース】した時、相手の前列のキャラが2枚以下なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
-  "Flavor": "説明している暇はない\n",
+  "Flavor": "説明している暇はない",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/aw_s43_063.gif"
 }

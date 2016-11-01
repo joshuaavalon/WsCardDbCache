@@ -13,7 +13,7 @@
   "FirstChara": "サーヴァント",
   "SecondChara": "メイド",
   "Text": "【自】 あなたがレベルアップした時、あなたのキャラすべてに、そのターン中、レベルを＋1。",
-  "Flavor": "シロウ！ あまりこちらを見ないでください！\n",
+  "Flavor": "シロウ！ あまりこちらを見ないでください！",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/fh_se03_046.gif"
 }

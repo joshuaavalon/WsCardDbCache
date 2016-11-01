@@ -13,7 +13,7 @@
   "FirstChara": "魔法",
   "SecondChara": "時間",
   "Text": "【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置く。残りのカードを控え室に置く。",
-  "Flavor": "今度こそ、決着をつけてやる\n",
+  "Flavor": "今度こそ、決着をつけてやる",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w17_101.gif"
 }

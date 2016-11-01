@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。\nあなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。",
-  "Flavor": "-\n",
+  "Flavor": "-",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/mm_w35_098.gif"
 }

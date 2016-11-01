@@ -13,7 +13,7 @@
   "FirstChara": "",
   "SecondChara": "",
   "Text": "相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたに1ダメージを与える。（ダメージキャンセルは発生する）",
-  "Flavor": "サイス「……久々の狙撃任務だ。まぁ、お前なら容易だろうが」\n",
+  "Flavor": "サイス「……久々の狙撃任務だ。まぁ、お前なら容易だろうが」",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/pt_w07_071.gif"
 }

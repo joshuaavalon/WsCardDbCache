@@ -13,7 +13,7 @@
   "FirstChara": "メカ",
   "SecondChara": "バナナ",
   "Text": "【永】 記憶 あなたの思い出置場に、「ワン・オブ・サウザンド」か「バナナパフェ」があるなら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたはこのカードのバトル相手を【リバース】してよい。』",
-  "Flavor": "SECRET\n",
+  "Flavor": "SECRET",
   "Trigger": "None",
   "Image": "http://ws-tcg.com/cardlist/cardimages/dc_w00_00.gif"
 }
