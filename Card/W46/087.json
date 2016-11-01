@@ -1,0 +1,19 @@
+{
+  "Name": "図書館の中で　四季",
+  "Serial": "DC3/W46-087",
+  "Rarity": "U",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Green",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "魔法",
+  "SecondChara": "人形",
+  "Text": "【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋2000。\n【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+  "Flavor": "魔法の本、というよりは魔法を扱った童話や伝説などの分類をする本ですよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w46_087.gif"
+}

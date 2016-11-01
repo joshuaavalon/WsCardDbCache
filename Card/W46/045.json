@@ -1,0 +1,19 @@
+{
+  "Name": "あたしのお兄ちゃん…",
+  "Serial": "DS/W46-045",
+  "Rarity": "U",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻し、その山札をシャッフルする。5枚戻したなら、相手にＸダメージを与え、あなたは自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋4000。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+  "Flavor": "－\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_045.gif"
+}

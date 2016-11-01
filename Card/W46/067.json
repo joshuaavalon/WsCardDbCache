@@ -1,0 +1,19 @@
+{
+  "Name": "はじめてのキス 天",
+  "Serial": "DS/W46-067",
+  "Rarity": "C",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 4000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "科学",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\n【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+  "Flavor": "キスって、息するの難しいですね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_067.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "水着のひまり",
+  "Serial": "DS/W46-008",
+  "Rarity": "C",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "帽子",
+  "Text": "【永】 他のあなたの《風南島》のキャラすべてに、パワーを＋500。\n【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「始まりと始まり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《風南島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "デート……だもんね\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_008.gif"
+}

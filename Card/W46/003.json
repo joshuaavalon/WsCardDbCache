@@ -1,0 +1,19 @@
+{
+  "Name": "白い帽子の少女 ひまり",
+  "Serial": "DS/W46-003",
+  "Rarity": "R",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 2,
+  "Cost": 1,
+  "Power": 7000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "帽子",
+  "Text": "【永】 経験 あなたのレベル置場に「無邪気な水しぶき ひまり」があるなら、あなたの手札のこのカードのレベルを－1。\n【自】 あなたのクライマックス置場に「風のいたずら」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《風南島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+  "Flavor": "あはっ。ここの景色、気に入ったみたいだね\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_003.gif"
+}

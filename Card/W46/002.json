@@ -1,0 +1,19 @@
+{
+  "Name": "ふたりの抱負 ひまり",
+  "Serial": "DS/W46-002",
+  "Rarity": "R",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "帽子",
+  "Text": "【自】 あなたがこのカードの『助太刀』を使った時、あなたの《風南島》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\n【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
+  "Flavor": "これから一緒に頑張って行きまーす！そして、尻に敷きまーす！\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_002.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "人間観察 すもも",
+  "Serial": "DC3/W46-101",
+  "Rarity": "R",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 0,
+  "Cost": 0,
+  "Power": 1500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "演劇",
+  "Text": "【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』\n【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、青のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+  "Flavor": "何をしているように見える？\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w46_101.gif"
+}

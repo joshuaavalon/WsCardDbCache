@@ -1,0 +1,19 @@
+{
+  "Name": "水族館デート 乃絵里",
+  "Serial": "DS/W46-036",
+  "Rarity": "U",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 2000,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "家族",
+  "Text": "【自】 記憶 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の《風南島》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\n【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）",
+  "Flavor": "はい、餌だよ\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_036.gif"
+}

@@ -1,0 +1,19 @@
+{
+  "Name": "求め合う心 ひまり",
+  "Serial": "DS/W46-006",
+  "Rarity": "U",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Yellow",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 3500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "帽子",
+  "Text": "【永】 あなたのターン中、他のあなたの《風南島》のキャラすべてに、パワーを＋1000。\n【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+  "Flavor": "……わたしも、だよ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_006.gif"
+}

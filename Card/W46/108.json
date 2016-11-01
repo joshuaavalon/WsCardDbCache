@@ -1,0 +1,19 @@
+{
+  "Name": "すももの絵本",
+  "Serial": "DC3/W46-108",
+  "Rarity": "U",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 1,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "このカードは、あなたのカード名に「すもも」を含むキャラがいないなら、手札からプレイできない。\nあなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\nあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "昔々――\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w46_108.gif"
+}

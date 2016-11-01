@@ -1,0 +1,19 @@
+{
+  "Name": "親友というもの 大和",
+  "Serial": "DS/W46-072",
+  "Rarity": "C",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 2,
+  "Cost": 2,
+  "Power": 9500,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "新聞",
+  "Text": "【永】 舞台のこのカードのレベルを－1。\n【自】 このカードが手札から舞台に置かれた時、他のあなたの、《風南島》か《新聞》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+  "Flavor": "よかろう。なんでも言え\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_072.gif"
+}

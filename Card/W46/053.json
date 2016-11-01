@@ -1,0 +1,19 @@
+{
+  "Name": "違和感の正体 依愛",
+  "Serial": "DS/W46-053",
+  "Rarity": "R",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "風南島",
+  "SecondChara": "中二病",
+  "Text": "【永】 あなたのキャラすべてが《風南島》なら、このカードのパワーを＋1000。\n【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
+  "Flavor": "わ、分かっておるっ。だが、外界で確かめるにはこうするしかないのだっ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_053.gif"
+}

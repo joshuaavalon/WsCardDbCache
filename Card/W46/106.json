@@ -1,0 +1,19 @@
+{
+  "Name": "守りたい笑顔 すもも",
+  "Serial": "DC3/W46-106",
+  "Rarity": "C",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 5500,
+  "Soul": 1,
+  "Type": "Character",
+  "FirstChara": "委員長",
+  "SecondChara": "演劇",
+  "Text": "【永】 舞台のこのカードのレベルを－1。\n【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
+  "Flavor": "そうね。うん、とっても幸せだわ\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w46_106.gif"
+}

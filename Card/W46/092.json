@@ -1,0 +1,19 @@
+{
+  "Name": "もっと素直に 美琴",
+  "Serial": "DC3/W46-092",
+  "Rarity": "R",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Red",
+  "Level": 3,
+  "Cost": 2,
+  "Power": 10000,
+  "Soul": 2,
+  "Type": "Character",
+  "FirstChara": "新聞",
+  "SecondChara": "愛",
+  "Text": "【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》か《愛》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）\n【自】 このカードがアタックした時、あなたは他の自分の、《新聞》か《愛》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+  "Flavor": "その反動っていうか、もっと素直になりたいなって思っちゃって……\n",
+  "Trigger": "OneSoul",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/dc3_w46_092.gif"
+}

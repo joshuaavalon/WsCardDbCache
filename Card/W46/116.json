@@ -1,0 +1,19 @@
+{
+  "Name": "小川で遊ぼう！",
+  "Serial": "DS/W46-116",
+  "Rarity": "PR",
+  "Expansion": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+  "Side": "W",
+  "Color": "Blue",
+  "Level": 1,
+  "Cost": 0,
+  "Power": 0,
+  "Soul": 0,
+  "Type": "Event",
+  "FirstChara": "",
+  "SecondChara": "",
+  "Text": "あなたは2枚まで引き、自分の手札を2枚選び、山札の上に置く。",
+  "Flavor": "依愛「魔界の炎を思い出すのだ」\n",
+  "Trigger": "None",
+  "Image": "http://ws-tcg.com/cardlist/cardimages/ds_w46_116.gif"
+}
